@@ -21,7 +21,7 @@ def is_valid_church(church):
             for schedule in community["schedule"]:
                 if any(day in schedule for day in ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]):
                     return True  # Valid schedule found
-    return False  # No valid schedule found
+    return True  # No valid schedule found
 
 def scrape_churches():
     """Main function to scrape churches and their mass schedules"""
@@ -60,7 +60,6 @@ def scrape_churches():
             print(f"🏛 ({idx+1}/{len(church_links)}) Accessing {name}")
             if name == "Paróquias":
                 continue  # Skip generic names
-
             # Access the church page
             time.sleep(1)  # Pause to avoid overloading the server
             church_response = requests.get(link, headers=headers)
@@ -158,7 +157,6 @@ def scrape_churches():
             # Check if we found any information
             if communities:
                 print(f"✅ Found {len(communities)} communities with schedules for {name}")
-                
                 # Add to the results list
                 results.append({
                     "name": name,

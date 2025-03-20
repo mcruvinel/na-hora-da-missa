@@ -1,7 +1,13 @@
 {
-  "collection_date": "2025-03-19 23:52:32",
-  "total_churches": 45,
+  "collection_date": "2025-03-20 00:18:02",
+  "total_churches": 50,
   "churches": [
+    {
+      "name": "Regimentos Paroquiais",
+      "link": "https://elodafe.com.br/regimentos-paroquiais/",
+      "address": null,
+      "communities": []
+    },
     {
       "name": "Paroquia Nossa Senhora Das Dores",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-dores/",
@@ -889,6 +895,20 @@
       ]
     },
     {
+      "name": "Paroquia Sao Judas Tadeu Uberlandia",
+      "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-uberlandia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz de São Judas Tadeu",
+          "schedule": [
+            "Toda segunda-feira, Missa Devocional à Nossa Senhora Desatadora dos Nós com queima de pedidos, às 19h.\n Toda quarta-feira, Novena Perpétua em honra de São Judas Tadeu, às 19h.\n Toda 3ª quinta-feira do mês – Adoração Eucarística das 19h30 às 21h30\n Todo dia 28, Dia Votivo a São Judas Tadeu – Missas às 07h / 16h (Missa dos Enfermos com Unção do Óleo Santo) e 19h."
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
       "name": "Paroquia Sao Vicente De Paulo",
       "link": "https://elodafe.com.br/paroquia-sao-vicente-de-paulo/",
       "address": null,
@@ -1045,6 +1065,20 @@
           "name": "3. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 8h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Joao Batista",
+      "link": "https://elodafe.com.br/paroquia-sao-joao-batista/",
+      "address": null,
+      "communities": [
+        {
+          "name": "General Schedule",
+          "schedule": [
+            "IGREJAS E HORÁRIO DE MISSAS"
           ],
           "address": null
         }
@@ -1470,6 +1504,34 @@
           "name": "7. Comunidade Santa Luzia",
           "schedule": [
             "Primeira e segunda quinta-feira do mês: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-tupaciguara/",
+      "address": null,
+      "communities": [
+        {
+          "name": "General Schedule",
+          "schedule": [
+            "IGREJAS E HORÁRIO DE MISSAS"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
+      "link": "https://elodafe.com.br/paroquia-sao-francisco-das-chagas-monte-alegre-de-minas/",
+      "address": null,
+      "communities": [
+        {
+          "name": "General Schedule",
+          "schedule": [
+            "IGREJAS E HORÁRIO DE MISSAS"
           ],
           "address": null
         }
