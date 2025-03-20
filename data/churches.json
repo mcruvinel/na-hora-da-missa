@@ -1,32 +1,7 @@
 {
-  "collection_date": "2025-03-19 23:27:25",
+  "collection_date": "2025-03-19 23:36:14",
   "total_churches": 44,
   "churches": [
-    {
-      "name": "Paróquias",
-      "link": "https://elodafe.com.br/paroquia/",
-      "address": null,
-      "communities": [
-        {
-          "name": "General Schedule",
-          "schedule": [
-            "Criada em 20 de junho de 1999 por Dom José Alberto Moura, CSS ADMINISTRAÇÃO ECLESIÁSTICA Pároco: Pe. Douglas da Costa Nunes Diácono Permanente: Diác. Anderson Dias Gonçalves ATENDIMENTO Praça São Francisco de Paula, s/n, Tubalina, 38412-048, Uberlândia  Segunda a...",
-            "Criada em 31 de maio de 2022 por Dom Paulo Francisco Machado ADMINISTRAÇÃO ECLESIÁSTICA Pároco: Pe. Alan Carlos Pereira Diácono Permanente: Diác. Damião Pereira Leite ATENDIMENTO Praça Bandeirante, 42, Jardim Ipanema, 38406-283, Uberlândia Terça a sexta-feira das...",
-            "Criada em 01/02/1998 por Dom José Alberto Moura, CSS ADMINISTRAÇÃO ECLESIÁSTICA Pároco: Pe. Geraldo Magela Gontijo Diácono Permanente: Diác. Milvane Muniz de Almeida  CONTATO Atendimento paroquial: segunda à sexta das 13h às 18h Rua Ângelo Cunha, 385 – Bairro...",
-            "ADMINISTRAÇÃO ECLESIÁSTICA Pároco: Pe. Rui Vieira Diácono Permanente: Diác. Juarez Ferreira Batista CONTATO Endereço: Rua São Francisco, 320, Bairro Maria Eugenia, Araguari/MG Telefone: (34) 3241-8188 Atendimento: Terça a Sexta-feira, das 13h às 17h IGREJAS E HORÁRIOS...",
-            "Criada em 07 de setembro de 2008 por Dom Paulo Francisco Machado  ADMINISTRAÇÃO ECLESIÁSTICA Administrador: Pe. Robson Barbosa de Oliveira CONTATO Praça São João Batista, Centro –  38460-000 – Cascalho Rico (34) 9 8895-8805 Quarta a sexta-feira das 14h às...",
-            "Criada em 04 de abril de 1854 ADMINISTRAÇÃO ECLESIÁSTICA Pároco: Pe. William Eurípedes Garcia CONTATO Praça da Matriz, 145 – Centro – 38525-000 – Estrela do Sul/MG Telefone: (34) 3843-1253 ATENDIMENTO 8h às 11h e 12h às 17h IGREJAS E HORÁRIO DE..."
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Regimentos Paroquiais",
-      "link": "https://elodafe.com.br/regimentos-paroquiais/",
-      "address": null,
-      "communities": []
-    },
     {
       "name": "Paroquia Nossa Senhora Das Dores",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-dores/",
