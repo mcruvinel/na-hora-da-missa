@@ -1,6 +1,6 @@
 {
-  "collection_date": "2025-03-19 23:36:14",
-  "total_churches": 44,
+  "collection_date": "2025-03-19 23:52:32",
+  "total_churches": 45,
   "churches": [
     {
       "name": "Paroquia Nossa Senhora Das Dores",
@@ -172,6 +172,24 @@
           "name": "Comunidade São Brás e Nossa Senhora da Visitação",
           "schedule": [
             "Domingo às 9h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Francisco",
+      "link": "https://elodafe.com.br/paroquia-sao-francisco/",
+      "address": null,
+      "communities": [
+        {
+          "name": "General Schedule",
+          "schedule": [
+            "Segunda a sexta-feira das 13h às 18h",
+            "HORÁRIOS DE MISSAS",
+            "Domingo: 8h30.",
+            "Domingo: 18h.",
+            "Sábado: 19h30."
           ],
           "address": null
         }
@@ -871,20 +889,6 @@
       ]
     },
     {
-      "name": "Paroquia Sao Judas Tadeu Uberlandia",
-      "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-uberlandia/",
-      "address": null,
-      "communities": [
-        {
-          "name": "1. Matriz de São Judas Tadeu",
-          "schedule": [
-            "Toda segunda-feira, Missa Devocional à Nossa Senhora Desatadora dos Nós com queima de pedidos, às 19h.\n Toda quarta-feira, Novena Perpétua em honra de São Judas Tadeu, às 19h.\n Toda 3ª quinta-feira do mês – Adoração Eucarística das 19h30 às 21h30\n Todo dia 28, Dia Votivo a São Judas Tadeu – Missas às 07h / 16h (Missa dos Enfermos com Unção do Óleo Santo) e 19h."
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
       "name": "Paroquia Sao Vicente De Paulo",
       "link": "https://elodafe.com.br/paroquia-sao-vicente-de-paulo/",
       "address": null,
@@ -1161,6 +1165,21 @@
           "name": "6. Comunidade Imaculada Conceição",
           "schedule": [
             "Terceiro sábado do mês: 20h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Do Rosario E Sao Benedito",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-rosario-e-sao-benedito/",
+      "address": null,
+      "communities": [
+        {
+          "name": "General Schedule",
+          "schedule": [
+            "Atendimento: Segunda das 13h às 17h. Terça à Sexta das 08h às 11h e das 13h às 17h.",
+            "IGREJAS E HORÁRIO DE MISSAS"
           ],
           "address": null
         }
