@@ -1,0 +1,1583 @@
+{
+  "collection_date": "2025-03-19 22:06:20",
+  "total_churches": 52,
+  "churches": [
+    {
+      "name": "Paroquia Nossa Senhora Das Dores",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-dores/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora das Dores",
+          "schedule": [
+            "Domingo: 08h, 09h30, 17h30 e 19h\n Terça à Quinta-feira: 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade São Vicente de Paulo e Santo Antônio",
+          "schedule": [
+            "Sexta-feira: 18h\nSábado: 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Bom Jesus",
+      "link": "https://elodafe.com.br/paroquia-bom-jesus/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Igreja Matriz Bom Jesus",
+          "schedule": [
+            "Quarta-feira: 19h\nDomingo: 08h e 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora de Lourdes",
+          "schedule": [
+            "Sábado: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santíssima Trindade",
+          "schedule": [
+            "Sexta-feira: 19h\nDomingo: 10h e às 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora De Fatima Uberlandia",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-de-fatima-uberlandia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora de Fátima",
+          "schedule": [
+            "Domingo: 07h, 10h, 18h30\n Segunda à sexta: 19h\n Sábado: 18h\n Primeira sexta-feira do mês: Adoração ao Santíssimo às 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Cristovao",
+      "link": "https://elodafe.com.br/paroquia-sao-cristovao/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Cristóvão",
+          "schedule": [
+            "Quarta-feira:12h00\nQuarta-feira: 19h00 – Novena em louvor a Nossa Senhora Desatadora dos Nós\nDomingo: 09h30 e 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora da Piedade",
+          "schedule": [
+            "Quinta-feira: 07h00\nDomingo: 08h00"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São João Bosco",
+          "schedule": [
+            "Sexta-feira: 07h00\nDomingo: 18h00"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Cristo Redentor",
+      "link": "https://elodafe.com.br/paroquia-cristo-redentor/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Cristo Redentor",
+          "schedule": [
+            "Quinta-feira: 19h\n Domingo: 7h30 e 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Santo Antônio",
+          "schedule": [
+            "Terça-feira: 19h\n Domingo: 9h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santa Rita De Cassia",
+      "link": "https://elodafe.com.br/paroquia-santa-rita-de-cassia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "CONTATO\nAvenida Jerusalém, 773, Bairro Jardim Canaã – Uberlândia/MG\nTelefone: (34) 3211-6438 / (34) 9 9863-0624 (WhatsApp)\nE-mail: [email protected]\nFacebook: Paróquia Santa Rita de Cássia Uberlândia",
+          "schedule": [
+            "ATENDIMENTO\nSegunda-feira a sexta-feira: 13h às 18h\nAtendimento do Pároco: terça a sexta-feira das 14h30 às 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "Matriz Santa Rita de Cássia",
+          "schedule": [
+            "Domingo: 07h30 e 19h30\nQuarta e Sexta: 19h30\nObs. Toda 1ª sexta-feira do mês Adoração ao Santíssimo Sacramento às 18h30\nTodo dia 22 de cada mês missa devocional a Santa Rita de cássia às 19h30\nToda última sexta-feira do mês missa da saúde às 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade Nossa Senhora das Graças da Medalha Milagrosa",
+          "schedule": [
+            "Terça-feira às 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade São Luzia",
+          "schedule": [
+            "Sábado às 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade Santa Teresa de Calcutá",
+          "schedule": [
+            "Terça-feira às 19:30h"
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade Nossa Senhora da Abadia",
+          "schedule": [
+            "Domingo às 08h\nTodo dia 15 de cada mês missa da saúde às 19h30. Caso o dia 15 seja domingo, às 08h. Caso seja sábado às 18h30."
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade Nossa Senhora Aparecida",
+          "schedule": [
+            "Domingos: 17h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade São Brás e Nossa Senhora da Visitação",
+          "schedule": [
+            "Domingo às 9h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Francisco",
+      "link": "https://elodafe.com.br/paroquia-sao-francisco/",
+      "address": null,
+      "communities": [
+        {
+          "name": "Paroquia Sao Francisco",
+          "schedule": [
+            "Segunda a sexta-feira das 13h às 18h",
+            "HORÁRIOS DE MISSAS",
+            "Domingo: 8h30.",
+            "Domingo: 18h.",
+            "Sábado: 19h30."
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santa Isabel De Portugal",
+      "link": "https://elodafe.com.br/paroquia-santa-isabel-de-portugal/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Santa Isabel de Portugal",
+          "schedule": [
+            "Domingo: 07h30 e 18h30\nTerça-feira: 19h\nQuinta-feira: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora do Carmo",
+          "schedule": [
+            "Domingo: 09h30\n Quarta-feira: 19h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Divino Espirito Santo",
+      "link": "https://elodafe.com.br/paroquia-divino-espirito-santo/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Divino Espírito Santo",
+          "schedule": [
+            "Quarta-feira: 19h30\nSábado: 19h30\nDomingo: 8h e 19h30\nToda 1ª Sexta-feira do mês: Adoração ao Santíssimo às 19h e Missa às 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade São Domingos de Gusmão",
+          "schedule": [
+            "Quinta-feira: 19h30\nDomingo: 9h30 e 18h\nToda 1ª Quinta-feira do mês: Adoração ao Santíssimo às 19h e Missa às 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Nossa Senhora do Rosário",
+          "schedule": [
+            "Sexta-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santa Edwiges",
+      "link": "https://elodafe.com.br/paroquia-santa-edwiges/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Santa Edwiges",
+          "schedule": [
+            "Domingo: 08h30, 10h e 18h\nQuarta-feira: 19h\nQuinta-feira: Adoração ao Santíssimo a partir das 07h, bênção com o Santíssimo às 18h30 e Missa às 19h",
+            "Todo dia 16, às 16h, Missa Devocional à Santa Edwiges e da Saúde."
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Sagrado Coração de Jesus",
+          "schedule": [
+            "Toda 1° Sexta-feira, às 07h, Missa em louvor ao Sagrado Coração de Jesus\n Domingo: 7h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Benedito",
+      "link": "https://elodafe.com.br/paroquia-sao-benedito/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Benedito",
+          "schedule": [
+            "Domingo: 07h30, 9h e 19h30\n Quarta-feira: 19h30\n Sábado: 19h30\n Primeira sexta-feira do mês: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Sant’Ana",
+          "schedule": [
+            "Domingo: 17h30\n Quinta-feira: 19h30\n Primeiro domingo do mês: 10h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Mosteiro Monte Alverne",
+          "schedule": [
+            "Segunda a domingo: 7h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Nossa Senhora Aparecida",
+          "schedule": [
+            "Ultimo domingo do mês: 11h"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Divino Pai Eterno",
+          "schedule": [
+            "Sábado: 17h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Gaspar Bertoni",
+      "link": "https://elodafe.com.br/paroquia-sao-gaspar-bertoni/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz",
+          "schedule": [
+            "Domingo: 7h e 19h30\n Quinta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade",
+          "schedule": [
+            "Sábado: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Nossa Senhora da Guia",
+          "schedule": [
+            "Domingo: 8h30\n Sexta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São Francisco de Assis",
+          "schedule": [
+            "Domingo: 18h\n Quarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Santa Rita de Cássia",
+          "schedule": [
+            "Terça-feira: 20h nas casas das famílias"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade São Lucas",
+          "schedule": [
+            "Toda segunda sexta-feira do mês: 19h30 nas casas das famílias"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Da Abadia Custodio Pereira",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-custodio-pereira/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Santuário Nossa Senhora da Abadia",
+          "schedule": [
+            "Domingo: 08h, 17h e 19h\n Terça, quinta e sexta: 19h30 \n Todo dia 15 do mês: 17h e 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Das Gracas",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-gracas/",
+      "address": null,
+      "communities": [
+        {
+          "name": "BATIZADOS\nTodo 1º e 3º Domingo do mês, às 10h30, na Igreja Matriz;\nNa comunidade São João Batista, horários a confirmar na secretaria da paróquia.",
+          "schedule": [
+            "1. Igreja Matriz\nPraça Bandeirante, 42, Jardim Ipanema\nDomingo: 8h e 19h30\nQuarta-feira: 20h\n1ª Sexta-feira do mês: Adoração ao Ssmo. Sacramento, às 18h; Bênção e Missa, às 20h\nTodo dia 27 do mês: Novena Mensal, às 15h e às 20h (exceto quando dia 27 for Sábado ou domingo)"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santa Monica",
+      "link": "https://elodafe.com.br/paroquia-santa-monica/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Santa Mônica",
+          "schedule": [
+            "Terça a Sexta-feira: 19h\n Sábado: 19h30\n Domingo: 7h, 9h e 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora do Perpétuo Socorro",
+          "schedule": [
+            "Sábado às 18h\n Domingo às 10h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santo Agostinho",
+          "schedule": [
+            "Quarta-feira às 19h\n Domingo às 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Sebastiao Uberlandia",
+      "link": "https://elodafe.com.br/paroquia-sao-sebastiao-uberlandia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Sebastião",
+          "schedule": [
+            "Domingo: 07h, 09h e 19h\n Terça a Sexta-feira: 07h\nTerça e Quinta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora Auxiliadora",
+          "schedule": [
+            "Domingo: 08h\nSábado: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Jerônimo",
+          "schedule": [
+            "Domingo: 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Joao Batista Uberlandia",
+      "link": "https://elodafe.com.br/paroquia-sao-joao-batista-uberlandia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São João Batista",
+          "schedule": [
+            "Domingo: 7h, 9h e 19h\nTerça e Quinta-feira: 19h30\nQuarta e Sexta-feira: 7h\nTodo dia 24: 19h30 (Caso coincida com domingo, a Missa permanece às 19h)"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Do Caminho",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-caminho/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora do Caminho",
+          "schedule": [
+            "Domingo: 8h e 19h\nQuarta-feira: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade São José",
+          "schedule": [
+            "Sábado: 19h\nTerça-feira: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Paulo Apóstolo",
+          "schedule": [
+            "Domingo: 09h30 e 17h30\nQuinta-feira: 19h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Cristo Rei",
+      "link": "https://elodafe.com.br/paroquia-cristo-rei/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Cristo Rei",
+          "schedule": [
+            "Domingo: 9h30 e 17h30\n Quarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Divino Pai Eterno",
+          "schedule": [
+            "Quinta-feira: 19h30\n Domingo: 7h30 e 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Nossa Senhora da Abadia – Tapuirama",
+          "schedule": [
+            "Sábado: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Santa Cruz – Capela da Saudade",
+          "schedule": [
+            "1º e 3º Sábado do mês às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Sagrada Família",
+          "schedule": [
+            "Quarta-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Mateus",
+      "link": "https://elodafe.com.br/paroquia-sao-mateus/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Mateus",
+          "schedule": [
+            "Domingo: 08h, 10h e 19h.\nQuarta-feira: 19h.\nSexta-feira: 19h.\nPrimeira sexta-feira do mês: Adoração ao Santíssimo Sacramento durante a tarde e Missa às 19h.\nSegunda sexta-feira do mês: Missa da saúde às 19h."
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santo Antônio",
+          "schedule": [
+            "Domingo: 8h30 (Celebração da Palavra) e 17h30\nSábado: 19h\nPrimeiro sábado de cada mês: Adoração ao Santíssimo Sacramento às 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Francisco De Assis E Santa Clara",
+      "link": "https://elodafe.com.br/paroquia-sao-francisco-de-assis-e-santa-clara/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Francisco de Assis e Santa Clara",
+          "schedule": [
+            "Domingo: 9h30 e 19h\n Quarta e  Sexta-feira: 18h\n Sábado: 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora da Paz",
+          "schedule": [
+            "Domingo: 08h\n Quinta-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santo Antonio",
+      "link": "https://elodafe.com.br/paroquia-santo-antonio/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Comunidade Matriz Santo Antônio",
+          "schedule": [
+            "Domingo: 9h30 e às 19h",
+            "Terça-feira: 19h30",
+            "Primeira Sexta-feira do mês: 19h30 (missa votiva)"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santa Bárbara e São João Batista",
+          "schedule": [
+            "Domingo: 7h30",
+            "Quarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São José",
+          "schedule": [
+            "Sábado: 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Imaculada Conceição",
+          "schedule": [
+            "Domingo: 07h30 e 19h",
+            "Quarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade São Frei Galvão",
+          "schedule": [
+            "Domingo: 9h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade São Francisco de Assis",
+          "schedule": [
+            "Sábado: 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "7. Comunidade Bethânia",
+          "schedule": [
+            "Segunda-feira: 18",
+            "Primeiro Domingo do mês: 11h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "8. Comunidade Nossa Senhora de Guadalupe",
+          "schedule": [
+            "Sábado: 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "9. Comunidade Nossa Senhora dos Navegantes",
+          "schedule": [
+            "Quinta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "10. Comunidade Santa Clara",
+          "schedule": [
+            "Sexta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "11. Comunidade São Miguel",
+          "schedule": [
+            "Sexta-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Geraldo",
+      "link": "https://elodafe.com.br/paroquia-sao-geraldo/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora Aparecida e São Geraldo Magela",
+          "schedule": [
+            "Domingo: 8h e 19h\nQuinta: 19h\nPrimeira quinta-feira do mês: 18h – Adoração ao Santíssimo"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Sagrado Coração de Jesus",
+          "schedule": [
+            "Sábado: 19h\nPrimeira sexta-feira do mês: 18h (Missa devocional ao Sagrado Coração de Jesus)"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Lucas",
+          "schedule": [
+            "Domingo: 10h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Santa Luzia",
+          "schedule": [
+            "Domingo: 17h30\nSábado: 17h30\nTodo dia 13 (de seg. a sex.): 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Capela Santos Reis",
+          "schedule": [
+            "Quarto Domingo do mês: 10h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Jose 2",
+      "link": "https://elodafe.com.br/paroquia-sao-jose-2/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Imaculada Conceição",
+          "schedule": [
+            "Domingo: 07h30 e 19h30\nTerça-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade São Frei Galvão",
+          "schedule": [
+            "Domingo: 09h\nQuarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Sebastião",
+          "schedule": [
+            "Domingo: 10h30\nQuinta-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Pedro",
+      "link": "https://elodafe.com.br/paroquia-sao-pedro/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Pedro",
+          "schedule": [
+            "Domingo: 8h, 10h e 18h\nTerça a Sábado: 7h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Da Abadia Patrimonio",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-patrimonio/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora da Abadia",
+          "schedule": [
+            "Domingo: 08h e 18h\nTerça, quinta e sexta-feira: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora do Bom Parto",
+          "schedule": [
+            "Sábado: 18h\nQuarta-feira: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Nova Canaã",
+          "schedule": [
+            "Domingo: 10h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora De Guadalupe",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-de-guadalupe/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora de Guadalupe",
+          "schedule": [
+            "Domingo: 9h30 e 19h30\nSegunda-feira: 19h30\nQuarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Imaculado Coração de Maria",
+          "schedule": [
+            "Domingo: 8h e 18h\n Sexta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "Comunidade Rainha da Paz",
+          "schedule": [
+            "Domingo: 9h\n Terça-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São Francisco",
+          "schedule": [
+            "Domingo: 7h30 e 18h\n Quinta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Santa Rosa de Lima",
+          "schedule": [
+            "Sábado: 19h30\nQuarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade Nossa Senhora de Fátima",
+          "schedule": [
+            "Sábado: 18h\nTerça-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Do Carmo",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-carmo/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora do Carmo (Salão)",
+          "schedule": [
+            "Domingo: 19h\nQuarta-feira: 19h30\n Primeira sexta-feira do mês: 15h – Missa com os Enfermos"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade São Jorge",
+          "schedule": [
+            "Todos os dias: 7h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Gabriel e Santa Ana",
+          "schedule": [
+            "Domingo: 8h30\nSexta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Santo Expedito",
+          "schedule": [
+            "Sábado: 18h\n Todo dia 19: às 19h30 (Novena perpétua de Santo Expedito)"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade São Francisco e Santa Clara",
+          "schedule": [
+            "Quinta-feira: 19h30\nSábado: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade Nossa Senhora da Glória",
+          "schedule": [
+            "Domingo: 17h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Jose",
+      "link": "https://elodafe.com.br/paroquia-sao-jose/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São José",
+          "schedule": [
+            "Domingo: Missas às 10h30 (com crianças) e às 18h\nQuarta-feira: Missa às 19h\nSexta-feira: Missa às 19h\nSábado: Missa às 19h30\nTodo dia 19: Missa votiva a São José às 19h",
+            "Terço dos Homens: segundas–feiras às 20h\nEscola de Oração: sábados às 17h\nGrupo de Oração Chamas da Esperança aos terceiros sábados do mês às 17h30\nBatizados: 4º Domingo de cada mês"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora das Graças",
+          "schedule": [
+            "Domingo: Missas às 09h e 19h30\nSábado: Missa às 18h\nTerça-feira: Missa às 19h30\nQuinta-feira: Missa às 19h30\nTodo dia 27: Missa votiva a Nossa Senhora das Graças às 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Judas Tadeu Uberlandia",
+      "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-uberlandia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz de São Judas Tadeu",
+          "schedule": [
+            "Toda segunda-feira, Missa Devocional à Nossa Senhora Desatadora dos Nós com queima de pedidos, às 19h.\n Toda quarta-feira, Novena Perpétua em honra de São Judas Tadeu, às 19h.\n Toda 3ª quinta-feira do mês – Adoração Eucarística das 19h30 às 21h30\n Todo dia 28, Dia Votivo a São Judas Tadeu – Missas às 07h / 16h (Missa dos Enfermos com Unção do Óleo Santo) e 19h."
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Vicente De Paulo",
+      "link": "https://elodafe.com.br/paroquia-sao-vicente-de-paulo/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Vicente de Paulo",
+          "schedule": [
+            "Domingo: 7h30 e 19h30\n Terça, Quinta: 19h30\n Toda 1ª sexta-feira de cada mês: 19h30\n Todo dia 27 de cada mês,  em louvor a São Vicente: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Divino Pai Eterno",
+          "schedule": [
+            "Domingo: 09h\nQuarta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Bento",
+          "schedule": [
+            "Sábado: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São José",
+          "schedule": [
+            "Domingo: 17h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Das Gracas Da Medalha Milagrosa",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-gracas-da-medalha-milagrosa/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora das Graças da Medalha Milagrosa",
+          "schedule": [
+            "Domingo: 8h e 19h30\n Terça e Sexta: 19h30\n Todo dia 27: 15h e 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Menino Jesus de Praga",
+          "schedule": [
+            "Quinta-feira: 19h30\n Sábado: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santa Rita de Cássia",
+          "schedule": [
+            "Sábado: 18h\n Todo dia 22: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São José Operário",
+          "schedule": [
+            "Domingo: 09h30\n Quarta-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santa Rosa De Lima",
+      "link": "https://elodafe.com.br/paroquia-santa-rosa-de-lima/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Santa Rosa de Lima",
+          "schedule": [
+            "Domingo: 07h30 e 19h30\nQuarta-feira: 19h30\nTodo dia 23: 16h Missa da saúde / 19h30 Missa devocional"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Imaculada Conceição",
+          "schedule": [
+            "Domingo: 9h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Sagrado Coração de Jesus",
+          "schedule": [
+            "Domingo: 18h\n1º Sexta-feira do mês: 18h30 terço e Missa devocional"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São Miguel Arcanjo",
+          "schedule": [
+            "Sábado: 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sagrada Familia",
+      "link": "https://elodafe.com.br/paroquia-sagrada-familia/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Sagrada Família",
+          "schedule": [
+            "1ª. Sexta-feira do mês\n18h30: adoração ao Santíssimo Sacramento\n19h30: Missa do Sagrado Coração de Jesus.\nÚltima quarta-feira do mês: Missa da Saúde às 19h30\nTodo dia 30 de cada mês: Missa da Família às 19h30",
+            "1ª. Sexta-feira do mês"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santo Expedito",
+          "schedule": [
+            "Terça-feira: 19h30 – Novena Perpetua de Santo Expedito\nDomingo: 17h30\nTodo dia 19 de cada mês\n19h30: Missa da Saúde e votiva a Santo Expedito"
+          ],
+          "address": null
+        },
+        {
+          "name": "8. Comunidade Cristo Redentor",
+          "schedule": [
+            "Toda 2º sábado do mês às 16h\nNas casas do Vilarejo"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Quase Paroquia Divino Espirito Santo Paraclito",
+      "link": "https://elodafe.com.br/quase-paroquia-divino-espirito-santo-paraclito/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Divino Espírito Santo Paráclito",
+          "schedule": [
+            "Domingo: 10h e 18h \nQuartas e Sextas-feiras: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santo Expedito",
+          "schedule": [
+            "Sábado: 19h30\nTodo dia 19: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Imaculada Conceição",
+          "schedule": [
+            "Domingo: 8h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Joao Batista",
+      "link": "https://elodafe.com.br/paroquia-sao-joao-batista/",
+      "address": null,
+      "communities": [
+        {
+          "name": "Paroquia Sao Joao Batista",
+          "schedule": [
+            "IGREJAS E HORÁRIO DE MISSAS"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Senhor Bom Jesus Da Cana Verde",
+      "link": "https://elodafe.com.br/paroquia-senhor-bom-jesus-da-cana-verde/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Senhor Bom Jesus da Cana Verde",
+          "schedule": [
+            "Domingo: 7h, 9h, e 19h\nSegunda a sábado: 06h30 e 19h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora De Fatima Araguari",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-de-fatima-araguari/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora de Fátima",
+          "schedule": [
+            "Domingo: 7h, 9h e 19h\nSábado (Missa das crianças): 16h\nSegunda, quarta e sexta: 7h e 19h\nTerça e quinta: 19h",
+            "Primeira Quarta-feira do mês: 19h30 (Missa de Louvor)\nSegunda quarta-feira do Mês: 15h (Missa da Saúde)"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora Desatadora dos Nós",
+          "schedule": [
+            "Domingo: 7h\nSábado: 19h\nTodo dia 08: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Francisco de Assis",
+          "schedule": [
+            "Domingo: 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Nossa Senhora Aparecida",
+          "schedule": [
+            "2ª sexta-feira do mês às 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade São João Batista",
+          "schedule": [
+            "2ª e 4ª sexta feira do mês às 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade Santa Cruz",
+          "schedule": [
+            "1ª e 3ª sexta-feira do mês às 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "7. Comunidade São Frei Galvão",
+          "schedule": [
+            "Domingo: 9h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Jose Operario",
+      "link": "https://elodafe.com.br/paroquia-sao-jose-operario/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Rainha da Paz",
+          "schedule": [
+            "Domingo: 9h30 e 19h30\n Segunda, Quarta, Quinta e Sexta: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santa Clara de Assis",
+          "schedule": [
+            "Domingo: 8h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Nossa Senhora das Graças",
+          "schedule": [
+            "Sábado: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Nossa Senhora da Abadia",
+          "schedule": [
+            "Todo dia 15: 19h\n Todo Domingo: 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Santa Rita de Cássia",
+          "schedule": [
+            "Última sexta-feira do mês: 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade Imaculada Conceição",
+          "schedule": [
+            "Terceiro sábado do mês: 20h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Do Rosario E Sao Benedito",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-rosario-e-sao-benedito/",
+      "address": null,
+      "communities": [
+        {
+          "name": "Paroquia Nossa Senhora Do Rosario E Sao Benedito",
+          "schedule": [
+            "Atendimento: Segunda das 13h às 17h. Terça à Sexta das 08h às 11h e das 13h às 17h.",
+            "IGREJAS E HORÁRIO DE MISSAS"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Aparecida",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-aparecida/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora Aparecida",
+          "schedule": [
+            "Domingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santa Edwiges",
+          "schedule": [
+            "Sexta-feira: 19h30\nDomingo: 8h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Da Penha",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-penha/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora da Penha",
+          "schedule": [
+            "Domingo: 7h30 e 19h30\nQuinta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santa Luzia",
+          "schedule": [
+            "Domingo: 18h\nSexta: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santa Tereza de Ávila",
+          "schedule": [
+            "Domingo: 9h\nQuarta: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Nossa Senhora da Abadia",
+          "schedule": [
+            "Sábado: 20h (terceiro do mês)"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade São João Batista",
+          "schedule": [
+            "Sábado: 20h (terceiro do mês)"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade Santa Helena",
+          "schedule": [
+            "Sábado: 20h (primeiro do mês)"
+          ],
+          "address": null
+        },
+        {
+          "name": "7. Comunidade Nossa Senhora Aparecida",
+          "schedule": [
+            "Sábado: 20h (segundo do mês)"
+          ],
+          "address": null
+        },
+        {
+          "name": "8. Comunidade São Sebastião",
+          "schedule": [
+            "Sábado: 20h (último do mês)"
+          ],
+          "address": null
+        },
+        {
+          "name": "9. Comunidade Nossa Senhora de Fátima",
+          "schedule": [
+            "Sexta-feira: 20h (primeira do mês)"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Judas Tadeu Araguari",
+      "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-araguari/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Judas Tadeu",
+          "schedule": [
+            "Domingo: 7h, e 19h",
+            "Terça e Sexta: 19h",
+            "Todo dia 28: 7h; 16h; e 19h",
+            "Primeira sexta-feira do mês: 15h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São Caetano",
+          "schedule": [
+            "Sábado: 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São Cristóvão",
+          "schedule": [
+            "Domingo: 10h\n Quarta: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Santa Luzia",
+          "schedule": [
+            "Quinta-feira: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade São José",
+          "schedule": [
+            "Último sábado do mês às 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "7. Comunidade Nossa Senhora Abadia",
+          "schedule": [
+            "Segundo sábado do mês: 20h"
+          ],
+          "address": null
+        },
+        {
+          "name": "8. Comunidade Santa Rita de Cássia",
+          "schedule": [
+            "-Comunidade Santa Terezinha: 8:30h e 17:30h\n– Comunidade São Cristovão: domingo: 10h\nQuarta feira: 19:30h\n– Comunidade São Caetano: sábado: 18h\n-Comunidade Nossa Senhora da Abadia, segundo sábado do mês: 20h\n– Comunidade Santa Rita de Cássia, primeiro sábado do mês: 20h\nEssas foram as mudanças, desde já agradecemos."
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Sebastiao Araguari",
+      "link": "https://elodafe.com.br/paroquia-sao-sebastiao-araguari/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz São Sebastião",
+          "schedule": [
+            "Domingo: 9h30 e 19h\nSegunda-feira: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Mae Dos Homens Estrela Do Sul",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-mae-dos-homens-estrela-do-sul/",
+      "address": null,
+      "communities": [
+        {
+          "name": "CONTATO\n Praça da Matriz, 145 – Centro – 38525-000 – Estrela do Sul/MG\n Telefone: (34) 3843-1253",
+          "schedule": [
+            "ATENDIMENTO\n 8h às 11h e 12h às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz Nossa Senhora Mãe dos Homens",
+          "schedule": [
+            "Todo Domingo às 19 horas"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Igreja São Sebastião (Grupiara)",
+          "schedule": [
+            "Todo Sábado às 19 horas"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Igreja São Sebastião (Dolearina)",
+          "schedule": [
+            "Todo Domingo às 09 horas"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Igreja Nossa Senhora Aparecida",
+          "schedule": [
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Igreja Nossa Senhora de Fátima",
+          "schedule": [
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Igreja Santa Rita de Cássia",
+          "schedule": [
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
+          ],
+          "address": null
+        },
+        {
+          "name": "9. Igreja São José",
+          "schedule": [
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
+          ],
+          "address": null
+        },
+        {
+          "name": "10. Igreja São Sebastião",
+          "schedule": [
+            "Santa Missa uma vez por mês  às 19h30 / Data Móvel (Consultar Secretaria)"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Santana Indianopolis",
+      "link": "https://elodafe.com.br/paroquia-santana-indianopolis/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Sant’Ana",
+          "schedule": [
+            "Todo dia 26 do mês: 19h30 (novena perpetua à Sant’Ana)\nToda quarta-feira: 19h30\nDomingo: 09h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Santa Rita de Cássia",
+          "schedule": [
+            "Domingo: 19h30\n Sexta: 19h30\n Todo dia 22 do mês: 19h30 (novena perpétua à Santa Rita de Cássia)"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santa Luzia",
+          "schedule": [
+            "Terceira quinta-feira do mês: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade São José",
+          "schedule": [
+            "Sexta: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade São Sebastião",
+          "schedule": [
+            "Primeira quinta-feira do mês: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "6. Comunidade São João Batista",
+          "schedule": [
+            "Toda terceira terça-feira do mês: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "7. Comunidade Santa Luzia",
+          "schedule": [
+            "Primeira e segunda quinta-feira do mês: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-tupaciguara/",
+      "address": null,
+      "communities": [
+        {
+          "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
+          "schedule": [
+            "IGREJAS E HORÁRIO DE MISSAS"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
+      "link": "https://elodafe.com.br/paroquia-sao-francisco-das-chagas-monte-alegre-de-minas/",
+      "address": null,
+      "communities": [
+        {
+          "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
+          "schedule": [
+            "IGREJAS E HORÁRIO DE MISSAS"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paroquia Nossa Senhora Da Guia Arapora",
+      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-guia-arapora/",
+      "address": null,
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora da Guia",
+          "schedule": [
+            "Domingo: 8h e 19h\n Quarta: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Sagrado Coração de Jesus",
+          "schedule": [
+            "Domingo: 19h30\nToda terça-feira às 19h\n Primeira sexta-feira do mês: 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade São José",
+          "schedule": [
+            "Todo terceiro sábado do mês: 19h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "4. Comunidade Passa Três",
+          "schedule": [
+            "Todo quarto domingo do mês: 15h"
+          ],
+          "address": null
+        },
+        {
+          "name": "5. Comunidade Nossa Senhora de Nazaré",
+          "schedule": [
+            "Bairro Primavera\n Segundo domingo do mês: 15h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Paróquias",
+      "link": "https://elodafe.com.br/category/paroquias/",
+      "address": null,
+      "communities": []
+    }
+  ]
+}

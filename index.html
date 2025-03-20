@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horários de Missas - Diocese</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <meta name="description" content="Consulte os horários de missas das paróquias da Diocese">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Horários de Missas">
+    <meta property="og:description" content="Consulte os horários de missas das paróquias da Diocese">
+</head>
+<body class="bg-gray-50 dark:bg-gray-900">
+    <header class="bg-blue-900 text-white py-8 text-center dark:bg-gray-800">
+        <h1 class="text-4xl font-bold mb-2">Horários de Missas</h1>
+        <p id="last-update" class="text-lg">Última atualização: carregando...</p>
+    </header>
+
+    <div class="container mx-auto px-4 py-8 text-center" >
+        <div class="mb-8">
+            <input
+                type="text"
+                id="search"
+                placeholder="Busque por nome da paróquia ou bairro..."
+                class="w-full max-w-2xl mx-auto p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:text-white"
+            />
+        </div>
+
+        <main id="church-list" class="space-y-6"></main>
+
+        <!-- Paginação -->
+        <div id="pagination" class="mt-8 flex justify-center space-x-4">
+            <button id="prev-page" class="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                Anterior
+            </button>
+            <span id="page-info" class="text-gray-700 dark:text-gray-300"></span>
+            <button id="next-page" class="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
+                Próxima
+            </button>
+        </div>
+    </div>
+
+    <footer class="bg-blue-900 text-white py-6 text-center mt-8 dark:bg-gray-800">
+        <p>Dados obtidos de elodafe.com.br</p>
+        <p class="text-sm">Atualizado periodicamente. Este site não tem vínculo oficial com a Diocese.</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+/* style.css */
+/* Adicionar transições suaves */
+.paroquia-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.paroquia-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para horários */
+.horario-item {
+    transition: background-color 0.2s ease;
+}
+
+.horario-item:hover {
+    background-color: #f3f4f6;
+}
