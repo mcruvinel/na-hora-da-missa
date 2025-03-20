@@ -58,7 +58,7 @@ def scrape_churches():
             name = church['title']
             
             print(f"🏛 ({idx+1}/{len(church_links)}) Accessing {name}")
-            if name == "Paróquias":
+            if name in ["Paróquias", "Regimentos Paroquiais"]:
                 continue  # Skip generic names
             # Access the church page
             time.sleep(1)  # Pause to avoid overloading the server
