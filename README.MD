@@ -8,31 +8,9 @@ Este repositório contém um site estático que exibe horários de missas das pa
 - Os dados são coletados através de um scraper
 - O arquivo `data/paroquias.json` contém todos os dados exibidos no site
 
-## Como atualizar os dados
+## Como mantenho os dados
 
-Para manter os dados atualizados, siga estas etapas:
-
-1. Clone o repositório em seu computador
-   ```
-   git clone https://github.com/seu-usuario/horarios-missa.git
-   cd horarios-missa
-   ```
-
-2. Instale as dependências necessárias
-   ```
-   pip install requests beautifulsoup4
-   ```
-
-3. Execute o scraper para atualizar os dados
-   ```
-   python scraper.py
-   ```
-
-4. Envie as alterações para o GitHub
-   ```
-   git add data/paroquias.json
-   git commit -m "Atualiza dados de horários de missa"
-   git push
+- Todos os dias, as 03:00AM - UTC-03:00, o horarío é atualizado com o portal da diocese de Uberlândia.
    ```
 
 5. O GitHub Pages atualizará automaticamente o site com os novos dados
