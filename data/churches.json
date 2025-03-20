@@ -1,18 +1,18 @@
 {
-  "collection_date": "2025-03-20 06:16:20",
+  "collection_date": "2025-03-20 11:14:27",
   "total_churches": 49,
   "churches": [
     {
       "name": "Paroquia Nossa Senhora Das Dores",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-dores/",
-      "address": null,
+      "address": "Rua Coronel Severiano, 191 – Bairro Fundinho – 38400-228 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora das Dores",
           "schedule": [
             "Domingo: 08h, 09h30, 17h30 e 19h\n Terça à Quinta-feira: 18h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora das Dores\n Rua Dom Barreto, 60 – Fundinho"
         },
         {
           "name": "2. Comunidade São Vicente de Paulo e Santo Antônio",
@@ -26,21 +26,21 @@
     {
       "name": "Paroquia Bom Jesus",
       "link": "https://elodafe.com.br/paroquia-bom-jesus/",
-      "address": null,
+      "address": "Avenida Marciano de Ávila, 422 – Bairro Bom Jesus – 38400-752 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Igreja Matriz Bom Jesus",
           "schedule": [
             "Quarta-feira: 19h\nDomingo: 08h e 19h30"
           ],
-          "address": null
+          "address": "1. Igreja Matriz Bom Jesus\nAv. Marciano de Ávila, 422 – Bairro Bom Jesus"
         },
         {
           "name": "2. Comunidade Nossa Senhora de Lourdes",
           "schedule": [
             "Sábado: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora de Lourdes\nAv. Arnaldo Conturci, 885 – Bairro Marta Helena"
         },
         {
           "name": "3. Comunidade Santíssima Trindade",
@@ -54,7 +54,7 @@
     {
       "name": "Paroquia Nossa Senhora De Fatima Uberlandia",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-de-fatima-uberlandia/",
-      "address": null,
+      "address": "Avenida Engenheiro Diniz, 1220 – Martins – 38400-462 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora de Fátima",
@@ -68,21 +68,21 @@
     {
       "name": "Paroquia Sao Cristovao",
       "link": "https://elodafe.com.br/paroquia-sao-cristovao/",
-      "address": null,
+      "address": "Rua Padre Américo Ceppi, 190 – B.Brasil – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz São Cristóvão",
           "schedule": [
             "Quarta-feira:12h00\nQuarta-feira: 19h00 – Novena em louvor a Nossa Senhora Desatadora dos Nós\nDomingo: 09h30 e 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São Cristóvão\n Rua Padre Américo Ceppi, 190 – Bairro Brasil"
         },
         {
           "name": "2. Comunidade Nossa Senhora da Piedade",
           "schedule": [
             "Quinta-feira: 07h00\nDomingo: 08h00"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora da Piedade\n Rua Belém, 967 – Bairro Brasil"
         },
         {
           "name": "3. Comunidade São João Bosco",
@@ -96,14 +96,14 @@
     {
       "name": "Paroquia Cristo Redentor",
       "link": "https://elodafe.com.br/paroquia-cristo-redentor/",
-      "address": null,
+      "address": "Rua Itabira, 379 – Daniel Fonseca",
       "communities": [
         {
           "name": "1. Matriz Cristo Redentor",
           "schedule": [
             "Quinta-feira: 19h\n Domingo: 7h30 e 18h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Cristo Redentor\n Rua Itabira, 379 – Daniel Fonseca"
         },
         {
           "name": "4. Comunidade Santo Antônio",
@@ -117,56 +117,56 @@
     {
       "name": "Paroquia Santa Rita De Cassia",
       "link": "https://elodafe.com.br/paroquia-santa-rita-de-cassia/",
-      "address": null,
+      "address": "Avenida Jerusalém, 773, Bairro Jardim Canaã – Uberlândia/MG",
       "communities": [
         {
           "name": "CONTATO\nAvenida Jerusalém, 773, Bairro Jardim Canaã – Uberlândia/MG\nTelefone: (34) 3211-6438 / (34) 9 9863-0624 (WhatsApp)\nE-mail: [email protected]\nFacebook: Paróquia Santa Rita de Cássia Uberlândia",
           "schedule": [
             "ATENDIMENTO\nSegunda-feira a sexta-feira: 13h às 18h\nAtendimento do Pároco: terça a sexta-feira das 14h30 às 18h"
           ],
-          "address": null
+          "address": "CONTATO\nAvenida Jerusalém, 773, Bairro Jardim Canaã – Uberlândia/MG\nTelefone: (34) 3211-6438 / (34) 9 9863-0624 (WhatsApp)\nE-mail: [email protected]\nFacebook: Paróquia Santa Rita de Cássia Uberlândia"
         },
         {
           "name": "Matriz Santa Rita de Cássia",
           "schedule": [
             "Domingo: 07h30 e 19h30\nQuarta e Sexta: 19h30\nObs. Toda 1ª sexta-feira do mês Adoração ao Santíssimo Sacramento às 18h30\nTodo dia 22 de cada mês missa devocional a Santa Rita de cássia às 19h30\nToda última sexta-feira do mês missa da saúde às 19h30"
           ],
-          "address": null
+          "address": "Matriz Santa Rita de Cássia\nRua Lídia, 780, Bairro Jardim Canaã – Uberlândia/MG"
         },
         {
           "name": "Comunidade Nossa Senhora das Graças da Medalha Milagrosa",
           "schedule": [
             "Terça-feira às 19h30"
           ],
-          "address": null
+          "address": "Matriz Santa Rita de Cássia\nRua Lídia, 780, Bairro Jardim Canaã – Uberlândia/MG"
         },
         {
           "name": "Comunidade São Luzia",
           "schedule": [
             "Sábado às 19h"
           ],
-          "address": null
+          "address": "Comunidade São Luzia\nRua Douradinho, nº 69 – Chácaras Douradinho"
         },
         {
           "name": "Comunidade Santa Teresa de Calcutá",
           "schedule": [
             "Terça-feira às 19:30h"
           ],
-          "address": null
+          "address": "Comunidade São Luzia\nRua Douradinho, nº 69 – Chácaras Douradinho"
         },
         {
           "name": "Comunidade Nossa Senhora da Abadia",
           "schedule": [
             "Domingo às 08h\nTodo dia 15 de cada mês missa da saúde às 19h30. Caso o dia 15 seja domingo, às 08h. Caso seja sábado às 18h30."
           ],
-          "address": null
+          "address": "Comunidade Nossa Senhora da Abadia\nRua Aldo Borges Leão, nº 85, Bairro Morada Nova"
         },
         {
           "name": "Comunidade Nossa Senhora Aparecida",
           "schedule": [
             "Domingos: 17h30"
           ],
-          "address": null
+          "address": "Comunidade Nossa Senhora Aparecida\nRua: Wilson Rodrigues da Silva 1531, bairro: Residencial Pequis"
         },
         {
           "name": "Comunidade São Brás e Nossa Senhora da Visitação",
@@ -180,7 +180,7 @@
     {
       "name": "Paroquia Sao Francisco",
       "link": "https://elodafe.com.br/paroquia-sao-francisco/",
-      "address": null,
+      "address": "Rua dos Cisnes, 67, Bairro Jardim das Palmeiras",
       "communities": [
         {
           "name": "General Schedule",
@@ -198,14 +198,14 @@
     {
       "name": "Paroquia Santa Isabel De Portugal",
       "link": "https://elodafe.com.br/paroquia-santa-isabel-de-portugal/",
-      "address": null,
+      "address": "Rua Jhuen Cecílio Jorge, 208 – Bairro Jardim Patrícia",
       "communities": [
         {
           "name": "1. Matriz Santa Isabel de Portugal",
           "schedule": [
             "Domingo: 07h30 e 18h30\nTerça-feira: 19h\nQuinta-feira: 19h"
           ],
-          "address": null
+          "address": "1. Matriz Santa Isabel de Portugal\n Rua Jhuen Cecílio Jorge, 208 – Bairro Jardim Patrícia"
         },
         {
           "name": "2. Comunidade Nossa Senhora do Carmo",
@@ -219,21 +219,21 @@
     {
       "name": "Paroquia Divino Espirito Santo",
       "link": "https://elodafe.com.br/paroquia-divino-espirito-santo/",
-      "address": null,
+      "address": "Rua da Enfermeira, 180 – Jardim das Palmeiras",
       "communities": [
         {
           "name": "1. Matriz Divino Espírito Santo",
           "schedule": [
             "Quarta-feira: 19h30\nSábado: 19h30\nDomingo: 8h e 19h30\nToda 1ª Sexta-feira do mês: Adoração ao Santíssimo às 19h e Missa às 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n\n 1. Matriz Divino Espírito Santo\n Avenida dos Mognos, 355 – Jaraguá"
         },
         {
           "name": "2. Comunidade São Domingos de Gusmão",
           "schedule": [
             "Quinta-feira: 19h30\nDomingo: 9h30 e 18h\nToda 1ª Quinta-feira do mês: Adoração ao Santíssimo às 19h e Missa às 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade São Domingos de Gusmão\nRua da Enfermeira, 180 – Jardim das Palmeiras"
         },
         {
           "name": "3. Comunidade Nossa Senhora do Rosário",
@@ -247,7 +247,7 @@
     {
       "name": "Paroquia Santa Edwiges",
       "link": "https://elodafe.com.br/paroquia-santa-edwiges/",
-      "address": null,
+      "address": "Rua Genarino Casabona, 802 – Luizote de Freitas – 38415-384 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Santa Edwiges",
@@ -255,49 +255,49 @@
             "Domingo: 08h30, 10h e 18h\nQuarta-feira: 19h\nQuinta-feira: Adoração ao Santíssimo a partir das 07h, bênção com o Santíssimo às 18h30 e Missa às 19h",
             "Todo dia 16, às 16h, Missa Devocional à Santa Edwiges e da Saúde."
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Santa Edwiges\n Rua Genarino Casabona, 802, Bairro Luizote de Freitas"
         },
         {
           "name": "2. Comunidade Sagrado Coração de Jesus",
           "schedule": [
             "Toda 1° Sexta-feira, às 07h, Missa em louvor ao Sagrado Coração de Jesus\n Domingo: 7h"
           ],
-          "address": null
+          "address": "2. Comunidade Sagrado Coração de Jesus\n Rua Matheus Vaz, 855, Bairro Luizote de Freitas II"
         }
       ]
     },
     {
       "name": "Paroquia Sao Benedito",
       "link": "https://elodafe.com.br/paroquia-sao-benedito/",
-      "address": null,
+      "address": "Rua Maria Abadia Mamede, 303 – Planalto – 38413-267 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz São Benedito",
           "schedule": [
             "Domingo: 07h30, 9h e 19h30\n Quarta-feira: 19h30\n Sábado: 19h30\n Primeira sexta-feira do mês: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São Benedito\n Rua Maria Abadia Mamede, 303 – Planalto"
         },
         {
           "name": "2. Comunidade Sant’Ana",
           "schedule": [
             "Domingo: 17h30\n Quinta-feira: 19h30\n Primeiro domingo do mês: 10h"
           ],
-          "address": null
+          "address": "2. Comunidade Sant’Ana\n Rua Rio Jaguaribe, 99 – Mansour"
         },
         {
           "name": "3. Mosteiro Monte Alverne",
           "schedule": [
             "Segunda a domingo: 7h"
           ],
-          "address": null
+          "address": "3. Mosteiro Monte Alverne\n Rua do Bancário, 1085 – Planalto"
         },
         {
           "name": "4. Comunidade Nossa Senhora Aparecida",
           "schedule": [
             "Ultimo domingo do mês: 11h"
           ],
-          "address": null
+          "address": "3. Mosteiro Monte Alverne\n Rua do Bancário, 1085 – Planalto"
         },
         {
           "name": "5. Comunidade Divino Pai Eterno",
@@ -311,7 +311,7 @@
     {
       "name": "Paroquia Sao Gaspar Bertoni",
       "link": "https://elodafe.com.br/paroquia-sao-gaspar-bertoni/",
-      "address": null,
+      "address": "Rua Celida Maria Sampaio, 115 – Talismã",
       "communities": [
         {
           "name": "1. Matriz",
@@ -325,28 +325,28 @@
           "schedule": [
             "Sábado: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade São Gaspar Bertoni\n Rua Celida Maria Sampaio, 115 – Talismã"
         },
         {
           "name": "3. Comunidade Nossa Senhora da Guia",
           "schedule": [
             "Domingo: 8h30\n Sexta-feira: 19h30"
           ],
-          "address": null
+          "address": "3. Comunidade Nossa Senhora da Guia\n Rua das Guitarras, 62 – Taiamã"
         },
         {
           "name": "4. Comunidade São Francisco de Assis",
           "schedule": [
             "Domingo: 18h\n Quarta-feira: 19h30"
           ],
-          "address": null
+          "address": "4. Comunidade São Francisco de Assis\n Rua Batucada, 642 – Guarani"
         },
         {
           "name": "5. Comunidade Santa Rita de Cássia",
           "schedule": [
             "Terça-feira: 20h nas casas das famílias"
           ],
-          "address": null
+          "address": "4. Comunidade São Francisco de Assis\n Rua Batucada, 642 – Guarani"
         },
         {
           "name": "6. Comunidade São Lucas",
@@ -360,8 +360,16 @@
     {
       "name": "Paroquia Nossa Senhora Da Abadia Custodio Pereira",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-custodio-pereira/",
-      "address": null,
+      "address": "Rua Luiz Vieira Tavares, 1245 – Custódio Pereira – 38405-260 – Uberlândia/MG",
       "communities": [
+        {
+          "name": "Criada em 01/08/1998 por Dom José Alberto Moura, CSS\nElevada à Santuário em 08/12/2021 por Dom Paulo Francisco Machado",
+          "schedule": [
+            "Atendimento:\nSegunda à Sexta das 08h às 12h e aos sábados das 09h às 11h.\n Secretária(o): Rosania Maestri",
+            "Visitação:\nSegunda à sexta: 8h às 12h | 14h às 17h\nSábado: 9h às 11h"
+          ],
+          "address": "CONTATO\n Rua Luiz Vieira Tavares, 1245 – Custódio Pereira – 38405-260 – Uberlândia/MG\n Telefone: (34) 3232-7431\n E-mail: [email protected]"
+        },
         {
           "name": "1. Santuário Nossa Senhora da Abadia",
           "schedule": [
@@ -374,7 +382,7 @@
     {
       "name": "Paroquia Nossa Senhora Das Gracas",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-gracas/",
-      "address": null,
+      "address": "Rua Adonirio Alves Pinto, 362, Ipanema II",
       "communities": [
         {
           "name": "BATIZADOS\nTodo 1º e 3º Domingo do mês, às 10h30, na Igreja Matriz;\nNa comunidade São João Batista, horários a confirmar na secretaria da paróquia.",
@@ -388,21 +396,21 @@
     {
       "name": "Paroquia Santa Monica",
       "link": "https://elodafe.com.br/paroquia-santa-monica/",
-      "address": null,
+      "address": "Rua Lourdes de Carvalho, 602 – Santa Mônica",
       "communities": [
         {
           "name": "1. Matriz Santa Mônica",
           "schedule": [
             "Terça a Sexta-feira: 19h\n Sábado: 19h30\n Domingo: 7h, 9h e 19h30"
           ],
-          "address": null
+          "address": "Criada em 18/05/1980 por Dom Estevão Cardoso de Avellar, OP"
         },
         {
           "name": "2. Comunidade Nossa Senhora do Perpétuo Socorro",
           "schedule": [
             "Sábado às 18h\n Domingo às 10h"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora do Perpétuo Socorro\n Avenida Ana Godoy de Souza, 2200 – Santa Mônica"
         },
         {
           "name": "3. Comunidade Santo Agostinho",
@@ -416,21 +424,21 @@
     {
       "name": "Paroquia Sao Sebastiao Uberlandia",
       "link": "https://elodafe.com.br/paroquia-sao-sebastiao-uberlandia/",
-      "address": null,
+      "address": "Avenida Europa, 184 – Bairro Tibery",
       "communities": [
         {
           "name": "1. Matriz São Sebastião",
           "schedule": [
             "Domingo: 07h, 09h e 19h\n Terça a Sexta-feira: 07h\nTerça e Quinta-feira: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São Sebastião\n Praça Senador Camilo Chaves, 20 – Bairro Tibery"
         },
         {
           "name": "2. Comunidade Nossa Senhora Auxiliadora",
           "schedule": [
             "Domingo: 08h\nSábado: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora Auxiliadora\n Avenida Europa, 184 – Bairro Tibery"
         },
         {
           "name": "3. Comunidade São Jerônimo",
@@ -444,7 +452,7 @@
     {
       "name": "Paroquia Sao Joao Batista Uberlandia",
       "link": "https://elodafe.com.br/paroquia-sao-joao-batista-uberlandia/",
-      "address": null,
+      "address": "Rua Jerônima Lucas Barros, 513 – Segismundo Pereira – 38408-278 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz São João Batista",
@@ -458,21 +466,21 @@
     {
       "name": "Paroquia Nossa Senhora Do Caminho",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-caminho/",
-      "address": null,
+      "address": "Rua João Velasco de Andrade, 443 – Santa Mônica",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora do Caminho",
           "schedule": [
             "Domingo: 8h e 19h\nQuarta-feira: 19h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora do Caminho\n Avenida Jose Resende Costa, 456 – Bairro Santa Maria"
         },
         {
           "name": "2. Comunidade São José",
           "schedule": [
             "Sábado: 19h\nTerça-feira: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade São José\n Rua João Velasco de Andrade, 443 – Santa Mônica"
         },
         {
           "name": "3. Comunidade São Paulo Apóstolo",
@@ -486,56 +494,56 @@
     {
       "name": "Paroquia Cristo Rei",
       "link": "https://elodafe.com.br/paroquia-cristo-rei/",
-      "address": null,
+      "address": "Rua Gamela, 200 – Morumbi",
       "communities": [
         {
           "name": "1. Matriz Cristo Rei",
           "schedule": [
             "Domingo: 9h30 e 17h30\n Quarta-feira: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Cristo Rei\n Av. Edgard Oliveira de Castro, 3110 – Alvorada"
         },
         {
           "name": "2. Comunidade Divino Pai Eterno",
           "schedule": [
             "Quinta-feira: 19h30\n Domingo: 7h30 e 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Divino Pai Eterno\n Rua Gamela, 200 – Morumbi"
         },
         {
           "name": "3. Comunidade Nossa Senhora da Abadia – Tapuirama",
           "schedule": [
             "Sábado: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Divino Pai Eterno\n Rua Gamela, 200 – Morumbi"
         },
         {
           "name": "4. Comunidade Santa Cruz – Capela da Saudade",
           "schedule": [
             "1º e 3º Sábado do mês às 17h"
           ],
-          "address": null
+          "address": "2. Comunidade Divino Pai Eterno\n Rua Gamela, 200 – Morumbi"
         },
         {
           "name": "5. Comunidade Sagrada Família",
           "schedule": [
             "Quarta-feira: 19h30"
           ],
-          "address": null
+          "address": "5. Comunidade Sagrada Família\nRua Denver, 111, bairro Morumbi"
         }
       ]
     },
     {
       "name": "Paroquia Sao Mateus",
       "link": "https://elodafe.com.br/paroquia-sao-mateus/",
-      "address": null,
+      "address": "Rua Saturnino Pedro dos Santos, 86 – Jardim Finotti – 38408-090 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz São Mateus",
           "schedule": [
             "Domingo: 08h, 10h e 19h.\nQuarta-feira: 19h.\nSexta-feira: 19h.\nPrimeira sexta-feira do mês: Adoração ao Santíssimo Sacramento durante a tarde e Missa às 19h.\nSegunda sexta-feira do mês: Missa da saúde às 19h."
           ],
-          "address": null
+          "address": "1. Matriz São Mateus\n Rua Saturnino Pedro dos Santos, 86 – Jardim Finotti"
         },
         {
           "name": "2. Comunidade Santo Antônio",
@@ -549,14 +557,14 @@
     {
       "name": "Paroquia Sao Francisco De Assis E Santa Clara",
       "link": "https://elodafe.com.br/paroquia-sao-francisco-de-assis-e-santa-clara/",
-      "address": null,
+      "address": "Avenida Levindo de Souza, 2110 – Umuarama – 38405-322 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz São Francisco de Assis e Santa Clara",
           "schedule": [
             "Domingo: 9h30 e 19h\n Quarta e  Sexta-feira: 18h\n Sábado: 18h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São Francisco de Assis e Santa Clara\n Avenida Levindo de Souza, 2110 – Umuarama"
         },
         {
           "name": "2. Comunidade Nossa Senhora da Paz",
@@ -570,7 +578,7 @@
     {
       "name": "Paroquia Santo Antonio",
       "link": "https://elodafe.com.br/paroquia-santo-antonio/",
-      "address": null,
+      "address": "Rua das Vertentes, 328 – Morumbi – 38407-375 – Uberlândia",
       "communities": [
         {
           "name": "1. Comunidade Matriz Santo Antônio",
@@ -579,7 +587,7 @@
             "Terça-feira: 19h30",
             "Primeira Sexta-feira do mês: 19h30 (missa votiva)"
           ],
-          "address": null
+          "address": "1. Comunidade Matriz Santo Antônio \n Rua Vertentes, 328, Morumbi."
         },
         {
           "name": "2. Comunidade Santa Bárbara e São João Batista",
@@ -587,14 +595,14 @@
             "Domingo: 7h30",
             "Quarta-feira: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Santa Bárbara e São João Batista\n Rua Lobo Guará, 373, Morumbi."
         },
         {
           "name": "3. Comunidade São José",
           "schedule": [
             "Sábado: 20h"
           ],
-          "address": null
+          "address": "2. Comunidade Santa Bárbara e São João Batista\n Rua Lobo Guará, 373, Morumbi."
         },
         {
           "name": "4. Comunidade Imaculada Conceição",
@@ -602,21 +610,21 @@
             "Domingo: 07h30 e 19h",
             "Quarta-feira: 19h30"
           ],
-          "address": null
+          "address": "4. Comunidade Imaculada Conceição\n Rua Alicerce, 06, Jardim Integração."
         },
         {
           "name": "5. Comunidade São Frei Galvão",
           "schedule": [
             "Domingo: 9h30"
           ],
-          "address": null
+          "address": "5. Comunidade São Frei Galvão \n Rua Ipê Amarelo, 205, Jardim Sucupira."
         },
         {
           "name": "6. Comunidade São Francisco de Assis",
           "schedule": [
             "Sábado: 18h"
           ],
-          "address": null
+          "address": "6. Comunidade São Francisco de Assis\n Rua Paraíso, 410, Celebridade"
         },
         {
           "name": "7. Comunidade Bethânia",
@@ -624,28 +632,28 @@
             "Segunda-feira: 18",
             "Primeiro Domingo do mês: 11h30"
           ],
-          "address": null
+          "address": "6. Comunidade São Francisco de Assis\n Rua Paraíso, 410, Celebridade"
         },
         {
           "name": "8. Comunidade Nossa Senhora de Guadalupe",
           "schedule": [
             "Sábado: 18h"
           ],
-          "address": null
+          "address": "6. Comunidade São Francisco de Assis\n Rua Paraíso, 410, Celebridade"
         },
         {
           "name": "9. Comunidade Nossa Senhora dos Navegantes",
           "schedule": [
             "Quinta-feira: 19h30"
           ],
-          "address": null
+          "address": "9. Comunidade Nossa Senhora dos Navegantes\nChácaras Capim Branco (celebrações nas casas)"
         },
         {
           "name": "10. Comunidade Santa Clara",
           "schedule": [
             "Sexta-feira: 19h30"
           ],
-          "address": null
+          "address": "9. Comunidade Nossa Senhora dos Navegantes\nChácaras Capim Branco (celebrações nas casas)"
         },
         {
           "name": "11. Comunidade São Miguel",
@@ -659,35 +667,35 @@
     {
       "name": "Paroquia Sao Geraldo",
       "link": "https://elodafe.com.br/paroquia-sao-geraldo/",
-      "address": null,
+      "address": "Rua Bernardo de Vasconcelos, 865 – Pampulha",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora Aparecida e São Geraldo Magela",
           "schedule": [
             "Domingo: 8h e 19h\nQuinta: 19h\nPrimeira quinta-feira do mês: 18h – Adoração ao Santíssimo"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora Aparecida e São Geraldo Magela\n Rua Bernardo de Vasconcelos, 865 – Pampulha"
         },
         {
           "name": "2. Comunidade Sagrado Coração de Jesus",
           "schedule": [
             "Sábado: 19h\nPrimeira sexta-feira do mês: 18h (Missa devocional ao Sagrado Coração de Jesus)"
           ],
-          "address": null
+          "address": "2. Comunidade Sagrado Coração de Jesus\n Rua Bento Farias, 477 – Lagoinha"
         },
         {
           "name": "3. Comunidade São Lucas",
           "schedule": [
             "Domingo: 10h"
           ],
-          "address": null
+          "address": "3. Comunidade São Lucas\n Rua Professor Eudóxio Casassanta Pereira, 722 – Pampulha"
         },
         {
           "name": "4. Comunidade Santa Luzia",
           "schedule": [
             "Domingo: 17h30\nSábado: 17h30\nTodo dia 13 (de seg. a sex.): 19h30"
           ],
-          "address": null
+          "address": "4. Comunidade Santa Luzia\nAvenida Jaime de Barros, 160 – Santa Luzia"
         },
         {
           "name": "5. Capela Santos Reis",
@@ -701,21 +709,21 @@
     {
       "name": "Paroquia Sao Jose 2",
       "link": "https://elodafe.com.br/paroquia-sao-jose-2/",
-      "address": null,
+      "address": "Avenida Boulanger Fonseca, 390 – Shopping Park II",
       "communities": [
         {
           "name": "1. Matriz Imaculada Conceição",
           "schedule": [
             "Domingo: 07h30 e 19h30\nTerça-feira: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Imaculada Conceição\nAvenida Boulanger Fonseca, 390 – Shopping Park II"
         },
         {
           "name": "2. Comunidade São Frei Galvão",
           "schedule": [
             "Domingo: 09h\nQuarta-feira: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade São Frei Galvão\nRua Siomara Carla de Jesus, 74, Shopping Park"
         },
         {
           "name": "3. Comunidade São Sebastião",
@@ -729,7 +737,7 @@
     {
       "name": "Paroquia Sao Pedro",
       "link": "https://elodafe.com.br/paroquia-sao-pedro/",
-      "address": null,
+      "address": "Rua Tapuios, 734, Bairro Saraiva, Uberlândia",
       "communities": [
         {
           "name": "1. Matriz São Pedro",
@@ -743,7 +751,7 @@
     {
       "name": "Paroquia Nossa Senhora Da Abadia Patrimonio",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-patrimonio/",
-      "address": null,
+      "address": "Rua da Paz, 278, Morada da Colina",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora da Abadia",
@@ -757,7 +765,7 @@
           "schedule": [
             "Sábado: 18h\nQuarta-feira: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora do Bom Parto\n Rua da Paz, 278, Morada da Colina"
         },
         {
           "name": "3. Comunidade Nova Canaã",
@@ -771,42 +779,42 @@
     {
       "name": "Paroquia Nossa Senhora De Guadalupe",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-de-guadalupe/",
-      "address": null,
+      "address": "Rua Iraque, 182 – Laranjeiras – 38410-282 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora de Guadalupe",
           "schedule": [
             "Domingo: 9h30 e 19h30\nSegunda-feira: 19h30\nQuarta-feira: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora de Guadalupe\n Rua Iraque, 182 – Laranjeiras"
         },
         {
           "name": "2. Comunidade Imaculado Coração de Maria",
           "schedule": [
             "Domingo: 8h e 18h\n Sexta-feira: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Imaculado Coração de Maria\n Rua Alfredo Maximiano Alves, 52 – Granada"
         },
         {
           "name": "Comunidade Rainha da Paz",
           "schedule": [
             "Domingo: 9h\n Terça-feira: 19h30"
           ],
-          "address": null
+          "address": "3. Comunidade Rainha da Paz\n Rua Egito, 203 – Laranjeiras"
         },
         {
           "name": "4. Comunidade São Francisco",
           "schedule": [
             "Domingo: 7h30 e 18h\n Quinta-feira: 19h30"
           ],
-          "address": null
+          "address": "4. Comunidade São Francisco\n Rua Soberania, 220 – Aurora"
         },
         {
           "name": "5. Comunidade Santa Rosa de Lima",
           "schedule": [
             "Sábado: 19h30\nQuarta-feira: 19h30"
           ],
-          "address": null
+          "address": "5. Comunidade Santa Rosa de Lima\n Rua Munhoz da Rocha, 34, Jardim Botânico"
         },
         {
           "name": "6. Comunidade Nossa Senhora de Fátima",
@@ -820,42 +828,42 @@
     {
       "name": "Paroquia Nossa Senhora Do Carmo",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-carmo/",
-      "address": null,
+      "address": "Rua Ângelo Cunha, 385 – Bairro São Jorge – 38410-050 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora do Carmo (Salão)",
           "schedule": [
             "Domingo: 19h\nQuarta-feira: 19h30\n Primeira sexta-feira do mês: 15h – Missa com os Enfermos"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora do Carmo (Salão)\n Rua Ângelo Cunha, 385 – Bairro São Jorge"
         },
         {
           "name": "2. Comunidade São Jorge",
           "schedule": [
             "Todos os dias: 7h"
           ],
-          "address": null
+          "address": "2. Comunidade São Jorge\nRua Célio Pontes, 288 – São Jorge"
         },
         {
           "name": "3. Comunidade São Gabriel e Santa Ana",
           "schedule": [
             "Domingo: 8h30\nSexta-feira: 19h30"
           ],
-          "address": null
+          "address": "3. Comunidade São Gabriel e Santa Ana\nRua Monte Pascoal, 90 – São Gabriel"
         },
         {
           "name": "4. Comunidade Santo Expedito",
           "schedule": [
             "Sábado: 18h\n Todo dia 19: às 19h30 (Novena perpétua de Santo Expedito)"
           ],
-          "address": null
+          "address": "4. Comunidade Santo Expedito\n Rua Jerônimo Beijo de Andrade, 25 – São Jorge"
         },
         {
           "name": "5. Comunidade São Francisco e Santa Clara",
           "schedule": [
             "Quinta-feira: 19h30\nSábado: 19h30"
           ],
-          "address": null
+          "address": "5. Comunidade São Francisco e Santa Clara\n Rua Serra Geral, 36 – Seringueiras"
         },
         {
           "name": "6. Comunidade Nossa Senhora da Glória",
@@ -869,7 +877,7 @@
     {
       "name": "Paroquia Sao Jose",
       "link": "https://elodafe.com.br/paroquia-sao-jose/",
-      "address": null,
+      "address": "Rua Polidoro de Freitas Rodrigues, 736 – Vigilato Pereira",
       "communities": [
         {
           "name": "1. Matriz São José",
@@ -877,7 +885,7 @@
             "Domingo: Missas às 10h30 (com crianças) e às 18h\nQuarta-feira: Missa às 19h\nSexta-feira: Missa às 19h\nSábado: Missa às 19h30\nTodo dia 19: Missa votiva a São José às 19h",
             "Terço dos Homens: segundas–feiras às 20h\nEscola de Oração: sábados às 17h\nGrupo de Oração Chamas da Esperança aos terceiros sábados do mês às 17h30\nBatizados: 4º Domingo de cada mês"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São José\n Rua Polidoro de Freitas Rodrigues, 736 – Vigilato Pereira"
         },
         {
           "name": "2. Comunidade Nossa Senhora das Graças",
@@ -891,42 +899,42 @@
     {
       "name": "Paroquia Sao Judas Tadeu Uberlandia",
       "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-uberlandia/",
-      "address": null,
+      "address": "Rua Mário Paganini, 220 – Roosevelt",
       "communities": [
         {
           "name": "1. Matriz de São Judas Tadeu",
           "schedule": [
             "Toda segunda-feira, Missa Devocional à Nossa Senhora Desatadora dos Nós com queima de pedidos, às 19h.\n Toda quarta-feira, Novena Perpétua em honra de São Judas Tadeu, às 19h.\n Toda 3ª quinta-feira do mês – Adoração Eucarística das 19h30 às 21h30\n Todo dia 28, Dia Votivo a São Judas Tadeu – Missas às 07h / 16h (Missa dos Enfermos com Unção do Óleo Santo) e 19h."
           ],
-          "address": null
+          "address": "1. Matriz de São Judas Tadeu\n Av. Morum Bernardino, 600 – Roosevelt\n Domingo: 07h, 9h30, 16h e 19h\n Segunda à Sexta-feira: 7h e 19h\n Sábado: 07h"
         }
       ]
     },
     {
       "name": "Paroquia Sao Vicente De Paulo",
       "link": "https://elodafe.com.br/paroquia-sao-vicente-de-paulo/",
-      "address": null,
+      "address": "Rua Plutão, 450 – Jardim Brasília – 38401-394 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz São Vicente de Paulo",
           "schedule": [
             "Domingo: 7h30 e 19h30\n Terça, Quinta: 19h30\n Toda 1ª sexta-feira de cada mês: 19h30\n Todo dia 27 de cada mês,  em louvor a São Vicente: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São Vicente de Paulo\n Rua Nosso Lar, 371 – Jardim Brasília"
         },
         {
           "name": "2. Comunidade Divino Pai Eterno",
           "schedule": [
             "Domingo: 09h\nQuarta-feira: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Divino Pai Eterno\n Rua Constelação, 1635 – Maravilha"
         },
         {
           "name": "3. Comunidade São Bento",
           "schedule": [
             "Sábado: 19h30"
           ],
-          "address": null
+          "address": "3. Comunidade São Bento\n Rua Mateus, 783 – Maravilha"
         },
         {
           "name": "4. Comunidade São José",
@@ -940,28 +948,28 @@
     {
       "name": "Paroquia Nossa Senhora Das Gracas Da Medalha Milagrosa",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-gracas-da-medalha-milagrosa/",
-      "address": null,
+      "address": "Rua Acre, 865 – Nossa Senhora das Graças – 38402-022 – Uberlândia/",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora das Graças da Medalha Milagrosa",
           "schedule": [
             "Domingo: 8h e 19h30\n Terça e Sexta: 19h30\n Todo dia 27: 15h e 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora das Graças da Medalha Milagrosa\n Rua Acre, 865 – Nossa Senhora das Graças"
         },
         {
           "name": "2. Comunidade Menino Jesus de Praga",
           "schedule": [
             "Quinta-feira: 19h30\n Sábado: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Menino Jesus de Praga\n Rua Ceres, 1470 – Minas Gerais"
         },
         {
           "name": "3. Comunidade Santa Rita de Cássia",
           "schedule": [
             "Sábado: 18h\n Todo dia 22: 19h30"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Rita de Cássia\n Rua Francisco Vinagre, 2008 – Minas Gerais"
         },
         {
           "name": "4. Comunidade São José Operário",
@@ -975,28 +983,28 @@
     {
       "name": "Paroquia Santa Rosa De Lima",
       "link": "https://elodafe.com.br/paroquia-santa-rosa-de-lima/",
-      "address": null,
+      "address": "Rua Aracajú, 310 – Santa Rosa – 38401-254 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Santa Rosa de Lima",
           "schedule": [
             "Domingo: 07h30 e 19h30\nQuarta-feira: 19h30\nTodo dia 23: 16h Missa da saúde / 19h30 Missa devocional"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Santa Rosa de Lima\n Rua Florianópolis, 425 – Bairro Santa Rosa"
         },
         {
           "name": "2. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 9h"
           ],
-          "address": null
+          "address": "2. Comunidade Imaculada Conceição\n Rua Wilson Pantaleão, 38 – Pacaembu"
         },
         {
           "name": "3. Comunidade Sagrado Coração de Jesus",
           "schedule": [
             "Domingo: 18h\n1º Sexta-feira do mês: 18h30 terço e Missa devocional"
           ],
-          "address": null
+          "address": "3. Comunidade Sagrado Coração de Jesus\n Rua Dezoito de Abril, 896 – Pacaembu"
         },
         {
           "name": "4. Comunidade São Miguel Arcanjo",
@@ -1010,7 +1018,7 @@
     {
       "name": "Paroquia Sagrada Familia",
       "link": "https://elodafe.com.br/paroquia-sagrada-familia/",
-      "address": null,
+      "address": "Rua Maria Aparecida Peixoto, 250 – Esperança",
       "communities": [
         {
           "name": "1. Matriz Sagrada Família",
@@ -1025,7 +1033,7 @@
           "schedule": [
             "Terça-feira: 19h30 – Novena Perpetua de Santo Expedito\nDomingo: 17h30\nTodo dia 19 de cada mês\n19h30: Missa da Saúde e votiva a Santo Expedito"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora da Esperança\nRua Maria Aparecida Peixoto, 250 – Esperança\nSábado: 19h30\nTodo dia 18 de cada mês\n18h30: Adoração ao Santíssimo Sacramento\n19h30: Missa da Saúde."
         },
         {
           "name": "8. Comunidade Cristo Redentor",
@@ -1039,21 +1047,21 @@
     {
       "name": "Quase Paroquia Divino Espirito Santo Paraclito",
       "link": "https://elodafe.com.br/quase-paroquia-divino-espirito-santo-paraclito/",
-      "address": null,
+      "address": "Rua São Francisco, 320, Bairro Maria Eugenia",
       "communities": [
         {
           "name": "1. Matriz Divino Espírito Santo Paráclito",
           "schedule": [
             "Domingo: 10h e 18h \nQuartas e Sextas-feiras: 19h30"
           ],
-          "address": null
+          "address": "1. Matriz Divino Espírito Santo Paráclito \nRua São Francisco, 320, Bairro Maria Eugenia"
         },
         {
           "name": "2. Comunidade Santo Expedito",
           "schedule": [
             "Sábado: 19h30\nTodo dia 19: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Santo Expedito \nRua Israel Pinheiro, 1908, Bairro Brasília"
         },
         {
           "name": "3. Comunidade Imaculada Conceição",
@@ -1067,7 +1075,7 @@
     {
       "name": "Paroquia Sao Joao Batista",
       "link": "https://elodafe.com.br/paroquia-sao-joao-batista/",
-      "address": null,
+      "address": "Rua Tobias Lucas da Silva, 25, Santa Luzia da Boa Vista",
       "communities": [
         {
           "name": "General Schedule",
@@ -1081,21 +1089,21 @@
     {
       "name": "Paroquia Senhor Bom Jesus Da Cana Verde",
       "link": "https://elodafe.com.br/paroquia-senhor-bom-jesus-da-cana-verde/",
-      "address": null,
+      "address": "Praça Padre Nilo Tabuquini 34 – Centro – 38440-051 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Senhor Bom Jesus da Cana Verde",
           "schedule": [
             "Domingo: 7h, 9h, e 19h\nSegunda a sábado: 06h30 e 19h"
           ],
-          "address": null
+          "address": "ADMINISTRAÇÃO ECLESIÁSTICA\n Pároco: Pe. Robson Barbosa de Oliveira\nVigário Paroquial: Pe. Diogo Naves de Oliveira\nDiáconos Permanentes: Diác. Carlos Alberto Coutinho / Diác. Luciano Mota Peixoto / Diác. Luiz Roberto França Júnior"
         }
       ]
     },
     {
       "name": "Paroquia Nossa Senhora De Fatima Araguari",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-de-fatima-araguari/",
-      "address": null,
+      "address": "Rua do Contorno, 250 – Morada de Fátima",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora de Fátima",
@@ -1110,35 +1118,35 @@
           "schedule": [
             "Domingo: 7h\nSábado: 19h\nTodo dia 08: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Nossa Senhora Desatadora dos Nós\n Rua do Contorno, 250 – Morada de Fátima"
         },
         {
           "name": "3. Comunidade São Francisco de Assis",
           "schedule": [
             "Domingo: 17h"
           ],
-          "address": null
+          "address": "3. Comunidade São Francisco de Assis\n Rua Doutor Canabrava, 170 – Centro"
         },
         {
           "name": "4. Comunidade Nossa Senhora Aparecida",
           "schedule": [
             "2ª sexta-feira do mês às 20h"
           ],
-          "address": null
+          "address": "3. Comunidade São Francisco de Assis\n Rua Doutor Canabrava, 170 – Centro"
         },
         {
           "name": "5. Comunidade São João Batista",
           "schedule": [
             "2ª e 4ª sexta feira do mês às 20h"
           ],
-          "address": null
+          "address": "3. Comunidade São Francisco de Assis\n Rua Doutor Canabrava, 170 – Centro"
         },
         {
           "name": "6. Comunidade Santa Cruz",
           "schedule": [
             "1ª e 3ª sexta-feira do mês às 20h"
           ],
-          "address": null
+          "address": "3. Comunidade São Francisco de Assis\n Rua Doutor Canabrava, 170 – Centro"
         },
         {
           "name": "7. Comunidade São Frei Galvão",
@@ -1152,42 +1160,42 @@
     {
       "name": "Paroquia Sao Jose Operario",
       "link": "https://elodafe.com.br/paroquia-sao-jose-operario/",
-      "address": null,
+      "address": "Rua Padre Gil, 42 – Jardim Regina – 38440-274 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Rainha da Paz",
           "schedule": [
             "Domingo: 9h30 e 19h30\n Segunda, Quarta, Quinta e Sexta: 19h30"
           ],
-          "address": null
+          "address": "CONTATO\nRua Padre Gil, 42 – Jardim Regina – 38440-274 – Araguari/MG\nTelefone: (34) 3241-5928/ E-mail: [email protected]"
         },
         {
           "name": "2. Comunidade Santa Clara de Assis",
           "schedule": [
             "Domingo: 8h"
           ],
-          "address": null
+          "address": "2. Comunidade Santa Clara de Assis\n Rua São Luiz, 400 – Aeroporto"
         },
         {
           "name": "3. Comunidade Nossa Senhora das Graças",
           "schedule": [
             "Sábado: 19h"
           ],
-          "address": null
+          "address": "3. Comunidade Nossa Senhora das Graças\n Rua Gonçalves Dias, 281"
         },
         {
           "name": "4. Comunidade Nossa Senhora da Abadia",
           "schedule": [
             "Todo dia 15: 19h\n Todo Domingo: 18h"
           ],
-          "address": null
+          "address": "4. Comunidade Nossa Senhora da Abadia\n Rua Newton Atheniel, 260 – Jardim Milenium"
         },
         {
           "name": "5. Comunidade Santa Rita de Cássia",
           "schedule": [
             "Última sexta-feira do mês: 20h"
           ],
-          "address": null
+          "address": "4. Comunidade Nossa Senhora da Abadia\n Rua Newton Atheniel, 260 – Jardim Milenium"
         },
         {
           "name": "6. Comunidade Imaculada Conceição",
@@ -1201,7 +1209,7 @@
     {
       "name": "Paroquia Nossa Senhora Do Rosario E Sao Benedito",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-rosario-e-sao-benedito/",
-      "address": null,
+      "address": "Rua Padre Gusmão, 132 – Paraíso",
       "communities": [
         {
           "name": "General Schedule",
@@ -1216,14 +1224,14 @@
     {
       "name": "Paroquia Nossa Senhora Aparecida",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-aparecida/",
-      "address": null,
+      "address": "Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora Aparecida",
           "schedule": [
             "Domingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora Aparecida\n Rua Jaime Gomes, 1665 – Bairro Santa Helena"
         },
         {
           "name": "2. Comunidade Santa Edwiges",
@@ -1237,63 +1245,63 @@
     {
       "name": "Paroquia Nossa Senhora Da Penha",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-penha/",
-      "address": null,
+      "address": "Rua Coromandel, 1259 – Amorim – 38446-093 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora da Penha",
           "schedule": [
             "Domingo: 7h30 e 19h30\nQuinta-feira: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Nossa Senhora da Penha\n Rua Coromandel, 1259 – Bairro Amorim"
         },
         {
           "name": "2. Comunidade Santa Luzia",
           "schedule": [
             "Domingo: 18h\nSexta: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Santa Luzia\n Rua Raul José de Belém, 2850 – Idelmino"
         },
         {
           "name": "3. Comunidade Santa Tereza de Ávila",
           "schedule": [
             "Domingo: 9h\nQuarta: 19h30"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Tereza de Ávila\n Rua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "4. Comunidade Nossa Senhora da Abadia",
           "schedule": [
             "Sábado: 20h (terceiro do mês)"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Tereza de Ávila\n Rua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "5. Comunidade São João Batista",
           "schedule": [
             "Sábado: 20h (terceiro do mês)"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Tereza de Ávila\n Rua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "6. Comunidade Santa Helena",
           "schedule": [
             "Sábado: 20h (primeiro do mês)"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Tereza de Ávila\n Rua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "7. Comunidade Nossa Senhora Aparecida",
           "schedule": [
             "Sábado: 20h (segundo do mês)"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Tereza de Ávila\n Rua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "8. Comunidade São Sebastião",
           "schedule": [
             "Sábado: 20h (último do mês)"
           ],
-          "address": null
+          "address": "3. Comunidade Santa Tereza de Ávila\n Rua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "9. Comunidade Nossa Senhora de Fátima",
@@ -1307,7 +1315,7 @@
     {
       "name": "Paroquia Sao Judas Tadeu Araguari",
       "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-araguari/",
-      "address": null,
+      "address": "Rua das Araras, 840 – Independência – 38443-084 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz São Judas Tadeu",
@@ -1317,42 +1325,42 @@
             "Todo dia 28: 7h; 16h; e 19h",
             "Primeira sexta-feira do mês: 15h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz São Judas Tadeu\n Rua das Araras, 840 – Bairro Independência"
         },
         {
           "name": "3. Comunidade São Caetano",
           "schedule": [
             "Sábado: 18h"
           ],
-          "address": null
+          "address": "Rua Ana Batista, 425 – Vieno"
         },
         {
           "name": "4. Comunidade São Cristóvão",
           "schedule": [
             "Domingo: 10h\n Quarta: 19h30"
           ],
-          "address": null
+          "address": "4. Comunidade São Cristóvão\n Rua dos Angicos, 225 – São Sebastião"
         },
         {
           "name": "5. Comunidade Santa Luzia",
           "schedule": [
             "Quinta-feira: 19h30"
           ],
-          "address": null
+          "address": "4. Comunidade São Cristóvão\n Rua dos Angicos, 225 – São Sebastião"
         },
         {
           "name": "6. Comunidade São José",
           "schedule": [
             "Último sábado do mês às 20h"
           ],
-          "address": null
+          "address": "4. Comunidade São Cristóvão\n Rua dos Angicos, 225 – São Sebastião"
         },
         {
           "name": "7. Comunidade Nossa Senhora Abadia",
           "schedule": [
             "Segundo sábado do mês: 20h"
           ],
-          "address": null
+          "address": "4. Comunidade São Cristóvão\n Rua dos Angicos, 225 – São Sebastião"
         },
         {
           "name": "8. Comunidade Santa Rita de Cássia",
@@ -1366,21 +1374,21 @@
     {
       "name": "Paroquia Sao Sebastiao Araguari",
       "link": "https://elodafe.com.br/paroquia-sao-sebastiao-araguari/",
-      "address": null,
+      "address": "Rua Luiz Carlos, 613 – Santiago – 38444-328 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz São Sebastião",
           "schedule": [
             "Domingo: 9h30 e 19h\nSegunda-feira: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n1. Matriz São Sebastião\nRua Luiz Carlos, 613 – Santiago"
         }
       ]
     },
     {
       "name": "Paroquia Nossa Senhora Mae Dos Homens Estrela Do Sul",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-mae-dos-homens-estrela-do-sul/",
-      "address": null,
+      "address": "Rua Reverendo John Boyle, 17 – Bairro Barro Branco",
       "communities": [
         {
           "name": "CONTATO\n Praça da Matriz, 145 – Centro – 38525-000 – Estrela do Sul/MG\n Telefone: (34) 3843-1253",
@@ -1450,49 +1458,49 @@
     {
       "name": "Paroquia Santana Indianopolis",
       "link": "https://elodafe.com.br/paroquia-santana-indianopolis/",
-      "address": null,
+      "address": "Praça Urias José da Silva – Centro – 38490-000 – Indianópolis/MG",
       "communities": [
         {
           "name": "1. Matriz Sant’Ana",
           "schedule": [
             "Todo dia 26 do mês: 19h30 (novena perpetua à Sant’Ana)\nToda quarta-feira: 19h30\nDomingo: 09h"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Sant’Ana\n Rua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "2. Comunidade Santa Rita de Cássia",
           "schedule": [
             "Domingo: 19h30\n Sexta: 19h30\n Todo dia 22 do mês: 19h30 (novena perpétua à Santa Rita de Cássia)"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Sant’Ana\n Rua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "3. Comunidade Santa Luzia",
           "schedule": [
             "Terceira quinta-feira do mês: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Sant’Ana\n Rua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "4. Comunidade São José",
           "schedule": [
             "Sexta: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Sant’Ana\n Rua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "5. Comunidade São Sebastião",
           "schedule": [
             "Primeira quinta-feira do mês: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Sant’Ana\n Rua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "6. Comunidade São João Batista",
           "schedule": [
             "Toda terceira terça-feira do mês: 19h30"
           ],
-          "address": null
+          "address": "IGREJAS E HORÁRIO DE MISSAS\n 1. Matriz Sant’Ana\n Rua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "7. Comunidade Santa Luzia",
@@ -1506,7 +1514,7 @@
     {
       "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-tupaciguara/",
-      "address": null,
+      "address": "Rua Crispim Lourenço Borges, 35 – Morada Nova",
       "communities": [
         {
           "name": "General Schedule",
@@ -1520,7 +1528,7 @@
     {
       "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
       "link": "https://elodafe.com.br/paroquia-sao-francisco-das-chagas-monte-alegre-de-minas/",
-      "address": null,
+      "address": "Rua dos Angicos, 593 – Bairro: Paloma",
       "communities": [
         {
           "name": "General Schedule",
@@ -1534,7 +1542,7 @@
     {
       "name": "Paroquia Nossa Senhora Da Guia Arapora",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-guia-arapora/",
-      "address": null,
+      "address": "Rua Pedro Fedrigo, 02 – Alvorada",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora da Guia",
@@ -1548,28 +1556,28 @@
           "schedule": [
             "Domingo: 19h30\nToda terça-feira às 19h\n Primeira sexta-feira do mês: 19h"
           ],
-          "address": null
+          "address": "2. Comunidade Sagrado Coração de Jesus\n Rua Pedro Fedrigo, 02 – Alvorada"
         },
         {
           "name": "3. Comunidade São José",
           "schedule": [
             "Todo terceiro sábado do mês: 19h30"
           ],
-          "address": null
+          "address": "2. Comunidade Sagrado Coração de Jesus\n Rua Pedro Fedrigo, 02 – Alvorada"
         },
         {
           "name": "4. Comunidade Passa Três",
           "schedule": [
             "Todo quarto domingo do mês: 15h"
           ],
-          "address": null
+          "address": "2. Comunidade Sagrado Coração de Jesus\n Rua Pedro Fedrigo, 02 – Alvorada"
         },
         {
           "name": "5. Comunidade Nossa Senhora de Nazaré",
           "schedule": [
             "Bairro Primavera\n Segundo domingo do mês: 15h30"
           ],
-          "address": null
+          "address": "Bairro Primavera\n Segundo domingo do mês: 15h30"
         }
       ]
     }
