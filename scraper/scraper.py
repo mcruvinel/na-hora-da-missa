@@ -6,13 +6,57 @@ import os
 import re
 from datetime import datetime
 
+def extract_church_address(church_soup):
+    """
+    Function to extract the church address from the page content.
+    """
+    # Get the text content of the page
+    page_text = church_soup.text
+
+    # 1. Find the section with the word "CONTATO" and look for an address
+    contato_match = re.search(r'CONTATO\s*\n(Rua[^,\n]{2,50},?\s*\d+[^,\n]{0,50}(?:-|,)[^,\n]{2,50}(?:/[A-Z]{2})?)', page_text)
+    if contato_match:
+        return contato_match.group(1).strip()
+    
+    # 2. Find for a pattern with street, number, and neighborhood
+    address_match = re.search(r'(Rua[^,\n]{2,50},?\s*\d+\s*(?:-|–)\s*[^,\n]{2,50}(?:/[A-Z]{2})?)', page_text)
+    if address_match:
+        return address_match.group(1).strip()
+    
+    # 3. Find a line that starts with "Rua" or "Av" and contains a number
+    lines = page_text.split('\n')
+    for line in lines:
+        line = line.strip()
+        if re.match(r'^Rua[^,\n]{2,50},?\s*\d+', line) and len(line) < 100:
+            return line
+        
+        # For avenuue addresses
+        if re.match(r'^Av[^,\n]{2,50},?\s*\d+', line) and len(line) < 100:
+            return line
+    
+    # 4. Find the word "CONTATO" and look for the next 3 lines
+    for i, line in enumerate(lines):
+        if "CONTATO" in line and i < len(lines) - 3:
+            for j in range(1, 4):  # Verify the next 3 lines
+                if i + j < len(lines):
+                    next_line = lines[i + j].strip()
+                    if re.match(r'Rua|Av', next_line) and re.search(r'\d+', next_line):
+                        return next_line
+    
+    # 5. Find a pattern with street, number, and neighborhood
+    address_pattern = re.search(r'(?:Rua|Av|Avenida|R\.|Praça)[^,\n]{2,50},?\s*\d+[^,;\n]{0,50}(?:-|–)[^,;\n]{2,50}', page_text)
+    if address_pattern:
+        return address_pattern.group(0).strip()
+    
+    return None
+
 def is_valid_church(church):
     """
     Check if a church entry is valid.
     A church is considered valid if it has a name, link, and at least one community with a valid schedule.
     """
     if not church.get("name") or not church.get("link"):
-        return False  # Church must have a name and link
+        return True  # Church must have a name and link
     
     # Check if at least one community has a valid schedule
     for community in church.get("communities", []):
@@ -60,6 +104,7 @@ def scrape_churches():
             print(f"🏛 ({idx+1}/{len(church_links)}) Accessing {name}")
             if name in ["Paróquias", "Regimentos Paroquiais"]:
                 continue  # Skip generic names
+                
             # Access the church page
             time.sleep(1)  # Pause to avoid overloading the server
             church_response = requests.get(link, headers=headers)
@@ -70,11 +115,8 @@ def scrape_churches():
                 
             church_soup = BeautifulSoup(church_response.text, "html.parser")
             
-            # Extract the church address
-            church_address = None
-            address_element = church_soup.find('p', class_='address') or church_soup.find('address')
-            if address_element:
-                church_address = address_element.text.strip()
+            # Extract the church address (método melhorado)
+            church_address = extract_church_address(church_soup)
             
             # Look for headers (h2, h3, h4) that might indicate community sections
             communities = []
@@ -97,7 +139,9 @@ def scrape_churches():
                 # Check if it's a community title
                 if (re.match(r'^\d+\.?\s+', text) or 
                     'Comunidade' in text or 
-                    'Igreja' in text or 
+                    'Igreja' in text or
+                    'Santuário' in text or 
+                    'Catedral' in text or
                     'Capela' in text or
                     'Matriz' in text or
                     'Paróquia' in text) and len(text) < 200:
@@ -105,10 +149,19 @@ def scrape_churches():
                     # If we were processing a community, save it
                     if current_community:
                         if community_schedule:  # Only add if there are schedules
+                            # Try to find the address of the community
+                            community_address = None
+                            for sibling in p.previous_siblings:
+                                if sibling.name and sibling.text and ('endereço' in sibling.text.lower() or 
+                                                                    'rua' in sibling.text.lower() or 
+                                                                    'av' in sibling.text.lower()):
+                                    community_address = sibling.text.strip()
+                                    break
+                            
                             communities.append({
                                 "name": current_community,
                                 "schedule": community_schedule,
-                                "address": None  # Placeholder for community address
+                                "address": community_address  # Append the community address
                             })
                         community_schedule = []
                     
