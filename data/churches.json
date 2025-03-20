@@ -1,6 +1,6 @@
 {
-  "collection_date": "2025-03-19 22:06:20",
-  "total_churches": 52,
+  "collection_date": "2025-03-19 23:27:25",
+  "total_churches": 44,
   "churches": [
     {
       "name": "Paroquia Nossa Senhora Das Dores",
@@ -172,24 +172,6 @@
           "name": "Comunidade São Brás e Nossa Senhora da Visitação",
           "schedule": [
             "Domingo às 9h30"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Paroquia Sao Francisco",
-      "link": "https://elodafe.com.br/paroquia-sao-francisco/",
-      "address": null,
-      "communities": [
-        {
-          "name": "Paroquia Sao Francisco",
-          "schedule": [
-            "Segunda a sexta-feira das 13h às 18h",
-            "HORÁRIOS DE MISSAS",
-            "Domingo: 8h30.",
-            "Domingo: 18h.",
-            "Sábado: 19h30."
           ],
           "address": null
         }
@@ -1065,20 +1047,6 @@
       ]
     },
     {
-      "name": "Paroquia Sao Joao Batista",
-      "link": "https://elodafe.com.br/paroquia-sao-joao-batista/",
-      "address": null,
-      "communities": [
-        {
-          "name": "Paroquia Sao Joao Batista",
-          "schedule": [
-            "IGREJAS E HORÁRIO DE MISSAS"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
       "name": "Paroquia Senhor Bom Jesus Da Cana Verde",
       "link": "https://elodafe.com.br/paroquia-senhor-bom-jesus-da-cana-verde/",
       "address": null,
@@ -1193,21 +1161,6 @@
           "name": "6. Comunidade Imaculada Conceição",
           "schedule": [
             "Terceiro sábado do mês: 20h"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Paroquia Nossa Senhora Do Rosario E Sao Benedito",
-      "link": "https://elodafe.com.br/paroquia-nossa-senhora-do-rosario-e-sao-benedito/",
-      "address": null,
-      "communities": [
-        {
-          "name": "Paroquia Nossa Senhora Do Rosario E Sao Benedito",
-          "schedule": [
-            "Atendimento: Segunda das 13h às 17h. Terça à Sexta das 08h às 11h e das 13h às 17h.",
-            "IGREJAS E HORÁRIO DE MISSAS"
           ],
           "address": null
         }
@@ -1504,34 +1457,6 @@
       ]
     },
     {
-      "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
-      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-tupaciguara/",
-      "address": null,
-      "communities": [
-        {
-          "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
-          "schedule": [
-            "IGREJAS E HORÁRIO DE MISSAS"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
-      "link": "https://elodafe.com.br/paroquia-sao-francisco-das-chagas-monte-alegre-de-minas/",
-      "address": null,
-      "communities": [
-        {
-          "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
-          "schedule": [
-            "IGREJAS E HORÁRIO DE MISSAS"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
       "name": "Paroquia Nossa Senhora Da Guia Arapora",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-guia-arapora/",
       "address": null,
@@ -1572,12 +1497,6 @@
           "address": null
         }
       ]
-    },
-    {
-      "name": "Paróquias",
-      "link": "https://elodafe.com.br/category/paroquias/",
-      "address": null,
-      "communities": []
     }
   ]
 }
