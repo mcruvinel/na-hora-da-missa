@@ -8,11 +8,9 @@ Este repositório contém um site estático que exibe horários de missas das pa
 - Os dados são coletados através de um scraper
 - O arquivo `data/paroquias.json` contém todos os dados exibidos no site
 
-## Como mantenho os dados
+## Como mantenho os dados atualizados
 
 - Todos os dias, as 03:00AM - UTC-03:00, o horarío é atualizado com o portal da diocese de Uberlândia.
-
-5. O GitHub Pages atualizará automaticamente o site com os novos dados
 
 ## Frequência de atualização
 
