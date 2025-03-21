@@ -2,6 +2,18 @@ document.addEventListener('DOMContentLoaded', function () {
     const readingsContainer = document.getElementById('readings-container');
     const lastUpdate = document.getElementById('last-update');
 
+    // Add reference in the header
+    const header = document.createElement('div');
+    header.className = 'bg-blue-900 text-white py-8 text-center dark:bg-gray-800';
+    header.innerHTML = '<p class="text-sm text-white-700 dark:text-white-300">Desenvolvido por <a href="https://github.com/mcruvinel" class="text-blue-500 hover:underline" target="_blank">mcruvinel</a></p>';
+    document.body.insertBefore(header, document.body.firstChild);
+
+    // Add reference in the footer
+    const footer = document.createElement('footer');
+    footer.className = 'bg-blue-900 text-white py-8 text-center dark:bg-gray-800';
+    footer.innerHTML = '<p class="text-sm text-white-700 dark:text-white-300">Código aberto disponível no <a href="https://github.com/mcruvinel" class="text-blue-500 hover:underline" target="_blank">GitHub</a></p>';
+    document.body.appendChild(footer);
+
     // Load data from JSON file
     fetch('data/daily-readings.json')
         .then(response => {
