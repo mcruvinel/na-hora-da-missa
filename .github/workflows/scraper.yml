@@ -27,16 +27,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      # 4. Run the scraper
-      - name: Run scraper
+      # 4. Run the main scraper
+      - name: Run main scraper
         run: |
           python scraper/scraper.py
 
-      # 5. Commit and push the updated data
+      # 5. Run the daily liturgy scraper
+      - name: Run daily liturgy scraper
+        run: |
+          python scraper/daily_liturgy.py
+
+      # 6. Commit and push the updated data
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "Update data via GitHub Actions"
+          git commit -m "Update data via GitHub Actions" || echo "No changes to commit"
           git push
