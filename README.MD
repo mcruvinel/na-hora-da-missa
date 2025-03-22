@@ -24,6 +24,6 @@ Recomenda-se atualizar os dados pelo menos uma vez por mês, ou sempre que houve
 - `data/paroquias.json` - Dados coletados pelo scraper
 - `scraper.py` - Script para coletar os dados atualizados
 
-## Licença
+Duvidas ou sugestões: contato.nahoradamissa@gmail.com
 
 Este projeto é para uso não-comercial. Os dados pertencem às respectivas paróquias e são coletados apenas para facilitar o acesso às informações públicas.
