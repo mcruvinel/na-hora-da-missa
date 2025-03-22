@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const lastUpdate = document.getElementById('last-update');
 
     // Load data from JSON file
-    fetch('data/daily-readings.json')
+    fetch('data/leitura-diaria.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Arquivo de dados não encontrado.');

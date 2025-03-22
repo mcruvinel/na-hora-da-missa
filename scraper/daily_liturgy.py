@@ -80,7 +80,7 @@ def scrape_daily_readings():
     if readings:
         # Save the readings to a JSON file
         os.makedirs("data", exist_ok=True)
-        with open("data/daily-readings.json", "w", encoding="utf-8") as f:
+        with open("data/leitura-diaria.json", "w", encoding="utf-8") as f:
             json.dump({
                 "collection_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                 "leituras": readings
