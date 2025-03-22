@@ -20,7 +20,6 @@ Recomenda-se atualizar os dados pelo menos uma vez por mês, ou sempre que houve
 ## Estrutura do projeto
 
 - `index.html` - Página principal do site
-- ` `
 - `css/style.css` - Estilos do site
 - `js/app.js` - Script para carregar e exibir os dados dos horários de missas
 - `js/daily-readings.js - Script para carregar e exibir os dados das leituras litúrgicas diárias.`
