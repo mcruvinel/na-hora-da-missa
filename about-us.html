@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre - Na Hora da Missa</title>
+    <!-- Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <!-- Estilos personalizados -->
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+        .title-font {
+            font-family: 'Playfair Display', serif;
+        }
+        /* Fundo com padrão SVG para o body */
+        .bg-pattern {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill='%23000000' fill-opacity='0.1'%3E%3Cpath d='M50 0h50v50H50zM0 50h50v50H0z'/%3E%3Cpath d='M50 25h25v25H50zM25 50h25v25H25z'/%3E%3C/g%3E%3C/svg%3E");
+            background-size: 10px 10px;
+        }
+        /* Fundo do header com SVG temático */
+        .header-bg {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cdefs%3E%3ClinearGradient id='gradient' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%230e2a47'/%3E%3Cstop offset='50%25' stop-color='%234f46e5'/%3E%3Cstop offset='100%25' stop-color='%239f7aea'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='url(%23gradient)' fill-opacity='0.9' d='M0,256L48,245.3C96,235,192,213,288,197.3C384,181,480,171,576,165.3C672,160,768,160,864,138.7C960,117,1056,75,1152,74.7C1248,75,1344,117,1392,138.7L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z'%3E%3C/path%3E%3C/svg%3E");
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9W8XHMKR65"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-9W8XHMKR65');
+    </script>
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Sobre - Na Hora da Missa">
+    <meta property="og:description" content="Saiba mais sobre o site Na Hora da Missa e sua missão de ajudar os fiéis a encontrar horários de missas e leituras litúrgicas.">
+</head>
+<body class="bg-blue-900 dark:bg-blue-900 bg-pattern">
+    <!-- Header -->
+    <header class="header-bg text-white py-12 text-center relative overflow-hidden">
+        <!-- Efeito de luz dourada -->
+        <div class="absolute inset-0 bg-gradient-to-r from-yellow-400 to-yellow-600 opacity-20 mix-blend-overlay"></div>
+        <h1 class="font-bold mb-4 mt-4 title-font text-5xl relative z-10">Sobre o Na Hora da Missa</h1>
+        <p class="text-lg relative z-10">Conheça mais sobre o projeto Na Hora da Missa.</p>
+        <!-- Card com informações do dia -->
+        <div class="inline-flex items-center bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-4 rounded-lg mb-1 border border-white border-opacity-20 relative z-10">
+            <div class="flex items-center mr-4">
+                <i class="fas fa-calendar-alt text-yellow-300 text-3xl mr-2"></i>
+                <div id="current-date" class="text-white text-xl"></div>
+            </div>
+            <div id="liturgical-season" class="px-4 py-2 bg-purple-500 text-white rounded-full text-lg">
+                Tempo Litúrgico
+            </div>
+        </div>
+        <!-- Botões lado a lado -->
+        <div class="flex justify-center space-x-4 relative z-10">
+            <!-- Botão para leituras do dia -->
+            <a href="daily-readings.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
+                <i class="fas fa-book-open mr-2"></i>
+                <span>Leituras do dia</span>
+            </a>
+            <!-- Botão para horários de missas -->
+            <a href="index.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
+                <i class="fas fa-church mr-2"></i>
+                <span>Ver Horários de Missas</span>
+            </a>
+        </div>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <div class="container mx-auto px-4 py-8">
+        <main class="bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-8 rounded-lg shadow-lg text-white">
+            <h2 class="text-3xl font-bold mb-4">Sobre o Na Hora da Missa</h2>
+            <p class="mb-4">
+                O <strong>Na Hora da Missa</strong> nasceu com um propósito simples, mas essencial: facilitar a vida dos fiéis que desejam encontrar os horários das missas em Uberlândia e acompanhar as leituras litúrgicas diárias. Acreditamos que a fé deve ser acessível e que a tecnologia pode ser uma aliada na vivência religiosa, conectando as pessoas à sua espiritualidade de forma prática e intuitiva.
+            </p>
+
+            <h2 class="text-3xl font-bold mb-4">Nossa Missão</h2>
+            <p class="mb-4">
+                Nossa missão é ajudar católicos a se organizarem melhor para participar das celebrações e refletir sobre as leituras do dia. Muitas vezes, encontrar o horário das missas ou as leituras diárias pode ser um desafio. Foi pensando nisso que criamos este site, garantindo que qualquer pessoa tenha acesso rápido e atualizado a essas informações essenciais para a caminhada cristã.
+            </p>
+
+            <h2 class="text-3xl font-bold mb-4">O Que Oferecemos</h2>
+            <p class="mb-4">
+                No <strong>Na Hora da Missa</strong>, atualizamos diariamente:
+            </p>
+            <ul class="list-disc list-inside mb-4">
+                <li>Os horários e locais das missas em Uberlândia, para que você possa encontrar a paróquia mais próxima ou um horário que encaixe na sua rotina.</li>
+                <li>As leituras do dia, incluindo a primeira leitura, o salmo responsorial e o evangelho, permitindo que você acompanhe a liturgia onde estiver.</li>
+            </ul>
+            <p class="mb-4">
+                Dessa forma, seja no início do dia, antes da missa ou em um momento de oração pessoal, você pode ter acesso às leituras sagradas e se preparar melhor espiritualmente.
+            </p>
+
+            <h2 class="text-3xl font-bold mb-4">Um Serviço Gratuito e Comunitário</h2>
+            <p class="mb-4">
+                Este é um projeto sem fins lucrativos, criado para servir a comunidade católica. Não temos vínculos oficiais com a Diocese, e todas as informações são organizadas e disponibilizadas de forma independente, com o único objetivo de ajudar os fiéis.
+            </p>
+            <p class="mb-4">
+                Acreditamos que a tecnologia pode ser uma ferramenta para o bem, e queremos usá-la para aproximar as pessoas da fé, tornando o acesso às missas e às leituras diárias mais prático e acessível. Nosso compromisso é garantir que essa plataforma continue sendo útil para todos que desejam fortalecer sua espiritualidade no dia a dia.
+            </p>
+
+            <h2 class="text-3xl font-bold mb-4">Como Funciona?</h2>
+            <p class="mb-4">
+                O site é atualizado automaticamente todos os dias, coletando os horários de missa e as leituras litúrgicas diretamente de fontes confiáveis. Assim, garantimos que você sempre tenha à disposição as informações mais recentes, sem a necessidade de buscar em várias fontes diferentes.
+            </p>
+
+            <h2 class="text-3xl font-bold mb-4">Entre em Contato</h2>
+            <p class="mb-4">
+                Se você tem sugestões, encontrou alguma informação incorreta ou deseja contribuir com o projeto, estamos sempre abertos a melhorias! Entre em contato conosco pelo GitHub:
+                <a href="https://github.com/mcruvinel" class="text-yellow-500 hover:text-yellow-400 transition-colors" target="_blank">github.com/mcruvinel</a>.
+            </p>
+            <p class="mb-4">
+                Ficamos felizes em poder oferecer esse serviço e esperamos que ele seja útil para a sua vida de fé. Que Deus abençoe sua caminhada!
+            </p>
+        </main>
+    </div>
+
+    <!-- Rodapé -->
+    <footer class="bg-blue-900 text-white py-6 text-center mt-8 dark:bg-gray-800">
+        <p class="text-sm">Atualizado diariamente. Este site não tem vínculo oficial com a Diocese.</p>
+        <p class="text-sm mt-2">Desenvolvido por <a href="https://github.com/mcruvinel" class="text-blue-300 hover:underline" target="_blank">mcruvinel</a></p>
+    </footer>
+
+    <!-- Scripts -->
+        <!-- Scripts -->
+        <script>
+            // Função para formatar a data atual
+            function formatCurrentDate() {
+                const months = [
+                    'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+                    'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
+                ];
+                const date = new Date();
+                return `${date.getDate()} de ${months[date.getMonth()]}, ${date.getFullYear()}`;
+            }
+    
+            // Função para calcular a data da Páscoa (algoritmo de Gauss)
+            function calculateEaster(year) {
+                const a = year % 19;
+                const b = Math.floor(year / 100);
+                const c = year % 100;
+                const d = Math.floor(b / 4);
+                const e = b % 4;
+                const f = Math.floor((b + 8) / 25);
+                const g = Math.floor((b - f + 1) / 3);
+                const h = (19 * a + b - d - g + 15) % 30;
+                const i = Math.floor(c / 4);
+                const k = c % 4;
+                const l = (32 + 2 * e + 2 * i - h - k) % 7;
+                const m = Math.floor((a + 11 * h + 22 * l) / 451);
+                const month = Math.floor((h + l - 7 * m + 114) / 31);
+                const day = ((h + l - 7 * m + 114) % 31) + 1;
+    
+                return new Date(year, month - 1, day);
+            }
+    
+            // Função para determinar o tempo litúrgico
+            function getLiturgicalSeason() {
+                const now = new Date();
+                const year = now.getFullYear();
+                const easter = calculateEaster(year);
+    
+                // Definir os tempos litúrgicos com base na data da Páscoa
+                const ashWednesday = new Date(easter);
+                ashWednesday.setDate(easter.getDate() - 46); // 46 dias antes da Páscoa (Quarta-feira de Cinzas)
+    
+                const holyThursday = new Date(easter);
+                holyThursday.setDate(easter.getDate() - 3); // Quinta-feira Santa
+    
+                const adventStart = new Date(year, 11, 1); // 1º de Dezembro
+                const christmasStart = new Date(year, 11, 25); // 25 de Dezembro
+                const christmasEnd = new Date(year, 0, 6); // 6 de Janeiro (Epifania)
+    
+                if (now >= ashWednesday && now < holyThursday) {
+                    return "Tempo da Quaresma";
+                } else if (now >= holyThursday && now < easter) {
+                    return "Tríduo Pascal";
+                } else if (now >= easter && now < new Date(easter.getFullYear(), easter.getMonth(), easter.getDate() + 50)) {
+                    return "Tempo Pascal";
+                } else if (now >= adventStart && now < christmasStart) {
+                    return "Tempo do Advento";
+                } else if (now >= christmasStart && now <= christmasEnd) {
+                    return "Tempo do Natal";
+                } else {
+                    return "Tempo Comum";
+                }
+            }
+    
+            // Atualizar a data e o tempo litúrgico na página
+            document.addEventListener('DOMContentLoaded', () => {
+                document.getElementById('current-date').textContent = formatCurrentDate();
+                document.getElementById('liturgical-season').textContent = getLiturgicalSeason();
+            });
+        </script>
+</body>
+</html>
