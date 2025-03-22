@@ -1,26 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9W8XHMKR65"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-9W8XHMKR65');
-    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Na Hora da Missa - Horários e Liturgia</title>
+    <title>Preparando-se para a Santa Missa - Na Hora da Missa</title>
     <!-- Tailwind CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
-    <!-- CSS personalizado -->
-    <link rel="stylesheet" href="styles/church-cards.css">
     <!-- Estilos personalizados -->
     <style>
         body {
@@ -41,16 +30,26 @@
             background-position: center;
         }
     </style>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9W8XHMKR65"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-9W8XHMKR65');
+    </script>
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Preparando-se para a Santa Missa - Na Hora da Missa">
+    <meta property="og:description" content="Descubra práticas espirituais e dicas para se preparar adequadamente antes de participar da Santa Missa.">
 </head>
 <body class="bg-blue-900 dark:bg-blue-900 bg-pattern">
-
-    <!-- Cabeçalho -->
+    <!-- Header -->
     <header class="header-bg text-white py-12 text-center relative overflow-hidden">
         <!-- Efeito de luz dourada -->
         <div class="absolute inset-0 bg-gradient-to-r from-yellow-400 to-yellow-600 opacity-20 mix-blend-overlay"></div>
-        <i class="fas fa-church text-8xl text-yellow-300 relative z-10"></i>
-        <h1 class="font-bold mb-4 mt-4 title-font text-7xl relative z-10">Horários de Missas</h1>
-        
+        <h1 class="font-bold mb-4 mt-4 title-font text-5xl relative z-10">Preparando-se para a Santa Missa</h1>
+        <p class="text-lg relative z-10">Dicas e práticas espirituais para uma participação mais consciente e devota.</p>
         <!-- Card com informações do dia -->
         <div class="inline-flex items-center bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-4 rounded-lg mb-1 border border-white border-opacity-20 relative z-10">
             <div class="flex items-center mr-4">
@@ -61,60 +60,79 @@
                 Tempo Litúrgico
             </div>
         </div>
-        <p id="last-update" class="text-sm mb-1 mt-1 relative z-10">Última atualização: carregando...</p>
-        <!-- Botão para leituras do dia -->
-        <div class="flex justify-center relative z-10">
+        <!-- Botões lado a lado -->
+        <div class="flex justify-center space-x-4 relative z-10">
+            <!-- Botão para leituras do dia -->
             <a href="daily-readings.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
                 <i class="fas fa-book-open mr-2"></i>
                 <span>Leituras do dia</span>
             </a>
+            <!-- Botão para horários de missas -->
+            <a href="index.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
+                <i class="fas fa-church mr-2"></i>
+                <span>Ver Horários de Missas</span>
+            </a>
         </div>
-         <!-- Referência ao GitHub -->
-        <div class="mt-8 text-sm text-white-700 dark:text-white-300 relative z-10">
-            Desenvolvido por <a href="https://github.com/mcruvinel" class="text-yellow-500 hover:text-purple-400 transition-colors" target="_blank">mcruvinel</a>
-        </div>
-        </header>
+    </header>
+
     <!-- Conteúdo principal -->
-    <div class="container mx-auto px-4 py-8 text-center">
-        <!-- Campo de busca -->
-        <div class="mb-8">
-            <input
-                type="text"
-                id="search"
-                placeholder="Busque por nome da paróquia ou bairro..."
-                class="w-full max-w-2xl mx-auto p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:text-white"
-            />
-        </div>
+    <div class="container mx-auto px-4 py-8">
+        <main class="bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-8 rounded-lg shadow-lg text-white">
+            <h2 class="text-3xl font-bold mb-4">Por que se preparar para a Santa Missa?</h2>
+            <p class="mb-4">
+                A Santa Missa é o ápice da vida cristã, onde celebramos o sacrifício de Cristo e nos unimos a Ele na Eucaristia. Preparar-se adequadamente para esse momento sagrado é essencial para vivenciar plenamente a graça e a presença de Deus.
+            </p>
 
-        <!-- Lista de igrejas -->
-        <main id="church-list" class="grid grid-cols-1 md:grid-cols-2 gap-6"></main>
+            <h2 class="text-3xl font-bold mb-4">Práticas para Antes da Missa</h2>
+            <p class="mb-4">
+                Aqui estão algumas práticas que podem ajudá-lo a se preparar espiritualmente para a Santa Missa:
+            </p>
+            <ul class="list-disc list-inside mb-4">
+                <li class="mb-2">
+                    <strong>Oração pessoal:</strong> Reserve alguns minutos antes da missa para orar. Peça a Deus que prepare seu coração para receber a Sua graça.
+                </li>
+                <li class="mb-2">
+                    <strong>Leitura das leituras do dia:</strong> Familiarize-se com as leituras que serão proclamadas durante a missa. Isso ajudará você a refletir melhor sobre a Palavra de Deus.
+                </li>
+                <li class="mb-2">
+                    <strong>Exame de consciência:</strong> Faça um breve exame de consciência e peça perdão pelos seus pecados. Isso o ajudará a participar da missa com o coração limpo.
+                </li>
+                <li class="mb-2">
+                    <strong>Silêncio interior:</strong> Chegue alguns minutos antes da missa e use esse tempo para se recolher em silêncio, afastando distrações e focando em Deus.
+                </li>
+                <li class="mb-2">
+                    <strong>Vestir-se adequadamente:</strong> Escolha roupas modestas e respeitosas, que demonstrem reverência pelo sagrado.
+                </li>
+            </ul>
 
-        <!-- Paginação -->
-        <div id="pagination" class="mt-8 flex justify-center space-x-4">
-            <button id="prev-page" class="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
-                Anterior
-            </button>
-            <span id="page-info" class="py-2 px-4 bg-gray-100 text-gray-800 rounded-lg dark:bg-gray-700 dark:text-white"></span>
-            <button id="next-page" class="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors">
-                Próxima
-            </button>
-        </div>
-    </div>
-    <div class="bg.pattern text-white py-6 text-center mt-8 dark:bg-gray-800">
-        <div class="container mx-auto px-4">
-            <p class="text-white">Explore mais:</p>
-            <div class="mt-2 space-x-4">
-                <a href="about-us.html" class="text-yellow-300 hover:text-yellow-400 transition-colors">Sobre Nós</a>
-                <a href="preparing-for-mass.html" class="text-yellow-300 hover:text-yellow-400 transition-colors">Preparação para a Missa</a>
-            </div>
-        </div>
+            <h2 class="text-3xl font-bold mb-4">Durante a Missa</h2>
+            <p class="mb-4">
+                Durante a celebração, procure participar ativamente:
+            </p>
+            <ul class="list-disc list-inside mb-4">
+                <li class="mb-2">Cante os hinos e responda às orações com devoção.</li>
+                <li class="mb-2">Ouça atentamente as leituras e a homilia, buscando aplicá-las à sua vida.</li>
+                <li class="mb-2">Ao receber a Eucaristia, faça um ato de fé e amor a Jesus Cristo.</li>
+            </ul>
+
+            <h2 class="text-3xl font-bold mb-4">Depois da Missa</h2>
+            <p class="mb-4">
+                Após a missa, agradeça a Deus pelo dom da Eucaristia e peça forças para viver o que foi celebrado. Leve a graça recebida para o seu dia a dia, transformando sua vida em um testemunho de fé.
+            </p>
+
+            <h2 class="text-3xl font-bold mb-4">Reflexão Final</h2>
+            <p class="mb-4">
+                A Santa Missa é um encontro pessoal com Cristo. Quanto mais nos preparamos para esse momento, mais frutos espirituais colheremos. Que cada missa seja uma experiência transformadora em sua vida de fé!
+            </p>
+        </main>
     </div>
 
     <!-- Rodapé -->
-    <footer class="bg-pattern text-white py-6 text-center mt-8 dark:bg-gray-800">
+    <footer class="bg-blue-900 text-white py-6 text-center mt-8 dark:bg-gray-800">
         <p>Dados obtidos de elodafe.com.br</p>
         <p class="text-sm">Atualizado diariamente. Este site não tem vínculo oficial com a Diocese.</p>
         <p class="text-sm mt-2">Desenvolvido por <a href="https://github.com/mcruvinel" class="text-blue-300 hover:underline" target="_blank">mcruvinel</a></p>
+        <p class="text-sm mt-2">Quer saber mais sobre nós? Clique no botão ao lado <a href="about-us.html" class="text-yellow-300 hover:underline" target="_blank">Sobre Nós</a></p>
     </footer>
 
     <!-- Scripts -->
@@ -187,6 +205,5 @@
             document.getElementById('liturgical-season').textContent = getLiturgicalSeason();
         });
     </script>
-    <script src="js/app.js"></script>
 </body>
 </html>
