@@ -6,7 +6,8 @@ Este repositório contém um site estático que exibe horários de missas das pa
 
 - O site é hospedado via GitHub Pages
 - Os dados são coletados através de um scraper
-- O arquivo `data/paroquias.json` contém todos os dados exibidos no site
+- O arquivo `data/churches.json` contém todos os dados sobre horários e locias de missa exibidos no site
+- O arquivo `data/leitura-diaria.json` contém todos os dados sobre as leituras litúrgicas diárias
 
 ## Como mantenho os dados atualizados
 
@@ -24,7 +25,7 @@ Recomenda-se atualizar os dados pelo menos uma vez por mês, ou sempre que houve
 - `js/app.js` - Script para carregar e exibir os dados dos horários de missas
 - `js/daily-readings.js - Script para carregar e exibir os dados das leituras litúrgicas diárias.`
 - `data/churchers.json` - Dados coletados pelo scraper dos horários de missas
-- `data/leitura-diaria.json` - Dados coletados pelo scraper da leitura líturgica diária.
+- `data/leitura-diaria.json` - Dados coletados pelo scraper da leitura litúrgica diária.
 - `scraper.py` - Script para coletar os dados atualizados dos horarios de missas.
 - `daily_liturgy.py` - Script para coletaros dados da leitura litúrgica diária.
 
