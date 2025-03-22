@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página não encontrada - Na Hora da Missa</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <script>
+        setTimeout(() => {
+            window.location.href = 'index.html';
+        }, 5000);
+    </script>
+</head>
+<body class="bg-blue-900 dark:bg-blue-900 bg-pattern text-white text-center flex items-center justify-center h-screen">
+    <div>
+        <i class="fas fa-exclamation-triangle text-yellow-400 text-8xl"></i>
+        <h1 class="text-5xl font-bold mt-4 title-font">Página não encontrada</h1>
+        <p class="text-lg mt-2">A página que você procura não existe ou foi movida.</p>
+        <p class="text-sm mt-1">Redirecionando para a página inicial em 5 segundos...</p>
+        <a href="index.html" class="mt-6 inline-block px-6 py-3 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors">
+            <i class="fas fa-home mr-2"></i>Voltar para a Página Inicial
+        </a>
+    </div>
+</body>
+</html>
