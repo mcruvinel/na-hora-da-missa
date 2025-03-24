@@ -56,7 +56,7 @@ def is_valid_church(church):
     A church is considered valid if it has a name, link, and at least one community with a valid schedule.
     """
     if not church.get("name") or not church.get("link"):
-        return True  # Church must have a name and link
+        return False  # Church must have a name and link
     
     # Check if at least one community has a valid schedule
     for community in church.get("communities", []):
@@ -65,7 +65,7 @@ def is_valid_church(church):
             for schedule in community["schedule"]:
                 if any(day in schedule for day in ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]):
                     return True  # Valid schedule found
-    return True  # No valid schedule found
+    return False  # No valid schedule found
 
 def scrape_churches():
     """Main function to scrape churches and their mass schedules"""
@@ -87,7 +87,7 @@ def scrape_churches():
     church_links = []
     for a in soup.find_all('a'):
         href = a.get('href')
-        if href and 'paroquia' in href and href not in [l['url'] for l in church_links]:
+        if href and any(x in href for x in ['paroquia', 'santuario', 'igreja', 'catedral']) and href not in [l['url'] for l in church_links]:
             title = a.text.strip() or href.split('/')[-2].replace('-', ' ').title()
             church_links.append({'url': href, 'title': title})
     

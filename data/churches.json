@@ -1,7 +1,56 @@
 {
-  "collection_date": "2025-03-24 06:16:59",
-  "total_churches": 49,
+  "collection_date": "2025-03-24 11:04:39",
+  "total_churches": 47,
   "churches": [
+    {
+      "name": "Catedral Santa Teresinha Do Menino Jesus E Da Sagrada Face 2",
+      "link": "https://elodafe.com.br/catedral-santa-teresinha-do-menino-jesus-e-da-sagrada-face-2/",
+      "address": "Praça Rui Barbosa, 79 – Centro – 38400-174 – Uberlândia/MG",
+      "communities": [
+        {
+          "name": "Criada por Dom Alexandre Gonçalves Amaral\n 1857 – 1941 – Matriz Nossa Senhora do Carmo\n 1941 – 1961 – Santa Teresinha\n 22/07/1961 – Catedral Santa Teresinha do Menino Jesus",
+          "schedule": [
+            "ATENDIMENTO\nSegunda-feira: 13h30 às 18h\nTerça a Sexta-feira: 8h30 ao 12h e de 13h30 às 18h"
+          ],
+          "address": "CONTATO\n Endereço da secretaria: Praça Tubal Vilela, 213, Centro – 38400-186 – Uberlândia/MG\n Caixa Postal 1058\n Telefone: (34) 3236-9457\n E-mail: [email protected]"
+        },
+        {
+          "name": "1. Catedral Santa Teresinha",
+          "schedule": [
+            "Domingo: 7h, 9h, 16h30, 18h e 19h30\n Segunda-feira: 7h e 18h\n Terça à Sexta-feira: 7h, 12h (exceto feriado) e 18h\n Sábado: 7h e 17h"
+          ],
+          "address": "CONTATO\n Endereço da secretaria: Praça Tubal Vilela, 213, Centro – 38400-186 – Uberlândia/MG\n Caixa Postal 1058\n Telefone: (34) 3236-9457\n E-mail: [email protected]"
+        },
+        {
+          "name": "Igreja Nossa Senhora do Rosário e São Benedito",
+          "schedule": [
+            "Domingo: 10h e 18h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Santuario Nossa Senhora Aparecida",
+      "link": "https://elodafe.com.br/santuario-nossa-senhora-aparecida/",
+      "address": "Praça Nossa Senhora Aparecida, 100 – Bairro Aparecida – 38400-726 – Uberlândia/MG",
+      "communities": [
+        {
+          "name": "Paróquia criada em 11/04/1945 por Dom Alexandre Gonçalves do Amaral\n Elevada a Santuário em 10/10/2004 por Dom José Alberto Moura, CSS",
+          "schedule": [
+            "ATENDIMENTO\n Segunda à Sexta: das 8h às 19h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Santuário Nossa Senhora Aparecida",
+          "schedule": [
+            "Domingo: 7h, 9h, 11h, 16h, 18h e 19h30\n Segunda a Sábado: 7h e 19h"
+          ],
+          "address": null
+        }
+      ]
+    },
     {
       "name": "Paroquia Nossa Senhora Das Dores",
       "link": "https://elodafe.com.br/paroquia-nossa-senhora-das-dores/",
@@ -897,20 +946,6 @@
       ]
     },
     {
-      "name": "Paroquia Sao Judas Tadeu Uberlandia",
-      "link": "https://elodafe.com.br/paroquia-sao-judas-tadeu-uberlandia/",
-      "address": "Rua Mário Paganini, 220 – Roosevelt",
-      "communities": [
-        {
-          "name": "1. Matriz de São Judas Tadeu",
-          "schedule": [
-            "Toda segunda-feira, Missa Devocional à Nossa Senhora Desatadora dos Nós com queima de pedidos, às 19h.\n Toda quarta-feira, Novena Perpétua em honra de São Judas Tadeu, às 19h.\n Toda 3ª quinta-feira do mês – Adoração Eucarística das 19h30 às 21h30\n Todo dia 28, Dia Votivo a São Judas Tadeu – Missas às 07h / 16h (Missa dos Enfermos com Unção do Óleo Santo) e 19h."
-          ],
-          "address": "1. Matriz de São Judas Tadeu\n Av. Morum Bernardino, 600 – Roosevelt\n Domingo: 07h, 9h30, 16h e 19h\n Segunda à Sexta-feira: 7h e 19h\n Sábado: 07h"
-        }
-      ]
-    },
-    {
       "name": "Paroquia Sao Vicente De Paulo",
       "link": "https://elodafe.com.br/paroquia-sao-vicente-de-paulo/",
       "address": "Rua Plutão, 450 – Jardim Brasília – 38401-394 – Uberlândia/MG",
@@ -1067,20 +1102,6 @@
           "name": "3. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 8h30"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Paroquia Sao Joao Batista",
-      "link": "https://elodafe.com.br/paroquia-sao-joao-batista/",
-      "address": "Rua Tobias Lucas da Silva, 25, Santa Luzia da Boa Vista",
-      "communities": [
-        {
-          "name": "General Schedule",
-          "schedule": [
-            "IGREJAS E HORÁRIO DE MISSAS"
           ],
           "address": null
         }
@@ -1506,34 +1527,6 @@
           "name": "7. Comunidade Santa Luzia",
           "schedule": [
             "Primeira e segunda quinta-feira do mês: 19h30"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Paroquia Nossa Senhora Da Abadia Tupaciguara",
-      "link": "https://elodafe.com.br/paroquia-nossa-senhora-da-abadia-tupaciguara/",
-      "address": "Rua Crispim Lourenço Borges, 35 – Morada Nova",
-      "communities": [
-        {
-          "name": "General Schedule",
-          "schedule": [
-            "IGREJAS E HORÁRIO DE MISSAS"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "Paroquia Sao Francisco Das Chagas Monte Alegre De Minas",
-      "link": "https://elodafe.com.br/paroquia-sao-francisco-das-chagas-monte-alegre-de-minas/",
-      "address": "Rua dos Angicos, 593 – Bairro: Paloma",
-      "communities": [
-        {
-          "name": "General Schedule",
-          "schedule": [
-            "IGREJAS E HORÁRIO DE MISSAS"
           ],
           "address": null
         }
