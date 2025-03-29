@@ -1,6 +1,6 @@
 {
-  "collection_date": "2025-03-28 06:17:55",
-  "total_churches": 48,
+  "collection_date": "2025-03-29 06:15:13",
+  "total_churches": 47,
   "churches": [
     {
       "name": "Catedral Santa Teresinha Do Menino Jesus E Da Sagrada Face 2",
@@ -1571,50 +1571,6 @@
             "Bairro Primavera\n Segundo domingo do mês: 15h30"
           ],
           "address": "Bairro Primavera\n Segundo domingo do mês: 15h30"
-        }
-      ]
-    },
-    {
-      "name": "Paroquias Divulgam Horarios De Mutirao De Confissoes 24 03 A 28 03",
-      "link": "https://elodafe.com.br/paroquias-divulgam-horarios-de-mutirao-de-confissoes-24-03-a-28-03/",
-      "address": "Rua dos Angicos, 593 – Paloma",
-      "communities": [
-        {
-          "name": "Paróquia São Francisco de Assis (19h)",
-          "schedule": [
-            "25/03 (Terça-feira)",
-            "25/03 (Terça-feira)"
-          ],
-          "address": null
-        },
-        {
-          "name": "Paróquia São Benedito (19h)",
-          "schedule": [
-            "Paróquia São Francisco das Chagas (18h)\nMatriz – Praça Luiz Dutra Alvim, S/N – Centro, Monte Alegre de Minas\nCom. N Sra Aparecida – Rua dos Angicos, 593 – Paloma, Monte Alegre de Minas\nCom. Santa Clara – Av. Uberlândia, 518 – Rancho Alegre, Monte Alegre de Minas"
-          ],
-          "address": null
-        },
-        {
-          "name": "Paróquia São Francisco das Chagas (18h)",
-          "schedule": [
-            "26/03 (Quarta-feira)",
-            "26/03 (Quarta-feira)"
-          ],
-          "address": "Paróquia São Francisco das Chagas (18h)\nMatriz – Praça Luiz Dutra Alvim, S/N – Centro, Monte Alegre de Minas\nCom. N Sra Aparecida – Rua dos Angicos, 593 – Paloma, Monte Alegre de Minas\nCom. Santa Clara – Av. Uberlândia, 518 – Rancho Alegre, Monte Alegre de Minas"
-        },
-        {
-          "name": "Paróquia São Sebastião (18h)",
-          "schedule": [
-            "27/03 (Quinta-feira)"
-          ],
-          "address": "Paróquia São Sebastião (18h)\nPraça Senador Camilo Chaves, 20 – Tibery, Uberlândia"
-        },
-        {
-          "name": "Paróquia Santa Rita de Cássia (19h)",
-          "schedule": [
-            "28/03 (Sexta-feira)"
-          ],
-          "address": "Paróquia Santa Rita de Cássia (19h)\nAv. Jerusalém, 773 – Canaã, Uberlândia"
         }
       ]
     }
