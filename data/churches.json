@@ -1,6 +1,6 @@
 {
-  "collection_date": "2025-04-06 06:15:47",
-  "total_churches": 48,
+  "collection_date": "2025-04-07 06:17:33",
+  "total_churches": 47,
   "churches": [
     {
       "name": "Catedral Santa Teresinha Do Menino Jesus E Da Sagrada Face 2",
@@ -1571,43 +1571,6 @@
             "Bairro Primavera\n Segundo domingo do mês: 15h30"
           ],
           "address": "Bairro Primavera\n Segundo domingo do mês: 15h30"
-        }
-      ]
-    },
-    {
-      "name": "Paroquias Divulgam Horarios De Mutirao De Confissoes 31 03 A 04 04",
-      "link": "https://elodafe.com.br/paroquias-divulgam-horarios-de-mutirao-de-confissoes-31-03-a-04-04/",
-      "address": "Rua Luiz Vieira Tavares, 1245 – Custódio Pereira",
-      "communities": [
-        {
-          "name": "Paróquia Imaculada Conceição e São Gaspar Bertoni (19h)",
-          "schedule": [
-            "01/04 (Terça-feira)",
-            "01/04 (Terça-feira)"
-          ],
-          "address": null
-        },
-        {
-          "name": "Paróquia São José (18h30)",
-          "schedule": [
-            "02/04 (Quarta-feira)",
-            "02/04 (Quarta-feira)"
-          ],
-          "address": "Paróquia São José (18h30)\nRua Polidoro de Freitas Rodrigues, 736 – Vigilato Pereira, Uberlândia"
-        },
-        {
-          "name": "Paróquia N Sra de Guadalupe (18h30)",
-          "schedule": [
-            "03/04 (Quinta-feira)"
-          ],
-          "address": "Paróquia N Sra de Guadalupe (18h30)\nRua Iraque, 182 – Laranjeiras, Uberlândia"
-        },
-        {
-          "name": "Paróquia São Geraldo Magela (18h30)",
-          "schedule": [
-            "04/04 (Sexta-feira)"
-          ],
-          "address": "Paróquia São Geraldo Magela (18h30)\nRua Bernardo de Vasconcelos, 865 – Pampulha, Uberlândia"
         }
       ]
     }
