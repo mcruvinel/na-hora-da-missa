@@ -70,7 +70,7 @@ def is_valid_church(church):
 def scrape_churches():
     """Main function to scrape churches and their mass schedules"""
     # Main URL with the list of churches
-    base_url = "https://elodafe.com.br/paroquia/"
+    base_url = "https://diocesedeuberlandia.org.br/paroquias/"
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
     print(f"🔎 Making request to {base_url}...")
