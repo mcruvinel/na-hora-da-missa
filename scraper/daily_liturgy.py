@@ -5,88 +5,70 @@ import os
 from datetime import datetime
 
 def extract_readings(soup):
-    """
-    Extract the daily readings from the Liturgia Diária page.
-    """
     readings = {
-        "data": datetime.now().strftime("%Y-%m-%d"),
-        "primeira_leitura": {"titulo": None, "texto": None},
-        "salmo": {"titulo": None, "texto": None},
-        "evangelho": {"titulo": None, "texto": None}
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "first_reading": {"title": None, "text": None},
+        "psalm": {"title": None, "text": None},
+        "gospel": {"title": None, "text": None}
     }
-    
-    # Extract the first reading
-    primeira_leitura_div = soup.find("div", id="liturgia-1")
-    if primeira_leitura_div:
-        titulo = primeira_leitura_div.find("p", text=lambda t: t and "Primeira Leitura" in t)
-        texto = primeira_leitura_div.find_all("p")[1:]  # Ignore the first <p> containing the title
-        if titulo and texto:
-            readings["primeira_leitura"]["titulo"] = titulo.text.strip()
-            readings["primeira_leitura"]["texto"] = "\n".join([p.text.strip() for p in texto])
-        else:
-            print("⚠ First reading title or text not found.")
+
+    # First Reading
+    first_div = soup.find("div", id="liturgia-1")
+    if first_div:
+        paragraphs = first_div.find_all("p")
+        if paragraphs:
+            readings["first_reading"]["title"] = paragraphs[0].text.strip()
+            readings["first_reading"]["text"] = "\n".join(p.text.strip() for p in paragraphs[1:])
     else:
         print("⚠ First reading div not found.")
-    
-    # Extract the psalm
-    salmo_div = soup.find("div", id="liturgia-2")
-    if salmo_div:
-        titulo = salmo_div.find("p", text=lambda t: t and "Responsório" in t)
-        texto = salmo_div.find_all("p")[1:]  # Ignore the first <p> containing the title
-        if titulo and texto:
-            readings["salmo"]["titulo"] = titulo.text.strip()
-            readings["salmo"]["texto"] = "\n".join([p.text.strip() for p in texto])
-        else:
-            print("⚠ Psalm title or text not found.")
+
+    # Psalm
+    psalm_div = soup.find("div", id="liturgia-2")
+    if psalm_div:
+        paragraphs = psalm_div.find_all("p")
+        if paragraphs:
+            readings["psalm"]["title"] = paragraphs[0].text.strip()
+            readings["psalm"]["text"] = "\n".join(p.text.strip() for p in paragraphs[1:])
     else:
         print("⚠ Psalm div not found.")
-    
-    # Extract the gospel
-    evangelho_div = soup.find("div", id="liturgia-4")
-    if evangelho_div:
-        titulo = evangelho_div.find("p", text=lambda t: t and "Evangelho" in t)
-        texto = evangelho_div.find_all("p")[1:]  # Ignore the first <p> containing the title
-        if titulo and texto:
-            readings["evangelho"]["titulo"] = titulo.text.strip()
-            readings["evangelho"]["texto"] = "\n".join([p.text.strip() for p in texto])
-        else:
-            print("⚠ Gospel title or text not found.")
+
+    # Gospel
+    gospel_div = soup.find("div", id="liturgia-4")
+    if gospel_div:
+        paragraphs = gospel_div.find_all("p")
+        if paragraphs:
+            readings["gospel"]["title"] = paragraphs[0].text.strip()
+            readings["gospel"]["text"] = "\n".join(p.text.strip() for p in paragraphs[1:])
     else:
         print("⚠ Gospel div not found.")
-    
+
     return readings
 
 def scrape_daily_readings():
-    """
-    Main function to scrape the daily readings from the Liturgia Diária website.
-    """
-    # URL of the Liturgia Diária page
-    base_url = "https://liturgia.cancaonova.com/pb/"
+    url = "https://liturgia.cancaonova.com/pb/"
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-    
-    print(f"🔎 Making request to {base_url}...")
-    response = requests.get(base_url, headers=headers)
-    
+
+    print(f"🔎 Fetching daily readings from {url}...")
+    response = requests.get(url, headers=headers)
+
     if response.status_code != 200:
-        print(f"❌ Error accessing the main page. Status Code: {response.status_code}")
+        print(f"❌ Error accessing the page. Status Code: {response.status_code}")
         return None
-        
+
     print(f"✅ Connection successful! Status Code: {response.status_code}")
     soup = BeautifulSoup(response.text, "html.parser")
-    
-    # Extract the readings
+
     readings = extract_readings(soup)
-    
+
     if readings:
-        # Save the readings to a JSON file
         os.makedirs("data", exist_ok=True)
-        with open("data/leitura-diaria.json", "w", encoding="utf-8") as f:
+        json_path = "data/daily_readings.json"
+        with open(json_path, "w", encoding="utf-8") as f:
             json.dump({
                 "collection_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                "leituras": readings
+                "readings": readings
             }, f, ensure_ascii=False, indent=2)
-        
-        print(f"✅ Daily readings saved successfully!")
+        print(f"✅ Daily readings saved successfully to {json_path}!")
         return readings
     else:
         print("❌ No readings found.")
