@@ -33,3 +33,12 @@ Recomenda-se atualizar os dados pelo menos uma vez por mês, ou sempre que houve
 Se tiver alguma dúvida ou sugestão, entre em contato pelo email: contato.nahoradamissa@gmail.com
 
 Este projeto é para uso não-comercial. Os dados pertencem às respectivas paróquias e são coletados apenas para facilitar o acesso às informações públicas.
+
+## Contributing
+
+We welcome small, focused PRs:
+
+    UI/UX polish, accessibility, copy updates
+    Better errors and edge case handling
+    Non-invasive code comments / docs
+    Build/dev workflow improvements
