@@ -42,4 +42,3 @@ We welcome small, focused PRs:
     Better errors and edge case handling
     Non-invasive code comments / docs
     Build/dev workflow improvements
-Check the CONTRIBUTING.Md file.
