@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sobre - Na Hora da Missa</title>
+    <!-- Translations -->
+    <script src="js/translations.js"></script>
     <!-- Tailwind CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Font Awesome -->
@@ -47,10 +49,15 @@
 <body class="bg-blue-900 dark:bg-blue-900 bg-pattern">
     <!-- Header -->
     <header class="header-bg text-white py-12 text-center relative overflow-hidden">
+        <!-- Language Toggle Button -->
+        <button id="language-toggle" class="absolute top-4 right-4 z-20 bg-white bg-opacity-20 hover:bg-opacity-30 backdrop-filter backdrop-blur-sm px-4 py-2 rounded-lg transition-all flex items-center space-x-2 border border-white border-opacity-30">
+            <span class="flag-icon text-2xl">🇺🇸</span>
+            <span class="lang-text font-semibold">English</span>
+        </button>
         <!-- Efeito de luz dourada -->
         <div class="absolute inset-0 bg-gradient-to-r from-yellow-400 to-yellow-600 opacity-20 mix-blend-overlay"></div>
-        <h1 class="font-bold mb-4 mt-4 title-font text-5xl relative z-10">Sobre o Na Hora da Missa</h1>
-        <p class="text-lg relative z-10">Conheça mais sobre o projeto Na Hora da Missa.</p>
+        <h1 class="font-bold mb-4 mt-4 title-font text-5xl relative z-10" data-i18n="aboutTitle">Sobre o Na Hora da Missa</h1>
+        <p class="text-lg relative z-10" data-i18n="aboutSubtitle">Conheça mais sobre o projeto Na Hora da Missa.</p>
         <!-- Card com informações do dia -->
         <div class="inline-flex items-center bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-4 rounded-lg mb-1 border border-white border-opacity-20 relative z-10">
             <div class="flex items-center mr-4">
@@ -66,12 +73,12 @@
             <!-- Botão para leituras do dia -->
             <a href="leitura-diaria.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
                 <i class="fas fa-book-open mr-2"></i>
-                <span>Leituras do dia</span>
+                <span data-i18n="dailyReadingsBtn">Leituras do dia</span>
             </a>
             <!-- Botão para horários de missas -->
             <a href="index.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
                 <i class="fas fa-church mr-2"></i>
-                <span>Ver Horários de Missas</span>
+                <span data-i18n="viewMassSchedules">Ver Horários de Missas</span>
             </a>
         </div>
     </header>
@@ -79,67 +86,67 @@
     <!-- Conteúdo principal -->
     <div class="container mx-auto px-4 py-8">
         <main class="bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-8 rounded-lg shadow-lg text-white">
-            <h2 class="text-3xl font-bold mb-4">Sobre o Na Hora da Missa</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="aboutNaHora">Sobre o Na Hora da Missa</h2>
+            <p class="mb-4" data-i18n="aboutText" data-i18n-html>
                 O <strong>Na Hora da Missa</strong> nasceu com um propósito simples, mas essencial: facilitar a vida dos fiéis que desejam encontrar os horários das missas em Uberlândia e acompanhar as leituras litúrgicas diárias. Acreditamos que a fé deve ser acessível e que a tecnologia pode ser uma aliada na vivência religiosa, conectando as pessoas à sua espiritualidade de forma prática e intuitiva.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">Nossa Missão</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="ourMission">Nossa Missão</h2>
+            <p class="mb-4" data-i18n="ourMissionText">
                 Nossa missão é ajudar católicos a se organizarem melhor para participar das celebrações e refletir sobre as leituras do dia. Muitas vezes, encontrar o horário das missas ou as leituras diárias pode ser um desafio. Foi pensando nisso que criamos este site, garantindo que qualquer pessoa tenha acesso rápido e atualizado a essas informações essenciais para a caminhada cristã.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">O Que Oferecemos</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="whatWeOffer">O Que Oferecemos</h2>
+            <p class="mb-4" data-i18n="whatWeOfferText" data-i18n-html>
                 No <strong>Na Hora da Missa</strong>, atualizamos diariamente:
             </p>
             <ul class="list-disc list-inside mb-4">
-                <li>Os horários e locais das missas em Uberlândia, para que você possa encontrar a paróquia mais próxima ou um horário que encaixe na sua rotina.</li>
-                <li>As leituras do dia, incluindo a primeira leitura, o salmo responsorial e o evangelho, permitindo que você acompanhe a liturgia onde estiver.</li>
+                <li data-i18n="whatWeOfferBullet1">Os horários e locais das missas em Uberlândia, para que você possa encontrar a paróquia mais próxima ou um horário que encaixe na sua rotina.</li>
+                <li data-i18n="whatWeOfferBullet2">As leituras do dia, incluindo a primeira leitura, o salmo responsorial e o evangelho, permitindo que você acompanhe a liturgia onde estiver.</li>
             </ul>
-            <p class="mb-4">
+            <p class="mb-4" data-i18n="whatWeOfferText2">
                 Dessa forma, seja no início do dia, antes da missa ou em um momento de oração pessoal, você pode ter acesso às leituras sagradas e se preparar melhor espiritualmente.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">Um Serviço Gratuito e Comunitário</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="freeService">Um Serviço Gratuito e Comunitário</h2>
+            <p class="mb-4" data-i18n="freeServiceText1">
                 Este é um projeto sem fins lucrativos, criado para servir a comunidade católica. Não temos vínculos oficiais com a Diocese, e todas as informações são organizadas e disponibilizadas de forma independente, com o único objetivo de ajudar os fiéis.
             </p>
-            <p class="mb-4">
+            <p class="mb-4" data-i18n="freeServiceText2">
                 Acreditamos que a tecnologia pode ser uma ferramenta para o bem, e queremos usá-la para aproximar as pessoas da fé, tornando o acesso às missas e às leituras diárias mais prático e acessível. Nosso compromisso é garantir que essa plataforma continue sendo útil para todos que desejam fortalecer sua espiritualidade no dia a dia.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">Como Funciona?</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="howItWorks">Como Funciona?</h2>
+            <p class="mb-4" data-i18n="howItWorksText">
                 O site é atualizado automaticamente todos os dias, coletando os horários de missa e as leituras litúrgicas diretamente de fontes confiáveis. Assim, garantimos que você sempre tenha à disposição as informações mais recentes, sem a necessidade de buscar em várias fontes diferentes.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">Entre em Contato</h2>
+            <h2 class="text-3xl font-bold mb-4" data-i18n="getInTouch">Entre em Contato</h2>
             <p class="mb-4">
-                Se você tem sugestões, encontrou alguma informação incorreta ou deseja contribuir com o projeto, estamos sempre abertos a melhorias! Entre em contato conosco pelo e-mail:
+                <span data-i18n="getInTouchText">Se você tem sugestões, encontrou alguma informação incorreta ou deseja contribuir com o projeto, estamos sempre abertos a melhorias! Entre em contato conosco pelo e-mail:</span>
                 <a href="mailto:contato.nahoradamissa@gmail.com" class="text-yellow-500 hover:text-yellow-400 transition-colors">contato.nahoradamissa@gmail.com</a>.
-                Ou pelo nosso github:
+                <span data-i18n="orGithub">Ou pelo nosso github:</span>
                 <a href="https://github.com/mcruvinel" class="text-yellow-500 hover:text-yellow-400 transition-colors" target="_blank">github.com/mcruvinel</a>.
             </p>
-            <p class="mb-4">
+            <p class="mb-4" data-i18n="getInTouchText2">
                 Ficamos felizes em poder oferecer esse serviço e esperamos que ele seja útil para a sua vida de fé. Que Deus abençoe sua caminhada!
             </p>
         </main>
     </div>
     <div class="bg.pattern text-white py-6 text-center mt-8 dark:bg-gray-800">
         <div class="container mx-auto px-4">
-            <p class="text-white">Explore mais:</p>
+            <p class="text-white" data-i18n="exploreMore">Explore mais:</p>
             <div class="mt-2 space-x-4">
-                <a href="preparacao-para-missa.html" class="text-yellow-300 hover:text-yellow-400 transition-colors">Preparação para a Missa</a>
+                <a href="preparacao-para-missa.html" class="text-yellow-300 hover:text-yellow-400 transition-colors" data-i18n="massPreparation">Preparação para a Missa</a>
             </div>
         </div>
     </div>
 
     <!-- Rodapé -->
     <footer class="bg-blue-900 text-white py-6 text-center mt-8 dark:bg-gray-800">
-        <p class="text-sm">Atualizado diariamente. Este site não tem vínculo oficial com a Diocese.</p>
-        <p class="text-sm mt-2">Desenvolvido por <a href="https://github.com/mcruvinel" class="text-blue-300 hover:underline" target="_blank">mcruvinel</a></p>
-        <p class="text-sm mt-2"> Duvidas ou sugestões? Entre em contato: <a href="mailto:contato.nahoradamissa@gmail.com" class="text-blue-300 hover:underline">contato.nahoradamissa@gmail.com</a></p>
+        <p class="text-sm" data-i18n="dailyUpdate">Atualizado diariamente. Este site não tem vínculo oficial com a Diocese.</p>
+        <p class="text-sm mt-2"><span data-i18n="developedBy">Desenvolvido por</span> <a href="https://github.com/mcruvinel" class="text-blue-300 hover:underline" target="_blank">mcruvinel</a></p>
+        <p class="text-sm mt-2"><span data-i18n="contactText">Duvidas ou sugestões? Entre em contato:</span> <a href="mailto:contato.nahoradamissa@gmail.com" class="text-blue-300 hover:underline">contato.nahoradamissa@gmail.com</a></p>
     </footer>
 
     <!-- Scripts -->
@@ -147,12 +154,7 @@
         <script>
             // Função para formatar a data atual
             function formatCurrentDate() {
-                const months = [
-                    'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
-                    'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
-                ];
-                const date = new Date();
-                return `${date.getDate()} de ${months[date.getMonth()]}, ${date.getFullYear()}`;
+                return LanguageManager.formatDate(new Date());
             }
     
             // Função para calcular a data da Páscoa (algoritmo de Gauss)
@@ -192,25 +194,42 @@
                 const christmasStart = new Date(year, 11, 25); // 25 de Dezembro
                 const christmasEnd = new Date(year, 0, 6); // 6 de Janeiro (Epifania)
     
+                let seasonKey = 'comum';
                 if (now >= ashWednesday && now < holyThursday) {
-                    return "Tempo da Quaresma";
+                    seasonKey = 'quaresma';
                 } else if (now >= holyThursday && now < easter) {
-                    return "Tríduo Pascal";
+                    seasonKey = 'triduo';
                 } else if (now >= easter && now < new Date(easter.getFullYear(), easter.getMonth(), easter.getDate() + 50)) {
-                    return "Tempo Pascal";
+                    seasonKey = 'pascal';
                 } else if (now >= adventStart && now < christmasStart) {
-                    return "Tempo do Advento";
+                    seasonKey = 'advento';
                 } else if (now >= christmasStart && now <= christmasEnd) {
-                    return "Tempo do Natal";
-                } else {
-                    return "Tempo Comum";
+                    seasonKey = 'natal';
                 }
+                
+                return LanguageManager.getLiturgicalSeasonText(seasonKey);
             }
     
             // Atualizar a data e o tempo litúrgico na página
-            document.addEventListener('DOMContentLoaded', () => {
+            function updateDateAndSeason() {
                 document.getElementById('current-date').textContent = formatCurrentDate();
                 document.getElementById('liturgical-season').textContent = getLiturgicalSeason();
+            }
+            
+            document.addEventListener('DOMContentLoaded', () => {
+                updateDateAndSeason();
+                
+                // Add language toggle event
+                const langToggle = document.getElementById('language-toggle');
+                if (langToggle) {
+                    langToggle.addEventListener('click', () => {
+                        LanguageManager.toggle();
+                        updateDateAndSeason();
+                    });
+                }
+                
+                // Listen for language changes
+                window.addEventListener('languageChanged', updateDateAndSeason);
             });
         </script>
 </body>

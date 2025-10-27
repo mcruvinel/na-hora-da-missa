@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Preparando-se para a Santa Missa - Na Hora da Missa</title>
+    <!-- Translations -->
+    <script src="js/translations.js"></script>
     <!-- Tailwind CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Font Awesome -->
@@ -47,10 +49,15 @@
 <body class="bg-blue-900 dark:bg-blue-900 bg-pattern">
     <!-- Header -->
     <header class="header-bg text-white py-12 text-center relative overflow-hidden">
+        <!-- Language Toggle Button -->
+        <button id="language-toggle" class="absolute top-4 right-4 z-20 bg-white bg-opacity-20 hover:bg-opacity-30 backdrop-filter backdrop-blur-sm px-4 py-2 rounded-lg transition-all flex items-center space-x-2 border border-white border-opacity-30">
+            <span class="flag-icon text-2xl">🇺🇸</span>
+            <span class="lang-text font-semibold">English</span>
+        </button>
         <!-- Efeito de luz dourada -->
         <div class="absolute inset-0 bg-gradient-to-r from-yellow-400 to-yellow-600 opacity-20 mix-blend-overlay"></div>
-        <h1 class="font-bold mb-4 mt-4 title-font text-5xl relative z-10">Preparando-se para a Santa Missa</h1>
-        <p class="text-lg relative z-10">Dicas e práticas espirituais para uma participação mais consciente e devota.</p>
+        <h1 class="font-bold mb-4 mt-4 title-font text-5xl relative z-10" data-i18n="preparingForMass">Preparando-se para a Santa Missa</h1>
+        <p class="text-lg relative z-10" data-i18n="preparingSubtitle">Dicas e práticas espirituais para uma participação mais consciente e devota.</p>
         <!-- Card com informações do dia -->
         <div class="inline-flex items-center bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-4 rounded-lg mb-1 border border-white border-opacity-20 relative z-10">
             <div class="flex items-center mr-4">
@@ -66,12 +73,12 @@
             <!-- Botão para leituras do dia -->
             <a href="leitura-diaria.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
                 <i class="fas fa-book-open mr-2"></i>
-                <span>Leituras do dia</span>
+                <span data-i18n="dailyReadingsBtn">Leituras do dia</span>
             </a>
             <!-- Botão para horários de missas -->
             <a href="index.html" class="mt-6 inline-block px-12 py-4 bg-yellow-500 hover:bg-yellow-600 text-blue-900 text-sm font-semibold rounded-lg transition-colors flex items-center justify-center max-w-max">
                 <i class="fas fa-church mr-2"></i>
-                <span>Ver Horários de Missas</span>
+                <span data-i18n="viewMassSchedules">Ver Horários de Missas</span>
             </a>
         </div>
     </header>
@@ -79,50 +86,50 @@
     <!-- Conteúdo principal -->
     <div class="container mx-auto px-4 py-8">
         <main class="bg-white bg-opacity-10 backdrop-filter backdrop-blur-sm p-8 rounded-lg shadow-lg text-white">
-            <h2 class="text-3xl font-bold mb-4">Por que se preparar para a Santa Missa?</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="whyPrepare">Por que se preparar para a Santa Missa?</h2>
+            <p class="mb-4" data-i18n="whyPrepareText">
                 A Santa Missa é o ápice da vida cristã, onde celebramos o sacrifício de Cristo e nos unimos a Ele na Eucaristia. Preparar-se adequadamente para esse momento sagrado é essencial para vivenciar plenamente a graça e a presença de Deus.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">Práticas para Antes da Missa</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="practicesBeforeMass">Práticas para Antes da Missa</h2>
+            <p class="mb-4" data-i18n="practicesBeforeText">
                 Aqui estão algumas práticas que podem ajudá-lo a se preparar espiritualmente para a Santa Missa:
             </p>
             <ul class="list-disc list-inside mb-4">
                 <li class="mb-2">
-                    <strong>Oração pessoal:</strong> Reserve alguns minutos antes da missa para orar. Peça a Deus que prepare seu coração para receber a Sua graça.
+                    <strong data-i18n="personalPrayer">Oração pessoal:</strong> <span data-i18n="personalPrayerText">Reserve alguns minutos antes da missa para orar. Peça a Deus que prepare seu coração para receber a Sua graça.</span>
                 </li>
                 <li class="mb-2">
-                    <strong>Leitura das leituras do dia:</strong> Familiarize-se com as leituras que serão proclamadas durante a missa. Isso ajudará você a refletir melhor sobre a Palavra de Deus.
+                    <strong data-i18n="readingOfDay">Leitura das leituras do dia:</strong> <span data-i18n="readingOfDayText">Familiarize-se com as leituras que serão proclamadas durante a missa. Isso ajudará você a refletir melhor sobre a Palavra de Deus.</span>
                 </li>
                 <li class="mb-2">
-                    <strong>Exame de consciência:</strong> Faça um breve exame de consciência e peça perdão pelos seus pecados. Isso o ajudará a participar da missa com o coração limpo.
+                    <strong data-i18n="examineConsciousness">Exame de consciência:</strong> <span data-i18n="examineConsciousnessText">Faça um breve exame de consciência e peça perdão pelos seus pecados. Isso o ajudará a participar da missa com o coração limpo.</span>
                 </li>
                 <li class="mb-2">
-                    <strong>Silêncio interior:</strong> Chegue alguns minutos antes da missa e use esse tempo para se recolher em silêncio, afastando distrações e focando em Deus.
+                    <strong data-i18n="innerSilence">Silêncio interior:</strong> <span data-i18n="innerSilenceText">Chegue alguns minutos antes da missa e use esse tempo para se recolher em silêncio, afastando distrações e focando em Deus.</span>
                 </li>
                 <li class="mb-2">
-                    <strong>Vestir-se adequadamente:</strong> Escolha roupas modestas e respeitosas, que demonstrem reverência pelo sagrado.
+                    <strong data-i18n="dressAppropriately">Vestir-se adequadamente:</strong> <span data-i18n="dressAppropriatelyText">Escolha roupas modestas e respeitosas, que demonstrem reverência pelo sagrado.</span>
                 </li>
             </ul>
 
-            <h2 class="text-3xl font-bold mb-4">Durante a Missa</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="duringMass">Durante a Missa</h2>
+            <p class="mb-4" data-i18n="duringMassText">
                 Durante a celebração, procure participar ativamente:
             </p>
             <ul class="list-disc list-inside mb-4">
-                <li class="mb-2">Cante os hinos e responda às orações com devoção.</li>
-                <li class="mb-2">Ouça atentamente as leituras e a homilia, buscando aplicá-las à sua vida.</li>
-                <li class="mb-2">Ao receber a Eucaristia, faça um ato de fé e amor a Jesus Cristo.</li>
+                <li class="mb-2" data-i18n="duringMassBullet1">Cante os hinos e responda às orações com devoção.</li>
+                <li class="mb-2" data-i18n="duringMassBullet2">Ouça atentamente as leituras e a homilia, buscando aplicá-las à sua vida.</li>
+                <li class="mb-2" data-i18n="duringMassBullet3">Ao receber a Eucaristia, faça um ato de fé e amor a Jesus Cristo.</li>
             </ul>
 
-            <h2 class="text-3xl font-bold mb-4">Depois da Missa</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="afterMass">Depois da Missa</h2>
+            <p class="mb-4" data-i18n="afterMassText">
                 Após a missa, agradeça a Deus pelo dom da Eucaristia e peça forças para viver o que foi celebrado. Leve a graça recebida para o seu dia a dia, transformando sua vida em um testemunho de fé.
             </p>
 
-            <h2 class="text-3xl font-bold mb-4">Reflexão Final</h2>
-            <p class="mb-4">
+            <h2 class="text-3xl font-bold mb-4" data-i18n="finalReflection">Reflexão Final</h2>
+            <p class="mb-4" data-i18n="finalReflectionText">
                 A Santa Missa é um encontro pessoal com Cristo. Quanto mais nos preparamos para esse momento, mais frutos espirituais colheremos. Que cada missa seja uma experiência transformadora em sua vida de fé!
             </p>
         </main>
@@ -130,22 +137,17 @@
 
     <!-- Rodapé -->
     <footer class="bg-blue-900 text-white py-6 text-center mt-8 dark:bg-gray-800">
-        <p class="text-sm">Atualizado diariamente. Este site não tem vínculo oficial com a Diocese.</p>
-        <p class="text-sm mt-2">Desenvolvido por <a href="https://github.com/mcruvinel" class="text-blue-300 hover:underline" target="_blank">mcruvinel</a></p>
-        <p class="text-sm mt-2">Quer saber mais sobre nós? Clique no botão ao lado <a href="sobre-nos.html" class="text-yellow-300 hover:underline" target="_blank">Sobre Nós</a></p>
-        <p class="text-sm mt-2"> Duvidas ou sugestões? Entre em contato: <a href="mailto:contato.nahoradamissa@gmail.com" class="text-blue-300 hover:underline">contato.nahoradamissa@gmail.com</a></p>
+        <p class="text-sm" data-i18n="dailyUpdate">Atualizado diariamente. Este site não tem vínculo oficial com a Diocese.</p>
+        <p class="text-sm mt-2"><span data-i18n="developedBy">Desenvolvido por</span> <a href="https://github.com/mcruvinel" class="text-blue-300 hover:underline" target="_blank">mcruvinel</a></p>
+        <p class="text-sm mt-2"><span data-i18n="wantToKnowMore">Quer saber mais sobre nós? Clique no botão ao lado</span> <a href="sobre-nos.html" class="text-yellow-300 hover:underline" target="_blank" data-i18n="aboutUs">Sobre Nós</a></p>
+        <p class="text-sm mt-2"><span data-i18n="contactText">Duvidas ou sugestões? Entre em contato:</span> <a href="mailto:contato.nahoradamissa@gmail.com" class="text-blue-300 hover:underline">contato.nahoradamissa@gmail.com</a></p>
     </footer>
 
     <!-- Scripts -->
     <script>
         // Função para formatar a data atual
         function formatCurrentDate() {
-            const months = [
-                'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
-                'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
-            ];
-            const date = new Date();
-            return `${date.getDate()} de ${months[date.getMonth()]}, ${date.getFullYear()}`;
+            return LanguageManager.formatDate(new Date());
         }
 
         // Função para calcular a data da Páscoa (algoritmo de Gauss)
@@ -185,25 +187,42 @@
             const christmasStart = new Date(year, 11, 25); // 25 de Dezembro
             const christmasEnd = new Date(year, 0, 6); // 6 de Janeiro (Epifania)
 
+            let seasonKey = 'comum';
             if (now >= ashWednesday && now < holyThursday) {
-                return "Tempo da Quaresma";
+                seasonKey = 'quaresma';
             } else if (now >= holyThursday && now < easter) {
-                return "Tríduo Pascal";
+                seasonKey = 'triduo';
             } else if (now >= easter && now < new Date(easter.getFullYear(), easter.getMonth(), easter.getDate() + 50)) {
-                return "Tempo Pascal";
+                seasonKey = 'pascal';
             } else if (now >= adventStart && now < christmasStart) {
-                return "Tempo do Advento";
+                seasonKey = 'advento';
             } else if (now >= christmasStart && now <= christmasEnd) {
-                return "Tempo do Natal";
-            } else {
-                return "Tempo Comum";
+                seasonKey = 'natal';
             }
+            
+            return LanguageManager.getLiturgicalSeasonText(seasonKey);
         }
 
         // Atualizar a data e o tempo litúrgico na página
-        document.addEventListener('DOMContentLoaded', () => {
+        function updateDateAndSeason() {
             document.getElementById('current-date').textContent = formatCurrentDate();
             document.getElementById('liturgical-season').textContent = getLiturgicalSeason();
+        }
+        
+        document.addEventListener('DOMContentLoaded', () => {
+            updateDateAndSeason();
+            
+            // Add language toggle event
+            const langToggle = document.getElementById('language-toggle');
+            if (langToggle) {
+                langToggle.addEventListener('click', () => {
+                    LanguageManager.toggle();
+                    updateDateAndSeason();
+                });
+            }
+            
+            // Listen for language changes
+            window.addEventListener('languageChanged', updateDateAndSeason);
         });
     </script>
 </body>
