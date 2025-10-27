@@ -26,7 +26,7 @@ document.body.insertBefore(header, document.body.firstChild);
         .then(data => {
             churches = data.churches;
             console.log(churches);
-            lastUpdate.textContent = `Última atualização: ${data.collection_date}`;
+            lastUpdate.innerHTML = `<span data-i18n="lastUpdate">${LanguageManager.get('lastUpdate')}</span>: ${data.collection_date}`;
 
             if (churches.length === 0) {
                 churchList.innerHTML = '<div class="text-center text-gray-600">Nenhuma paróquia encontrada.</div>';
@@ -78,7 +78,7 @@ document.body.insertBefore(header, document.body.firstChild);
 
     function renderChurches(list) {
         if (list.length === 0) {
-            churchList.innerHTML = '<div class="text-center text-gray-600">Nenhuma paróquia encontrada com esses termos.</div>';
+            churchList.innerHTML = `<div class="text-center text-gray-600">${LanguageManager.get('noParishFound')}</div>`;
             return;
         }
 
@@ -116,7 +116,7 @@ document.body.insertBefore(header, document.body.firstChild);
                 link.className = 'church-link text-blue-500 hover:text-blue-700 mb-4 inline-block dark:text-blue-400';
                 link.href = church.link;
                 link.target = '_blank';
-                link.textContent = 'Visitar página oficial';
+                link.textContent = LanguageManager.get('visitOfficialPage');
                 card.appendChild(link);
             }
 
@@ -165,7 +165,7 @@ document.body.insertBefore(header, document.body.firstChild);
                     } else {
                         const noSchedule = document.createElement('div');
                         noSchedule.className = 'schedule-item bg-gray-50 p-3 rounded-lg border-l-4 border-yellow-500 dark:bg-gray-600 dark:border-yellow-400 dark:text-gray-200';
-                        noSchedule.textContent = 'Visite a página oficial para informações referentes a esta comunidade.';
+                        noSchedule.textContent = LanguageManager.get('visitPageForInfo');
                         scheduleDiv.appendChild(noSchedule);
                     }
 
@@ -175,7 +175,7 @@ document.body.insertBefore(header, document.body.firstChild);
             } else {
                 const noCommunity = document.createElement('div');
                 noCommunity.className = 'community text-gray-600 dark:text-gray-400 mt-4';
-                noCommunity.textContent = 'Esta paróquia não possui comunidades cadastradas.';
+                noCommunity.textContent = LanguageManager.get('noCommunitiesRegistered');
                 communitiesContainer.appendChild(noCommunity);
             }
 
@@ -197,8 +197,23 @@ document.body.insertBefore(header, document.body.firstChild);
         });
         
         const totalPages = Math.ceil(filteredChurches.length / itemsPerPage);
-        pageInfo.textContent = `Página ${currentPage} de ${totalPages || 1}`;
+        pageInfo.textContent = `${LanguageManager.get('page')} ${currentPage} ${LanguageManager.get('of')} ${totalPages || 1}`;
         prevPageButton.disabled = currentPage === 1;
         nextPageButton.disabled = currentPage === totalPages || totalPages === 0;
     }
+    
+    // Listen for language changes and re-render
+    window.addEventListener('languageChanged', () => {
+        renderChurches(churches.filter(church => {
+            const term = searchInput.value.toLowerCase();
+            return church.name.toLowerCase().includes(term) ||
+                (church.address && church.address.toLowerCase().includes(term)) ||
+                church.communities.some(community =>
+                    community.name.toLowerCase().includes(term) ||
+                    (community.address && community.address.toLowerCase().includes(term)) ||
+                    community.schedule.some(schedule => schedule.toLowerCase().includes(term))
+            );
+        }));
+        updatePagination();
+    });
 });

@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
             return response.json();
         })
         .then(data => {
-            lastUpdate.textContent = `Última atualização: ${data.collection_date}`;
+            lastUpdate.innerHTML = `<span data-i18n="lastUpdate">${LanguageManager.get('lastUpdate')}</span>: ${data.collection_date}`;
 
             if (!data.leituras) {
                 readingsContainer.innerHTML = '<div class="text-center text-gray-600">Nenhuma leitura encontrada.</div>';
@@ -31,9 +31,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Render each reading
         const sections = [
-            { key: 'primeira_leitura', title: 'Primeira Leitura' },
-            { key: 'salmo', title: 'Salmo Responsorial' },
-            { key: 'evangelho', title: 'Evangelho' }
+            { key: 'primeira_leitura', titleKey: 'firstReading' },
+            { key: 'salmo', titleKey: 'responsorialPsalm' },
+            { key: 'evangelho', titleKey: 'gospel' }
         ];
 
         sections.forEach(section => {
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Section title
                 const title = document.createElement('h2');
                 title.className = 'text-2xl font-bold text-blue-900 mb-4 dark:text-blue-300';
-                title.textContent = section.title;
+                title.textContent = LanguageManager.get(section.titleKey);
                 card.appendChild(title);
 
                 // Reading text
@@ -58,7 +58,20 @@ document.addEventListener('DOMContentLoaded', function () {
         });
 
         if (readingsContainer.innerHTML === '') {
-            readingsContainer.innerHTML = '<div class="text-center text-gray-600">Nenhuma leitura disponível para hoje.</div>';
+            readingsContainer.innerHTML = `<div class="text-center text-gray-600">${LanguageManager.get('noReadingFound')}</div>`;
         }
     }
+    
+    // Listen for language changes and re-render
+    window.addEventListener('languageChanged', () => {
+        // Re-fetch and render data
+        fetch('data/leitura-diaria.json')
+            .then(response => response.json())
+            .then(data => {
+                if (data.leituras) {
+                    renderReadings(data.leituras);
+                }
+            });
+    });
+});
 });
