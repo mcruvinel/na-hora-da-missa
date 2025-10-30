@@ -1,54 +1,4 @@
-//  Dynamic Color Palette Logic 
-const COLOR_PALETTE_MAP = {
-    // Seasons calculated by getLiturgicalSeason()
-    'Tempo da Quaresma': { bg: 'bg-purple-900', text: 'text-purple-300', accent: 'text-yellow-400', border: 'border-purple-500' }, // Lent (Roxo/Purple)
-    'Tríduo Pascal': { bg: 'bg-gray-800', text: 'text-white', accent: 'text-red-500', border: 'border-red-500' }, // Paschal Triduum (Vermelho/Red)
-    'Tempo Pascal': { bg: 'bg-white', text: 'text-green-800', accent: 'text-yellow-600', border: 'border-yellow-600' }, // Easter (Branco/White/Gold)
-    'Tempo do Advento': { bg: 'bg-purple-800', text: 'text-purple-300', accent: 'text-yellow-300', border: 'border-purple-400' }, // Advent (Roxo/Purple)
-    'Tempo do Natal': { bg: 'bg-red-800', text: 'text-red-100', accent: 'text-yellow-400', border: 'border-red-400' }, // Christmas (Red/White)
-
-    // Default or common seasons
-    'Tempo Comum': { bg: 'bg-green-700', text: 'text-green-100', accent: 'text-yellow-300', border: 'border-green-500' }, // Ordinary Time (Verde/Green)
-    'Default': { bg: 'bg-blue-900', text: 'text-white', accent: 'text-yellow-500', border: 'border-blue-500' } // Default/Original
-};
-
-function applyDynamicColors() {
-    const liturgicalSeasonElement = document.getElementById('liturgical-season');
-    const mainBody = document.querySelector('body');
-    const seasonText = liturgicalSeasonElement ? liturgicalSeasonElement.textContent.trim() : 'Default';
-
-
-    const palette = COLOR_PALETTE_MAP[seasonText] || COLOR_PALETTE_MAP.Default;
-    if (mainBody) {
-        mainBody.className = mainBody.className.replace(/\b(bg-\w+-\d{2,3}|bg-gray-\d{2,3}|dark:bg-\w+-\d{2,3})\b/g, '').trim();
-        mainBody.classList.add(palette.bg);
-    }
-    document.querySelectorAll('a').forEach(link => {
-        link.className = link.className.replace(/\b(text-\w+-\d{2,3}|text-blue-\d{2,3}|text-yellow-\d{2,3})\b/g, '').trim();
-        link.classList.add(palette.accent);
-    });
-    document.querySelectorAll('.schedule-item').forEach(item => {
-        item.className = item.className.replace(/\b(border-\w+-\d{2,3}|border-blue-\d{2,3}|border-yellow-\d{2,3})\b/g, '').trim();
-        item.classList.add(`border-${palette.accent.replace('text-', '')}`);
-    });
-
-
-    document.querySelectorAll('.church-name').forEach(name => {
-        name.className = name.className.replace(/\b(text-\w+-\d{2,3}|text-blue-\d{2,3})\b/g, '').trim();
-        name.classList.add(palette.accent);
-    });
-
-    console.log(`Applied theme for: ${seasonText} (${palette.bg})`);
-}
-
-
 document.addEventListener('DOMContentLoaded', function () {
-    // --- START: Dynamic Color Palette Hook (PR #6) ---
-    // Apply colors immediately on load. Use a slight delay to ensure the season text (from HTML or other scripts) is set.
-    setTimeout(applyDynamicColors, 50);
-    // --- END: Dynamic Color Palette Hook (PR #6) ---
-
-
     const churchList = document.getElementById('church-list');
     const lastUpdate = document.getElementById('last-update');
     const searchInput = document.getElementById('search');
@@ -60,7 +10,109 @@ document.addEventListener('DOMContentLoaded', function () {
     let currentPage = 1;
     const itemsPerPage = 8;
 
-    // Criação do elemento de referência no header
+    // ---------- THEME PALETTE LOGIC (inserted here) ----------
+    const seasonPalettes = {
+        "Tempo da Quaresma": {
+            accent: "#7c3aed", accentDark: "#5b21b6", accentText: "#ffffff",
+            headerStops: ["#1f2937", "#4c1d95", "#7c3aed"]
+        },
+        "Tríduo Pascal": {
+            accent: "#dc2626", accentDark: "#991b1b", accentText: "#ffffff",
+            headerStops: ["#2b0b0b", "#b91c1c", "#ef4444"]
+        },
+        "Tempo Pascal": {
+            accent: "#f59e0b", accentDark: "#b45309", accentText: "#092040",
+            headerStops: ["#2b1f0b", "#f59e0b", "#fbbf24"]
+        },
+        "Tempo do Advento": {
+            accent: "#5b21b6", accentDark: "#3b0f80", accentText: "#ffffff",
+            headerStops: ["#07113a", "#3b0f80", "#5b21b6"]
+        },
+        "Tempo do Natal": {
+            accent: "#10b981", accentDark: "#047857", accentText: "#ffffff",
+            headerStops: ["#062018", "#047857", "#10b981"]
+        },
+        "Tempo Comum": {
+            accent: "#059669", accentDark: "#046c4a", accentText: "#ffffff",
+            headerStops: ["#062018", "#046c4a", "#059669"]
+        }
+    };
+
+    const monthPalettes = {
+        0: seasonPalettes["Tempo do Natal"],   // Jan
+        1: seasonPalettes["Tempo Comum"],      // Feb
+        2: seasonPalettes["Tempo da Quaresma"],// Mar
+        3: seasonPalettes["Tempo Pascal"],     // Apr
+        4: seasonPalettes["Tempo Pascal"],     // May
+        5: seasonPalettes["Tempo Comum"],      // Jun
+        6: seasonPalettes["Tempo Comum"],      // Jul
+        7: seasonPalettes["Tempo Comum"],      // Aug
+        8: seasonPalettes["Tempo Comum"],      // Sep
+        9: seasonPalettes["Tempo do Advento"], // Oct
+        10: seasonPalettes["Tempo do Advento"],// Nov
+        11: seasonPalettes["Tempo do Natal"]   // Dec
+    };
+
+    function applyPalette(palette) {
+        if (!palette) return;
+        // set CSS variables for easy future refactor
+        document.documentElement.style.setProperty('--theme-accent', palette.accent);
+        document.documentElement.style.setProperty('--theme-accent-dark', palette.accentDark);
+        document.documentElement.style.setProperty('--theme-accent-text', palette.accentText);
+
+        // header overlay (absolute inset-0 element inside header)
+        const headerOverlay = document.querySelector('header .absolute.inset-0');
+        if (headerOverlay) {
+            const stops = palette.headerStops || [palette.accentDark, palette.accent];
+            headerOverlay.style.background = `linear-gradient(90deg, ${stops.join(', ')})`;
+            headerOverlay.style.opacity = '0.18';
+            headerOverlay.style.mixBlendMode = 'overlay';
+        }
+
+        // liturgical season badge
+        const badge = document.getElementById('liturgical-season');
+        if (badge) {
+            badge.style.backgroundColor = palette.accent;
+            badge.style.color = palette.accentText;
+            badge.style.border = `1px solid ${palette.accentDark}`;
+        }
+
+        // main CTA button (the Leituras do dia anchor)
+        const cta = document.querySelector('a[href="leitura-diaria.html"]');
+        if (cta) {
+            cta.style.backgroundColor = palette.accent;
+            cta.style.color = palette.accentText;
+            cta.style.borderColor = palette.accentDark;
+        }
+
+        // schedule item left borders (these are generated by renderChurches)
+        document.querySelectorAll('.schedule-item').forEach(item => {
+            item.style.borderLeft = `4px solid ${palette.accent}`;
+        });
+
+        // icon color
+        const churchIcon = document.querySelector('.fas.fa-church');
+        if (churchIcon) churchIcon.style.color = palette.accent;
+    }
+
+    function pickPaletteBySeasonOrMonth(seasonText) {
+        if (seasonText && seasonPalettes[seasonText]) {
+            return seasonPalettes[seasonText];
+        }
+        const now = new Date();
+        return monthPalettes[now.getMonth()] || seasonPalettes["Tempo Comum"];
+    }
+
+    // convenience: call after the #liturgical-season is available or after dynamic rendering
+    function applyPaletteFromDOM() {
+        const seasonElem = document.getElementById('liturgical-season');
+        const seasonText = seasonElem ? (seasonElem.textContent || '').trim() : '';
+        const palette = pickPaletteBySeasonOrMonth(seasonText);
+        applyPalette(palette);
+    }
+    // ---------- END THEME PALETTE LOGIC ----------
+
+     // Criação do elemento de referência no header
     const header = document.createElement('div');
     document.body.insertBefore(header, document.body.firstChild);
     document.body.insertBefore(header, document.body.firstChild);
@@ -85,6 +137,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Render all churches initially
             renderChurches(churches);
+            applyPaletteFromDOM(); // <-- ensure theme applied after initial render
             updatePagination();
 
             // Configure search
@@ -97,10 +150,11 @@ document.addEventListener('DOMContentLoaded', function () {
                         community.name.toLowerCase().includes(term) ||
                         (community.address && community.address.toLowerCase().includes(term)) ||
                         community.schedule.some(schedule => schedule.toLowerCase().includes(term))
-                    ));
+                ));
 
                 currentPage = 1; // Reset to first page on new search
                 renderChurches(result);
+                applyPaletteFromDOM(); // <-- theme new results
                 updatePagination();
             });
 
@@ -109,6 +163,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (currentPage > 1) {
                     currentPage--;
                     renderChurches(churches);
+                    applyPaletteFromDOM(); // <-- theme after pagination change
                     updatePagination();
                 }
             });
@@ -117,6 +172,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (currentPage < Math.ceil(churches.length / itemsPerPage)) {
                     currentPage++;
                     renderChurches(churches);
+                    applyPaletteFromDOM(); // <-- theme after pagination change
                     updatePagination();
                 }
             });
@@ -232,6 +288,9 @@ document.addEventListener('DOMContentLoaded', function () {
             card.appendChild(communitiesContainer);
             churchList.appendChild(card);
         });
+
+        // After we've injected dynamic nodes, ensure the palette is applied to them
+        applyPaletteFromDOM();
     }
 
     function updatePagination() {
@@ -243,9 +302,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     community.name.toLowerCase().includes(term) ||
                     (community.address && community.address.toLowerCase().includes(term)) ||
                     community.schedule.some(schedule => schedule.toLowerCase().includes(term))
-                );
+            );
         });
-
+        
         const totalPages = Math.ceil(filteredChurches.length / itemsPerPage);
         pageInfo.textContent = `Página ${currentPage} de ${totalPages || 1}`;
         prevPageButton.disabled = currentPage === 1;
