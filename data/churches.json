@@ -1,5 +1,5 @@
 {
-  "collection_date": "2025-10-30 06:34:03",
+  "collection_date": "2025-10-31 06:34:36",
   "total_churches": 44,
   "churches": [
     {
@@ -517,7 +517,7 @@
         {
           "name": "1. Matriz Nossa Senhora de Guadalupe",
           "schedule": [
-            "Domingo: 9h30 e 19h30\nSegunda-feira: 19h30\nQuarta-feira: 19h30"
+            "Domingo: 9h30 e 19h30\nSegunda a Sexta-feira: 07h\nQuarta-feira: 19h30"
           ],
           "address": "1. Matriz Nossa Senhora de Guadalupe\nRua Iraque, 182 â Laranjeiras"
         },
@@ -1420,19 +1420,26 @@
     {
       "name": "Nossa Senhora Aparecida",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-aparecida/",
-      "address": "Rua Jaime Gomes, 1665 â Bairro Santa Helena",
+      "address": "Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
       "communities": [
+        {
+          "name": "Paróquia Nossa Senhora Aparecida, Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
+          "schedule": [
+            "Atendimento: Segunda das 13h às 17h. Terça à Sexta das 08h às 11h e das 13h às 17h\nSecretária(o): Yuri Campos Duarte"
+          ],
+          "address": null
+        },
         {
           "name": "Matriz Nossa Senhora Aparecida",
           "schedule": [
-            "Rua Jaime Gomes, 1665 â Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSÃ¡bado: 19h"
+            "Rua Jaime Gomes, 1665 – Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
           ],
-          "address": "Rua Jaime Gomes, 1665 â Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSÃ¡bado: 19h"
+          "address": "Rua Jaime Gomes, 1665 – Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
         },
         {
           "name": "2. Comunidade Santa Edwiges",
           "schedule": [
-            "Travessa Santa Edwiges, 16 â GutiÃ©rrez\nSexta-feira: 19h30\nDomingo: 8h"
+            "Travessa Santa Edwiges, 16 – Gutiérrez\nSexta-feira: 19h30\nDomingo: 8h"
           ],
           "address": null
         }
