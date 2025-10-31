@@ -1,6 +1,6 @@
 # Horários de Missas - Diocese Uberlândia
 
-Este repositório contém um site estático que exibe horários de missas das paróquias da Diocese de Uberlândia, com dados coletados de elodafe.com.br.
+Este repositório contém um site estático que exibe horários de missas das paróquias da Diocese de Uberlândia.
 
 ## Como funciona
 
