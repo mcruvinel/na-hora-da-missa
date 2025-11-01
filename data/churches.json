@@ -1,5 +1,5 @@
 {
-  "collection_date": "2025-10-31 06:34:36",
+  "collection_date": "2025-11-01 06:30:50",
   "total_churches": 44,
   "churches": [
     {
@@ -1420,26 +1420,19 @@
     {
       "name": "Nossa Senhora Aparecida",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-aparecida/",
-      "address": "Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
+      "address": "Rua Jaime Gomes, 1665 â Bairro Santa Helena",
       "communities": [
-        {
-          "name": "Paróquia Nossa Senhora Aparecida, Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
-          "schedule": [
-            "Atendimento: Segunda das 13h às 17h. Terça à Sexta das 08h às 11h e das 13h às 17h\nSecretária(o): Yuri Campos Duarte"
-          ],
-          "address": null
-        },
         {
           "name": "Matriz Nossa Senhora Aparecida",
           "schedule": [
-            "Rua Jaime Gomes, 1665 – Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
+            "Rua Jaime Gomes, 1665 â Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSÃ¡bado: 19h"
           ],
-          "address": "Rua Jaime Gomes, 1665 – Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
+          "address": "Rua Jaime Gomes, 1665 â Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSÃ¡bado: 19h"
         },
         {
           "name": "2. Comunidade Santa Edwiges",
           "schedule": [
-            "Travessa Santa Edwiges, 16 – Gutiérrez\nSexta-feira: 19h30\nDomingo: 8h"
+            "Travessa Santa Edwiges, 16 â GutiÃ©rrez\nSexta-feira: 19h30\nDomingo: 8h"
           ],
           "address": null
         }
