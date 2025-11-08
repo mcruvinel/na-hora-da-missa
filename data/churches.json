@@ -1,6 +1,6 @@
 {
-  "collection_date": "2025-11-07 06:35:21",
-  "total_churches": 45,
+  "collection_date": "2025-11-08 06:31:16",
+  "total_churches": 44,
   "churches": [
     {
       "name": "Jesus Bom Pastor",
@@ -107,52 +107,52 @@
     {
       "name": "SÃ£o Judas Tadeu",
       "link": "https://diocesedeuberlandia.org.br/paroquias/paroquia-sao-judas-tadeu/",
-      "address": "Rua das Araras, 840 – Independência – 38443-084 – Araguari/MG",
+      "address": "Rua das Araras, 840 â IndependÃªncia â 38443-084 â Araguari/MG",
       "communities": [
         {
-          "name": "1. Matriz São Judas Tadeu",
+          "name": "1. Matriz SÃ£o Judas Tadeu",
           "schedule": [
             "Domingo: 7h, e 19h",
-            "Terça e Sexta: 19h",
+            "TerÃ§a e Sexta: 19h",
             "Todo dia 28: 7h; 16h; e 19h",
-            "Primeira sexta-feira do mês: 15h"
+            "Primeira sexta-feira do mÃªs: 15h"
           ],
-          "address": "1. Matriz São Judas Tadeu\nRua das Araras, 840 – Bairro Independência"
+          "address": "1. Matriz SÃ£o Judas Tadeu\nRua das Araras, 840 â Bairro IndependÃªncia"
         },
         {
-          "name": "3. Comunidade São Caetano",
+          "name": "3. Comunidade SÃ£o Caetano",
           "schedule": [
-            "Sábado: 18h"
+            "SÃ¡bado: 18h"
           ],
-          "address": "Rua Ana Batista, 425 – Vieno"
+          "address": "Rua Ana Batista, 425 â Vieno"
         },
         {
-          "name": "4. Comunidade São Cristóvão",
+          "name": "4. Comunidade SÃ£o CristÃ³vÃ£o",
           "schedule": [
             "Domingo: 10h\nQuarta: 19h30"
           ],
-          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
+          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
         },
         {
           "name": "5. Comunidade Santa Luzia",
           "schedule": [
             "Quinta-feira: 19h30"
           ],
-          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
+          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
         },
         {
-          "name": "6. Comunidade São José",
+          "name": "6. Comunidade SÃ£o JosÃ©",
           "schedule": [
-            "Último sábado do mês às 20h"
+            "Ãltimo sÃ¡bado do mÃªs Ã s 20h"
           ],
-          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
+          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
         },
         {
           "name": "7. Comunidade Nossa Senhora Abadia",
           "schedule": [
-            "Segundo sábado do mês: 20h"
+            "Segundo sÃ¡bado do mÃªs: 20h"
           ],
-          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
+          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
         }
       ]
     },
@@ -279,31 +279,24 @@
     {
       "name": "Divino EspÃ­rito Santo ParÃ¡clito",
       "link": "https://diocesedeuberlandia.org.br/paroquias/divino-espirito-santo-paraclito/",
-      "address": "Rua São Francisco, 320, Bairro Maria Eugenia",
+      "address": "Rua SÃ£o Francisco, 320, Bairro Maria Eugenia",
       "communities": [
         {
-          "name": "Paróquia",
-          "schedule": [
-            "SECRETARIA\nTerça a Sexta-feira, das 13h às 17h"
-          ],
-          "address": null
-        },
-        {
-          "name": "1. Matriz Divino Espírito Santo Paráclito",
+          "name": "1. Matriz Divino EspÃ­rito Santo ParÃ¡clito",
           "schedule": [
             "Domingo: 10h e 18h\nQuartas e Sextas-feiras: 19h30"
           ],
-          "address": "1. Matriz Divino Espírito Santo Paráclito\nRua São Francisco, 320, Bairro Maria Eugenia"
+          "address": "1. Matriz Divino EspÃ­rito Santo ParÃ¡clito\nRua SÃ£o Francisco, 320, Bairro Maria Eugenia"
         },
         {
           "name": "2. Comunidade Santo Expedito",
           "schedule": [
-            "Sábado: 19h30\nTodo dia 19: 19h30"
+            "SÃ¡bado: 19h30\nTodo dia 19: 19h30"
           ],
-          "address": "2. Comunidade Santo Expedito\nRua Israel Pinheiro, 1908, Bairro Brasília"
+          "address": "2. Comunidade Santo Expedito\nRua Israel Pinheiro, 1908, Bairro BrasÃ­lia"
         },
         {
-          "name": "3. Comunidade Imaculada Conceição",
+          "name": "3. Comunidade Imaculada ConceiÃ§Ã£o",
           "schedule": [
             "Domingo: 8h30"
           ],
@@ -945,27 +938,6 @@
           "name": "7. Comunidade Santa Luzia",
           "schedule": [
             "Primeira e segunda quinta-feira do mÃªs: 19h30"
-          ],
-          "address": null
-        }
-      ]
-    },
-    {
-      "name": "SÃ£o Francisco das Chagas",
-      "link": "https://diocesedeuberlandia.org.br/paroquias/sao-francisco-das-chagas/",
-      "address": "Rua dos Angicos, 593 – Bairro: Paloma",
-      "communities": [
-        {
-          "name": "Paróquia",
-          "schedule": [
-            "IGREJA MATRIZ DE SÃO FRANCISCO DAS CHAGAS\nPraça Luiz Dutra Alvim, S/N – Centro\n– Domingo: 09h e 19h\n– Terça-feira: 07h\n– Quarta-feira: 07h\n– Quinta-feira: 15h e 19h\n– Sexta-feira: 07h (Obs: na 1ª sexta-feira do mês, Celebração também às 19h)",
-            "IGREJA NOSSA SENHORA APARECIDA\nRua dos Angicos, 593 – Bairro: Paloma\n– Domingo: 07h\n– Terça-feira: 19h",
-            "IGREJA NOSSA SENHORA DO ROSÁRIO\nR. Antônio Jorge Tannús, 90 – Bairro: Petrópolis\n– Sábado: 17h30",
-            "IGREJA SAGRADA FAMÍLIA\nRua Ézio Antônio de Miranda, 430 – Bairro: Sagrada Família\n– Quarta-feira: 19h – Sábado: 19h",
-            "IGREJA SANTA CLARA\nAv. Uberlândia, 518 – Bairro: Rancho Alegre\n– Domingo: 17h",
-            "COMUNIDADE SANTO ANTÔNIO\nBairros Santo Antônio, São Francisco e Pedra Branca\n– Toda 3ª segunda-feira do mês: 19h",
-            "CAPELA DIVINO PAI ETERNO – SERRINHA\n– Toda 1ª quinta-feira do mês: 19h",
-            "CEMITÉRIO MUNICIPAL\n– Toda 1ª segunda-feira do mês: 19h"
           ],
           "address": null
         }
