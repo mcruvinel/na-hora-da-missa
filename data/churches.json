@@ -1,5 +1,5 @@
 {
-  "collection_date": "2025-11-25 06:36:49",
+  "collection_date": "2025-11-26 06:36:28",
   "total_churches": 44,
   "churches": [
     {
@@ -512,7 +512,7 @@
     {
       "name": "Nossa Senhora de Guadalupe",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-de-guadalupe/",
-      "address": "Rua Iraque, 182 â Laranjeiras â 38410-282 â UberlÃ¢ndia/MG",
+      "address": "Rua Gafanhoto, 34 – Jardim BotÃ¢nico",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora de Guadalupe",
@@ -536,18 +536,18 @@
           "address": "3.Â Comunidade Rainha da Paz\nRua Egito, 203 â Laranjeiras"
         },
         {
-          "name": "4. Comunidade SÃ£o Francisco",
+          "name": "4. Comunidade SÃ£o Francisco e Santa Clara",
           "schedule": [
             "Domingo: 7h30 e 18h\nQuinta-feira: 19h30"
           ],
-          "address": "4. Comunidade SÃ£o Francisco\nRua Soberania, 220 â Aurora"
+          "address": "4. Comunidade SÃ£o Francisco e Santa Clara\nAvenida dos Tito, 653 – Laranjeiras"
         },
         {
           "name": "5. Comunidade Santa Rosa de Lima",
           "schedule": [
             "SÃ¡bado: 19h30\nQuarta-feira: 19h30"
           ],
-          "address": "5. Comunidade Santa Rosa de Lima\nRua Munhoz da Rocha, 34, Jardim BotÃ¢nico"
+          "address": "5. Comunidade Santa Rosa de Lima\nRua Gafanhoto, 34 – Jardim BotÃ¢nico"
         },
         {
           "name": "6. Comunidade Nossa Senhora de FÃ¡tima",
