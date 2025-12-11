@@ -1,6 +1,6 @@
 {
-  "collection_date": "2025-12-09 06:38:14",
-  "total_churches": 44,
+  "collection_date": "2025-12-11 06:40:24",
+  "total_churches": 50,
   "churches": [
     {
       "name": "Jesus Bom Pastor",
@@ -10,156 +10,170 @@
         {
           "name": "Capelania",
           "schedule": [
-            "SECRETARIA\nTerÃ§a a Quinta – 15h Ã s 21h",
-            "Santo Expedito\nDomingos Ã s 07h30\nAl. Deocleciano Martins, 55 – JH",
-            "SÃ£o Lucas\nTerÃ§a a sexta Ã s 06h30\nDomingos Ã s 09h e Ã s 19h30\nAdoraÃ§Ã£o ao SantÃ­ssimo: toda quinta Ã s 18h\nAl. Paulo CÃ©sar Santana, 1135 – JH",
-            "Nossa Senhora de FÃ¡tima\nDomingos Ã s 17h30\nChÃ¡caras Eldorado",
-            "Nossa Senhora Aparecida\nSÃ¡bados Ã s 18h\nAssentamento TangarÃ¡"
+            "SECRETARIA\nTerça a Quinta – 15h às 21h",
+            "Santo Expedito\nDomingos às 07h30\nAl. Deocleciano Martins, 55 – JH",
+            "São Lucas\nTerça a sexta às 06h30\nDomingos às 09h e às 19h30\nAdoração ao Santíssimo: toda quinta às 18h\nAl. Paulo César Santana, 1135 – JH",
+            "Nossa Senhora de Fátima\nDomingos às 17h30\nChácaras Eldorado",
+            "Nossa Senhora Aparecida\nSábados às 18h\nAssentamento Tangará"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "SÃ£o SebastiÃ£o",
+      "name": "São Sebastião",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-sebastiao-2/",
-      "address": "Rua Luiz Carlos, 613 â Santiago â 38444-328 â Araguari/MG",
+      "address": "Rua Luiz Carlos, 613 – Santiago – 38444-328 – Araguari/MG",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o SebastiÃ£o",
+          "name": "1. Matriz São Sebastião",
           "schedule": [
             "Domingo: 9h30 e 19h\nSegunda-feira: 19h30"
           ],
-          "address": "1. Matriz SÃ£o SebastiÃ£o\nRua Luiz Carlos, 613 â Santiago"
+          "address": "1. Matriz São Sebastião\nRua Luiz Carlos, 613 – Santiago"
         }
       ]
     },
     {
       "name": "Nossa Senhora da Penha",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-da-penha/",
-      "address": "Rua Coromandel, 1259 â Amorim â 38446-093 â Araguari/MG",
+      "address": "Rua Coromandel, 1259 – Amorim – 38446-093 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora da Penha",
           "schedule": [
             "Domingo: 7h30 e 19h30\nQuinta-feira: 19h30"
           ],
-          "address": "1. Matriz Nossa Senhora da Penha\nRua Coromandel, 1259 â Bairro Amorim"
+          "address": "1. Matriz Nossa Senhora da Penha\nRua Coromandel, 1259 – Bairro Amorim"
         },
         {
           "name": "2. Comunidade Santa Luzia",
           "schedule": [
             "Domingo: 18h\nSexta: 19h30"
           ],
-          "address": "2. Comunidade Santa Luzia\nRua Raul JosÃ© de BelÃ©m, 2850 â Idelmino"
+          "address": "2. Comunidade Santa Luzia\nRua Raul José de Belém, 2850 – Idelmino"
         },
         {
-          "name": "3. Comunidade Santa Tereza de Ãvila",
+          "name": "3. Comunidade Santa Tereza de Ávila",
           "schedule": [
             "Domingo: 9h\nQuarta: 19h30"
           ],
-          "address": "3. Comunidade Santa Tereza de Ãvila\nRua OtacÃ­lio Pinto de Oliveira, 839 â Novo Horizonte"
+          "address": "3. Comunidade Santa Tereza de Ávila\nRua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "4. Comunidade Nossa Senhora da Abadia",
           "schedule": [
-            "SÃ¡bado: 20h (terceiro do mÃªs)"
+            "Sábado: 20h (terceiro do mês)"
           ],
-          "address": "3. Comunidade Santa Tereza de Ãvila\nRua OtacÃ­lio Pinto de Oliveira, 839 â Novo Horizonte"
+          "address": "3. Comunidade Santa Tereza de Ávila\nRua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
-          "name": "5. Comunidade SÃ£o JoÃ£o Batista",
+          "name": "5. Comunidade São João Batista",
           "schedule": [
-            "SÃ¡bado: 20h (terceiro do mÃªs)"
+            "Sábado: 20h (terceiro do mês)"
           ],
-          "address": "3. Comunidade Santa Tereza de Ãvila\nRua OtacÃ­lio Pinto de Oliveira, 839 â Novo Horizonte"
+          "address": "3. Comunidade Santa Tereza de Ávila\nRua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "6. Comunidade Santa Helena",
           "schedule": [
-            "SÃ¡bado: 20h (primeiro do mÃªs)"
+            "Sábado: 20h (primeiro do mês)"
           ],
-          "address": "3. Comunidade Santa Tereza de Ãvila\nRua OtacÃ­lio Pinto de Oliveira, 839 â Novo Horizonte"
+          "address": "3. Comunidade Santa Tereza de Ávila\nRua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
           "name": "7. Comunidade Nossa Senhora Aparecida",
           "schedule": [
-            "SÃ¡bado: 20h (segundo do mÃªs)"
+            "Sábado: 20h (segundo do mês)"
           ],
-          "address": "3. Comunidade Santa Tereza de Ãvila\nRua OtacÃ­lio Pinto de Oliveira, 839 â Novo Horizonte"
+          "address": "3. Comunidade Santa Tereza de Ávila\nRua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
-          "name": "8. Comunidade SÃ£o SebastiÃ£o",
+          "name": "8. Comunidade São Sebastião",
           "schedule": [
-            "SÃ¡bado: 20h (Ãºltimo do mÃªs)"
+            "Sábado: 20h (último do mês)"
           ],
-          "address": "3. Comunidade Santa Tereza de Ãvila\nRua OtacÃ­lio Pinto de Oliveira, 839 â Novo Horizonte"
+          "address": "3. Comunidade Santa Tereza de Ávila\nRua Otacílio Pinto de Oliveira, 839 – Novo Horizonte"
         },
         {
-          "name": "9. Comunidade Nossa Senhora de FÃ¡tima",
+          "name": "9. Comunidade Nossa Senhora de Fátima",
           "schedule": [
-            "Sexta-feira: 20h (primeira do mÃªs)"
+            "Sexta-feira: 20h (primeira do mês)"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "SÃ£o Judas Tadeu",
+      "name": "São Judas Tadeu",
       "link": "https://diocesedeuberlandia.org.br/paroquias/paroquia-sao-judas-tadeu/",
-      "address": "Rua das Araras, 840 â IndependÃªncia â 38443-084 â Araguari/MG",
+      "address": "Rua das Araras, 840 – Independência – 38443-084 – Araguari/MG",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o Judas Tadeu",
+          "name": "1. Matriz São Judas Tadeu",
           "schedule": [
             "Domingo: 7h, e 19h",
-            "TerÃ§a e Sexta: 19h",
+            "Terça e Sexta: 19h",
             "Todo dia 28: 7h; 16h; e 19h",
-            "Primeira sexta-feira do mÃªs: 15h"
+            "Primeira sexta-feira do mês: 15h"
           ],
-          "address": "1. Matriz SÃ£o Judas Tadeu\nRua das Araras, 840 â Bairro IndependÃªncia"
+          "address": "1. Matriz São Judas Tadeu\nRua das Araras, 840 – Bairro Independência"
         },
         {
-          "name": "3. Comunidade SÃ£o Caetano",
+          "name": "3. Comunidade São Caetano",
           "schedule": [
-            "SÃ¡bado: 18h"
+            "Sábado: 18h"
           ],
-          "address": "Rua Ana Batista, 425 â Vieno"
+          "address": "Rua Ana Batista, 425 – Vieno"
         },
         {
-          "name": "4. Comunidade SÃ£o CristÃ³vÃ£o",
+          "name": "4. Comunidade São Cristóvão",
           "schedule": [
             "Domingo: 10h\nQuarta: 19h30"
           ],
-          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
+          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
         },
         {
           "name": "5. Comunidade Santa Luzia",
           "schedule": [
             "Quinta-feira: 19h30"
           ],
-          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
+          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
         },
         {
-          "name": "6. Comunidade SÃ£o JosÃ©",
+          "name": "6. Comunidade São José",
           "schedule": [
-            "Ãltimo sÃ¡bado do mÃªs Ã s 20h"
+            "Último sábado do mês às 20h"
           ],
-          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
+          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
         },
         {
           "name": "7. Comunidade Nossa Senhora Abadia",
           "schedule": [
-            "Segundo sÃ¡bado do mÃªs: 20h"
+            "Segundo sábado do mês: 20h"
           ],
-          "address": "4. Comunidade SÃ£o CristÃ³vÃ£o\nRua dos Angicos, 225 â SÃ£o SebastiÃ£o"
+          "address": "4. Comunidade São Cristóvão\nRua dos Angicos, 225 – São Sebastião"
         }
       ]
     },
     {
-      "name": "SÃ£o JosÃ© OperÃ¡rio",
+      "name": "Nossa Senhora do Rosário e São Benedito",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-do-rosario-e-sao-benedito/",
+      "address": "Rua Padre Gusmão, 132 – Paraíso",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda das 13h às 17h.\nTerça à Sexta das 08h às 11h e das 13h às 17h."
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "São José Operário",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-jose-operario/",
-      "address": "Rua Padre Gil, 42 â Jardim Regina â 38440-274 â Araguari/MG",
+      "address": "Rua Padre Gil, 42 – Jardim Regina – 38440-274 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Rainha da Paz",
@@ -173,88 +187,88 @@
           "schedule": [
             "Domingo: 8h"
           ],
-          "address": "2. Comunidade Santa Clara de Assis\nRua SÃ£o Luiz, 400 â Aeroporto"
+          "address": "2. Comunidade Santa Clara de Assis\nRua São Luiz, 400 – Aeroporto"
         },
         {
-          "name": "3. Comunidade Nossa Senhora das GraÃ§as",
+          "name": "3. Comunidade Nossa Senhora das Graças",
           "schedule": [
-            "SÃ¡bado: 19h"
+            "Sábado: 19h"
           ],
-          "address": "3. Comunidade Nossa Senhora das GraÃ§as\nRua GonÃ§alves Dias, 281"
+          "address": "3. Comunidade Nossa Senhora das Graças\nRua Gonçalves Dias, 281"
         },
         {
           "name": "4. Comunidade Nossa Senhora da Abadia",
           "schedule": [
             "Todo dia 15: 19h\nTodo Domingo: 18h"
           ],
-          "address": "4. Comunidade Nossa Senhora da Abadia\nRua Newton Atheniel, 260 â Jardim Milenium"
+          "address": "4. Comunidade Nossa Senhora da Abadia\nRua Newton Atheniel, 260 – Jardim Milenium"
         },
         {
-          "name": "5. Comunidade Santa Rita de CÃ¡ssia",
+          "name": "5. Comunidade Santa Rita de Cássia",
           "schedule": [
-            "Ãltima sexta-feira do mÃªs: 20h"
+            "Última sexta-feira do mês: 20h"
           ],
-          "address": "4. Comunidade Nossa Senhora da Abadia\nRua Newton Atheniel, 260 â Jardim Milenium"
+          "address": "4. Comunidade Nossa Senhora da Abadia\nRua Newton Atheniel, 260 – Jardim Milenium"
         },
         {
-          "name": "6. Comunidade Imaculada ConceiÃ§Ã£o",
+          "name": "6. Comunidade Imaculada Conceição",
           "schedule": [
-            "Terceiro sÃ¡bado do mÃªs: 20h"
+            "Terceiro sábado do mês: 20h"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "Nossa Senhora de FÃ¡tima",
+      "name": "Nossa Senhora de Fátima",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-de-fatima-2/",
-      "address": "Rua do Contorno, 250 â Morada de FÃ¡tima",
+      "address": "Rua do Contorno, 250 – Morada de Fátima",
       "communities": [
         {
-          "name": "1. Matriz Nossa Senhora de FÃ¡tima",
+          "name": "1. Matriz Nossa Senhora de Fátima",
           "schedule": [
-            "Domingo: 7h, 9h e 19h\nSÃ¡bado (Missa das crianÃ§as): 16h\nSegunda, quarta e sexta: 7hÂ e 19h\nTerÃ§a e quinta: 19h",
-            "Primeira Quarta-feira do mÃªs: 19h30 (Missa de Louvor)\nSegunda quarta-feira do MÃªs: 15h (Missa da SaÃºde)"
+            "Domingo: 7h, 9h e 19h\nSábado (Missa das crianças): 16h\nSegunda, quarta e sexta: 7h e 19h\nTerça e quinta: 19h",
+            "Primeira Quarta-feira do mês: 19h30 (Missa de Louvor)\nSegunda quarta-feira do Mês: 15h (Missa da Saúde)"
           ],
           "address": null
         },
         {
-          "name": "2. Comunidade Nossa Senhora Desatadora dos NÃ³s",
+          "name": "2. Comunidade Nossa Senhora Desatadora dos Nós",
           "schedule": [
-            "Domingo: 7h\nSÃ¡bado: 19h\nTodo dia 08: 19h"
+            "Domingo: 7h\nSábado: 19h\nTodo dia 08: 19h"
           ],
-          "address": "2. Comunidade Nossa Senhora Desatadora dos NÃ³s\nRua do Contorno, 250 â Morada de FÃ¡tima"
+          "address": "2. Comunidade Nossa Senhora Desatadora dos Nós\nRua do Contorno, 250 – Morada de Fátima"
         },
         {
-          "name": "3. Comunidade SÃ£o Francisco de Assis",
+          "name": "3. Comunidade São Francisco de Assis",
           "schedule": [
             "Domingo: 17h"
           ],
-          "address": "3. Comunidade SÃ£o Francisco de Assis\nRua Doutor Canabrava, 170 â Centro"
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
         },
         {
           "name": "4. Comunidade Nossa Senhora Aparecida",
           "schedule": [
-            "2Âª sexta-feira do mÃªs Ã s 20h"
+            "2ª sexta-feira do mês às 20h"
           ],
-          "address": "3. Comunidade SÃ£o Francisco de Assis\nRua Doutor Canabrava, 170 â Centro"
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
         },
         {
-          "name": "5. Comunidade SÃ£o JoÃ£o Batista",
+          "name": "5. Comunidade São João Batista",
           "schedule": [
-            "2Âª e 4Âª sexta feira do mÃªs Ã s 20h"
+            "2ª e 4ª sexta feira do mês às 20h"
           ],
-          "address": "3. Comunidade SÃ£o Francisco de Assis\nRua Doutor Canabrava, 170 â Centro"
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
         },
         {
           "name": "6. Comunidade Santa Cruz",
           "schedule": [
-            "1Âª e 3Âª sexta-feira do mÃªs Ã s 20h"
+            "1ª e 3ª sexta-feira do mês às 20h"
           ],
-          "address": "3. Comunidade SÃ£o Francisco de Assis\nRua Doutor Canabrava, 170 â Centro"
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
         },
         {
-          "name": "7. Comunidade SÃ£o Frei GalvÃ£o",
+          "name": "7. Comunidade São Frei Galvão",
           "schedule": [
             "Domingo: 9h"
           ],
@@ -265,38 +279,45 @@
     {
       "name": "Senhor Bom Jesus da Cana Verde",
       "link": "https://diocesedeuberlandia.org.br/paroquias/senhor-bom-jesus-da-cana-verde/",
-      "address": null,
+      "address": "Praça Padre Nilo Tabuquini 34 – Centro – 38440-051 – Araguari/MG",
       "communities": [
         {
           "name": "1. Matriz Senhor Bom Jesus da Cana Verde",
           "schedule": [
-            "Domingo: 7h, 9h, e 19h\nSegunda a sÃ¡bado: 06h30 e 19h"
+            "Domingo: 7h, 9h, e 19h\nSegunda a sábado: 06h30 e 19h"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "Divino EspÃ­rito Santo ParÃ¡clito",
+      "name": "Divino Espírito Santo Paráclito",
       "link": "https://diocesedeuberlandia.org.br/paroquias/divino-espirito-santo-paraclito/",
-      "address": "Rua SÃ£o Francisco, 320, Bairro Maria Eugenia",
+      "address": "Rua São Francisco, 320, Bairro Maria Eugenia",
       "communities": [
         {
-          "name": "1. Matriz Divino EspÃ­rito Santo ParÃ¡clito",
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nTerça a Sexta-feira, das 13h às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz Divino Espírito Santo Paráclito",
           "schedule": [
             "Domingo: 10h e 18h\nQuartas e Sextas-feiras: 19h30"
           ],
-          "address": "1. Matriz Divino EspÃ­rito Santo ParÃ¡clito\nRua SÃ£o Francisco, 320, Bairro Maria Eugenia"
+          "address": "1. Matriz Divino Espírito Santo Paráclito\nRua São Francisco, 320, Bairro Maria Eugenia"
         },
         {
           "name": "2. Comunidade Santo Expedito",
           "schedule": [
-            "SÃ¡bado: 19h30\nTodo dia 19: 19h30"
+            "Sábado: 19h30\nTodo dia 19: 19h30"
           ],
-          "address": "2. Comunidade Santo Expedito\nRua Israel Pinheiro, 1908, Bairro BrasÃ­lia"
+          "address": "2. Comunidade Santo Expedito\nRua Israel Pinheiro, 1908, Bairro Brasília"
         },
         {
-          "name": "3. Comunidade Imaculada ConceiÃ§Ã£o",
+          "name": "3. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 8h30"
           ],
@@ -305,29 +326,36 @@
       ]
     },
     {
-      "name": "Sagrada FamÃ­lia",
+      "name": "Sagrada Família",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sagrada-familia/",
-      "address": "Rua Maria Aparecida Peixoto, 250 â EsperanÃ§a",
+      "address": "Rua Maria Aparecida Peixoto, 250 – Esperança",
       "communities": [
         {
-          "name": "1. Matriz Sagrada FamÃ­lia",
+          "name": "Paróquia",
           "schedule": [
-            "1Âª. Sexta-feira do mÃªs\n18h30: adoraÃ§Ã£o ao SantÃ­ssimo Sacramento\n19h30: Missa do Sagrado CoraÃ§Ã£o de Jesus.\nÃltima quarta-feira do mÃªs: Missa da SaÃºde Ã s 19h30\nTodo dia 30 de cada mÃªs: Missa da FamÃ­lia Ã s 19h30",
-            "1Âª. Sexta-feira do mÃªs"
+            "SECRETARIA\nTerça à Sexta-feira: 13h às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz Sagrada Família",
+          "schedule": [
+            "1ª. Sexta-feira do mês\n18h30: adoração ao Santíssimo Sacramento\n19h30: Missa do Sagrado Coração de Jesus.\nÚltima quarta-feira do mês: Missa da Saúde às 19h30\nTodo dia 30 de cada mês: Missa da Família às 19h30",
+            "1ª. Sexta-feira do mês"
           ],
           "address": null
         },
         {
           "name": "3. Comunidade Santo Expedito",
           "schedule": [
-            "TerÃ§a-feira: 19h30 âÂ Novena Perpetua de Santo Expedito\nDomingo: 17h30\nTodo dia 19 de cada mÃªs\n19h30: Missa da SaÃºde e votiva a Santo Expedito"
+            "Terça-feira: 19h30 – Novena Perpetua de Santo Expedito\nDomingo: 17h30\nTodo dia 19 de cada mês\n19h30: Missa da Saúde e votiva a Santo Expedito"
           ],
-          "address": "2. Comunidade Nossa Senhora da EsperanÃ§a\nRua Maria Aparecida Peixoto, 250 â EsperanÃ§a\nSÃ¡bado: 19h30\nTodo dia 18 de cada mÃªs\n18h30: AdoraÃ§Ã£o ao SantÃ­ssimo Sacramento\n19h30: Missa da SaÃºde."
+          "address": "2. Comunidade Nossa Senhora da Esperança\nRua Maria Aparecida Peixoto, 250 – Esperança\nSábado: 19h30\nTodo dia 18 de cada mês\n18h30: Adoração ao Santíssimo Sacramento\n19h30: Missa da Saúde."
         },
         {
           "name": "8. Comunidade Cristo Redentor",
           "schedule": [
-            "Toda 2Âº sÃ¡bado do mÃªs Ã s 16h\nNas casas do Vilarejo"
+            "Toda 2º sábado do mês às 16h\nNas casas do Vilarejo"
           ],
           "address": null
         }
@@ -369,33 +397,40 @@
       ]
     },
     {
-      "name": "Nossa Senhora das GraÃ§as da Medalha Milagrosa",
+      "name": "Nossa Senhora das Graças da Medalha Milagrosa",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-das-gracas-da-medalha-milagrosa/",
-      "address": "Rua Acre, 865 â Nossa Senhora das GraÃ§as â 38402-022 â UberlÃ¢ndia/MG",
+      "address": "Rua Acre, 865 – Nossa Senhora das Graças – 38402-022 – Uberlândia/",
       "communities": [
         {
-          "name": "1. Matriz Nossa Senhora das GraÃ§as da Medalha Milagrosa",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 8h e 19h30\nTerÃ§a e Sexta: 19h30\nTodo dia 27: 15h e 19h30"
+            "SECRETARIA\nTerça a Sexta-feira:  13h às 18h"
           ],
-          "address": "1. Matriz Nossa Senhora das GraÃ§as da Medalha Milagrosa\nRua Acre, 865 â Nossa Senhora das GraÃ§as"
+          "address": null
+        },
+        {
+          "name": "1. Matriz Nossa Senhora das Graças da Medalha Milagrosa",
+          "schedule": [
+            "Domingo: 8h e 19h30\nTerça e Sexta: 19h30\nTodo dia 27: 15h e 19h30"
+          ],
+          "address": "1. Matriz Nossa Senhora das Graças da Medalha Milagrosa\nRua Acre, 865 – Nossa Senhora das Graças"
         },
         {
           "name": "2. Comunidade Menino Jesus de Praga",
           "schedule": [
-            "Quinta-feira: 19h30\nSÃ¡bado: 19h30"
+            "Quinta-feira: 19h30\nSábado: 19h30"
           ],
-          "address": "2. Comunidade Menino Jesus de Praga\nRua Ceres, 1470 â Minas Gerais"
+          "address": "2. Comunidade Menino Jesus de Praga\nRua Ceres, 1470 – Minas Gerais"
         },
         {
-          "name": "3. Comunidade Santa Rita de CÃ¡ssia",
+          "name": "3. Comunidade Santa Rita de Cássia",
           "schedule": [
-            "SÃ¡bado: 18h\nTodo dia 22: 19h30"
+            "Sábado: 18h\nTodo dia 22: 19h30"
           ],
-          "address": "3. Comunidade Santa Rita de CÃ¡ssia\nRua Francisco Vinagre, 2008 â Minas Gerais"
+          "address": "3. Comunidade Santa Rita de Cássia\nRua Francisco Vinagre, 2008 – Minas Gerais"
         },
         {
-          "name": "4. Comunidade SÃ£o JosÃ© OperÃ¡rio",
+          "name": "4. Comunidade São José Operário",
           "schedule": [
             "Domingo: 09h30\nQuarta-feira: 19h30"
           ],
@@ -404,33 +439,40 @@
       ]
     },
     {
-      "name": "SÃ£o Vicente de Paulo",
+      "name": "São Vicente de Paulo",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-vicente-de-paulo/",
-      "address": "Rua PlutÃ£o, 450 â Jardim BrasÃ­lia â 38401-394 â UberlÃ¢ndia/MG",
+      "address": "Rua Plutão, 450 – Jardim Brasília – 38401-394 – Uberlândia/MG",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o Vicente de Paulo",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 7h e 19h30\nTerÃ§a, Quinta: 19h30\nToda 1Âª sexta-feira de cada mÃªs: 19h30\nTodo dia 27 de cada mÃªs, em louvor a SÃ£o Vicente: 15h (enfermos) e 19h30"
+            "SECRETARIA\nSegunda à Sexta das 14h às 18h"
           ],
-          "address": "1. Matriz SÃ£o Vicente de Paulo\nRua Nosso Lar, 371 â Jardim BrasÃ­lia"
+          "address": null
+        },
+        {
+          "name": "1. Matriz São Vicente de Paulo",
+          "schedule": [
+            "Domingo: 7h e 19h30\nTerça, Quinta: 19h30\nToda 1ª sexta-feira de cada mês: 19h30\nTodo dia 27 de cada mês, em louvor a São Vicente: 15h (enfermos) e 19h30"
+          ],
+          "address": "1. Matriz São Vicente de Paulo\nRua Nosso Lar, 371 – Jardim Brasília"
         },
         {
           "name": "2. Comunidade Divino Pai Eterno",
           "schedule": [
             "Domingo: 09h\nQuarta-feira: 19h30"
           ],
-          "address": "2. Comunidade Divino Pai Eterno\nRua ConstelaÃ§Ã£o, 1635 â Maravilha"
+          "address": "2. Comunidade Divino Pai Eterno\nRua Constelação, 1635 – Maravilha"
         },
         {
-          "name": "3. Comunidade SÃ£o Bento",
+          "name": "3. Comunidade São Bento",
           "schedule": [
-            "SÃ¡bado: 19h30"
+            "Sábado: 19h30"
           ],
-          "address": "3. Comunidade SÃ£o Bento\nRua Mateus, 783 â Maravilha"
+          "address": "3. Comunidade São Bento\nRua Mateus, 783 – Maravilha"
         },
         {
-          "name": "4. Comunidade SÃ£o JosÃ©",
+          "name": "4. Comunidade São José",
           "schedule": [
             "Domingo: 17h30\nTodo dia 19: 19h30"
           ],
@@ -439,22 +481,50 @@
       ]
     },
     {
-      "name": "SÃ£o JosÃ©",
-      "link": "https://diocesedeuberlandia.org.br/paroquias/sao-jose/",
-      "address": "Rua Polidoro de Freitas Rodrigues, 736, Vigilato Pereira â 38408-600 â UberlÃ¢ndia/MG",
+      "name": "São Judas Tadeu",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/sao-judas-tadeu/",
+      "address": "Rua Mário Paganini, 220 – Roosevelt",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o JosÃ©",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: Missas Ã s 10h30 (com crianÃ§as) e Ã s 18h\nQuarta-feira: Missa Ã s 19h\nSexta-feira: Missa Ã s 19h\nSÃ¡bado: Missa Ã s 19h30\nTodo dia 19: Missa votiva a SÃ£o JosÃ© Ã s 19h",
-            "TerÃ§o dos Homens: segundasâfeiras Ã s 20h\nEscola de OraÃ§Ã£o: sÃ¡bados Ã s 17h\nGrupo de OraÃ§Ã£o Chamas da EsperanÃ§a aos terceiros sÃ¡bados do mÃªs Ã s 17h30\nBatizados: 4Âº Domingo de cada mÃªs"
+            "SECRETARIA\nSegunda à Sexta das 09h às 12h / 13h30 às 18h"
           ],
-          "address": "1. Matriz SÃ£o JosÃ©\nRua Polidoro de Freitas Rodrigues, 736 â Vigilato Pereira"
+          "address": null
         },
         {
-          "name": "2. Comunidade Nossa Senhora das GraÃ§as",
+          "name": "1. Matriz de São Judas Tadeu",
           "schedule": [
-            "Domingo: Missas Ã s 09h e 19h30\nSÃ¡bado: Missa Ã s 18h\nTerÃ§a-feira: Missa Ã s 19h30\nQuinta-feira: Missa Ã s 19h30\nTodo dia 27: Missa votiva a Nossa Senhora das GraÃ§as Ã s 19h30"
+            "Toda segunda-feira, Missa Devocional à Nossa Senhora Desatadora dos Nós com queima de pedidos, às 19h.\nToda quarta-feira, Novena Perpétua em honra de São Judas Tadeu, às 19h.\nToda 3ª quinta-feira do mês – Adoração Eucarística das 19h30 às 21h30\nTodo dia 28, Dia Votivo a São Judas Tadeu – Missas às 07h / 16h (Missa dos Enfermos com Unção do Óleo Santo) e 19h."
+          ],
+          "address": "1. Matriz de São Judas Tadeu\nAv. Morum Bernardino, 600 – Roosevelt\nDomingo: 07h, 9h30, 16h e 19h\nSegunda à Sexta-feira: 7h e 19h\nSábado: 07h"
+        }
+      ]
+    },
+    {
+      "name": "São José",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/sao-jose/",
+      "address": "Rua Polidoro de Freitas Rodrigues, 736 – Vigilato Pereira",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda a sexta-feira das 13h às 18h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz São José",
+          "schedule": [
+            "Domingo: Missas às 10h30 (com crianças) e às 18h\nQuarta-feira: Missa às 19h\nSexta-feira: Missa às 19h\nSábado: Missa às 19h30\nTodo dia 19: Missa votiva a São José às 19h",
+            "Terço dos Homens: segundas–feiras às 20h\nEscola de Oração: sábados às 17h\nGrupo de Oração Chamas da Esperança aos terceiros sábados do mês às 17h30\nBatizados: 4º Domingo de cada mês"
+          ],
+          "address": "1. Matriz São José\nRua Polidoro de Freitas Rodrigues, 736 – Vigilato Pereira"
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora das Graças",
+          "schedule": [
+            "Domingo: Missas às 09h e 19h30\nSábado: Missa às 18h\nTerça-feira: Missa às 19h30\nQuinta-feira: Missa às 19h30\nTodo dia 27: Missa votiva a Nossa Senhora das Graças às 19h30"
           ],
           "address": null
         }
@@ -463,45 +533,52 @@
     {
       "name": "Nossa Senhora do Carmo",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-do-carmo/",
-      "address": "Rua Ãngelo Cunha, 385 â Bairro SÃ£o Jorge â 38410-050 â UberlÃ¢ndia/MG",
+      "address": "Rua Ângelo Cunha, 385 – Bairro São Jorge – 38410-050 – Uberlândia/MG",
       "communities": [
         {
-          "name": "1. Matriz Nossa Senhora do Carmo (SalÃ£o)",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 19h\nQuarta-feira: 19h30\nPrimeira sexta-feira do mÃªs: 15h â Missa com os Enfermos"
+            "SECRETARIA\nSegunda à sexta das 13h às 18h"
           ],
-          "address": "1. Matriz Nossa Senhora do Carmo (SalÃ£o)\nRua Ãngelo Cunha, 385 â Bairro SÃ£o Jorge"
+          "address": null
         },
         {
-          "name": "2. Comunidade SÃ£o Jorge",
+          "name": "1. Matriz Nossa Senhora do Carmo (Salão)",
+          "schedule": [
+            "Domingo: 19h\nQuarta-feira: 19h30\nPrimeira sexta-feira do mês: 15h – Missa com os Enfermos"
+          ],
+          "address": "1. Matriz Nossa Senhora do Carmo (Salão)\nRua Ângelo Cunha, 385 – Bairro São Jorge"
+        },
+        {
+          "name": "2. Comunidade São Jorge",
           "schedule": [
             "Todos os dias: 7h"
           ],
-          "address": "2. Comunidade SÃ£o Jorge\nRua CÃ©lio Pontes, 288 â SÃ£o Jorge"
+          "address": "2. Comunidade São Jorge\nRua Célio Pontes, 288 – São Jorge"
         },
         {
-          "name": "3. Comunidade SÃ£o Gabriel e Santa Ana",
+          "name": "3. Comunidade São Gabriel e Santa Ana",
           "schedule": [
             "Domingo: 8h30\nSexta-feira: 19h30"
           ],
-          "address": "3. Comunidade SÃ£o Gabriel e Santa Ana\nRua Monte Pascoal, 90 â SÃ£o Gabriel"
+          "address": "3. Comunidade São Gabriel e Santa Ana\nRua Monte Pascoal, 90 – São Gabriel"
         },
         {
           "name": "4. Comunidade Santo Expedito",
           "schedule": [
-            "SÃ¡bado: 18h\nTodo dia 19: Ã s 19h30 (Novena perpÃ©tua de Santo Expedito)"
+            "Sábado: 18h\nTodo dia 19: às 19h30 (Novena perpétua de Santo Expedito)"
           ],
-          "address": "4. Comunidade Santo Expedito\nRua JerÃ´nimo Beijo de Andrade, 25 â SÃ£o Jorge"
+          "address": "4. Comunidade Santo Expedito\nRua Jerônimo Beijo de Andrade, 25 – São Jorge"
         },
         {
-          "name": "5. Comunidade SÃ£o Francisco e Santa Clara",
+          "name": "5. Comunidade São Francisco e Santa Clara",
           "schedule": [
-            "Quinta-feira: 19h30\nSÃ¡bado: 19h30"
+            "Quinta-feira: 19h30\nSábado: 19h30"
           ],
-          "address": "5. Comunidade SÃ£o Francisco e Santa Clara\nRua Serra Geral, 36 â Seringueiras"
+          "address": "5. Comunidade São Francisco e Santa Clara\nRua Serra Geral, 36 – Seringueiras"
         },
         {
-          "name": "6. Comunidade Nossa Senhora da GlÃ³ria",
+          "name": "6. Comunidade Nossa Senhora da Glória",
           "schedule": [
             "Domingo: 17h30"
           ],
@@ -512,47 +589,47 @@
     {
       "name": "Nossa Senhora de Guadalupe",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-de-guadalupe/",
-      "address": "Rua Gafanhoto, 34 – Jardim BotÃ¢nico",
+      "address": "Rua Iraque, 182 – Laranjeiras – 38410-282 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora de Guadalupe",
           "schedule": [
-            "Domingo: 9h30 e 19h30\nSegunda a SÃ¡bado: 07h\nQuarta-feira: 19h30"
+            "Domingo: 9h30 e 19h30\nSegunda a Sábado: 07h\nQuarta-feira: 19h30"
           ],
-          "address": "1. Matriz Nossa Senhora de Guadalupe\nRua Iraque, 182 â Laranjeiras"
+          "address": "1. Matriz Nossa Senhora de Guadalupe\nRua Iraque, 182 – Laranjeiras"
         },
         {
-          "name": "2. Comunidade Imaculado CoraÃ§Ã£o de Maria",
+          "name": "2. Comunidade Imaculado Coração de Maria",
           "schedule": [
             "Domingo: 8h e 18h\nSexta-feira: 19h30"
           ],
-          "address": "2. Comunidade Imaculado CoraÃ§Ã£o de Maria\nRua Alfredo Maximiano Alves, 52 â Granada"
+          "address": "2. Comunidade Imaculado Coração de Maria\nRua Alfredo Maximiano Alves, 52 – Granada"
         },
         {
-          "name": "Â Comunidade Rainha da Paz",
+          "name": "Comunidade Rainha da Paz",
           "schedule": [
-            "Domingo: 9h\nTerÃ§a-feira: 19h30"
+            "Domingo: 9h\nTerça-feira: 19h30"
           ],
-          "address": "3.Â Comunidade Rainha da Paz\nRua Egito, 203 â Laranjeiras"
+          "address": "3. Comunidade Rainha da Paz\nRua Egito, 203 – Laranjeiras"
         },
         {
-          "name": "4. Comunidade SÃ£o Francisco e Santa Clara",
+          "name": "4. Comunidade São Francisco e Santa Clara",
           "schedule": [
             "Domingo: 7h30 e 18h\nQuinta-feira: 19h30"
           ],
-          "address": "4. Comunidade SÃ£o Francisco e Santa Clara\nAvenida dos Tito, 653 – Laranjeiras"
+          "address": "4. Comunidade São Francisco e Santa Clara\nAvenida dos Tito, 653 – Laranjeiras"
         },
         {
           "name": "5. Comunidade Santa Rosa de Lima",
           "schedule": [
-            "SÃ¡bado: 19h30\nQuarta-feira: 19h30"
+            "Sábado: 19h30\nQuarta-feira: 19h30"
           ],
-          "address": "5. Comunidade Santa Rosa de Lima\nRua Gafanhoto, 34 – Jardim BotÃ¢nico"
+          "address": "5. Comunidade Santa Rosa de Lima\nRua Gafanhoto, 34 – Jardim Botânico"
         },
         {
-          "name": "6. Comunidade Nossa Senhora de FÃ¡tima",
+          "name": "6. Comunidade Nossa Senhora de Fátima",
           "schedule": [
-            "SÃ¡bado: 18h\nTerÃ§a-feira: 19h30"
+            "Sábado: 18h\nTerça-feira: 19h30"
           ],
           "address": null
         }
@@ -564,21 +641,28 @@
       "address": "Rua da Paz, 278, Morada da Colina",
       "communities": [
         {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda das 15h30 às 19h.\nTerça à sexta das 13h às 19h"
+          ],
+          "address": null
+        },
+        {
           "name": "1. Matriz Nossa Senhora da Abadia",
           "schedule": [
-            "Domingo: 08h e 18h\nTerÃ§a, quinta e sexta-feira: 19h"
+            "Domingo: 08h e 18h\nTerça, quinta e sexta-feira: 19h"
           ],
           "address": null
         },
         {
           "name": "2. Comunidade Nossa Senhora do Bom Parto",
           "schedule": [
-            "SÃ¡bado: 18h\nQuarta-feira: 19h"
+            "Sábado: 18h\nQuarta-feira: 19h"
           ],
           "address": "2. Comunidade Nossa Senhora do Bom Parto\nRua da Paz, 278, Morada da Colina"
         },
         {
-          "name": "3. Comunidade Nova CanaÃ£",
+          "name": "3. Comunidade Nova Canaã",
           "schedule": [
             "Domingo: 10h"
           ],
@@ -587,26 +671,48 @@
       ]
     },
     {
-      "name": "Imaculada ConceiÃ§Ã£o",
-      "link": "https://diocesedeuberlandia.org.br/paroquias/imaculada-conceicao/",
-      "address": "Avenida Boulanger Fonseca, 390 â Shopping Park II - 38425-597",
+      "name": "São Pedro",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/sao-pedro/",
+      "address": "Praça Vasco Gifoni, 20 - Saraiva",
       "communities": [
         {
-          "name": "1. Matriz Imaculada ConceiÃ§Ã£o",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 07h30 e 19h30\nTerÃ§a-feira: 19h30"
+            "SECRETARIA\nSegunda à sexta-feira, das 13h às 18h",
+            "Domingo: 8h, 10h e 18h\nTerça a Sábado: 7h"
           ],
-          "address": "1. Matriz Imaculada ConceiÃ§Ã£o\nAvenida Boulanger Fonseca, 390 â Shopping Park II"
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Imaculada Conceição",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/imaculada-conceicao/",
+      "address": "Avenida Boulanger Fonseca, 390 – Shopping Park II - 38425-597",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda à Sexta-feira, das 13h30 às 18h"
+          ],
+          "address": null
         },
         {
-          "name": "2. Comunidade SÃ£o Frei GalvÃ£o",
+          "name": "1. Matriz Imaculada Conceição",
+          "schedule": [
+            "Domingo: 07h30 e 19h30\nTerça-feira: 19h30"
+          ],
+          "address": "1. Matriz Imaculada Conceição\nAvenida Boulanger Fonseca, 390 – Shopping Park II"
+        },
+        {
+          "name": "2. Comunidade São Frei Galvão",
           "schedule": [
             "Domingo: 09h\nQuarta-feira: 19h30"
           ],
-          "address": "2. Comunidade SÃ£o Frei GalvÃ£o\nRua Siomara Carla de Jesus, 74, Shopping Park"
+          "address": "2. Comunidade São Frei Galvão\nRua Siomara Carla de Jesus, 74, Shopping Park"
         },
         {
-          "name": "3. Comunidade SÃ£o SebastiÃ£o",
+          "name": "3. Comunidade São Sebastião",
           "schedule": [
             "Domingo: 10h30\nQuinta-feira: 19h30"
           ],
@@ -615,124 +721,131 @@
       ]
     },
     {
-      "name": "SÃ£o Geraldo Magela",
+      "name": "São Geraldo Magela",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-geraldo-magela/",
-      "address": "Rua Bernardo de Vasconcelos, 865, Bairro Pampulha, UberlÃ¢ndia",
+      "address": "Rua Bernardo de Vasconcelos, 865 – Pampulha",
       "communities": [
         {
-          "name": "1. Matriz Nossa Senhora Aparecida e SÃ£o Geraldo Magela",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 8h e 19h\nQuinta: 19h\nPrimeira quinta-feira do mÃªs: 18h â AdoraÃ§Ã£o ao SantÃ­ssimo"
+            "SECRETARIA\nTerça-feira a sexta-feira, das 13h30 às 17h"
           ],
-          "address": "1. Matriz Nossa Senhora Aparecida e SÃ£o Geraldo Magela\nRua Bernardo de Vasconcelos, 865 â Pampulha"
+          "address": null
         },
         {
-          "name": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus",
+          "name": "1. Matriz Nossa Senhora Aparecida e São Geraldo Magela",
           "schedule": [
-            "SÃ¡bado: 19h\nPrimeira sexta-feira do mÃªs: 18h (Missa devocional ao Sagrado CoraÃ§Ã£o de Jesus)"
+            "Domingo: 8h e 19h\nQuinta: 19h\nPrimeira quinta-feira do mês: 18h – Adoração ao Santíssimo"
           ],
-          "address": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus\nRua Bento Farias, 477 â Lagoinha"
+          "address": "1. Matriz Nossa Senhora Aparecida e São Geraldo Magela\nRua Bernardo de Vasconcelos, 865 – Pampulha"
         },
         {
-          "name": "3. Comunidade SÃ£o Lucas",
+          "name": "2. Comunidade Sagrado Coração de Jesus",
+          "schedule": [
+            "Sábado: 19h\nPrimeira sexta-feira do mês: 18h (Missa devocional ao Sagrado Coração de Jesus)"
+          ],
+          "address": "2. Comunidade Sagrado Coração de Jesus\nRua Bento Farias, 477 – Lagoinha"
+        },
+        {
+          "name": "3. Comunidade São Lucas",
           "schedule": [
             "Domingo: 10h"
           ],
-          "address": "3. Comunidade SÃ£o Lucas\nRua Professor EudÃ³xio Casassanta Pereira, 722 â Pampulha"
+          "address": "3. Comunidade São Lucas\nRua Professor Eudóxio Casassanta Pereira, 722 – Pampulha"
         },
         {
           "name": "4. Comunidade Santa Luzia",
           "schedule": [
-            "Domingo: 17h30\nSÃ¡bado: 17h30\nTodo dia 13 (de seg. a sex.): 19h30"
+            "Domingo: 17h30\nSábado: 17h30\nTodo dia 13 (de seg. a sex.): 19h30"
           ],
-          "address": "4. Comunidade Santa Luzia\nAvenida Jaime de Barros, 160 â Santa Luzia"
+          "address": "4. Comunidade Santa Luzia\nAvenida Jaime de Barros, 160 – Santa Luzia"
         },
         {
           "name": "5. Capela Santos Reis",
           "schedule": [
-            "Quarto Domingo do mÃªs: 10h"
+            "Quarto Domingo do mês: 10h"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "Santo AntÃ´nio",
+      "name": "Santo Antônio",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santo-antonio/",
-      "address": "Rua das Vertentes, 328 â Morumbi â 38407-375 â UberlÃ¢ndia",
+      "address": "Rua das Vertentes, 328 – Morumbi – 38407-375 – Uberlândia",
       "communities": [
         {
-          "name": "1. Comunidade Matriz Santo AntÃ´nio",
+          "name": "1. Comunidade Matriz Santo Antônio",
           "schedule": [
-            "Domingo: 9h30 e Ã s 19h\nTerÃ§a-feira: 19h30\nPrimeira Sexta-feira do mÃªs: 19h30 (missa votiva)"
+            "Domingo: 9h30 e às 19h\nTerça-feira: 19h30\nPrimeira Sexta-feira do mês: 19h30 (missa votiva)"
           ],
-          "address": "1. Comunidade Matriz Santo AntÃ´nio\nRua Vertentes, 328, Morumbi."
+          "address": "1. Comunidade Matriz Santo Antônio\nRua Vertentes, 328, Morumbi."
         },
         {
-          "name": "2. Comunidade Santa BÃ¡rbara e SÃ£o JoÃ£o Batista",
+          "name": "2. Comunidade Santa Bárbara e São João Batista",
           "schedule": [
             "Domingo: 7h30\nQuarta-feira: 19h30"
           ],
-          "address": "2. Comunidade Santa BÃ¡rbara e SÃ£o JoÃ£o Batista\nRua Lobo GuarÃ¡, 373, Morumbi."
+          "address": "2. Comunidade Santa Bárbara e São João Batista\nRua Lobo Guará, 373, Morumbi."
         },
         {
-          "name": "3. Comunidade SÃ£o JosÃ©Â",
+          "name": "3. Comunidade São José",
           "schedule": [
-            "SÃ¡bado: 20h"
+            "Sábado: 20h"
           ],
-          "address": "2. Comunidade Santa BÃ¡rbara e SÃ£o JoÃ£o Batista\nRua Lobo GuarÃ¡, 373, Morumbi."
+          "address": "2. Comunidade Santa Bárbara e São João Batista\nRua Lobo Guará, 373, Morumbi."
         },
         {
-          "name": "4. Comunidade Imaculada ConceiÃ§Ã£o",
+          "name": "4. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 07h30 e 19h\nQuarta-feira: 19h30"
           ],
-          "address": "4. Comunidade Imaculada ConceiÃ§Ã£o\nRua Alicerce, 06, Jardim IntegraÃ§Ã£o."
+          "address": "4. Comunidade Imaculada Conceição\nRua Alicerce, 06, Jardim Integração."
         },
         {
-          "name": "5. Comunidade SÃ£o Frei GalvÃ£o",
+          "name": "5. Comunidade São Frei Galvão",
           "schedule": [
             "Domingo: 9h30"
           ],
-          "address": "5. Comunidade SÃ£o Frei GalvÃ£o\nRua IpÃª Amarelo, 205, Jardim Sucupira."
+          "address": "5. Comunidade São Frei Galvão\nRua Ipê Amarelo, 205, Jardim Sucupira."
         },
         {
-          "name": "6. Comunidade SÃ£o Francisco de Assis",
+          "name": "6. Comunidade São Francisco de Assis",
           "schedule": [
-            "SÃ¡bado: 18h"
+            "Sábado: 18h"
           ],
-          "address": "6. Comunidade SÃ£o Francisco de Assis\nRua ParaÃ­so, 410, Celebridade"
+          "address": "6. Comunidade São Francisco de Assis\nRua Paraíso, 410, Celebridade"
         },
         {
-          "name": "7. Comunidade BethÃ¢nia",
+          "name": "7. Comunidade Bethânia",
           "schedule": [
-            "Segunda-feira: 18\nPrimeiro Domingo do mÃªs: 11h30"
+            "Segunda-feira: 18\nPrimeiro Domingo do mês: 11h30"
           ],
-          "address": "6. Comunidade SÃ£o Francisco de Assis\nRua ParaÃ­so, 410, Celebridade"
+          "address": "6. Comunidade São Francisco de Assis\nRua Paraíso, 410, Celebridade"
         },
         {
           "name": "8. Comunidade Nossa Senhora de Guadalupe",
           "schedule": [
-            "SÃ¡bado: 18h"
+            "Sábado: 18h"
           ],
-          "address": "6. Comunidade SÃ£o Francisco de Assis\nRua ParaÃ­so, 410, Celebridade"
+          "address": "6. Comunidade São Francisco de Assis\nRua Paraíso, 410, Celebridade"
         },
         {
           "name": "9. Comunidade Nossa Senhora dos Navegantes",
           "schedule": [
             "Quinta-feira: 19h30"
           ],
-          "address": "9. Comunidade Nossa Senhora dos Navegantes\nChÃ¡caras Capim Branco (celebraÃ§Ãµes nas casas)"
+          "address": "9. Comunidade Nossa Senhora dos Navegantes\nChácaras Capim Branco (celebrações nas casas)"
         },
         {
           "name": "10. Comunidade Santa Clara",
           "schedule": [
             "Sexta-feira: 19h30"
           ],
-          "address": "9. Comunidade Nossa Senhora dos Navegantes\nChÃ¡caras Capim Branco (celebraÃ§Ãµes nas casas)"
+          "address": "9. Comunidade Nossa Senhora dos Navegantes\nChácaras Capim Branco (celebrações nas casas)"
         },
         {
-          "name": "11. Comunidade SÃ£o Miguel",
+          "name": "11. Comunidade São Miguel",
           "schedule": [
             "Sexta-feira: 19h30"
           ],
@@ -741,16 +854,23 @@
       ]
     },
     {
-      "name": "SÃ£o Francisco de Assis e Santa Clara",
+      "name": "São Francisco de Assis e Santa Clara",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-francisco-de-assis-e-santa-clara/",
-      "address": "Avenida Levindo de Souza, 2110 â Umuarama â 38405-322 â UberlÃ¢ndia/MG",
+      "address": "Avenida Levindo de Souza, 2110 – Umuarama – 38405-322 – Uberlândia/MG",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o Francisco de Assis e Santa Clara",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 9h30 e 19h\nQuarta e Â Sexta-feira: 18h\nSÃ¡bado: 18h"
+            "SECRETARIA\nSegunda a sexta-feira, das 13h às 18h"
           ],
-          "address": "1. Matriz SÃ£o Francisco de Assis e Santa Clara\nAvenida Levindo de Souza, 2110 â Umuarama"
+          "address": null
+        },
+        {
+          "name": "1. Matriz São Francisco de Assis e Santa Clara",
+          "schedule": [
+            "Domingo: 9h30 e 19h\nQuarta e  Sexta-feira: 18h\nSábado: 18h"
+          ],
+          "address": "1. Matriz São Francisco de Assis e Santa Clara\nAvenida Levindo de Souza, 2110 – Umuarama"
         },
         {
           "name": "2. Comunidade Nossa Senhora da Paz",
@@ -762,21 +882,28 @@
       ]
     },
     {
-      "name": "SÃ£o Mateus",
+      "name": "São Mateus",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-mateus/",
-      "address": "Rua Saturnino Pedro dos Santos, 86 â Jardim Finotti â 38408-090 â UberlÃ¢ndia/MG",
+      "address": "Rua Saturnino Pedro dos Santos, 86 – Jardim Finotti – 38408-090 – Uberlândia/MG",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o Mateus",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 08h, 10h e 19h.\nQuarta-feira: 19h.\nSexta-feira: 19h.\nPrimeira sexta-feira do mÃªs: AdoraÃ§Ã£o ao SantÃ­ssimo Sacramento durante a tarde e Missa Ã s 19h.\nSegunda sexta-feira do mÃªs: Missa da saÃºde Ã s 19h."
+            "SECRETARIA\nSegunda a Sexta-feira: das 13h às 17h30"
           ],
-          "address": "1. Matriz SÃ£o Mateus\nRua Saturnino Pedro dos Santos, 86 â Jardim Finotti"
+          "address": null
         },
         {
-          "name": "2. Comunidade Santo AntÃ´nio",
+          "name": "1. Matriz São Mateus",
           "schedule": [
-            "Domingo: 8h30 (CelebraÃ§Ã£o da Palavra) e 17h30\nSÃ¡bado: 19h\nPrimeiro sÃ¡bado de cada mÃªs: AdoraÃ§Ã£o ao SantÃ­ssimo Sacramento Ã s 18h"
+            "Domingo: 08h, 10h e 19h.\nQuarta-feira: 19h.\nSexta-feira: 19h.\nPrimeira sexta-feira do mês: Adoração ao Santíssimo Sacramento durante a tarde e Missa às 19h.\nSegunda sexta-feira do mês: Missa da saúde às 19h."
+          ],
+          "address": "1. Matriz São Mateus\nRua Saturnino Pedro dos Santos, 86 – Jardim Finotti"
+        },
+        {
+          "name": "2. Comunidade Santo Antônio",
+          "schedule": [
+            "Domingo: 8h30 (Celebração da Palavra) e 17h30\nSábado: 19h\nPrimeiro sábado de cada mês: Adoração ao Santíssimo Sacramento às 18h"
           ],
           "address": null
         }
@@ -785,103 +912,117 @@
     {
       "name": "Cristo Rei",
       "link": "https://diocesedeuberlandia.org.br/paroquias/cristo-rei/",
-      "address": "Avenida Edgard Oliveira de Castro, 3110 â Alvorada â 38407-048 â UberlÃ¢ndia/MG",
+      "address": "Rua Gamela, 200 – Morumbi",
       "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda à Sexta das 13h às 17h30"
+          ],
+          "address": null
+        },
         {
           "name": "1. Matriz Cristo Rei",
           "schedule": [
             "Domingo: 9h30 e 17h30\nQuarta-feira: 19h30"
           ],
-          "address": "1. Matriz Cristo Rei\nAv. Edgard Oliveira de Castro, 3110 â Alvorada"
+          "address": "1. Matriz Cristo Rei\nAv. Edgard Oliveira de Castro, 3110 – Alvorada"
         },
         {
           "name": "2. Comunidade Divino Pai Eterno",
           "schedule": [
             "Quinta-feira: 19h30\nDomingo: 7h30 e 19h"
           ],
-          "address": "2. Comunidade Divino Pai Eterno\nRua Gamela, 200 â Morumbi"
+          "address": "2. Comunidade Divino Pai Eterno\nRua Gamela, 200 – Morumbi"
         },
         {
-          "name": "3. Comunidade Nossa Senhora da Abadia â Tapuirama",
+          "name": "3. Comunidade Nossa Senhora da Abadia – Tapuirama",
           "schedule": [
-            "SÃ¡bado: 19h"
+            "Sábado: 19h"
           ],
-          "address": "2. Comunidade Divino Pai Eterno\nRua Gamela, 200 â Morumbi"
+          "address": "2. Comunidade Divino Pai Eterno\nRua Gamela, 200 – Morumbi"
         },
         {
-          "name": "4. Comunidade Santa Cruz â Capela da Saudade",
+          "name": "4. Comunidade Santa Cruz – Capela da Saudade",
           "schedule": [
-            "1Âº e 3Âº SÃ¡bado do mÃªs Ã s 17h"
+            "1º e 3º Sábado do mês às 17h"
           ],
-          "address": "2. Comunidade Divino Pai Eterno\nRua Gamela, 200 â Morumbi"
+          "address": "2. Comunidade Divino Pai Eterno\nRua Gamela, 200 – Morumbi"
         },
         {
-          "name": "5. Comunidade Sagrada FamÃ­lia",
+          "name": "5. Comunidade Sagrada Família",
           "schedule": [
             "Quarta-feira: 19h30"
           ],
-          "address": "5. Comunidade Sagrada FamÃ­lia\nRua Denver, 111, bairro Morumbi"
+          "address": "5. Comunidade Sagrada Família\nRua Denver, 111, bairro Morumbi"
         }
       ]
     },
     {
-      "name": "Nossa Senhora MÃ£e dos Homens",
+      "name": "Nossa Senhora Mãe dos Homens",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-mae-dos-homens/",
-      "address": "Rua Reverendo John Boyle, 17 â Bairro Barro Branco",
+      "address": "Rua Reverendo John Boyle, 17 – Bairro Barro Branco",
       "communities": [
         {
-          "name": "PraÃ§a da Matriz, 158 - Estrela do Sul, MG, 38525-000",
+          "name": "Praça da Matriz, 158 - Estrela do Sul, MG, 38525-000",
           "schedule": [
-            "SECRETARIA\n8h Ã s 11h e 12h Ã s 17h"
+            "SECRETARIA\n8h às 11h e 12h às 17h"
           ],
           "address": null
         },
         {
-          "name": "1. Matriz Nossa Senhora MÃ£e dos Homens",
+          "name": "1. Matriz Nossa Senhora Mãe dos Homens",
           "schedule": [
-            "Todo Domingo Ã s 19 horas"
+            "Todo Domingo às 19 horas"
           ],
           "address": null
         },
         {
-          "name": "3. Igreja SÃ£o SebastiÃ£o (Dolearina)",
+          "name": "2. Igreja São Sebastião (Grupiara)",
           "schedule": [
-            "Todo Domingo Ã s 09 horas"
+            "Todo Sábado às 19 horas"
           ],
           "address": null
         },
         {
-          "name": "4. Igreja Nossa Senhora AparecidaÂ",
+          "name": "3. Igreja São Sebastião (Dolearina)",
           "schedule": [
-            "Santa Missa uma vez por mÃªs Ã s 19h30 / Data MÃ³vel (Consultar Secretaria)"
+            "Todo Domingo às 09 horas"
           ],
           "address": null
         },
         {
-          "name": "5. Igreja Nossa Senhora de FÃ¡tima",
+          "name": "4. Igreja Nossa Senhora Aparecida",
           "schedule": [
-            "Santa Missa uma vez por mÃªs Ã s 19h30 / Data MÃ³vel (Consultar Secretaria)"
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
           ],
           "address": null
         },
         {
-          "name": "6. Igreja Santa Rita de CÃ¡ssia",
+          "name": "5. Igreja Nossa Senhora de Fátima",
           "schedule": [
-            "Santa Missa uma vez por mÃªs Ã s 19h30 / Data MÃ³vel (Consultar Secretaria)"
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
           ],
           "address": null
         },
         {
-          "name": "9. Igreja SÃ£o JosÃ©",
+          "name": "6. Igreja Santa Rita de Cássia",
           "schedule": [
-            "Santa Missa uma vez por mÃªs Ã s 19h30 / Data MÃ³vel (Consultar Secretaria)"
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
           ],
           "address": null
         },
         {
-          "name": "10. Igreja SÃ£o SebastiÃ£o",
+          "name": "9. Igreja São José",
           "schedule": [
-            "Santa Missa uma vez por mÃªsÂ  Ã s 19h30 / Data MÃ³vel (Consultar Secretaria)"
+            "Santa Missa uma vez por mês às 19h30 / Data Móvel (Consultar Secretaria)"
+          ],
+          "address": null
+        },
+        {
+          "name": "10. Igreja São Sebastião",
+          "schedule": [
+            "Santa Missa uma vez por mês  às 19h30 / Data Móvel (Consultar Secretaria)"
           ],
           "address": null
         }
@@ -890,54 +1031,82 @@
     {
       "name": "Sant’Anna",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santanna/",
-      "address": "R. GetÃºlio MagalhÃ£es, 218-492",
+      "address": "R. Getúlio Magalhães, 218-492",
       "communities": [
         {
-          "name": "1. Matriz SantâAna",
+          "name": "Paróquia",
           "schedule": [
-            "Todo dia 26 do mÃªs: 19h30 (novena perpetua Ã  SantâAna)\nToda quarta-feira: 19h30\nDomingo: 09h"
+            "SECRETARIA\nTerça a Sexta das 13h às 16h30"
           ],
-          "address": "1. Matriz SantâAna\nRua GetÃºlio MagalhÃ£es, s/n â Centro"
+          "address": null
         },
         {
-          "name": "2. Comunidade Santa Rita de CÃ¡ssia",
+          "name": "1. Matriz Sant’Ana",
           "schedule": [
-            "Domingo: 19h30\nSexta: 19h30\nTodo dia 22 do mÃªs: 19h30 (novena perpÃ©tua Ã  Santa Rita de CÃ¡ssia)"
+            "Todo dia 26 do mês: 19h30 (novena perpetua à Sant’Ana)\nToda quarta-feira: 19h30\nDomingo: 09h"
           ],
-          "address": "1. Matriz SantâAna\nRua GetÃºlio MagalhÃ£es, s/n â Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
+        },
+        {
+          "name": "2. Comunidade Santa Rita de Cássia",
+          "schedule": [
+            "Domingo: 19h30\nSexta: 19h30\nTodo dia 22 do mês: 19h30 (novena perpétua à Santa Rita de Cássia)"
+          ],
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "3. Comunidade Santa Luzia",
           "schedule": [
-            "Terceira quinta-feira do mÃªs: 19h30"
+            "Terceira quinta-feira do mês: 19h30"
           ],
-          "address": "1. Matriz SantâAna\nRua GetÃºlio MagalhÃ£es, s/n â Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
-          "name": "4. Comunidade SÃ£o JosÃ©",
+          "name": "4. Comunidade São José",
           "schedule": [
             "Sexta: 19h30"
           ],
-          "address": "1. Matriz SantâAna\nRua GetÃºlio MagalhÃ£es, s/n â Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
-          "name": "5. Comunidade SÃ£o SebastiÃ£o",
+          "name": "5. Comunidade São Sebastião",
           "schedule": [
-            "Primeira quinta-feira do mÃªs: 19h30"
+            "Primeira quinta-feira do mês: 19h30"
           ],
-          "address": "1. Matriz SantâAna\nRua GetÃºlio MagalhÃ£es, s/n â Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
-          "name": "6. Comunidade SÃ£o JoÃ£o Batista",
+          "name": "6. Comunidade São João Batista",
           "schedule": [
-            "Toda terceira terÃ§a-feira do mÃªs: 19h30"
+            "Toda terceira terça-feira do mês: 19h30"
           ],
-          "address": "1. Matriz SantâAna\nRua GetÃºlio MagalhÃ£es, s/n â Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "7. Comunidade Santa Luzia",
           "schedule": [
-            "Primeira e segunda quinta-feira do mÃªs: 19h30"
+            "Primeira e segunda quinta-feira do mês: 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "São Francisco das Chagas",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/sao-francisco-das-chagas/",
+      "address": "Rua dos Angicos, 593 – Bairro: Paloma",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "IGREJA MATRIZ DE SÃO FRANCISCO DAS CHAGAS\nPraça Luiz Dutra Alvim, S/N – Centro\n– Domingo: 09h e 19h\n– Terça-feira: 07h\n– Quarta-feira: 07h\n– Quinta-feira: 15h e 19h\n– Sexta-feira: 07h (Obs: na 1ª sexta-feira do mês, Celebração também às 19h)",
+            "IGREJA NOSSA SENHORA APARECIDA\nRua dos Angicos, 593 – Bairro: Paloma\n– Domingo: 07h\n– Terça-feira: 19h",
+            "IGREJA NOSSA SENHORA DO ROSÁRIO\nR. Antônio Jorge Tannús, 90 – Bairro: Petrópolis\n– Sábado: 17h30",
+            "IGREJA SAGRADA FAMÍLIA\nRua Ézio Antônio de Miranda, 430 – Bairro: Sagrada Família\n– Quarta-feira: 19h – Sábado: 19h",
+            "IGREJA SANTA CLARA\nAv. Uberlândia, 518 – Bairro: Rancho Alegre\n– Domingo: 17h",
+            "COMUNIDADE SANTO ANTÔNIO\nBairros Santo Antônio, São Francisco e Pedra Branca\n– Toda 3ª segunda-feira do mês: 19h",
+            "CAPELA DIVINO PAI ETERNO – SERRINHA\n– Toda 1ª quinta-feira do mês: 19h",
+            "CEMITÉRIO MUNICIPAL\n– Toda 1ª segunda-feira do mês: 19h"
           ],
           "address": null
         }
@@ -946,7 +1115,7 @@
     {
       "name": "Nossa Senhora da Guia",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-da-guia/",
-      "address": "Rua Pedro Fedrigo, 02 â Alvorada",
+      "address": "Rua Pedro Fedrigo, 02 – Alvorada",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora da Guia",
@@ -956,56 +1125,56 @@
           "address": null
         },
         {
-          "name": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus",
+          "name": "2. Comunidade Sagrado Coração de Jesus",
           "schedule": [
-            "Domingo: 19h30\nToda terÃ§a-feira Ã s 19h\nPrimeira sexta-feira do mÃªs: 19h"
+            "Domingo: 19h30\nToda terça-feira às 19h\nPrimeira sexta-feira do mês: 19h"
           ],
-          "address": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus\nRua Pedro Fedrigo, 02 â Alvorada"
+          "address": "2. Comunidade Sagrado Coração de Jesus\nRua Pedro Fedrigo, 02 – Alvorada"
         },
         {
-          "name": "3. Comunidade SÃ£o JosÃ©",
+          "name": "3. Comunidade São José",
           "schedule": [
-            "Todo terceiro sÃ¡bado do mÃªs: 19h30"
+            "Todo terceiro sábado do mês: 19h30"
           ],
-          "address": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus\nRua Pedro Fedrigo, 02 â Alvorada"
+          "address": "2. Comunidade Sagrado Coração de Jesus\nRua Pedro Fedrigo, 02 – Alvorada"
         },
         {
-          "name": "4. Comunidade Passa TrÃªs",
+          "name": "4. Comunidade Passa Três",
           "schedule": [
-            "Todo quarto domingo do mÃªs: 15h"
+            "Todo quarto domingo do mês: 15h"
           ],
-          "address": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus\nRua Pedro Fedrigo, 02 â Alvorada"
+          "address": "2. Comunidade Sagrado Coração de Jesus\nRua Pedro Fedrigo, 02 – Alvorada"
         },
         {
-          "name": "5. Comunidade Nossa Senhora de NazarÃ©",
+          "name": "5. Comunidade Nossa Senhora de Nazaré",
           "schedule": [
-            "Bairro Primavera\nSegundo domingo do mÃªs: 15h30"
+            "Bairro Primavera\nSegundo domingo do mês: 15h30"
           ],
-          "address": "Bairro Primavera\nSegundo domingo do mÃªs: 15h30"
+          "address": "Bairro Primavera\nSegundo domingo do mês: 15h30"
         }
       ]
     },
     {
       "name": "Nossa Senhora do Caminho",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-do-caminho/",
-      "address": "Av. JosÃ© Rezende Costa, 456 - Santa Maria, UberlÃ¢ndia - MG, 38408-010",
+      "address": "Rua João Velasco de Andrade, 443 – Santa Mônica",
       "communities": [
         {
           "name": "1. Matriz Nossa Senhora do Caminho",
           "schedule": [
             "Domingo: 8h e 19h\nQuarta-feira: 19h"
           ],
-          "address": "1. Matriz Nossa Senhora do Caminho\nAvenida Jose Resende Costa, 456 â Bairro Santa Maria"
+          "address": "1. Matriz Nossa Senhora do Caminho\nAvenida Jose Resende Costa, 456 – Bairro Santa Maria"
         },
         {
-          "name": "2. Comunidade SÃ£o JosÃ©",
+          "name": "2. Comunidade São José",
           "schedule": [
-            "SÃ¡bado: 19h\nTerÃ§a-feira: 19h"
+            "Sábado: 19h\nTerça-feira: 19h"
           ],
-          "address": "2. Comunidade SÃ£o JosÃ©\nRua JoÃ£o Velasco de Andrade, 443 â Santa MÃ´nica"
+          "address": "2. Comunidade São José\nRua João Velasco de Andrade, 443 – Santa Mônica"
         },
         {
-          "name": "3. Comunidade SÃ£o Paulo ApÃ³stolo",
+          "name": "3. Comunidade São Paulo Apóstolo",
           "schedule": [
             "Domingo: 09h30 e 17h30\nQuinta-feira: 19h"
           ],
@@ -1014,40 +1183,47 @@
       ]
     },
     {
-      "name": "SÃ£o JoÃ£o Batista",
+      "name": "São João Batista",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-joao-batista/",
-      "address": "Rua JerÃ´nima Lucas Barros, 513 â Segismundo Pereira",
+      "address": "Rua Jerônima Lucas Barros, 513 – Segismundo Pereira",
       "communities": [
         {
-          "name": "Matriz SÃ£o JoÃ£o Batista",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 7h, 9h e 19h\nTerÃ§a e Quinta-feira: 19h30\nQuarta e Sexta-feira: 7h\nTodo dia 24: 19h30 (Caso coincida com domingo, a Missa permanece Ã s 19h)"
+            "SECRETARIA\nSegunda-feira à Sexta-feira das 13h às 18h."
+          ],
+          "address": null
+        },
+        {
+          "name": "Matriz São João Batista",
+          "schedule": [
+            "Domingo: 7h, 9h e 19h\nTerça e Quinta-feira: 19h30\nQuarta e Sexta-feira: 7h\nTodo dia 24: 19h30 (Caso coincida com domingo, a Missa permanece às 19h)"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "SÃ£o SebastiÃ£o",
+      "name": "São Sebastião",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-sebastiao/",
-      "address": "Avenida Europa, 184 â Bairro Tibery",
+      "address": "Avenida Europa, 184 – Bairro Tibery",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o SebastiÃ£o",
+          "name": "1. Matriz São Sebastião",
           "schedule": [
-            "Domingo: 07h, 09h e 19h\nTerÃ§a a Sexta-feira: 07h\nTerÃ§a e Quinta-feira: 19h30"
+            "Domingo: 07h, 09h e 19h\nTerça a Sexta-feira: 07h\nTerça e Quinta-feira: 19h30"
           ],
-          "address": "1. Matriz SÃ£o SebastiÃ£o\nPraÃ§a Senador Camilo Chaves, 20 â Bairro Tibery"
+          "address": "1. Matriz São Sebastião\nPraça Senador Camilo Chaves, 20 – Bairro Tibery"
         },
         {
           "name": "2. Comunidade Nossa Senhora Auxiliadora",
           "schedule": [
-            "Domingo: 08h\nSÃ¡bado: 19h"
+            "Domingo: 08h\nSábado: 19h"
           ],
-          "address": "2. Comunidade Nossa Senhora Auxiliadora\nAvenida Europa, 184 â Bairro Tibery"
+          "address": "2. Comunidade Nossa Senhora Auxiliadora\nAvenida Europa, 184 – Bairro Tibery"
         },
         {
-          "name": "3. Comunidade SÃ£o JerÃ´nimo",
+          "name": "3. Comunidade São Jerônimo",
           "schedule": [
             "Domingo: 18h"
           ],
@@ -1056,133 +1232,147 @@
       ]
     },
     {
-      "name": "Santa MÃ´nica e Santa Elena Guerra",
+      "name": "Santa Mônica e Santa Elena Guerra",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santa-monica/",
-      "address": "Avenida Ana Godoy de Souza, 2200 â Santa MÃ´nica",
+      "address": "Rua Lourdes de Carvalho, 602 – Santa Mônica",
       "communities": [
         {
-          "name": "1. Matriz Santa MÃ´nica e Santa Elena Guerra",
+          "name": "Paróquia",
           "schedule": [
-            "TerÃ§a a Sexta-feira: 19h\nSÃ¡bado: 19h30\nDomingo: 7h, 9h e 19h30"
+            "SECRETARIA\nSegunda à Sexta 07h30 às 11h30 e 13h às 18h"
           ],
           "address": null
         },
         {
-          "name": "2. Comunidade Nossa Senhora do PerpÃ©tuo Socorro",
+          "name": "1. Matriz Santa Mônica e Santa Elena Guerra",
           "schedule": [
-            "SÃ¡bado Ã s 18h\nDomingo Ã s 10h"
+            "Terça a Sexta-feira: 19h\nSábado: 19h30\nDomingo: 7h, 9h e 19h30"
           ],
-          "address": "2. Comunidade Nossa Senhora do PerpÃ©tuo Socorro\nAvenida Ana Godoy de Souza, 2200 â Santa MÃ´nica"
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora do Perpétuo Socorro",
+          "schedule": [
+            "Sábado às 18h\nDomingo às 10h"
+          ],
+          "address": "2. Comunidade Nossa Senhora do Perpétuo Socorro\nAvenida Ana Godoy de Souza, 2200 – Santa Mônica"
         },
         {
           "name": "3. Comunidade Santo Agostinho",
           "schedule": [
-            "Quarta-feira Ã s 19h\nDomingo Ã s 18h"
+            "Quarta-feira às 19h\nDomingo às 18h"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "Nossa Senhora das GraÃ§as",
+      "name": "Nossa Senhora das Graças",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-das-gracas/",
       "address": "Rua Adonirio Alves Pinto, 362, Ipanema II",
       "communities": [
         {
-          "name": "BATIZADOS\nTodo 1Âº e 3Âº Domingo do mÃªs, Ã s 10h30, na Igreja Matriz;\nNa comunidade SÃ£o JoÃ£o Batista, horÃ¡rios a confirmar na secretaria da parÃ³quia.",
+          "name": "Paróquia",
           "schedule": [
-            "1. Igreja Matriz\nPraÃ§a Bandeirante, 42, Jardim Ipanema\nDomingo: 8h e 19h30\nQuarta-feira: 20h\n1Âª Sexta-feira do mÃªs: AdoraÃ§Ã£o ao Ssmo. Sacramento, Ã s 18h; BÃªnÃ§Ã£o e Missa, Ã s 20h\nTodo dia 27 do mÃªs: Novena Mensal, Ã s 15h e Ã s 20h (exceto quando dia 27 for SÃ¡bado ou domingo)"
+            "SECRETARIA\nTerça a sexta-feira das 15h30 às 19h30\nSábado das 9h às 12h30"
+          ],
+          "address": null
+        },
+        {
+          "name": "BATIZADOS\nTodo 1º e 3º Domingo do mês, às 10h30, na Igreja Matriz;\nNa comunidade São João Batista, horários a confirmar na secretaria da paróquia.",
+          "schedule": [
+            "1. Igreja Matriz\nPraça Bandeirante, 42, Jardim Ipanema\nDomingo: 8h e 19h30\nQuarta-feira: 20h\n1ª Sexta-feira do mês: Adoração ao Ssmo. Sacramento, às 18h; Bênção e Missa, às 20h\nTodo dia 27 do mês: Novena Mensal, às 15h e às 20h (exceto quando dia 27 for Sábado ou domingo)"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "Imaculada ConceiÃ§Ã£o e SÃ£o Gaspar Bertoni",
+      "name": "Imaculada Conceição e São Gaspar Bertoni",
       "link": "https://diocesedeuberlandia.org.br/paroquias/imaculada-conceicao-e-sao-gaspar-bertoni/",
-      "address": "Rua Celida Maria Sampaio, 115 â TalismÃ£",
+      "address": "Rua Celida Maria Sampaio, 115 – Talismã",
       "communities": [
         {
-          "name": "1. MatrizÂ",
+          "name": "1. Matriz",
           "schedule": [
             "Domingo: 7h e 19h30\nQuinta-feira: 19h30"
           ],
           "address": null
         },
         {
-          "name": "2. ComunidadeÂ",
+          "name": "2. Comunidade",
           "schedule": [
-            "SÃ¡bado: 19h"
+            "Sábado: 19h"
           ],
-          "address": "2. ComunidadeÂ SÃ£o Gaspar Bertoni\nRua Celida Maria Sampaio, 115 â TalismÃ£"
+          "address": "2. Comunidade São Gaspar Bertoni\nRua Celida Maria Sampaio, 115 – Talismã"
         },
         {
           "name": "3. Comunidade Nossa Senhora da Guia",
           "schedule": [
             "Domingo: 8h30\nSexta-feira: 19h30"
           ],
-          "address": "3. Comunidade Nossa Senhora da Guia\nRua das Guitarras, 62 â TaiamÃ£"
+          "address": "3. Comunidade Nossa Senhora da Guia\nRua das Guitarras, 62 – Taiamã"
         },
         {
-          "name": "4. Comunidade SÃ£o Francisco de Assis",
+          "name": "4. Comunidade São Francisco de Assis",
           "schedule": [
             "Domingo: 18h\nQuarta-feira: 19h30"
           ],
-          "address": "4. Comunidade SÃ£o Francisco de Assis\nRua Batucada, 642 â Guarani"
+          "address": "4. Comunidade São Francisco de Assis\nRua Batucada, 642 – Guarani"
         },
         {
-          "name": "5. Comunidade Santa Rita de CÃ¡ssia",
+          "name": "5. Comunidade Santa Rita de Cássia",
           "schedule": [
-            "TerÃ§a-feira: 20h nas casas das famÃ­lias"
+            "Terça-feira: 20h nas casas das famílias"
           ],
-          "address": "4. Comunidade SÃ£o Francisco de Assis\nRua Batucada, 642 â Guarani"
+          "address": "4. Comunidade São Francisco de Assis\nRua Batucada, 642 – Guarani"
         },
         {
-          "name": "6. Comunidade SÃ£o LucasÂ",
+          "name": "6. Comunidade São Lucas",
           "schedule": [
-            "Toda segunda sexta-feira do mÃªs: 19h30 nas casas das famÃ­lias"
+            "Toda segunda sexta-feira do mês: 19h30 nas casas das famílias"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "SÃ£o Benedito",
+      "name": "São Benedito",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-benedito/",
-      "address": "Rua Maria Abadia Mamede, 303 â Planalto",
+      "address": "Rua Maria Abadia Mamede, 303 – Planalto",
       "communities": [
         {
-          "name": "1. Matriz SÃ£o Benedito",
+          "name": "1. Matriz São Benedito",
           "schedule": [
-            "Domingo: 07h30, 9h e 19h30\nQuarta-feira: 19h30\nSÃ¡bado: 19h30\nPrimeira sexta-feira do mÃªs: 19h30"
+            "Domingo: 07h30, 9h e 19h30\nQuarta-feira: 19h30\nSábado: 19h30\nPrimeira sexta-feira do mês: 19h30"
           ],
-          "address": "1. Matriz SÃ£o Benedito\nRua Maria Abadia Mamede, 303 â Planalto"
+          "address": "1. Matriz São Benedito\nRua Maria Abadia Mamede, 303 – Planalto"
         },
         {
-          "name": "2. Comunidade SantâAna",
+          "name": "2. Comunidade Sant’Ana",
           "schedule": [
-            "Domingo: 17h30\nQuinta-feira: 19h30\nPrimeiro domingo do mÃªs: 10h"
+            "Domingo: 17h30\nQuinta-feira: 19h30\nPrimeiro domingo do mês: 10h"
           ],
-          "address": "2. Comunidade SantâAna\nRua Rio Jaguaribe, 99 â Mansour"
+          "address": "2. Comunidade Sant’Ana\nRua Rio Jaguaribe, 99 – Mansour"
         },
         {
           "name": "3. Mosteiro Monte Alverne",
           "schedule": [
             "Segunda a domingo: 7h"
           ],
-          "address": "3. Mosteiro Monte Alverne\nRua do BancÃ¡rio, 1085 â Planalto"
+          "address": "3. Mosteiro Monte Alverne\nRua do Bancário, 1085 – Planalto"
         },
         {
           "name": "4. Comunidade Nossa Senhora Aparecida",
           "schedule": [
-            "Ultimo domingo do mÃªs: 11h"
+            "Ultimo domingo do mês: 11h"
           ],
-          "address": "3. Mosteiro Monte Alverne\nRua do BancÃ¡rio, 1085 â Planalto"
+          "address": "3. Mosteiro Monte Alverne\nRua do Bancário, 1085 – Planalto"
         },
         {
           "name": "5. Comunidade Divino Pai Eterno",
           "schedule": [
-            "SÃ¡bado: 17h30"
+            "Sábado: 17h30"
           ],
           "address": null
         }
@@ -1194,24 +1384,31 @@
       "address": "Rua Genarino Casabona, 802, Bairro Luizote de Freitas",
       "communities": [
         {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda a sexta-feira das 13h às 19h"
+          ],
+          "address": null
+        },
+        {
           "name": "1. Matriz Santa Edwiges",
           "schedule": [
-            "Domingo: 08h30, 10h e 18h\nQuarta-feira: 19h\nQuinta-feira: AdoraÃ§Ã£o ao SantÃ­ssimo a partir das 07h, bÃªnÃ§Ã£o com o SantÃ­ssimo Ã s 18h30 e Missa Ã s 19h",
-            "Todo dia 16, Ã s 16h, Missa Devocional Ã  Santa Edwiges e da SaÃºde."
+            "Domingo: 08h30, 10h e 18h\nQuarta-feira: 19h\nQuinta-feira: Adoração ao Santíssimo a partir das 07h, bênção com o Santíssimo às 18h30 e Missa às 19h",
+            "Todo dia 16, às 16h, Missa Devocional à Santa Edwiges e da Saúde."
           ],
           "address": "1. Matriz Santa Edwiges\nRua Genarino Casabona, 802, Bairro Luizote de Freitas"
         },
         {
-          "name": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus",
+          "name": "2. Comunidade Sagrado Coração de Jesus",
           "schedule": [
-            "Toda 1Â° Sexta-feira, Ã s 07h, Missa em louvor ao Sagrado CoraÃ§Ã£o de Jesus\nDomingo: 7h"
+            "Toda 1° Sexta-feira, às 07h, Missa em louvor ao Sagrado Coração de Jesus\nDomingo: 7h"
           ],
-          "address": "2. Comunidade Sagrado CoraÃ§Ã£o de Jesus\nRua Matheus Vaz, 855, Bairro Luizote de Freitas II"
+          "address": "2. Comunidade Sagrado Coração de Jesus\nRua Matheus Vaz, 855, Bairro Luizote de Freitas II"
         }
       ]
     },
     {
-      "name": "Divino EspÃ­rito Santo",
+      "name": "Divino Espírito Santo",
       "link": "https://diocesedeuberlandia.org.br/paroquias/divino-espirito-santo/",
       "address": "Avenida IpÃª, 325 â JaraguÃ¡ â  UberlÃ¢ndia/MG - 38413-075",
       "communities": [
@@ -1239,16 +1436,39 @@
       ]
     },
     {
+      "name": "Nossa Senhora da Abadia",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-da-abadia/",
+      "address": "R. Luíz Vieira Tavares, 1245 - Custódio Pereira",
+      "communities": [
+        {
+          "name": "Santuário",
+          "schedule": [
+            "SECRETARIA\nSegunda à Sexta das 08h às 12h e aos sábados das 09h às 11h.",
+            "VISITAÇÃO\nSegunda à sexta: 8h às 12h | 14h às 17h\nSábado: 9h às 11h",
+            "Domingo: 08h, 17h e 19h\nTerça, quinta e sexta: 19h30\nTodo dia 15 do mês: 17h e 19h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
       "name": "Santa Isabel de Portugal",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santa-isabel-de-portugal/",
-      "address": "Av. Juhen CecÃ­lio Jorge, 208 - Jardim Patricia, UberlÃ¢ndia - MG, 38414-096",
+      "address": "Rua Jhuen Cecílio Jorge, 208 – Bairro Jardim Patrícia",
       "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda à Sexta das 13h às 17h30"
+          ],
+          "address": null
+        },
         {
           "name": "Matriz Santa Isabel de Portugal",
           "schedule": [
-            "Domingo: 07h30 e 18h30\nTerÃ§a-feira: 19h\nQuinta-feira: 19h"
+            "Domingo: 07h30 e 18h30\nTerça-feira: 19h\nQuinta-feira: 19h"
           ],
-          "address": "Matriz Santa Isabel de Portugal\nRua Jhuen CecÃ­lio Jorge, 208 â Bairro Jardim PatrÃ­cia"
+          "address": "Matriz Santa Isabel de Portugal\nRua Jhuen Cecílio Jorge, 208 – Bairro Jardim Patrícia"
         },
         {
           "name": "Comunidade Nossa Senhora do Carmo",
@@ -1260,44 +1480,52 @@
       ]
     },
     {
-      "name": "Santa Rita de CÃ¡ssia",
+      "name": "Santa Rita de Cássia",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santa-rita-de-cassia/",
-      "address": "Rua LÃ­dia, 780, Bairro Jardim CanaÃ£ â UberlÃ¢ndia/MG",
+      "address": "Rua Lídia, 780, Bairro Jardim Canaã – Uberlândia/MG",
       "communities": [
         {
-          "name": "Matriz Santa Rita de CÃ¡ssia",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 07h30 e 19h30\nQuarta e Sexta: 19h30\nObs. Toda 1Âª sexta-feira do mÃªs AdoraÃ§Ã£o ao SantÃ­ssimo Sacramento Ã s 18h30\nTodo dia 22 de cada mÃªs missa devocional a Santa Rita de cÃ¡ssia Ã s 19h30\nToda Ãºltima sexta-feira do mÃªs missa da saÃºde Ã s 19h30"
+            "SECRETARIA\nSegunda-feira a sexta-feira: 13h às 18h",
+            "Atendimento do Pároco\nterça a sexta-feira das 14h30 às 18h"
           ],
-          "address": "Matriz Santa Rita de CÃ¡ssia\nRua LÃ­dia, 780, Bairro Jardim CanaÃ£ â UberlÃ¢ndia/MG"
+          "address": null
         },
         {
-          "name": "Comunidade Nossa Senhora das GraÃ§as da Medalha Milagrosa",
+          "name": "Matriz Santa Rita de Cássia",
           "schedule": [
-            "TerÃ§a-feira Ã s 19h30"
+            "Domingo: 07h30 e 19h30\nQuarta e Sexta: 19h30\nObs. Toda 1ª sexta-feira do mês Adoração ao Santíssimo Sacramento às 18h30\nTodo dia 22 de cada mês missa devocional a Santa Rita de cássia às 19h30\nToda última sexta-feira do mês missa da saúde às 19h30"
           ],
-          "address": "Matriz Santa Rita de CÃ¡ssia\nRua LÃ­dia, 780, Bairro Jardim CanaÃ£ â UberlÃ¢ndia/MG"
+          "address": "Matriz Santa Rita de Cássia\nRua Lídia, 780, Bairro Jardim Canaã – Uberlândia/MG"
         },
         {
-          "name": "Comunidade SÃ£o Luzia",
+          "name": "Comunidade Nossa Senhora das Graças da Medalha Milagrosa",
           "schedule": [
-            "SÃ¡bado Ã s 19h"
+            "Terça-feira às 19h30"
           ],
-          "address": "Comunidade SÃ£o Luzia\nRua Douradinho, nÂº 69 â ChÃ¡caras Douradinho"
+          "address": "Matriz Santa Rita de Cássia\nRua Lídia, 780, Bairro Jardim Canaã – Uberlândia/MG"
         },
         {
-          "name": "Comunidade Santa Teresa de CalcutÃ¡",
+          "name": "Comunidade São Luzia",
           "schedule": [
-            "TerÃ§a-feira Ã s 19:30h"
+            "Sábado às 19h"
           ],
-          "address": "Comunidade SÃ£o Luzia\nRua Douradinho, nÂº 69 â ChÃ¡caras Douradinho"
+          "address": "Comunidade São Luzia\nRua Douradinho, nº 69 – Chácaras Douradinho"
+        },
+        {
+          "name": "Comunidade Santa Teresa de Calcutá",
+          "schedule": [
+            "Terça-feira às 19:30h"
+          ],
+          "address": "Comunidade São Luzia\nRua Douradinho, nº 69 – Chácaras Douradinho"
         },
         {
           "name": "Comunidade Nossa Senhora da Abadia",
           "schedule": [
-            "Domingo Ã s 08h\nTodo dia 15 de cada mÃªs missa da saÃºde Ã s 19h30. Caso o dia 15 seja domingo, Ã s 08h. Caso seja sÃ¡bado Ã s 18h30."
+            "Domingo às 08h\nTodo dia 15 de cada mês missa da saúde às 19h30. Caso o dia 15 seja domingo, às 08h. Caso seja sábado às 18h30."
           ],
-          "address": "Comunidade Nossa Senhora da Abadia\nRua Aldo Borges LeÃ£o, nÂº 85, Bairro Morada Nova"
+          "address": "Comunidade Nossa Senhora da Abadia\nRua Aldo Borges Leão, nº 85, Bairro Morada Nova"
         },
         {
           "name": "Comunidade Nossa Senhora Aparecida",
@@ -1307,52 +1535,49 @@
           "address": "Comunidade Nossa Senhora Aparecida\nRua: Wilson Rodrigues da Silva 1531, bairro: Residencial Pequis"
         },
         {
-          "name": "Comunidade SÃ£o BrÃ¡s e Nossa Senhora da VisitaÃ§Ã£o",
+          "name": "Comunidade São Brás e Nossa Senhora da Visitação",
           "schedule": [
-            "Domingo Ã s 9h30"
+            "Domingo às 9h30"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "SÃ£o Francisco de Assis",
+      "name": "São Francisco de Assis",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-francisco-de-assis/",
       "address": "Rua dos Cisnes, 67, Bairro Jardim das Palmeiras",
       "communities": [
         {
-          "name": "General Schedule",
+          "name": "Paróquia",
           "schedule": [
-            "HorÃ¡rios de Missas",
-            "Domingo: 8h30.",
-            "Domingo: 18h.",
-            "SÃ¡bado: 19h30."
+            "SECRETARIA\nSegunda a sexta-feira das 13h às 18h"
           ],
           "address": null
         }
       ]
     },
     {
-      "name": "SÃ£o CristÃ³vÃ£o",
+      "name": "São Cristóvão",
       "link": "https://diocesedeuberlandia.org.br/paroquias/sao-cristovao/",
-      "address": "Rua Padre AmÃ©rico Ceppi, 190 â Bairro Brasil",
+      "address": "Rua Padre Américo Ceppi, 190 – Bairro Brasil",
       "communities": [
         {
-          "name": "Matriz SÃ£o CristÃ³vÃ£o",
+          "name": "Matriz São Cristóvão",
           "schedule": [
-            "Quarta-feira:12h00\nQuarta-feira: 19h00 â Novena em louvor a Nossa Senhora Desatadora dos NÃ³s\nDomingo: 09h30 e 19h30"
+            "Quarta-feira:12h00\nQuarta-feira: 19h00 – Novena em louvor a Nossa Senhora Desatadora dos Nós\nDomingo: 09h30 e 19h30"
           ],
-          "address": "Matriz SÃ£o CristÃ³vÃ£o\nRua Padre AmÃ©rico Ceppi, 190 â Bairro Brasil"
+          "address": "Matriz São Cristóvão\nRua Padre Américo Ceppi, 190 – Bairro Brasil"
         },
         {
           "name": "Comunidade Nossa Senhora da Piedade",
           "schedule": [
             "Quinta-feira: 07h00\nDomingo: 08h00"
           ],
-          "address": "Comunidade Nossa Senhora da Piedade\nRua BelÃ©m, 967 â Bairro Brasil"
+          "address": "Comunidade Nossa Senhora da Piedade\nRua Belém, 967 – Bairro Brasil"
         },
         {
-          "name": "Comunidade SÃ£o JoÃ£o Bosco",
+          "name": "Comunidade São João Bosco",
           "schedule": [
             "Sexta-feira: 07h00\nDomingo: 18h00"
           ],
@@ -1363,19 +1588,26 @@
     {
       "name": "Nossa Senhora das Dores",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-das-dores/",
-      "address": "Rua Dom Barreto, 60 â Fundinho",
+      "address": "Rua Dom Barreto, 60 – Fundinho",
       "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nSegunda à Sexta das 13h às 18h"
+          ],
+          "address": null
+        },
         {
           "name": "Matriz Nossa Senhora das Dores",
           "schedule": [
-            "Domingo: 08h, 09h30, 17h30 e 19h\nTerÃ§a Ã  Quinta-feira: 18h"
+            "Domingo: 08h, 09h30, 17h30 e 19h\nTerça à Quinta-feira: 18h"
           ],
-          "address": "Matriz Nossa Senhora das Dores\nRua Dom Barreto, 60 â Fundinho"
+          "address": "Matriz Nossa Senhora das Dores\nRua Dom Barreto, 60 – Fundinho"
         },
         {
-          "name": "2. Comunidade SÃ£o Vicente de Paulo e Santo AntÃ´nio",
+          "name": "2. Comunidade São Vicente de Paulo e Santo Antônio",
           "schedule": [
-            "Sexta-feira: 18h\nSÃ¡bado: 18h"
+            "Sexta-feira: 18h\nSábado: 18h"
           ],
           "address": null
         }
@@ -1384,13 +1616,28 @@
     {
       "name": "Nossa Senhora Aparecida",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-aparecida-2/",
-      "address": null,
+      "address": "Praça Nossa Sra. Aparecida, 134 - Nossa Sra. Aparecida",
       "communities": [
         {
-          "name": "General Schedule",
+          "name": "Santuário",
           "schedule": [
-            "HorÃ¡rios de Missas",
-            "SegundaÂ Ã  Sexta: das 8h Ã s 19h"
+            "Segunda à Sexta: das 8h às 19h",
+            "Domingo: 7h, 9h, 11h, 16h, 18h e 19h30\nSegunda a Sábado: 7h e 19h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Nossa Senhora de Fátima",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-de-fatima/",
+      "address": "Av. Eng. Diniz, 1230 - Martins, Uberlândia - MG, 38400-462",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "CONFISSÕES \nSegunda a sexta-feira: 15h às 18h",
+            "Domingo: 07h, 10h, 18h30\nSegunda à sexta: 19h\nSábado: 18h\nPrimeira sexta-feira do mês: Adoração ao Santíssimo às 18h"
           ],
           "address": null
         }
@@ -1399,19 +1646,26 @@
     {
       "name": "Cristo Redentor",
       "link": "https://diocesedeuberlandia.org.br/paroquias/cristo-redentor/",
-      "address": "Rua Itabira, 379 â Daniel Fonseca",
+      "address": "Rua Itabira, 379 – Daniel Fonseca",
       "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "Terça a sexta-feira – 13h às 17h30"
+          ],
+          "address": null
+        },
         {
           "name": "Matriz Cristo Redentor",
           "schedule": [
             "Quinta-feira: 19h\nDomingo: 7h30 e 18h"
           ],
-          "address": "Matriz Cristo Redentor\nRua Itabira, 379 â Daniel Fonseca"
+          "address": "Matriz Cristo Redentor\nRua Itabira, 379 – Daniel Fonseca"
         },
         {
-          "name": "Comunidade Santo AntÃ´nio",
+          "name": "Comunidade Santo Antônio",
           "schedule": [
-            "TerÃ§a-feira: 19h\nDomingo: 9h"
+            "Terça-feira: 19h\nDomingo: 9h"
           ],
           "address": null
         }
@@ -1420,19 +1674,26 @@
     {
       "name": "Nossa Senhora Aparecida",
       "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-aparecida/",
-      "address": "Rua Jaime Gomes, 1665 â Bairro Santa Helena",
+      "address": "Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
       "communities": [
+        {
+          "name": "Paróquia Nossa Senhora Aparecida, Rua Caetés, 47 – Santa Helena – 38440-192 – Araguari/MG",
+          "schedule": [
+            "Atendimento: Segunda das 13h às 17h. Terça à Sexta das 08h às 11h e das 13h às 17h\nSecretária(o): Yuri Campos Duarte"
+          ],
+          "address": null
+        },
         {
           "name": "Matriz Nossa Senhora Aparecida",
           "schedule": [
-            "Rua Jaime Gomes, 1665 â Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSÃ¡bado: 19h"
+            "Rua Jaime Gomes, 1665 – Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
           ],
-          "address": "Rua Jaime Gomes, 1665 â Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSÃ¡bado: 19h"
+          "address": "Rua Jaime Gomes, 1665 – Bairro Santa Helena\nDomingo: 10h e 19h30\nQuinta-feira: 19h30\nSábado: 19h"
         },
         {
           "name": "2. Comunidade Santa Edwiges",
           "schedule": [
-            "Travessa Santa Edwiges, 16 â GutiÃ©rrez\nSexta-feira: 19h30\nDomingo: 8h"
+            "Travessa Santa Edwiges, 16 – Gutiérrez\nSexta-feira: 19h30\nDomingo: 8h"
           ],
           "address": null
         }
@@ -1441,26 +1702,26 @@
     {
       "name": "Bom Jesus",
       "link": "https://diocesedeuberlandia.org.br/paroquias/bom-jesus/",
-      "address": "Avenida Marciano de Ãvila, 422 â Bairro Bom Jesus â 38400-752 â UberlÃ¢ndia/MG",
+      "address": "Avenida Marciano de Ávila, 422 – Bairro Bom Jesus – 38400-752 – Uberlândia/MG",
       "communities": [
         {
           "name": "Igreja Matriz Bom Jesus",
           "schedule": [
-            "Av. Marciano de Ãvila, 422 â Bairro Bom Jesus\nQuarta-feira: 19h\nDomingo: 08h e 19h30"
+            "Av. Marciano de Ávila, 422 – Bairro Bom Jesus\nQuarta-feira: 19h\nDomingo: 08h e 19h30"
           ],
-          "address": "Av. Marciano de Ãvila, 422 â Bairro Bom Jesus\nQuarta-feira: 19h\nDomingo: 08h e 19h30"
+          "address": "Av. Marciano de Ávila, 422 – Bairro Bom Jesus\nQuarta-feira: 19h\nDomingo: 08h e 19h30"
         },
         {
           "name": "Comunidade Nossa Senhora de Lourdes",
           "schedule": [
-            "SÃ¡bado: 19h"
+            "Sábado: 19h"
           ],
-          "address": "Av. Arnaldo Conturci, 885 â Bairro Marta Helena"
+          "address": "Av. Arnaldo Conturci, 885 – Bairro Marta Helena"
         },
         {
-          "name": "Comunidade SantÃ­ssima Trindade",
+          "name": "Comunidade Santíssima Trindade",
           "schedule": [
-            "Sexta-feira: 19h\nDomingo: 10h e Ã s 18h"
+            "Sexta-feira: 19h\nDomingo: 10h e às 18h"
           ],
           "address": null
         }
@@ -1469,17 +1730,24 @@
     {
       "name": "Catedral Santa Teresinha do Menino Jesus",
       "link": "https://diocesedeuberlandia.org.br/paroquias/catedral-santa-teresinha-do-menino-jesus/",
-      "address": null,
+      "address": "Praça Rui Barbosa, 79 – Centro – 38400-174 – Uberlândia/MG",
       "communities": [
         {
-          "name": "Catedral Santa Teresinha",
+          "name": "Paróquia",
           "schedule": [
-            "Domingo: 7h, 9h, 16h30, 18h e 19h30\nSegunda-feira: 7h e 18h\nTerÃ§a Ã  Sexta-feira: 7h, 12h (exceto feriado) e 18h\nSÃ¡bado: 7h e 17h"
+            "Segunda-feira: 13h30 às 18h\nTerça a Sexta-feira: 8h30 ao 12h e de 13h30 às 18h"
           ],
           "address": null
         },
         {
-          "name": "Igreja Nossa Senhora do RosÃ¡rio e SÃ£o Benedito",
+          "name": "Catedral Santa Teresinha",
+          "schedule": [
+            "Domingo: 7h, 9h, 16h30, 18h e 19h30\nSegunda-feira: 7h e 18h\nTerça à Sexta-feira: 7h, 12h (exceto feriado) e 18h\nSábado: 7h e 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "Igreja Nossa Senhora do Rosário e São Benedito",
           "schedule": [
             "Domingo: 10h e 18h"
           ],
