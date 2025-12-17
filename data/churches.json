@@ -1,5 +1,5 @@
 {
-  "collection_date": "2025-12-16 06:40:25",
+  "collection_date": "2025-12-17 06:40:02",
   "total_churches": 50,
   "churches": [
     {
@@ -1381,29 +1381,36 @@
     {
       "name": "Santa Edwiges",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santa-edwiges/",
-      "address": "Rua Genarino Casabona, 802, Bairro Luizote de Freitas",
+      "address": "Rua Genarino Cazabona, 802, Bairro Luizote de Freitas",
       "communities": [
         {
           "name": "Paróquia",
           "schedule": [
-            "SECRETARIA\nSegunda a sexta-feira das 13h às 19h"
+            "SECRETARIA\nSegunda a sexta-feira das 13h às 18h."
           ],
           "address": null
         },
         {
           "name": "1. Matriz Santa Edwiges",
           "schedule": [
-            "Domingo: 08h30, 10h e 18h\nQuarta-feira: 19h\nQuinta-feira: Adoração ao Santíssimo a partir das 07h, bênção com o Santíssimo às 18h30 e Missa às 19h",
+            "Domingo: 08h30, 10h30 e 18h\nQuarta-feira: 19h\nQuinta-feira: Adoração ao Santíssimo das 07h às 18h30, bênção com o Santíssimo às 18h30 e Missa às 19h",
             "Todo dia 16, às 16h, Missa Devocional à Santa Edwiges e da Saúde."
           ],
-          "address": "1. Matriz Santa Edwiges\nRua Genarino Casabona, 802, Bairro Luizote de Freitas"
+          "address": "1. Matriz Santa Edwiges\nRua Genarino Cazabona, 802, Bairro Luizote de Freitas"
         },
         {
           "name": "2. Comunidade Sagrado Coração de Jesus",
           "schedule": [
-            "Toda 1° Sexta-feira, às 07h, Missa em louvor ao Sagrado Coração de Jesus\nDomingo: 7h"
+            "Toda 1° Sexta-feira, às 19h, Missa em louvor ao Sagrado Coração de Jesus\nDomingo: 7h"
           ],
           "address": "2. Comunidade Sagrado Coração de Jesus\nRua Matheus Vaz, 855, Bairro Luizote de Freitas II"
+        },
+        {
+          "name": "3. Comunidade Imaculada Conceição",
+          "schedule": [
+            "Sábado: Santa Missa às 18h"
+          ],
+          "address": null
         }
       ]
     },
