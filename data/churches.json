@@ -1,5 +1,5 @@
 {
-  "collection_date": "2025-12-24 06:40:26",
+  "collection_date": "2025-12-25 06:39:37",
   "total_churches": 50,
   "churches": [
     {
@@ -364,33 +364,33 @@
     {
       "name": "Santa Rosa de Lima",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santa-rosa-de-lima/",
-      "address": "Rua AracajÃº, 310 â Santa Rosa â 38401-254 â UberlÃ¢ndia/MG",
+      "address": "Rua Aracajú, 310 – Santa Rosa – 38401-254 – Uberlândia/MG",
       "communities": [
         {
           "name": "1. Matriz Santa Rosa de Lima",
           "schedule": [
-            "Domingo: 07h30 e 19h30\nQuarta-feira: 19h30\nTodo dia 23: 16h Missa da saÃºde / 19h30 Missa devocional"
+            "Domingo: 07h30 e 19h30\nQuarta-feira: 19h30\nTodo dia 23: 16h Missa da saúde / 19h30 Missa devocional"
           ],
-          "address": "1. Matriz Santa Rosa de Lima\nRua FlorianÃ³polis, 425 â Bairro Santa Rosa"
+          "address": "1. Matriz Santa Rosa de Lima\nRua Florianópolis, 425 – Bairro Santa Rosa"
         },
         {
-          "name": "2. Comunidade Imaculada ConceiÃ§Ã£o",
+          "name": "2. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 9h"
           ],
-          "address": "2. Comunidade Imaculada ConceiÃ§Ã£o\nRua Wilson PantaleÃ£o, 38 â Pacaembu"
+          "address": "2. Comunidade Imaculada Conceição\nRua Wilson Pantaleão, 38 – Pacaembu"
         },
         {
-          "name": "3. Comunidade Sagrado CoraÃ§Ã£o de Jesus",
+          "name": "3. Comunidade Sagrado Coração de Jesus",
           "schedule": [
-            "Domingo: 18h\n1Âº Sexta-feira do mÃªs: 18h30 terÃ§o e Missa devocional"
+            "Domingo: 18h\n1º Sexta-feira do mês: 18h30 terço e Missa devocional"
           ],
-          "address": "3. Comunidade Sagrado CoraÃ§Ã£o de Jesus\nRua Dezoito de Abril, 896 â Pacaembu"
+          "address": "3. Comunidade Sagrado Coração de Jesus\nRua Dezoito de Abril, 896 – Pacaembu"
         },
         {
-          "name": "4. Comunidade SÃ£o Miguel Arcanjo",
+          "name": "4. Comunidade São Miguel Arcanjo",
           "schedule": [
-            "SÃ¡bado: 18h"
+            "Sábado: 18h"
           ],
           "address": null
         }
@@ -1417,26 +1417,33 @@
     {
       "name": "Divino Espírito Santo",
       "link": "https://diocesedeuberlandia.org.br/paroquias/divino-espirito-santo/",
-      "address": "Avenida IpÃª, 325 â JaraguÃ¡ â  UberlÃ¢ndia/MG - 38413-075",
+      "address": "Rua da Enfermeira, 180 – Jardim das Palmeiras",
       "communities": [
         {
-          "name": "1. Matriz Divino EspÃ­rito Santo",
+          "name": "Paróquia",
           "schedule": [
-            "Quarta-feira: 19h\nDomingo: 7h, 10h e 19h\nToda 1Âª Sexta-feira do mÃªs: AdoraÃ§Ã£o ao SantÃ­ssimo 15 Ã s 18h30 e Missa Ã s 19h"
+            "SECRETARIA\nTerça à Sexta das 13h às 17h"
           ],
-          "address": "1. Matriz Divino EspÃ­rito Santo\nAvenida dos Mognos, 355 â JaraguÃ¡"
+          "address": null
         },
         {
-          "name": "2. Comunidade SÃ£o Domingos de GusmÃ£o",
+          "name": "1. Matriz Divino Espírito Santo",
           "schedule": [
-            "Quinta-feira: 19h\nSÃ¡bado: 18h\nDomingo: 8h30\nToda 1Âª Quinta-feira do mÃªs: AdoraÃ§Ã£o ao SantÃ­ssimo 15h Ã s 18h30 e Missa Ã s 19h"
+            "Quarta-feira: 19h\nDomingo: 7h, 10h e 19h\nToda 1ª Sexta-feira do mês: Adoração ao Santíssimo 15 às 18h30 e Missa às 19h"
           ],
-          "address": "2. Comunidade SÃ£o Domingos de GusmÃ£o\nRua da Enfermeira, 180 â Jardim das Palmeiras"
+          "address": "1. Matriz Divino Espírito Santo\nAvenida dos Mognos, 355 – Jaraguá"
         },
         {
-          "name": "3. Comunidade Nossa Senhora do RosÃ¡rioÂ",
+          "name": "2. Comunidade São Domingos de Gusmão",
           "schedule": [
-            "2Âª e 4Âª Sexta-feira do mÃªs: 19h30"
+            "Quinta-feira: 19h\nSábado: 18h\nDomingo: 8h30\nToda 1ª Quinta-feira do mês: Adoração ao Santíssimo 15h às 18h30 e Missa às 19h"
+          ],
+          "address": "2. Comunidade São Domingos de Gusmão\nRua da Enfermeira, 180 – Jardim das Palmeiras"
+        },
+        {
+          "name": "3. Comunidade Nossa Senhora do Rosário",
+          "schedule": [
+            "2ª e 4ª Sexta-feira do mês: 19h30"
           ],
           "address": null
         }
