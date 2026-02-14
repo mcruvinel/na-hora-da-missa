@@ -1,5 +1,5 @@
 {
-  "collection_date": "2026-02-13 07:06:09",
+  "collection_date": "2026-02-14 06:53:30",
   "total_churches": 50,
   "churches": [
     {
@@ -1043,21 +1043,21 @@
         {
           "name": "1. Matriz Sant’Ana",
           "schedule": [
-            "Todo dia 26 do mês: 19h30 (novena perpetua à Sant’Ana)\nToda quarta-feira: 19h30\nDomingo: 09h"
+            "Toda quarta-feira: 19h30"
           ],
           "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "2. Comunidade Santa Rita de Cássia",
           "schedule": [
-            "Domingo: 19h30\nSexta: 19h30\nTodo dia 22 do mês: 19h30 (novena perpétua à Santa Rita de Cássia)"
+            "Domingo: 9h e 19h"
           ],
           "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
         {
           "name": "3. Comunidade Santa Luzia",
           "schedule": [
-            "Terceira quinta-feira do mês: 19h30"
+            "Terceira sexta-feira do mês: 19h30"
           ],
           "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
         },
@@ -1071,21 +1071,7 @@
         {
           "name": "5. Comunidade São Sebastião",
           "schedule": [
-            "Primeira quinta-feira do mês: 19h30"
-          ],
-          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
-        },
-        {
-          "name": "6. Comunidade São João Batista",
-          "schedule": [
-            "Toda terceira terça-feira do mês: 19h30"
-          ],
-          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
-        },
-        {
-          "name": "7. Comunidade Santa Luzia",
-          "schedule": [
-            "Primeira e segunda quinta-feira do mês: 19h30"
+            "Todo primeiro Domingo do mês: 11h"
           ],
           "address": null
         }
