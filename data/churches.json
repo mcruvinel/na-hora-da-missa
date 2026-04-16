@@ -1,5 +1,5 @@
 {
-  "collection_date": "2026-04-15 06:46:58",
+  "collection_date": "2026-04-16 06:48:02",
   "total_churches": 50,
   "churches": [
     {
@@ -474,7 +474,7 @@
         {
           "name": "4. Comunidade São José",
           "schedule": [
-            "Domingo: 17h30\nTodo dia 19: 19h30"
+            "Domingo: 17h\nTodo dia 19: 19h30"
           ],
           "address": null
         }
@@ -1658,14 +1658,28 @@
         {
           "name": "Matriz Cristo Redentor",
           "schedule": [
-            "Quinta-feira: 19h\nDomingo: 7h30 e 18h"
+            "Quinta-feira: 19h\nDomingo: 7h30 e 18h\n1ª Sexta-feira: 19h"
           ],
           "address": "Matriz Cristo Redentor\nRua Itabira, 379 – Daniel Fonseca"
         },
         {
+          "name": "Comunidade Mãe Peregrina",
+          "schedule": [
+            "Quarta-feira: 19h\nSábado: 19h"
+          ],
+          "address": "Comunidade Mãe Peregrina\nRua Monlevade, 1100 – Daniel Fonseca"
+        },
+        {
+          "name": "Comunidade Menino Jesus",
+          "schedule": [
+            "Domingo: 16h"
+          ],
+          "address": "Comunidade Menino Jesus\nRua Rafael Rinaldi, s/n, esquina com Rua Francisco Sales – Osvaldo Resende"
+        },
+        {
           "name": "Comunidade Santo Antônio",
           "schedule": [
-            "Terça-feira: 19h\nDomingo: 9h"
+            "Terça-feira: 19h\nDomingo: 9h15"
           ],
           "address": null
         }
