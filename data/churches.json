@@ -1,6 +1,6 @@
 {
-  "collection_date": "2026-04-18 06:34:50",
-  "total_churches": 49,
+  "collection_date": "2026-04-19 06:43:55",
+  "total_churches": 50,
   "churches": [
     {
       "name": "Jesus Bom Pastor",
@@ -320,6 +320,42 @@
           "name": "3. Comunidade Imaculada Conceição",
           "schedule": [
             "Domingo: 8h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Sagrada Família",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/sagrada-familia/",
+      "address": "Rua Maria Aparecida Peixoto, 250 – Esperança",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nTerça à Sexta-feira: 13h às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz Sagrada Família",
+          "schedule": [
+            "1ª. Sexta-feira do mês\n18h30: adoração ao Santíssimo Sacramento\n19h30: Missa do Sagrado Coração de Jesus.\nÚltima quarta-feira do mês: Missa da Saúde às 19h30\nTodo dia 30 de cada mês: Missa da Família às 19h30",
+            "1ª. Sexta-feira do mês"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santo Expedito",
+          "schedule": [
+            "Terça-feira: 19h30 – Novena Perpetua de Santo Expedito\nDomingo: 17h30\nTodo dia 19 de cada mês\n19h30: Missa da Saúde e votiva a Santo Expedito"
+          ],
+          "address": "2. Comunidade Nossa Senhora da Esperança\nRua Maria Aparecida Peixoto, 250 – Esperança\nSábado: 19h30\nTodo dia 18 de cada mês\n18h30: Adoração ao Santíssimo Sacramento\n19h30: Missa da Saúde."
+        },
+        {
+          "name": "8. Comunidade Cristo Redentor",
+          "schedule": [
+            "Toda 2º sábado do mês às 16h\nNas casas do Vilarejo"
           ],
           "address": null
         }
