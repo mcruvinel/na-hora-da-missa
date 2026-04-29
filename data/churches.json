@@ -1,6 +1,6 @@
 {
-  "collection_date": "2026-04-28 07:05:57",
-  "total_churches": 46,
+  "collection_date": "2026-04-29 06:59:45",
+  "total_churches": 50,
   "churches": [
     {
       "name": "Jesus Bom Pastor",
@@ -214,6 +214,148 @@
           "name": "6. Comunidade Imaculada Conceição",
           "schedule": [
             "Terceiro sábado do mês: 20h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Nossa Senhora de Fátima",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/nossa-senhora-de-fatima-2/",
+      "address": "Rua do Contorno, 250 – Morada de Fátima",
+      "communities": [
+        {
+          "name": "1. Matriz Nossa Senhora de Fátima",
+          "schedule": [
+            "Domingo: 7h, 9h e 19h\nSábado (Missa das crianças): 16h\nSegunda, quarta e sexta: 7h e 19h\nTerça e quinta: 19h",
+            "Primeira Quarta-feira do mês: 19h30 (Missa de Louvor)\nSegunda quarta-feira do Mês: 15h (Missa da Saúde)"
+          ],
+          "address": null
+        },
+        {
+          "name": "2. Comunidade Nossa Senhora Desatadora dos Nós",
+          "schedule": [
+            "Domingo: 7h\nSábado: 19h\nTodo dia 08: 19h"
+          ],
+          "address": "2. Comunidade Nossa Senhora Desatadora dos Nós\nRua do Contorno, 250 – Morada de Fátima"
+        },
+        {
+          "name": "3. Comunidade São Francisco de Assis",
+          "schedule": [
+            "Domingo: 17h"
+          ],
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
+        },
+        {
+          "name": "4. Comunidade Nossa Senhora Aparecida",
+          "schedule": [
+            "2ª sexta-feira do mês às 20h"
+          ],
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
+        },
+        {
+          "name": "5. Comunidade São João Batista",
+          "schedule": [
+            "2ª e 4ª sexta feira do mês às 20h"
+          ],
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
+        },
+        {
+          "name": "6. Comunidade Santa Cruz",
+          "schedule": [
+            "1ª e 3ª sexta-feira do mês às 20h"
+          ],
+          "address": "3. Comunidade São Francisco de Assis\nRua Doutor Canabrava, 170 – Centro"
+        },
+        {
+          "name": "7. Comunidade São Frei Galvão",
+          "schedule": [
+            "Domingo: 9h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Senhor Bom Jesus da Cana Verde",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/senhor-bom-jesus-da-cana-verde/",
+      "address": "Praça Padre Nilo Tabuquini 34 – Centro – 38440-051 – Araguari/MG",
+      "communities": [
+        {
+          "name": "1. Matriz Senhor Bom Jesus da Cana Verde",
+          "schedule": [
+            "Domingo: 7h, 9h, e 19h\nSegunda a sábado: 06h30 e 19h"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Divino Espírito Santo Paráclito",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/divino-espirito-santo-paraclito/",
+      "address": "Rua São Francisco, 320, Bairro Maria Eugenia",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nTerça a Sexta-feira, das 13h às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz Divino Espírito Santo Paráclito",
+          "schedule": [
+            "Domingo: 10h e 18h\nQuartas e Sextas-feiras: 19h30"
+          ],
+          "address": "1. Matriz Divino Espírito Santo Paráclito\nRua São Francisco, 320, Bairro Maria Eugenia"
+        },
+        {
+          "name": "2. Comunidade Santo Expedito",
+          "schedule": [
+            "Sábado: 19h30\nTodo dia 19: 19h30"
+          ],
+          "address": "2. Comunidade Santo Expedito\nRua Israel Pinheiro, 1908, Bairro Brasília"
+        },
+        {
+          "name": "3. Comunidade Imaculada Conceição",
+          "schedule": [
+            "Domingo: 8h30"
+          ],
+          "address": null
+        }
+      ]
+    },
+    {
+      "name": "Sagrada Família",
+      "link": "https://diocesedeuberlandia.org.br/paroquias/sagrada-familia/",
+      "address": "Rua Maria Aparecida Peixoto, 250 – Esperança",
+      "communities": [
+        {
+          "name": "Paróquia",
+          "schedule": [
+            "SECRETARIA\nTerça à Sexta-feira: 13h às 17h"
+          ],
+          "address": null
+        },
+        {
+          "name": "1. Matriz Sagrada Família",
+          "schedule": [
+            "1ª. Sexta-feira do mês\n18h30: adoração ao Santíssimo Sacramento\n19h30: Missa do Sagrado Coração de Jesus.\nÚltima quarta-feira do mês: Missa da Saúde às 19h30\nTodo dia 30 de cada mês: Missa da Família às 19h30",
+            "1ª. Sexta-feira do mês"
+          ],
+          "address": null
+        },
+        {
+          "name": "3. Comunidade Santo Expedito",
+          "schedule": [
+            "Terça-feira: 19h30 – Novena Perpetua de Santo Expedito\nDomingo: 17h30\nTodo dia 19 de cada mês\n19h30: Missa da Saúde e votiva a Santo Expedito"
+          ],
+          "address": "2. Comunidade Nossa Senhora da Esperança\nRua Maria Aparecida Peixoto, 250 – Esperança\nSábado: 19h30\nTodo dia 18 de cada mês\n18h30: Adoração ao Santíssimo Sacramento\n19h30: Missa da Saúde."
+        },
+        {
+          "name": "8. Comunidade Cristo Redentor",
+          "schedule": [
+            "Toda 2º sábado do mês às 16h\nNas casas do Vilarejo"
           ],
           "address": null
         }
