@@ -1,5 +1,5 @@
 {
-  "collection_date": "2026-06-02 07:50:39",
+  "collection_date": "2026-06-03 07:54:01",
   "total_churches": 50,
   "churches": [
     {
@@ -1636,7 +1636,8 @@
         {
           "name": "Paróquia",
           "schedule": [
-            "CONFISSÕES \nSegunda a sexta-feira: 15h às 18h",
+            "ATENDIMENTO SECRETARIA:\nSegunda a sexta-feira de 09h30 às 12h e das 14h às 18h",
+            "CONFISSÕES \nTerça a Sexta-feira: 15h30 às 17h",
             "Domingo: 07h, 10h, 18h30\nSegunda à sexta: 19h\nSábado: 18h\nPrimeira sexta-feira do mês: Adoração ao Santíssimo às 18h"
           ],
           "address": null
