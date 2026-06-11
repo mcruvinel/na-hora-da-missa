@@ -1,5 +1,5 @@
 {
-  "collection_date": "2026-06-10 07:40:57",
+  "collection_date": "2026-06-11 07:53:14",
   "total_churches": 50,
   "churches": [
     {
@@ -1031,7 +1031,7 @@
     {
       "name": "Sant’Anna",
       "link": "https://diocesedeuberlandia.org.br/paroquias/santanna/",
-      "address": "R. Getúlio Magalhães, 218-492",
+      "address": "Rua Getúlio Magalhães, 218 – Centro",
       "communities": [
         {
           "name": "Paróquia",
@@ -1041,37 +1041,37 @@
           "address": null
         },
         {
-          "name": "1. Matriz Sant’Ana",
-          "schedule": [
-            "Toda quarta-feira: 19h30"
-          ],
-          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
-        },
-        {
           "name": "2. Comunidade Santa Rita de Cássia",
           "schedule": [
-            "Domingo: 9h e 19h"
+            "Toda quarta-feira: 19h30\nDomingo: 9h e 19h\nToda quinta-feira: Adoração do Santíssimo, das 7h às 18h\nPrimeira sexta-feira: Adoração e bênção do Santíssimo Sacramento e missa votiva do Sagrado Coração de Jesus, às 18h"
           ],
-          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, 218 – Centro"
         },
         {
           "name": "3. Comunidade Santa Luzia",
           "schedule": [
             "Terceira sexta-feira do mês: 19h30"
           ],
-          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, 218 – Centro"
         },
         {
           "name": "4. Comunidade São José",
           "schedule": [
-            "Sexta: 19h30"
+            "Segundo sábado do mês: 19h30\nQuarta sexta-feira do mês: 19h30"
           ],
-          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, s/n – Centro"
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, 218 – Centro"
         },
         {
           "name": "5. Comunidade São Sebastião",
           "schedule": [
-            "Todo primeiro Domingo do mês: 11h"
+            "Todo primeiro Domingo do mês: 11h30"
+          ],
+          "address": "1. Matriz Sant’Ana\nRua Getúlio Magalhães, 218 – Centro"
+        },
+        {
+          "name": "6. Comunidade Nossa Senhora da Abadia",
+          "schedule": [
+            "Terceira quinta-feira do mês: 19h30"
           ],
           "address": null
         }
