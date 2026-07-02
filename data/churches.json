@@ -1,5 +1,5 @@
 {
-  "collection_date": "2026-06-30 07:28:37",
+  "collection_date": "2026-07-02 07:16:53",
   "total_churches": 50,
   "churches": [
     {
@@ -404,35 +404,35 @@
         {
           "name": "Paróquia",
           "schedule": [
-            "SECRETARIA\nTerça a Sexta-feira:  13h às 18h"
+            "SECRETARIA\nSegunda a Sexta-feira:  13h às 18h"
           ],
           "address": null
         },
         {
           "name": "1. Matriz Nossa Senhora das Graças da Medalha Milagrosa",
           "schedule": [
-            "Domingo: 8h e 19h30\nTerça e Sexta: 19h30\nTodo dia 27: 15h e 19h30"
+            "Domingo: 8h e 19h\nSexta-feira: 19h\nTodo dia 27: 15h e 19h"
           ],
           "address": "1. Matriz Nossa Senhora das Graças da Medalha Milagrosa\nRua Acre, 865 – Nossa Senhora das Graças"
         },
         {
           "name": "2. Comunidade Menino Jesus de Praga",
           "schedule": [
-            "Quinta-feira: 19h30\nSábado: 19h30"
+            "Quinta-feira: 19h\nSábado: 19h"
           ],
           "address": "2. Comunidade Menino Jesus de Praga\nRua Ceres, 1470 – Minas Gerais"
         },
         {
           "name": "3. Comunidade Santa Rita de Cássia",
           "schedule": [
-            "Sábado: 18h\nTodo dia 22: 19h30"
+            "Domingo: 17h30\nTerça-feira: 19h"
           ],
           "address": "3. Comunidade Santa Rita de Cássia\nRua Francisco Vinagre, 2008 – Minas Gerais"
         },
         {
           "name": "4. Comunidade São José Operário",
           "schedule": [
-            "Domingo: 09h30\nQuarta-feira: 19h30"
+            "Domingo: 10h\nQuarta-feira: 19h"
           ],
           "address": null
         }
@@ -650,14 +650,14 @@
         {
           "name": "1. Matriz Nossa Senhora da Abadia",
           "schedule": [
-            "Domingo: 08h e 18h\nTerça, quinta e sexta-feira: 19h"
+            "Domingo: 08h, 10h e 18h\nTerça, quarta, quinta e sexta-feira: 19h"
           ],
           "address": null
         },
         {
           "name": "2. Comunidade Nossa Senhora do Bom Parto",
           "schedule": [
-            "Sábado: 18h\nQuarta-feira: 19h"
+            "Sábado: 18h"
           ],
           "address": "2. Comunidade Nossa Senhora do Bom Parto\nRua da Paz, 278, Morada da Colina"
         },
