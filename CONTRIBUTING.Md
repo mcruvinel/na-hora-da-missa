@@ -1,48 +1,28 @@
-# Contributing to na-hora-da-missa
+# Contribuindo
 
-Thanks for your interest in contributing! This project aims to stay simple and low-maintenance.
+Obrigado pelo interesse! O projeto quer continuar simples e fácil de manter.
 
-## Getting Started
+## Começando
 
-1. **Fork** the repo and create a new branch:
+1. Faça um fork e crie uma branch: `git checkout -b fix/descricao-curta`
+2. Instale e rode os testes (Node 24+):
    ```
-   git checkout -b fix/short-description
+   npm install
+   npm test
+   npm run typecheck
    ```
-2. **Run locally**:
-   - Backend:
-     ```
-     cd backend
-     python -m venv .venv
-     # Windows: .venv\Scripts\activate
-     # Unix/Mac: source .venv/bin/activate
-     pip install -r requirements.txt
-     uvicorn main:app --reload
-     ```
-   - Frontend:
-     ```
-     cd frontend
-     npm install
-     npm run dev
-     ```
-3. Keep PRs **small and focused**.
+3. Para testar a coleta sem consultar o OpenStreetMap: `npm run scrape -- --no-geocode`
 
-## Guidelines
+## Horário que não foi entendido
 
-- **No breaking changes** or logic rewrites without discussion.
-- Prefer **clear comments and docs** over large refactors.
-- Match existing **code style**; format JS/TS with Prettier if present, Python with Black if present.
-- Add/update minimal tests if they exist (optional).
-- Update README or comments if behavior changes.
+Se uma paróquia tem um horário que o scraper não transformou em celebração (ele aparece em `notes` no `data/v1/parishes.json`), o caminho é:
 
-## Commit & PR
+1. adicionar a linha original como caso em `packages/scraper/test/schedule.test.ts`;
+2. ajustar `packages/scraper/src/diocese/schedule.ts` até o teste passar sem quebrar os outros.
 
-- Use clear, imperative commit messages:
-  - `fix: prevent crash on empty RAW`
-  - `docs: add local run instructions`
+## Pull requests
 
-**PR Checklist**
-- [ ] Builds locally (frontend `npm run build`, backend imports without error)
-- [ ] Describes the change and rationale
-- [ ] Screenshots for UI tweaks (if applicable)
-
-Thanks again for helping!
+- Pequenos e focados.
+- Mensagens de commit no imperativo: `fix: trata horário sem minutos`.
+- Testes e typecheck passando.
+- Prints para mudanças visuais.

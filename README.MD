@@ -1,35 +1,54 @@
-# Horários de Missas - Diocese Uberlândia
+# Hora da Missa
 
-Este repositório contém um site estático que exibe horários de missas das paróquias da Diocese de Uberlândia.
+Horários de missa das paróquias da Diocese de Uberlândia e as leituras do dia. Hoje é um site estático; o próximo passo é o app para iOS e Android.
 
 ## Como funciona
 
-- O site é hospedado via GitHub Pages
-- Os dados são coletados através de um scraper
-- O arquivo `data/churches.json` contém todos os dados sobre horários e locias de missa exibidos no site
-- O arquivo `data/leitura-diaria.json` contém todos os dados sobre as leituras litúrgicas diárias
+Todo dia às 03:00 (horário de Brasília) um job do GitHub Actions roda o scraper, que:
 
-## Como mantenho os dados atualizados
+1. lista as paróquias pela API pública do site da Diocese;
+2. lê a página de cada paróquia e transforma o texto dos horários em dados estruturados (dia, horário, tipo de celebração e observação);
+3. busca a localização aproximada de cada igreja no OpenStreetMap, com cache;
+4. lê as leituras do dia;
+5. valida tudo contra o schema e só grava se o resultado estiver completo.
 
-- Todos os dias, as 03:00AM - UTC-03:00, o horarío é atualizado com o portal da diocese de Uberlândia.
+Os dados ficam versionados em `data/` e são servidos junto com o site.
 
-## Frequência de atualização
+## Dados
 
-Recomenda-se atualizar os dados pelo menos uma vez por mês, ou sempre que houver alterações significativas nos horários das missas.
+| Arquivo | Conteúdo |
+| --- | --- |
+| `data/v1/parishes.json` | Paróquias, comunidades, celebrações estruturadas, contato e localização |
+| `data/v1/liturgy/today.json` | Celebração, cor litúrgica e leituras do dia |
+| `data/churches.json` | Formato antigo, usado pelo site atual |
 
-## Estrutura do projeto
+O formato dos arquivos `v1` está definido em `packages/schema` (zod) e é compartilhado com o app.
 
-- `index.html` - Página principal do site
-- `css/style.css` - Estilos do site
-- `js/app.js` - Script para carregar e exibir os dados dos horários de missas
-- `js/daily-readings.js - Script para carregar e exibir os dados das leituras litúrgicas diárias.`
-- `data/churchers.json` - Dados coletados pelo scraper dos horários de missas
-- `data/leitura-diaria.json` - Dados coletados pelo scraper da leitura litúrgica diária.
-- `scraper.py` - Script para coletar os dados atualizados dos horarios de missas.
-- `daily_liturgy.py` - Script para coletaros dados da leitura litúrgica diária.
+## Estrutura
 
-## Duvidas e Sugestões
+```
+packages/
+  schema/    tipos e validação dos dados
+  scraper/   coleta, interpretação dos horários e geocodificação
+data/        dados gerados
+index.html, leitura-diaria.html, js/, css/   site atual
+```
 
-Se tiver alguma dúvida ou sugestão, entre em contato pelo email: contato.nahoradamissa@gmail.com
+## Rodando localmente
 
-Este projeto é para uso não-comercial. Os dados pertencem às respectivas paróquias e são coletados apenas para facilitar o acesso às informações públicas.
+Requer Node 24 ou mais recente.
+
+```
+npm install
+npm test
+npm run scrape                 # paróquias e leituras
+npm run scrape -- parishes     # só paróquias
+npm run scrape -- liturgy      # só leituras
+npm run scrape -- --no-geocode # sem consultar o OpenStreetMap
+```
+
+## Contato
+
+Dúvidas e sugestões: contato.nahoradamissa@gmail.com
+
+Projeto sem fins comerciais e sem vínculo oficial com a Diocese de Uberlândia. Os horários pertencem às respectivas paróquias e são reunidos aqui apenas para facilitar o acesso a uma informação pública.

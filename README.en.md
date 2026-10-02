@@ -1,46 +1,43 @@
-# Mass Times - Diocese of Uberlândia
+# Hora da Missa
 
-This repository contains a static website that displays mass times for the parishes of the Diocese of Uberlândia, with data collected from elodafe.com.br.
+Mass times for the parishes of the Diocese of Uberlândia (Brazil) and the daily readings. It is a static website today; iOS and Android apps are next.
 
 ## How it works
 
-- The site is hosted via GitHub Pages
-- The data is collected through a scraper
-- The file `data/churches.json` contains all data about mass times and locations displayed on the site
-- The file `data/leitura-diaria.json` contains all data about daily liturgical readings
+Every day at 03:00 (UTC-3) a GitHub Actions job runs the scraper, which:
 
-## How I keep the data updated
+1. lists the parishes through the public API of the Diocese website;
+2. reads each parish page and turns the free-text schedules into structured data (day, time, kind of celebration and notes);
+3. looks up an approximate location for each church on OpenStreetMap, with a cache;
+4. reads the daily readings;
+5. validates everything against the schema and only writes complete results.
 
-- Every day, at 03:00AM - UTC-03:00, the schedule is updated with the portal of the Diocese of Uberlândia.
+The data is versioned in `data/` and served with the site.
 
-## Update frequency
+## Data
 
-It is recommended to update the data at least once a month, or whenever there are significant changes in the mass schedules.
+| File | Content |
+| --- | --- |
+| `data/v1/parishes.json` | Parishes, communities, structured celebrations, contact and location |
+| `data/v1/liturgy/today.json` | Celebration, liturgical color and readings of the day |
+| `data/churches.json` | Legacy format used by the current website |
 
-## Project structure
+The `v1` format is defined in `packages/schema` (zod) and shared with the app.
 
-- `index.html` - Main page of the site
-- `css/style.css` - Site styles
-- `js/app.js` - Script to load and display mass schedule data
-- `js/daily-readings.js` - Script to load and display daily liturgical reading data
-- `data/churches.json` - Data collected by the scraper for mass schedules
-- `data/leitura-diaria.json` - Data collected by the scraper for daily liturgical readings
-- `scraper.py` - Script to collect updated data of mass schedules
-- `daily_liturgy.py` - Script to collect data of daily liturgical readings
+## Running locally
 
-## Questions and Suggestions
+Requires Node 24 or newer.
 
-If you have any questions or suggestions, contact by email: contato.nahoradamissa@gmail.com
+```
+npm install
+npm test
+npm run scrape
+```
 
-This project is for non-commercial use. The data belongs to the respective parishes and is collected only to facilitate access to public information.
+See the Portuguese README for more commands.
 
-## Contributing
+## Contact
 
-We welcome small, focused PRs:
+contato.nahoradamissa@gmail.com
 
-    UI/UX polish, accessibility, copy updates
-    Better errors and edge case handling
-    Non-invasive code comments / docs
-    Build/dev workflow improvements
-
-Check the CONTRIBUTING.Md file.
+Non-commercial project with no official ties to the Diocese of Uberlândia. Schedules belong to their parishes and are gathered here only to make public information easier to find.
