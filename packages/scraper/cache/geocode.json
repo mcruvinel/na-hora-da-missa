@@ -1,0 +1,1770 @@
+{
+  "01 Praça José Miguel | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:47.212Z"
+  },
+  "01 Praça Manoel Carvalho | Araguari": {
+    "location": {
+      "lat": -18.4825,
+      "lng": -48.437686,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:42.094Z"
+  },
+  "02 Rua Pedro Fedrigo | Araporã": {
+    "location": {
+      "lat": -18.430653,
+      "lng": -49.190064,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:46.487Z"
+  },
+  "05 Praça Raul Carneiro | Tupaciguara": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:45.411Z"
+  },
+  "06 Rua Alicerce | Uberlândia": {
+    "location": {
+      "lat": -18.909292,
+      "lng": -48.21212,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:39.304Z"
+  },
+  "1085 Rua do Bancário | Uberlândia": {
+    "location": {
+      "lat": -18.934947,
+      "lng": -48.313278,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:07.139Z"
+  },
+  "11 Rua Olegário Maciel | Tupaciguara": {
+    "location": {
+      "lat": -18.593941,
+      "lng": -48.706535,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:54.128Z"
+  },
+  "1100 Rua Monlevade | Uberlândia": {
+    "location": {
+      "lat": -18.918751,
+      "lng": -48.300621,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:09.793Z"
+  },
+  "111 Rua Denver | Uberlândia": {
+    "location": {
+      "lat": -18.921859,
+      "lng": -48.212288,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:27.977Z"
+  },
+  "1135 Alameda Paulo César Santana | Uberlândia": {
+    "location": {
+      "lat": -18.953405,
+      "lng": -48.318508,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:48:03.953Z"
+  },
+  "1135 Rua da Carioca | Uberlândia": {
+    "location": {
+      "lat": -18.943574,
+      "lng": -48.285329,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:07.299Z"
+  },
+  "114 Rua Nelson Mandella | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:20.962Z"
+  },
+  "115 Rua Celida Maria Sampaio | Uberlândia": {
+    "location": {
+      "lat": -18.898531,
+      "lng": -48.330858,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:13.953Z"
+  },
+  "1205 Avenida Paraná | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:03.449Z"
+  },
+  "1230 Avenida Eng. Diniz | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:13.232Z"
+  },
+  "1245 Rua Luíz Vieira Tavares | Uberlândia": {
+    "location": {
+      "lat": -18.891201,
+      "lng": -48.243852,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:44.073Z"
+  },
+  "125 Rua Ângelo Testa | Uberlândia": {
+    "location": {
+      "lat": -18.910876,
+      "lng": -48.300547,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:11.568Z"
+  },
+  "1259 Rua Coromandel | Araguari": {
+    "location": {
+      "lat": -18.664487,
+      "lng": -48.182792,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:46.832Z"
+  },
+  "126 Avenida José Pereira de Carvalho | Tupaciguara": {
+    "location": {
+      "lat": -18.603677,
+      "lng": -48.682819,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:53.419Z"
+  },
+  "1305 Rua Jose Carrijo | Uberlândia": {
+    "location": {
+      "lat": -18.919546,
+      "lng": -48.240717,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:30.811Z"
+  },
+  "132 Rua Padre Gusmão | Araguari": {
+    "location": {
+      "lat": -18.639473,
+      "lng": -48.180771,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:29.882Z"
+  },
+  "134 Praça Nossa Sra. Aparecida | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:15.840Z"
+  },
+  "1414 Avenida Calimério Pereira de Ávila | Araguari": {
+    "location": {
+      "lat": -18.633336,
+      "lng": -48.184792,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:29.166Z"
+  },
+  "1456 Avenida Mato Grosso | Uberlândia": {
+    "location": {
+      "lat": -18.899534,
+      "lng": -48.267917,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:23.111Z"
+  },
+  "1470 Rua Ceres | Uberlândia": {
+    "location": {
+      "lat": -18.868014,
+      "lng": -48.261819,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:38.556Z"
+  },
+  "15 Praça Antônio Martins | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:11.897Z"
+  },
+  "150 Praça Augusto Diniz | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:17.774Z"
+  },
+  "150 Rua João Batista Bacelar | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:15.047Z"
+  },
+  "1531 Rua Wilson Rodrigues da Silva | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:35.684Z"
+  },
+  "16 Travessa Santa Edwiges | Araguari": {
+    "location": {
+      "lat": -18.670719,
+      "lng": -48.198338,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:06.931Z"
+  },
+  "160 Avenida Jaime de Barros | Uberlândia": {
+    "location": {
+      "lat": -18.940678,
+      "lng": -48.231298,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:54.818Z"
+  },
+  "1635 Rua Constelação | Uberlândia": {
+    "location": {
+      "lat": -18.904805,
+      "lng": -48.295965,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:33.680Z"
+  },
+  "1665 Rua Jaime Gomes | Araguari": {
+    "location": {
+      "lat": -18.654598,
+      "lng": -48.192969,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:06.169Z"
+  },
+  "17 Rua Reverendo John Boyle | Estrela do Sul": {
+    "location": {
+      "lat": -18.746553,
+      "lng": -47.690947,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:22.106Z"
+  },
+  "170 Rua Doutor Canabrava | Araguari": {
+    "location": {
+      "lat": -18.648998,
+      "lng": -48.197736,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:12.204Z"
+  },
+  "180 Rua da Enfermeira | Uberlândia": {
+    "location": {
+      "lat": -18.946302,
+      "lng": -48.319606,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:56.695Z"
+  },
+  "182 Rua Iraque | Uberlândia": {
+    "location": {
+      "lat": -18.951099,
+      "lng": -48.24942,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:08.852Z"
+  },
+  "184 Avenida Europa | Uberlândia": {
+    "location": {
+      "lat": -18.905334,
+      "lng": -48.250295,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:33.352Z"
+  },
+  "1880 Rua Estácio de Sá | Araguari": {
+    "location": {
+      "lat": -18.627831,
+      "lng": -48.184279,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:59.600Z"
+  },
+  "190 Rua Padre Américo Ceppi | Uberlândia": {
+    "location": {
+      "lat": -18.887198,
+      "lng": -48.263519,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:21.320Z"
+  },
+  "1908 Rua Israel Pinheiro | Araguari": {
+    "location": {
+      "lat": -18.658705,
+      "lng": -48.210488,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:58.868Z"
+  },
+  "20 Praça Senador Camilo Chaves | Uberlândia": {
+    "location": {
+      "lat": -18.900902,
+      "lng": -48.251686,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:31.817Z"
+  },
+  "20 Praça Vasco Gifoni | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:01.844Z"
+  },
+  "200 Rua Gamela | Uberlândia": {
+    "location": {
+      "lat": -18.917387,
+      "lng": -48.187503,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:26.085Z"
+  },
+  "2008 Rua Francisco Vinagre | Uberlândia": {
+    "location": {
+      "lat": -18.8631,
+      "lng": -48.27215,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:39.180Z"
+  },
+  "201 Rua Moacir Lopes de Carvalho | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:29.603Z"
+  },
+  "203 Rua Egito | Uberlândia": {
+    "location": {
+      "lat": -18.956647,
+      "lng": -48.239156,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:12.164Z"
+  },
+  "205 Rua Antônio Carlos Resende | Araguari": {
+    "location": {
+      "lat": -18.661778,
+      "lng": -48.220102,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:59.676Z"
+  },
+  "205 Rua Ipê Amarelo | Uberlândia": {
+    "location": {
+      "lat": -18.91553,
+      "lng": -48.207853,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:41.036Z"
+  },
+  "208 Avenida Juhen Cecílio Jorge | Uberlândia": {
+    "location": {
+      "lat": -18.915633,
+      "lng": -48.320011,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:42.346Z"
+  },
+  "208 Rua Jhuen Cecílio Jorge | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:39.352Z"
+  },
+  "2110 Avenida Levindo de Souza | Uberlândia": {
+    "location": {
+      "lat": -18.889733,
+      "lng": -48.267386,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:32.433Z"
+  },
+  "213 Praça Tubal Vilela | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:42:57.207Z"
+  },
+  "218 Rua Getúlio Magalhães | Indianópolis": {
+    "location": {
+      "lat": -19.042356,
+      "lng": -47.919068,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:01.009Z"
+  },
+  "220 Rua Mário Paganini | Uberlândia": {
+    "location": {
+      "lat": -18.902149,
+      "lng": -48.294313,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:28.886Z"
+  },
+  "2200 Avenida Ana Godoy de Souza | Uberlândia": {
+    "location": {
+      "lat": -18.926521,
+      "lng": -48.225095,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:28.111Z"
+  },
+  "223 Rodovia MG | Araguari": {
+    "location": {
+      "lat": -18.53529,
+      "lng": -48.196749,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:16.044Z"
+  },
+  "225 Rua dos Angicos | Araguari": {
+    "location": {
+      "lat": -18.63051,
+      "lng": -48.213056,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:40.885Z"
+  },
+  "230 Avenida Cabanadas | Uberlândia": {
+    "location": {
+      "lat": -18.875929,
+      "lng": -48.267646,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:40.756Z"
+  },
+  "240 Praça Augusto Diniz | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:09.387Z"
+  },
+  "25 Praça Canto Maior dos Palmares | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:04.435Z"
+  },
+  "25 Rua Jerônimo Beijo de Andrade | Uberlândia": {
+    "location": {
+      "lat": -18.957981,
+      "lng": -48.225787,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:21.050Z"
+  },
+  "250 Rua Maria Aparecida Peixoto | Uberlândia": {
+    "location": {
+      "lat": -18.877555,
+      "lng": -48.282042,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:49.788Z"
+  },
+  "260 Rua Newton Atheniel | Araguari": {
+    "location": {
+      "lat": -18.671908,
+      "lng": -48.189115,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:22.976Z"
+  },
+  "278 Rua da Paz | Uberlândia": {
+    "location": {
+      "lat": -18.93583,
+      "lng": -48.27691,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:06.757Z"
+  },
+  "281 Rua Gonçalves Dias | Araguari": {
+    "location": {
+      "lat": -18.653902,
+      "lng": -48.185573,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:21.897Z"
+  },
+  "2850 Rua Raul José de Belém | Araguari": {
+    "location": {
+      "lat": -18.657965,
+      "lng": -48.179332,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:48.063Z"
+  },
+  "288 Rua Célio Pontes | Uberlândia": {
+    "location": {
+      "lat": -18.952405,
+      "lng": -48.232066,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:18.410Z"
+  },
+  "303 Rua Maria Abadia Mamede | Uberlândia": {
+    "location": {
+      "lat": -18.931976,
+      "lng": -48.317898,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:05.092Z"
+  },
+  "3110 Avenida Edgard Oliveira de Castro | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:23.940Z"
+  },
+  "320 Rua São Francisco | Araguari": {
+    "location": {
+      "lat": -18.659615,
+      "lng": -48.205424,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:57.772Z"
+  },
+  "328 Rua Vertentes | Uberlândia": {
+    "location": {
+      "lat": -18.907584,
+      "lng": -48.183874,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:36.531Z"
+  },
+  "34 Praça Padre Nilo Tabuquini | Araguari": {
+    "location": {
+      "lat": -18.648075,
+      "lng": -48.187994,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:02.850Z"
+  },
+  "34 Rua Gafanhoto | Uberlândia": {
+    "location": {
+      "lat": -18.945672,
+      "lng": -48.245783,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:14.644Z"
+  },
+  "35 Rua Crispim Lourenço Borges | Tupaciguara": {
+    "location": {
+      "lat": -18.586119,
+      "lng": -48.700407,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:51.316Z"
+  },
+  "355 Avenida dos Mognos | Uberlândia": {
+    "location": {
+      "lat": -18.924785,
+      "lng": -48.301721,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:55.905Z"
+  },
+  "356 Rua Joaquim Aníbal | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:32.448Z"
+  },
+  "36 Rua Serra Geral | Uberlândia": {
+    "location": {
+      "lat": -18.965016,
+      "lng": -48.219472,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:21.687Z"
+  },
+  "362 Rua Adonirio Alves Pinto | Uberlândia": {
+    "location": {
+      "lat": -18.866543,
+      "lng": -48.221572,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:19.909Z"
+  },
+  "371 Estrada Municipal | Uberlândia": {
+    "location": {
+      "lat": -19.267978,
+      "lng": -47.928114,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:27.347Z"
+  },
+  "371 Rua Nosso Lar | Uberlândia": {
+    "location": {
+      "lat": -18.897432,
+      "lng": -48.3012,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:32.674Z"
+  },
+  "373 Rua Lobo Guará | Uberlândia": {
+    "location": {
+      "lat": -18.915875,
+      "lng": -48.182178,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:37.183Z"
+  },
+  "379 Rua Itabira | Uberlândia": {
+    "location": {
+      "lat": -18.917273,
+      "lng": -48.300018,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:08.683Z"
+  },
+  "38 Rua Wilson Pantaleão | Uberlândia": {
+    "location": {
+      "lat": -18.887139,
+      "lng": -48.290453,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:43.657Z"
+  },
+  "380 Praça América Ferreira de Abreu | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:25.857Z"
+  },
+  "380 Praça Américo Ferreira de Abreu | Uberlândia": {
+    "location": {
+      "lat": -18.915411,
+      "lng": -48.244877,
+      "precision": "address"
+    },
+    "checkedAt": "2026-10-02T15:44:30.249Z"
+  },
+  "385 Rua Ângelo Cunha | Uberlândia": {
+    "location": {
+      "lat": -18.95607,
+      "lng": -48.232185,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:17.691Z"
+  },
+  "390 Avenida Boulanger Fonseca | Uberlândia": {
+    "location": {
+      "lat": -18.974488,
+      "lng": -48.262587,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:58.053Z"
+  },
+  "391 Rua Pirapuã | Uberlândia": {
+    "location": {
+      "lat": -18.948932,
+      "lng": -48.261895,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:26.201Z"
+  },
+  "400 Rua São Luiz | Araguari": {
+    "location": {
+      "lat": -18.665206,
+      "lng": -48.185741,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:20.359Z"
+  },
+  "400 Rua Sebastião Manoel Barbosa | Uberlândia": {
+    "location": {
+      "lat": -18.879548,
+      "lng": -48.235069,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:23.917Z"
+  },
+  "410 Rua Paraíso | Uberlândia": {
+    "location": {
+      "lat": -18.91216,
+      "lng": -48.200231,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:41.625Z"
+  },
+  "411 Rua Monza | Uberlândia": {
+    "location": {
+      "lat": -18.940667,
+      "lng": -48.338586,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:09.423Z"
+  },
+  "42 Praça Bandeirante | Uberlândia": {
+    "location": {
+      "lat": -18.880941,
+      "lng": -48.21827,
+      "precision": "address"
+    },
+    "checkedAt": "2026-10-02T15:44:19.223Z"
+  },
+  "42 Rua Padre Gil | Araguari": {
+    "location": {
+      "lat": -18.65641,
+      "lng": -48.186844,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:26.218Z"
+  },
+  "422 Avenida Marciano de Ávila | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:42:59.032Z"
+  },
+  "425 Rua Ana Batista | Araguari": {
+    "location": {
+      "lat": -18.621587,
+      "lng": -48.208905,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:39.461Z"
+  },
+  "425 Rua Florianópolis | Uberlândia": {
+    "location": {
+      "lat": -18.889315,
+      "lng": -48.279639,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:42.321Z"
+  },
+  "4250 Praça Dr. Argelino Moraes | Estrela do Sul": {
+    "location": {
+      "lat": -18.741781,
+      "lng": -47.689754,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:13.287Z"
+  },
+  "430 Rua Ézio Antônio de Miranda | Monte Alegre de Minas": {
+    "location": {
+      "lat": -18.876281,
+      "lng": -48.872577,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:57.576Z"
+  },
+  "443 Rua João Velasco de Andrade | Uberlândia": {
+    "location": {
+      "lat": -18.918034,
+      "lng": -48.254117,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:40.693Z"
+  },
+  "456 Avenida Jose Resende Costa | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:38.595Z"
+  },
+  "456 Avenida José Rezende Costa | Uberlândia": {
+    "location": {
+      "lat": -18.914649,
+      "lng": -48.260322,
+      "precision": "address"
+    },
+    "checkedAt": "2026-10-02T15:44:42.789Z"
+  },
+  "459 Rua dos Acantos | Uberlândia": {
+    "location": {
+      "lat": -18.958165,
+      "lng": -48.301832,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:28.221Z"
+  },
+  "477 Rua Bento Farias | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:49.945Z"
+  },
+  "50 Praça Luiz Finotti | Uberlândia": {
+    "location": {
+      "lat": -18.917428,
+      "lng": -48.250682,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:41.630Z"
+  },
+  "513 Rua Jerônima Lucas Barros | Uberlândia": {
+    "location": {
+      "lat": -18.926801,
+      "lng": -48.227507,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:36.501Z"
+  },
+  "513 Rua Sibipiruna | Uberlândia": {
+    "location": {
+      "lat": -18.919229,
+      "lng": -48.306836,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:37.445Z"
+  },
+  "518 Avenida Uberlândia | Monte Alegre de Minas": {
+    "location": {
+      "lat": -18.877524,
+      "lng": -48.883609,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:58.566Z"
+  },
+  "52 Rua Alfredo Maximiano Alves | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:09.885Z"
+  },
+  "55 Alameda Deocleciano Martins | Uberlândia": {
+    "location": {
+      "lat": -18.958997,
+      "lng": -48.313988,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:48:02.362Z"
+  },
+  "59 Rua Otaviano Pereira do Carmo | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:33.664Z"
+  },
+  "593 Rua dos Angicos | Monte Alegre de Minas": {
+    "location": {
+      "lat": -18.860184,
+      "lng": -48.88019,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:54.063Z"
+  },
+  "60 Praça Dom Almir Marques Ferreira | Araguari": {
+    "location": {
+      "lat": -18.643526,
+      "lng": -48.18357,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:34.796Z"
+  },
+  "60 Rua Dom Barreto | Uberlândia": {
+    "location": {
+      "lat": -18.926665,
+      "lng": -48.284547,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:18.615Z"
+  },
+  "602 Rua Lourdes de Carvalho | Uberlândia": {
+    "location": {
+      "lat": -18.917791,
+      "lng": -48.228536,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:28.759Z"
+  },
+  "613 Rua Luiz Carlos | Araguari": {
+    "location": {
+      "lat": -18.62537,
+      "lng": -48.1995,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:55.993Z"
+  },
+  "62 Rua das Guitarras | Uberlândia": {
+    "location": {
+      "lat": -18.903424,
+      "lng": -48.323948,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:14.899Z"
+  },
+  "642 Rua Batucada | Uberlândia": {
+    "location": {
+      "lat": -18.893419,
+      "lng": -48.333453,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:16.102Z"
+  },
+  "65 Praça Dr. Antônio Hélio Castro | Araporã": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:50.146Z"
+  },
+  "65 Praça Dr. Antônio Hélio de Castro | Araporã": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:44.260Z"
+  },
+  "653 Avenida dos Tito | Uberlândia": {
+    "location": {
+      "lat": -18.961832,
+      "lng": -48.23313,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:13.843Z"
+  },
+  "653 Rua Sampaio | Uberlândia": {
+    "location": {
+      "lat": -18.964334,
+      "lng": -48.233792,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:15.861Z"
+  },
+  "669 Rua das Rosas | Uberlândia": {
+    "location": {
+      "lat": -18.947678,
+      "lng": -48.292921,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:27.144Z"
+  },
+  "67 Rua dos Cisnes | Uberlândia": {
+    "location": {
+      "lat": -18.948761,
+      "lng": -48.309663,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:25.743Z"
+  },
+  "69 Rua Douradinho | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:31.163Z"
+  },
+  "70 Rua Doutro Ciro Palmerston | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:37.585Z"
+  },
+  "72 Rua Beira Rio | Uberlândia": {
+    "location": {
+      "lat": -18.893692,
+      "lng": -48.31441,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:35.665Z"
+  },
+  "722 Rua Professor Eudóxio Casassanta Pereira | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:52.071Z"
+  },
+  "73 Rua Barão de Ouro Preto | Uberlândia": {
+    "location": {
+      "lat": -18.931714,
+      "lng": -48.241714,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:56.082Z"
+  },
+  "736 Rua Polidoro de Freitas Rodrigues | Uberlândia": {
+    "location": {
+      "lat": -18.928454,
+      "lng": -48.273032,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:24.682Z"
+  },
+  "74 Rua Joana Ceccon Schiavinato | Uberlândia": {
+    "location": {
+      "lat": -18.883349,
+      "lng": -48.286932,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:45.870Z"
+  },
+  "74 Rua Siomara Carla de Jesus | Uberlândia": {
+    "location": {
+      "lat": -18.970713,
+      "lng": -48.278622,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:58.807Z"
+  },
+  "742 Rodovia LMG | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:17.694Z"
+  },
+  "780 Rua Lídia | Uberlândia": {
+    "location": {
+      "lat": -18.963007,
+      "lng": -48.327492,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:30.160Z"
+  },
+  "783 Rua Mateus | Uberlândia": {
+    "location": {
+      "lat": -18.888923,
+      "lng": -48.303523,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:34.486Z"
+  },
+  "79 Praça Rui Barbosa | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:42:55.361Z"
+  },
+  "802 Rua Genarino Cazabona | Uberlândia": {
+    "location": {
+      "lat": -18.913255,
+      "lng": -48.33567,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:59.913Z"
+  },
+  "839 Rua Otacílio Pinto de Oliveira | Araguari": {
+    "location": {
+      "lat": -18.674884,
+      "lng": -48.173552,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:49.148Z"
+  },
+  "840 Rua das Araras | Araguari": {
+    "location": {
+      "lat": -18.639743,
+      "lng": -48.199241,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:36.150Z"
+  },
+  "85 Rua Aldo Borges Leão | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:33.462Z"
+  },
+  "855 Rua Matheus Vaz | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:00.668Z"
+  },
+  "86 Rua Saturnino Pedro dos Santos | Uberlândia": {
+    "location": {
+      "lat": -18.924977,
+      "lng": -48.256784,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:29.362Z"
+  },
+  "865 Rua Acre | Uberlândia": {
+    "location": {
+      "lat": -18.885852,
+      "lng": -48.25642,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:37.079Z"
+  },
+  "865 Rua Bernardo de Vasconcelos | Uberlândia": {
+    "location": {
+      "lat": -18.933383,
+      "lng": -48.240007,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:49.388Z"
+  },
+  "885 Avenida Arnaldo Conturci | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:01.204Z"
+  },
+  "896 Rua Dezoito de Abril | Uberlândia": {
+    "location": {
+      "lat": -18.882492,
+      "lng": -48.290903,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:44.418Z"
+  },
+  "90 Rua Antônio Jorge Tannús | Monte Alegre de Minas": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:55.060Z"
+  },
+  "90 Rua Monte Pascoal | Uberlândia": {
+    "location": {
+      "lat": -18.965346,
+      "lng": -48.228514,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:19.900Z"
+  },
+  "947 Avenida Ásia | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:34.230Z"
+  },
+  "967 Rua Belém | Uberlândia": {
+    "location": {
+      "lat": -18.904902,
+      "lng": -48.259896,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:22.086Z"
+  },
+  "99 Rua Rio Jaguaribe | Uberlândia": {
+    "location": {
+      "lat": -18.931833,
+      "lng": -48.335914,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:06.449Z"
+  },
+  "Águas Claras, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:24.092Z"
+  },
+  "Alto São João, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:14.933Z"
+  },
+  "Ararapira, Araguari, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.492481,
+      "lng": -48.270611,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:47:43.199Z"
+  },
+  "Assentamento Maná, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:47.503Z"
+  },
+  "Assentamento Santa Clara, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:46.463Z"
+  },
+  "Assentamento Tangará, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:06.204Z"
+  },
+  "Avenida Arnaldo Conturci | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:01.914Z"
+  },
+  "Avenida Arnaldo Conturci, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:47.700Z"
+  },
+  "Avenida Ásia | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:35.024Z"
+  },
+  "Avenida Ásia, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:20.916Z"
+  },
+  "Avenida Edgard Oliveira de Castro | Uberlândia": {
+    "location": {
+      "lat": -18.924312,
+      "lng": -48.200634,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:25.062Z"
+  },
+  "Avenida Eng. Diniz | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:14.304Z"
+  },
+  "Avenida Eng. Diniz, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:53.114Z"
+  },
+  "Avenida Floriano Peixoto | Tupaciguara": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:52.498Z"
+  },
+  "Avenida Floriano Peixoto, Tupaciguara, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:09.434Z"
+  },
+  "Avenida Jose Resende Costa | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:39.421Z"
+  },
+  "Avenida Jose Resende Costa, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:23.805Z"
+  },
+  "Avenida Marciano de Ávila | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:00.330Z"
+  },
+  "Avenida Marciano de Ávila, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:47.360Z"
+  },
+  "Avenida Ministro Homero Santos | Uberlândia": {
+    "location": {
+      "lat": -18.98941,
+      "lng": -48.267076,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:46:00.172Z"
+  },
+  "Avenida Morum Bernardi | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:27.831Z"
+  },
+  "Avenida Morum Bernardi, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:55.796Z"
+  },
+  "Avenida Paraná | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:04.071Z"
+  },
+  "Avenida Paraná, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:49.026Z"
+  },
+  "Bairro Bom Sucesso, Tupaciguara, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:49.090Z"
+  },
+  "Bairro Glória, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:23.326Z"
+  },
+  "Bairro Paineiras, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:31.110Z"
+  },
+  "Bairro Primavera, Araporã, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:49.226Z"
+  },
+  "Bairro São Cristóvão, Tupaciguara, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.59509,
+      "lng": -48.69319,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:43:47.880Z"
+  },
+  "Bairro Tiradentes, Tupaciguara, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:49.727Z"
+  },
+  "Bairros Santo Antônio, São Francisco e Pedra Branca, Monte Alegre de Minas, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:59.673Z"
+  },
+  "Barreiros, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:44.994Z"
+  },
+  "Capela dos Martins, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:51.787Z"
+  },
+  "Chácara Lago Azul, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:08.750Z"
+  },
+  "Chácaras Andorinhas, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:43.801Z"
+  },
+  "Chácaras Capim Branco, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:45.297Z"
+  },
+  "Chácaras Eldorado, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.992216,
+      "lng": -48.450255,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:48:04.888Z"
+  },
+  "Chácaras Valparaíso´, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.84058,
+      "lng": -48.319412,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:46:50.827Z"
+  },
+  "Cruzeiro dos Peixotos, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.738631,
+      "lng": -48.323436,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:46:52.603Z"
+  },
+  "Distrito Amanhece, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:56.928Z"
+  },
+  "Distrito de Miraporanga, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:58.223Z"
+  },
+  "Distrito de Patrona, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:44.320Z"
+  },
+  "Fazenda Angico, Indianópolis, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:04.279Z"
+  },
+  "Fazenda Bom Jardim, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:05.430Z"
+  },
+  "Fazenda Buritis, Indianópolis, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:03.661Z"
+  },
+  "Fazenda Campo Redondo, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:00.725Z"
+  },
+  "Fazenda Contenda, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:04.340Z"
+  },
+  "Fazenda das Flores, Rodovia MG 223, Km 128, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:13.671Z"
+  },
+  "Fazenda Estiva, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:07.609Z"
+  },
+  "Fazenda Florestina, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:06.025Z"
+  },
+  "Fazenda Meloso, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:51.234Z"
+  },
+  "Fazenda Piçarrão, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:49.761Z"
+  },
+  "Fazenda Posses, Indianópolis, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:05.857Z"
+  },
+  "Fazenda Quilombo, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:54.669Z"
+  },
+  "Fazenda Rivaldere, Indianópolis, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:06.906Z"
+  },
+  "Fazenda Salto, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:53.125Z"
+  },
+  "Fazenda Serragem, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:51.960Z"
+  },
+  "Jardim das Oliveiras, Rodovia BR 050, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:25.901Z"
+  },
+  "Martinésia, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.715975,
+      "lng": -48.450892,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:46:54.191Z"
+  },
+  "Morada do Sol, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.894042,
+      "lng": -48.348287,
+      "precision": "place"
+    },
+    "checkedAt": "2026-10-02T15:44:17.200Z"
+  },
+  "Porto do Barreiro, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:58.571Z"
+  },
+  "Povoado Balsamo, Araporã, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:48.032Z"
+  },
+  "Praça América Ferreira de Abreu | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:27.106Z"
+  },
+  "Praça América Ferreira de Abreu, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:19.104Z"
+  },
+  "Praça Antônio Martins | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:12.794Z"
+  },
+  "Praça Antônio Martins, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.897685,
+      "lng": -48.337909,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:49:14.882Z"
+  },
+  "Praça Augusto Diniz | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:10.018Z"
+  },
+  "Praça Augusto Diniz, Araguari, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.648855,
+      "lng": -48.208861,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:50:08.951Z"
+  },
+  "Praça Canto Maior dos Palmares | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:05.622Z"
+  },
+  "Praça Canto Maior dos Palmares, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:51.128Z"
+  },
+  "Praça Coronel José Lucia | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:14.014Z"
+  },
+  "Praça Coronel José Lucia, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:34.309Z"
+  },
+  "Praça da Matriz | Estrela do Sul": {
+    "location": {
+      "lat": -18.745327,
+      "lng": -47.691477,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:09.089Z"
+  },
+  "Praça do Rosário | Araguari": {
+    "location": {
+      "lat": -18.643585,
+      "lng": -48.188059,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:27.936Z"
+  },
+  "Praça do Rosário | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:20.538Z"
+  },
+  "Praça do Rosário, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:37.596Z"
+  },
+  "Praça Dr. Antônio Hélio Castro | Araporã": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:51.066Z"
+  },
+  "Praça Dr. Antônio Hélio Castro, Araporã, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.437032,
+      "lng": -49.185875,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:49:26.514Z"
+  },
+  "Praça Dr. Antônio Hélio de Castro | Araporã": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:45.834Z"
+  },
+  "Praça Dr. Antônio Hélio de Castro, Araporã, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:25.014Z"
+  },
+  "Praça José Miguel | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:48.326Z"
+  },
+  "Praça José Miguel, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.869531,
+      "lng": -48.285662,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:50:02.656Z"
+  },
+  "Praça Luiz Dutra Alvim | Monte Alegre de Minas": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:52.601Z"
+  },
+  "Praça Luiz Dutra Alvim, Monte Alegre de Minas, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:27.893Z"
+  },
+  "Praça Milton Antônio de Mendonça | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:16.676Z"
+  },
+  "Praça Milton Antônio de Mendonça, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:50:11.175Z"
+  },
+  "Praça Minas Gerais | Uberlândia": {
+    "location": {
+      "lat": -18.909289,
+      "lng": -48.312709,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:41.674Z"
+  },
+  "Praça Nossa Sra. Aparecida | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:17.223Z"
+  },
+  "Praça Nossa Sra. Aparecida, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:55.100Z"
+  },
+  "Praça Padre Elói | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:19.335Z"
+  },
+  "Praça Padre Elói, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:50:13.133Z"
+  },
+  "Praça Raul Carneiro | Tupaciguara": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:46.912Z"
+  },
+  "Praça Raul Carneiro, Tupaciguara, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:08.339Z"
+  },
+  "Praça Rui Barbosa | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:42:55.873Z"
+  },
+  "Praça Rui Barbosa, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.922867,
+      "lng": -48.279148,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:48:45.117Z"
+  },
+  "Praça São Francisco de Paula | Uberlândia": {
+    "location": {
+      "lat": -18.937553,
+      "lng": -48.299383,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:24.504Z"
+  },
+  "Praça São João Batista | Cascalho Rico": {
+    "location": {
+      "lat": -18.57634,
+      "lng": -47.877007,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:47:01.348Z"
+  },
+  "Praça Tubal Vilela | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:42:53.033Z"
+  },
+  "Praça Tubal Vilela, Uberlândia, Minas Gerais, Brasil": {
+    "location": {
+      "lat": -18.920365,
+      "lng": -48.278351,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:48:44.000Z"
+  },
+  "Praça Urias José da Silva | Indianópolis": {
+    "location": {
+      "lat": -19.039253,
+      "lng": -47.917683,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:45:02.433Z"
+  },
+  "Praça Vasco Gifoni | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:02.545Z"
+  },
+  "Praça Vasco Gifoni, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:48.740Z"
+  },
+  "Ranchão, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:55.956Z"
+  },
+  "Rodovia LMG | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:18.784Z"
+  },
+  "Rodovia LMG, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:36.938Z"
+  },
+  "Rodovia MG 223 KM 27, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:20.046Z"
+  },
+  "Rua Aldo Borges Leão | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:34.455Z"
+  },
+  "Rua Aldo Borges Leão, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:01.834Z"
+  },
+  "Rua Alfredo Maximiano Alves | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:11.385Z"
+  },
+  "Rua Alfredo Maximiano Alves, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:52.369Z"
+  },
+  "Rua Antônio Jorge Tannús | Monte Alegre de Minas": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:56.259Z"
+  },
+  "Rua Antônio Jorge Tannús, Monte Alegre de Minas, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:28.940Z"
+  },
+  "Rua Antônio Li | Uberlândia": {
+    "location": {
+      "lat": -18.914532,
+      "lng": -48.196997,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:44:03.330Z"
+  },
+  "Rua Bento Farias | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:50.963Z"
+  },
+  "Rua Bento Farias, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:45.044Z"
+  },
+  "Rua Coronel Severia | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:19.672Z"
+  },
+  "Rua Coronel Severia, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:48:56.865Z"
+  },
+  "Rua do Contor | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:11.159Z"
+  },
+  "Rua do Contor, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:50:10.131Z"
+  },
+  "Rua Douradinho | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:31.916Z"
+  },
+  "Rua Douradinho, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:00.464Z"
+  },
+  "Rua Doutro Ciro Palmerston | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:38.793Z"
+  },
+  "Rua Doutro Ciro Palmerston, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:50:16.836Z"
+  },
+  "Rua Jhuen Cecílio Jorge | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:40.510Z"
+  },
+  "Rua Jhuen Cecílio Jorge, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:04.760Z"
+  },
+  "Rua João Batista Bacelar | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:16.490Z"
+  },
+  "Rua João Batista Bacelar, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:35.411Z"
+  },
+  "Rua Joaquim Aníbal | Araguari": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:47:33.439Z"
+  },
+  "Rua Joaquim Aníbal, Araguari, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:50:15.075Z"
+  },
+  "Rua José F de Castro | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:10.113Z"
+  },
+  "Rua José F de Castro, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:31.134Z"
+  },
+  "Rua Manoel Lafaiete Rezende | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:10.984Z"
+  },
+  "Rua Manoel Lafaiete Rezende, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:32.185Z"
+  },
+  "Rua Marganita | Estrela do Sul": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:12.148Z"
+  },
+  "Rua Marganita, Estrela do Sul, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:33.520Z"
+  },
+  "Rua Matheus Vaz | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:02.038Z"
+  },
+  "Rua Matheus Vaz, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:12.489Z"
+  },
+  "Rua Moacir Lopes de Carvalho | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:30.800Z"
+  },
+  "Rua Moacir Lopes de Carvalho, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:57.462Z"
+  },
+  "Rua Nelson Mandella | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:44:22.452Z"
+  },
+  "Rua Nelson Mandella, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:16.624Z"
+  },
+  "Rua Otaviano Pereira do Carmo | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:34.584Z"
+  },
+  "Rua Otaviano Pereira do Carmo, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:41.843Z"
+  },
+  "Rua Professor Eudóxio Casassanta Pereira | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:53.560Z"
+  },
+  "Rua Professor Eudóxio Casassanta Pereira, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:45.945Z"
+  },
+  "Rua Rafael Rinaldi | Uberlândia": {
+    "location": {
+      "lat": -18.91366,
+      "lng": -48.289794,
+      "precision": "street"
+    },
+    "checkedAt": "2026-10-02T15:43:10.924Z"
+  },
+  "Rua Wilson Rodrigues da Silva | Uberlândia": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:43:36.866Z"
+  },
+  "Rua Wilson Rodrigues da Silva, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:49:02.854Z"
+  },
+  "Setor Chácaras Paradiso III, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:46:54.965Z"
+  },
+  "Tenda do Moreno, Estrada do Pau Furado, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:38.232Z"
+  },
+  "Tenda do Moreno, Uberlândia, Minas Gerais, Brasil": {
+    "location": null,
+    "checkedAt": "2026-10-02T15:45:43.086Z"
+  }
+}
