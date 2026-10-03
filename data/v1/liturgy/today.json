@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T12:36:31-03:00",
+  "generatedAt": "2026-10-03T08:17:31-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-02",
-  "celebration": "Santos Anjos da Guarda – Memória",
-  "color": "branco",
+  "date": "2026-10-03",
+  "celebration": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires",
+  "color": "vermelho",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ex 23,20-23",
+      "reference": "Jó 42,1-3.5-6.12-16",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro do Êxodo"
+              "text": "Leitura do Livro de Jó."
             }
           ]
         },
@@ -23,23 +23,44 @@
           "role": "text",
           "segments": [
             {
-              "text": "Assim diz o Senhor:"
+              "verse": "1",
+              "text": "Jó respondeu ao Senhor, dizendo:"
             },
             {
-              "verse": "20",
-              "text": "\"Vou enviar um anjo que vá à tua frente, que te guarde pelo caminho e te conduza ao lugar que te preparei."
+              "verse": "2",
+              "text": "\"Reconheço que podes tudo e que para ti nenhum pensamento é oculto."
             },
             {
-              "verse": "21",
-              "text": "Respeita-o e ouve a sua voz. Não lhe sejas rebelde, porque não suportará as vossas transgressões, e nele está o meu nome."
+              "verse": "3",
+              "text": "Quem é esse que ofusca a Providência, sem nada entender? Falei, pois, de coisas que não entendia, de maravilhas que ultrapassam a minha compreensão."
             },
             {
-              "verse": "22",
-              "text": "Se ouvires a sua voz e fizeres tudo o que eu disser, serei inimigo dos teus inimigos, e adversário dos teus adversários."
+              "verse": "5",
+              "text": "Conhecia o Senhor apenas por ouvir falar, mas, agora, eu o vejo com meus olhos."
             },
             {
-              "verse": "23",
-              "text": "O meu anjo irá à tua frente e te conduzirá à terra dos amorreus, dos hititas, dos fereseus, dos cananeus, dos heveus e dos jebuseus, e eu os exterminarei\"."
+              "verse": "6",
+              "text": "Por isso me retrato e faço penitência no pó e na cinza\"."
+            },
+            {
+              "verse": "12",
+              "text": "O Senhor abençoou a Jó no fim de sua vida mais do que no princípio; ele possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas."
+            },
+            {
+              "verse": "13",
+              "text": "Teve outros sete filhos e três filhas:"
+            },
+            {
+              "verse": "14",
+              "text": "a primeira chamava-se \"Rola\", a segunda \"Cássia\", e a terceira \"Azeviche\"."
+            },
+            {
+              "verse": "15",
+              "text": "Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes destinou uma parte da herança, entre os seus irmãos."
+            },
+            {
+              "verse": "16",
+              "text": "Depois destes acontecimentos, Jó viveu cento e quarenta anos, e viu seus filhos e os filhos de seus filhos até a quarta geração. E Jó morreu velho e repleto de anos."
             }
           ]
         },
@@ -64,13 +85,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 90(91),1-2.3-4.5-6.10-11 (R. 11)",
+      "reference": "Sl 118(119),66.71.75.91.125.130 (R. 135a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor deu uma ordem aos seus anjos, para em todos os caminhos te guardarem."
+              "text": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos."
             }
           ]
         },
@@ -78,7 +99,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor deu uma ordem aos seus anjos, para em todos os caminhos te guardarem."
+              "text": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos."
             }
           ]
         },
@@ -86,7 +107,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Quem habita ao abrigo do Altíssimo e vive à sombra do Senhor onipotente, diz ao Senhor: \"Sois meu refúgio e proteção, sois o meu Deus, no qual confio inteiramente\"."
+              "text": "Dai-me bom senso, retidão, sabedoria, pois tenho fé nos vossos santos mandamentos!"
             }
           ]
         },
@@ -94,7 +115,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Do caçador e do seu laço ele te livra. Ele te salva da palavra que destrói. Com suas asas haverá de proteger-te, com seu escudo e suas armas, defender-te."
+              "text": "Para mim foi muito bom ser humilhado, porque assim eu aprendi vossa vontade!"
             }
           ]
         },
@@ -102,7 +123,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Não temerás terror algum durante a noite, nem a flecha disparada em pleno dia; nem a peste que caminha pelo escuro, nem a desgraça que devasta ao meio-dia."
+              "text": "Sei que os vossos julgamentos são corretos, e com justiça me provastes, ó Senhor!"
             }
           ]
         },
@@ -110,7 +131,23 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Nenhum mal há de chegar perto de ti, nem a desgraça baterá à tua porta; pois o Senhor deu uma ordem a seus anjos para em todos os caminhos te guardarem."
+              "text": "Porque mandastes, tudo existe até agora; todas as coisas, ó Senhor, vos obedecem!"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Sou vosso servo: concedei-me inteligência, para que eu possa compreender vossa Aliança!"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Vossa palavra, ao revelar-se, me ilumina, ela dá sabedoria aos pequeninos."
             }
           ]
         }
@@ -119,7 +156,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 18,1-5.10",
+      "reference": "Lc 10,17-24",
       "lines": [
         {
           "role": "versicle",
@@ -133,7 +170,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Bendizei ao Senhor Deus, os seus poderes, seus ministros que fazeis sua vontade!"
+              "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
             }
           ]
         },
@@ -141,7 +178,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
             }
           ]
         },
@@ -157,31 +194,39 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquela hora,"
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "1",
-              "text": "Os discípulos aproximaram-se de Jesus e perguntaram: \"Quem é o maior no Reino dos Céus?\""
+              "verse": "17",
+              "text": "os setenta e dois voltaram muito contentes, dizendo: \"Senhor, até os demônios nos obedeceram por causa do teu nome\"."
             },
             {
-              "verse": "2",
-              "text": "Jesus chamou uma criança, colocou-a no meio deles"
+              "verse": "18",
+              "text": "Jesus respondeu: \"Eu vi Satanás cair do céu, como um relâmpago."
             },
             {
-              "verse": "3",
-              "text": "e disse: \"Em verdade vos digo, se não vos converterdes, e não vos tornardes como crianças, não entrareis no Reino dos Céus."
+              "verse": "19",
+              "text": "Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal."
             },
             {
-              "verse": "4",
-              "text": "Quem se faz pequeno como esta criança, esse é o maior no Reino dos Céus."
+              "verse": "20",
+              "text": "Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu\"."
             },
             {
-              "verse": "5",
-              "text": "E quem recebe em meu nome uma criança como esta, é a mim que recebe."
+              "verse": "21",
+              "text": "Naquele momento, Jesus exultou no Espírito Santo e disse: \"Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes, e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado."
             },
             {
-              "verse": "10",
-              "text": "Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus\"."
+              "verse": "22",
+              "text": "Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar\"."
+            },
+            {
+              "verse": "23",
+              "text": "Jesus voltou-se para os discípulos e disse-lhes em particular: \"Felizes os olhos que veem o que vós vedes!"
+            },
+            {
+              "verse": "24",
+              "text": "Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo, e não puderam ver; quiseram ouvir o que estais ouvindo, e não puderam ouvir\"."
             }
           ]
         },
