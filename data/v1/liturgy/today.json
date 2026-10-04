@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T08:17:31-03:00",
+  "generatedAt": "2026-10-04T08:57:28-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-03",
-  "celebration": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires",
-  "color": "vermelho",
+  "date": "2026-10-04",
+  "celebration": "27º Domingo do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Jó 42,1-3.5-6.12-16",
+      "reference": "Is 5,1-7",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro de Jó."
+              "text": "Leitura do Livro do Profeta Isaías."
             }
           ]
         },
@@ -24,43 +24,31 @@
           "segments": [
             {
               "verse": "1",
-              "text": "Jó respondeu ao Senhor, dizendo:"
+              "text": "Vou cantar para o meu amado o cântico da vinha de um amigo meu: Um amigo meu possuía uma vinha em fértil encosta."
             },
             {
               "verse": "2",
-              "text": "\"Reconheço que podes tudo e que para ti nenhum pensamento é oculto."
+              "text": "Cercou-a, limpou-a de pedras, plantou videiras escolhidas, edificou uma torre no meio e construiu um lagar; esperava que ela produzisse uvas boas, mas produziu uvas selvagens."
             },
             {
               "verse": "3",
-              "text": "Quem é esse que ofusca a Providência, sem nada entender? Falei, pois, de coisas que não entendia, de maravilhas que ultrapassam a minha compreensão."
+              "text": "Agora, habitantes de Jerusalém e cidadãos de Judá, julgai a minha situação e a de minha vinha."
+            },
+            {
+              "verse": "4",
+              "text": "O que poderia eu ter feito a mais por minha vinha e não fiz? Eu contava com uvas de verdade, mas, por que produziu ela uvas selvagens?"
             },
             {
               "verse": "5",
-              "text": "Conhecia o Senhor apenas por ouvir falar, mas, agora, eu o vejo com meus olhos."
+              "text": "Pois agora vou mostrar-vos o que farei com minha vinha: vou desmanchar a cerca, e ela será devastada; vou derrubar o muro, e ela será pisoteada."
             },
             {
               "verse": "6",
-              "text": "Por isso me retrato e faço penitência no pó e na cinza\"."
+              "text": "Vou deixá-la inculta e selvagem: ela não será podada nem lavrada, espinhos e sarças tomarão conta dela; não deixarei as nuvens derramar a chuva sobre ela."
             },
             {
-              "verse": "12",
-              "text": "O Senhor abençoou a Jó no fim de sua vida mais do que no princípio; ele possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas."
-            },
-            {
-              "verse": "13",
-              "text": "Teve outros sete filhos e três filhas:"
-            },
-            {
-              "verse": "14",
-              "text": "a primeira chamava-se \"Rola\", a segunda \"Cássia\", e a terceira \"Azeviche\"."
-            },
-            {
-              "verse": "15",
-              "text": "Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes destinou uma parte da herança, entre os seus irmãos."
-            },
-            {
-              "verse": "16",
-              "text": "Depois destes acontecimentos, Jó viveu cento e quarenta anos, e viu seus filhos e os filhos de seus filhos até a quarta geração. E Jó morreu velho e repleto de anos."
+              "verse": "7",
+              "text": "Pois bem, a vinha do Senhor dos exércitos é a casa de Israel, e o povo de Judá, sua dileta plantação; eu esperava deles frutos de justiça – e eis injustiça; esperava obras de bondade – e eis iniquidade."
             }
           ]
         },
@@ -85,13 +73,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 118(119),66.71.75.91.125.130 (R. 135a)",
+      "reference": "Sl 79(80),9.12.13-14.15-16.19-20 (R. Is 5,7a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos."
+              "text": "A vinha do Senhor é a casa de Israel."
             }
           ]
         },
@@ -99,7 +87,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos."
+              "text": "A vinha do Senhor é a casa de Israel."
             }
           ]
         },
@@ -107,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Dai-me bom senso, retidão, sabedoria, pois tenho fé nos vossos santos mandamentos!"
+              "text": "Arrancastes do Egito esta videira, e expulsastes as nações para plantá-la; até o mar se estenderam seus sarmentos, até o rio os seus rebentos se espalharam."
             }
           ]
         },
@@ -115,7 +103,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Para mim foi muito bom ser humilhado, porque assim eu aprendi vossa vontade!"
+              "text": "Por que razão vós destruístes sua cerca, para que todos os passantes a vindimem, o javali da mata virgem a devaste, e os animais do descampado nela pastem?"
             }
           ]
         },
@@ -123,7 +111,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Sei que os vossos julgamentos são corretos, e com justiça me provastes, ó Senhor!"
+              "text": "Voltai-vos para nós, Deus do universo! Olhai dos altos céus e observai. Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou; protegei-a, e ao rebento que firmastes!"
             }
           ]
         },
@@ -131,7 +119,46 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Porque mandastes, tudo existe até agora; todas as coisas, ó Senhor, vos obedecem!"
+              "text": "E nunca mais vos deixaremos, Senhor Deus! Dai-nos vida, e louvaremos vosso nome! Convertei-nos, ó Senhor Deus do universo, e sobre nós iluminai a vossa face! Se voltardes para nós, seremos salvos!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "Fl 4,6-9",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Carta de São Paulo aos Filipenses."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "text": "Irmãos:"
+            },
+            {
+              "verse": "6",
+              "text": "Não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças."
+            },
+            {
+              "verse": "7",
+              "text": "E a paz de Deus, que ultrapassa todo o entendimento, guardará os vossos corações e pensamentos em Cristo Jesus."
+            },
+            {
+              "verse": "8",
+              "text": "Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor."
+            },
+            {
+              "verse": "9",
+              "text": "Praticai o que aprendestes e recebestes de mim, ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco."
             }
           ]
         },
@@ -139,15 +166,15 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Sou vosso servo: concedei-me inteligência, para que eu possa compreender vossa Aliança!"
+              "text": "Palavra do Senhor."
             }
           ]
         },
         {
-          "role": "versicle",
+          "role": "response",
           "segments": [
             {
-              "text": "Vossa palavra, ao revelar-se, me ilumina, ela dá sabedoria aos pequeninos."
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -156,7 +183,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 10,17-24",
+      "reference": "Mt 21,33-43",
       "lines": [
         {
           "role": "versicle",
@@ -170,7 +197,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+              "text": "Eu vos escolhi, foi do meio do mundo, a fim de que deis um fruto que dure. Eu vos escolhi, foi do meio do mundo. Amém! Aleluia, aleluia!"
             }
           ]
         },
@@ -178,7 +205,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -194,39 +221,51 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo,"
+              "text": "Naquele tempo, Jesus disse aos sumos sacerdotes e aos anciãos do povo:"
             },
             {
-              "verse": "17",
-              "text": "os setenta e dois voltaram muito contentes, dizendo: \"Senhor, até os demônios nos obedeceram por causa do teu nome\"."
+              "verse": "33",
+              "text": "\"Escutai esta outra parábola: Certo proprietário plantou uma vinha, pôs uma cerca em volta, fez nela um lagar para esmagar as uvas, e construiu uma torre de guarda. Depois, arrendou-a a vinhateiros, e viajou para o estrangeiro."
             },
             {
-              "verse": "18",
-              "text": "Jesus respondeu: \"Eu vi Satanás cair do céu, como um relâmpago."
+              "verse": "34",
+              "text": "Quando chegou o tempo da colheita, o proprietário mandou seus empregados aos vinhateiros para receber seus frutos."
             },
             {
-              "verse": "19",
-              "text": "Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal."
+              "verse": "35",
+              "text": "Os vinhateiros, porém, agarraram os empregados, espancaram a um, mataram a outro, e ao terceiro apedrejaram."
             },
             {
-              "verse": "20",
-              "text": "Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu\"."
+              "verse": "36",
+              "text": "O proprietário mandou de novo outros empregados, em maior número do que os primeiros. Mas eles os trataram da mesma forma."
             },
             {
-              "verse": "21",
-              "text": "Naquele momento, Jesus exultou no Espírito Santo e disse: \"Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes, e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado."
+              "verse": "37",
+              "text": "Finalmente, o proprietário enviou-lhes o seu filho, pensando: 'Ao meu filho eles vão respeitar'."
             },
             {
-              "verse": "22",
-              "text": "Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar\"."
+              "verse": "38",
+              "text": "Os vinhateiros, porém, ao verem o filho, disseram entre si: 'Este é o herdeiro. Vinde, vamos matá-lo e tomar posse da sua herança!'"
             },
             {
-              "verse": "23",
-              "text": "Jesus voltou-se para os discípulos e disse-lhes em particular: \"Felizes os olhos que veem o que vós vedes!"
+              "verse": "39",
+              "text": "Então agarraram o filho, jogaram-no para fora da vinha e o mataram."
             },
             {
-              "verse": "24",
-              "text": "Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo, e não puderam ver; quiseram ouvir o que estais ouvindo, e não puderam ouvir\"."
+              "verse": "40",
+              "text": "Pois bem, quando o dono da vinha voltar, o que fará com esses vinhateiros?\""
+            },
+            {
+              "verse": "41",
+              "text": "Os sumos sacerdotes e os anciãos do povo responderam: \"Com certeza mandará matar de modo violento esses perversos e arrendará a vinha a outros vinhateiros, que lhe entregarão os frutos no tempo certo\"."
+            },
+            {
+              "verse": "42",
+              "text": "Então Jesus lhes disse: \"Vós nunca lestes nas Escrituras: 'A pedra que os construtores rejeitaram tornou-se a pedra angular; isto foi feito pelo Senhor e é maravilhoso aos nossos olhos?'"
+            },
+            {
+              "verse": "43",
+              "text": "Por isso, eu vos digo: o Reino de Deus vos será tirado e será entregue a um povo que produzirá frutos\"."
             }
           ]
         },
