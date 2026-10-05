@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T08:57:28-03:00",
+  "generatedAt": "2026-10-05T10:58:21-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-04",
-  "celebration": "27º Domingo do Tempo Comum",
-  "color": "verde",
+  "date": "2026-10-05",
+  "celebration": "Santa Faustina Kowalska, virgem e São Benedito, o Negro – Memória",
+  "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Is 5,1-7",
+      "reference": "Gl 1,6-12",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro do Profeta Isaías."
+              "text": "Leitura da Carta de São Paulo aos Gálatas."
             }
           ]
         },
@@ -23,32 +23,35 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1",
-              "text": "Vou cantar para o meu amado o cântico da vinha de um amigo meu: Um amigo meu possuía uma vinha em fértil encosta."
-            },
-            {
-              "verse": "2",
-              "text": "Cercou-a, limpou-a de pedras, plantou videiras escolhidas, edificou uma torre no meio e construiu um lagar; esperava que ela produzisse uvas boas, mas produziu uvas selvagens."
-            },
-            {
-              "verse": "3",
-              "text": "Agora, habitantes de Jerusalém e cidadãos de Judá, julgai a minha situação e a de minha vinha."
-            },
-            {
-              "verse": "4",
-              "text": "O que poderia eu ter feito a mais por minha vinha e não fiz? Eu contava com uvas de verdade, mas, por que produziu ela uvas selvagens?"
-            },
-            {
-              "verse": "5",
-              "text": "Pois agora vou mostrar-vos o que farei com minha vinha: vou desmanchar a cerca, e ela será devastada; vou derrubar o muro, e ela será pisoteada."
+              "text": "Irmãos,"
             },
             {
               "verse": "6",
-              "text": "Vou deixá-la inculta e selvagem: ela não será podada nem lavrada, espinhos e sarças tomarão conta dela; não deixarei as nuvens derramar a chuva sobre ela."
+              "text": "admiro-me de terdes abandonado tão depressa aquele que vos chamou, na graça de Cristo, e de terdes passado para um outro evangelho."
             },
             {
               "verse": "7",
-              "text": "Pois bem, a vinha do Senhor dos exércitos é a casa de Israel, e o povo de Judá, sua dileta plantação; eu esperava deles frutos de justiça – e eis injustiça; esperava obras de bondade – e eis iniquidade."
+              "text": "Não que haja outro evangelho, mas algumas pessoas vos estão perturbando e querendo mudar o evangelho de Cristo."
+            },
+            {
+              "verse": "8",
+              "text": "Pois bem, mesmo que nós ou um anjo vindo do céu vos pregasse um evangelho diferente daquele que vos pregamos, seja excomungado."
+            },
+            {
+              "verse": "9",
+              "text": "Como já dissemos e agora repito: Se alguém vos pregar um evangelho diferente daquele que recebestes, seja excomungado."
+            },
+            {
+              "verse": "10",
+              "text": "Será que eu estou buscando a aprovação dos homens ou a aprovação de Deus? Ou estou procurando agradar aos homens? Se eu ainda estivesse preocupado em agradar aos homens, não seria servo de Cristo."
+            },
+            {
+              "verse": "11",
+              "text": "Irmãos, asseguro-vos que o evangelho pregado por mim não é conforme a critérios humanos."
+            },
+            {
+              "verse": "12",
+              "text": "Com efeito, não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo."
             }
           ]
         },
@@ -73,13 +76,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 79(80),9.12.13-14.15-16.19-20 (R. Is 5,7a)",
+      "reference": "Sl 110(111),1-2.7-8.9 e 10c (R. 5b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "A vinha do Senhor é a casa de Israel."
+              "text": "O Senhor se lembra sempre da Aliança."
             }
           ]
         },
@@ -87,7 +90,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "A vinha do Senhor é a casa de Israel."
+              "text": "O Senhor se lembra sempre da Aliança."
             }
           ]
         },
@@ -95,7 +98,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Arrancastes do Egito esta videira, e expulsastes as nações para plantá-la; até o mar se estenderam seus sarmentos, até o rio os seus rebentos se espalharam."
+              "text": "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!"
             }
           ]
         },
@@ -103,7 +106,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Por que razão vós destruístes sua cerca, para que todos os passantes a vindimem, o javali da mata virgem a devaste, e os animais do descampado nela pastem?"
+              "text": "Suas obras são verdade e são justiça, seus preceitos, todos eles, são estáveis, confirmados para sempre e pelos séculos, realizados na verdade e retidão."
             }
           ]
         },
@@ -111,70 +114,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Voltai-vos para nós, Deus do universo! Olhai dos altos céus e observai. Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou; protegei-a, e ao rebento que firmastes!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "E nunca mais vos deixaremos, Senhor Deus! Dai-nos vida, e louvaremos vosso nome! Convertei-nos, ó Senhor Deus do universo, e sobre nós iluminai a vossa face! Se voltardes para nós, seremos salvos!"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "second",
-      "title": "Segunda Leitura",
-      "reference": "Fl 4,6-9",
-      "lines": [
-        {
-          "role": "rubric",
-          "segments": [
-            {
-              "text": "Leitura da Carta de São Paulo aos Filipenses."
-            }
-          ]
-        },
-        {
-          "role": "text",
-          "segments": [
-            {
-              "text": "Irmãos:"
-            },
-            {
-              "verse": "6",
-              "text": "Não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças."
-            },
-            {
-              "verse": "7",
-              "text": "E a paz de Deus, que ultrapassa todo o entendimento, guardará os vossos corações e pensamentos em Cristo Jesus."
-            },
-            {
-              "verse": "8",
-              "text": "Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor."
-            },
-            {
-              "verse": "9",
-              "text": "Praticai o que aprendestes e recebestes de mim, ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Palavra do Senhor."
-            }
-          ]
-        },
-        {
-          "role": "response",
-          "segments": [
-            {
-              "text": "Graças a Deus."
+              "text": "Enviou libertação para o seu povo, confirmou sua Aliança para sempre. Seu nome é santo e é digno de respeito. Permaneça eternamente o seu louvor."
             }
           ]
         }
@@ -183,7 +123,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 21,33-43",
+      "reference": "Lc 10,25-37",
       "lines": [
         {
           "role": "versicle",
@@ -197,7 +137,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu vos escolhi, foi do meio do mundo, a fim de que deis um fruto que dure. Eu vos escolhi, foi do meio do mundo. Amém! Aleluia, aleluia!"
+              "text": "Eu vos dou novo preceito: que uns aos outros vos ameis, como eu vos tenho amado."
             }
           ]
         },
@@ -205,7 +145,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
             }
           ]
         },
@@ -221,51 +161,59 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, Jesus disse aos sumos sacerdotes e aos anciãos do povo:"
+              "text": "Naquele tempo,"
+            },
+            {
+              "verse": "25",
+              "text": "um mestre da Lei se levantou e, querendo pôr Jesus em dificuldade, perguntou: \"Mestre, que devo fazer para receber em herança a vida eterna?\""
+            },
+            {
+              "verse": "26",
+              "text": "Jesus lhe disse: \"O que está escrito na Lei? Como lês?\""
+            },
+            {
+              "verse": "27",
+              "text": "Ele então respondeu: \"Amarás o Senhor, teu Deus, de todo o teu coração e com toda a tua alma, com toda a tua força e com toda a tua inteligência; e ao teu próximo como a ti mesmo!\""
+            },
+            {
+              "verse": "28",
+              "text": "Jesus lhe disse: \"Tu respondeste corretamente. Faze isso e viverás\"."
+            },
+            {
+              "verse": "29",
+              "text": "Ele, porém, querendo justificar-se, disse a Jesus: \"E quem é o meu próximo?\""
+            },
+            {
+              "verse": "30",
+              "text": "Jesus respondeu: \"Certo homem descia de Jerusalém para Jericó e caiu nas mãos de assaltantes. Estes arrancaram-lhe tudo, espancaram-no, e foram-se embora deixando-o quase morto."
+            },
+            {
+              "verse": "31",
+              "text": "Por acaso, um sacerdote estava descendo por aquele caminho. Quando viu o homem, seguiu adiante, pelo outro lado."
+            },
+            {
+              "verse": "32",
+              "text": "O mesmo aconteceu com um levita: chegou ao lugar, viu o homem e seguiu adiante, pelo outro lado."
             },
             {
               "verse": "33",
-              "text": "\"Escutai esta outra parábola: Certo proprietário plantou uma vinha, pôs uma cerca em volta, fez nela um lagar para esmagar as uvas, e construiu uma torre de guarda. Depois, arrendou-a a vinhateiros, e viajou para o estrangeiro."
+              "text": "Mas um samaritano que estava viajando, chegou perto dele, viu e sentiu compaixão."
             },
             {
               "verse": "34",
-              "text": "Quando chegou o tempo da colheita, o proprietário mandou seus empregados aos vinhateiros para receber seus frutos."
+              "text": "Aproximou-se dele e fez curativos, derramando óleo e vinho nas feridas. Depois colocou o homem em seu próprio animal e levou-o a uma pensão, onde cuidou dele."
             },
             {
               "verse": "35",
-              "text": "Os vinhateiros, porém, agarraram os empregados, espancaram a um, mataram a outro, e ao terceiro apedrejaram."
+              "text": "No dia seguinte, pegou duas moedas de prata e entregou-as ao dono da pensão, recomendando: \"Toma conta dele! Quando eu voltar, vou pagar o que tiveres gasto a mais'. E Jesus perguntou:"
             },
             {
               "verse": "36",
-              "text": "O proprietário mandou de novo outros empregados, em maior número do que os primeiros. Mas eles os trataram da mesma forma."
+              "text": "\"Na tua opinião, qual dos três foi o próximo do homem que caiu nas mãos dos assaltantes?\""
             },
             {
               "verse": "37",
-              "text": "Finalmente, o proprietário enviou-lhes o seu filho, pensando: 'Ao meu filho eles vão respeitar'."
-            },
-            {
-              "verse": "38",
-              "text": "Os vinhateiros, porém, ao verem o filho, disseram entre si: 'Este é o herdeiro. Vinde, vamos matá-lo e tomar posse da sua herança!'"
-            },
-            {
-              "verse": "39",
-              "text": "Então agarraram o filho, jogaram-no para fora da vinha e o mataram."
-            },
-            {
-              "verse": "40",
-              "text": "Pois bem, quando o dono da vinha voltar, o que fará com esses vinhateiros?\""
-            },
-            {
-              "verse": "41",
-              "text": "Os sumos sacerdotes e os anciãos do povo responderam: \"Com certeza mandará matar de modo violento esses perversos e arrendará a vinha a outros vinhateiros, que lhe entregarão os frutos no tempo certo\"."
-            },
-            {
-              "verse": "42",
-              "text": "Então Jesus lhes disse: \"Vós nunca lestes nas Escrituras: 'A pedra que os construtores rejeitaram tornou-se a pedra angular; isto foi feito pelo Senhor e é maravilhoso aos nossos olhos?'"
-            },
-            {
-              "verse": "43",
-              "text": "Por isso, eu vos digo: o Reino de Deus vos será tirado e será entregue a um povo que produzirá frutos\"."
+              "text": "Ele respondeu: \"Aquele que usou de misericórdia para com ele\". Então Jesus lhe disse: \"Vai e faze a mesma coisa\"."
             }
           ]
         },
