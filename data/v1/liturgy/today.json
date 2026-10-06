@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T10:58:21-03:00",
+  "generatedAt": "2026-10-06T03:26:49-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-05",
-  "celebration": "Santa Faustina Kowalska, virgem e São Benedito, o Negro – Memória",
-  "color": "branco",
+  "date": "2026-10-06",
+  "celebration": "27ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Gl 1,6-12",
+      "reference": "Gl 1,13-24",
       "lines": [
         {
           "role": "rubric",
@@ -26,32 +26,52 @@
               "text": "Irmãos,"
             },
             {
-              "verse": "6",
-              "text": "admiro-me de terdes abandonado tão depressa aquele que vos chamou, na graça de Cristo, e de terdes passado para um outro evangelho."
+              "verse": "13",
+              "text": "certamente ouvistes falar como foi outrora a minha conduta no judaísmo, com que excessos perseguia e devastava a Igreja de Deus"
             },
             {
-              "verse": "7",
-              "text": "Não que haja outro evangelho, mas algumas pessoas vos estão perturbando e querendo mudar o evangelho de Cristo."
+              "verse": "14",
+              "text": "e como progredia no judaísmo mais do que muitos judeus de minha idade, mostrando-me extremamente zeloso das tradições paternas."
             },
             {
-              "verse": "8",
-              "text": "Pois bem, mesmo que nós ou um anjo vindo do céu vos pregasse um evangelho diferente daquele que vos pregamos, seja excomungado."
+              "verse": "15",
+              "text": "Quando, porém, aquele que me separou desde o ventre materno e me chamou por sua graça"
             },
             {
-              "verse": "9",
-              "text": "Como já dissemos e agora repito: Se alguém vos pregar um evangelho diferente daquele que recebestes, seja excomungado."
+              "verse": "16",
+              "text": "se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, não consultei carne nem sangue"
             },
             {
-              "verse": "10",
-              "text": "Será que eu estou buscando a aprovação dos homens ou a aprovação de Deus? Ou estou procurando agradar aos homens? Se eu ainda estivesse preocupado em agradar aos homens, não seria servo de Cristo."
+              "verse": "17",
+              "text": "nem subi, logo, a Jerusalém para estar com os que eram apóstolos antes de mim. Pelo contrário, parti para a Arábia e, depois, voltei ainda a Damasco."
             },
             {
-              "verse": "11",
-              "text": "Irmãos, asseguro-vos que o evangelho pregado por mim não é conforme a critérios humanos."
+              "verse": "18",
+              "text": "Três anos mais tarde, fui a Jerusalém para conhecer Cefas e fiquei com ele quinze dias."
             },
             {
-              "verse": "12",
-              "text": "Com efeito, não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo."
+              "verse": "19",
+              "text": "E não estive com nenhum outro apóstolo, a não ser Tiago, o irmão do Senhor."
+            },
+            {
+              "verse": "20",
+              "text": "Escrevendo estas coisas, afirmo diante de Deus que não estou mentindo."
+            },
+            {
+              "verse": "21",
+              "text": "Depois, fui para as regiões da Síria e da Cilícia."
+            },
+            {
+              "verse": "22",
+              "text": "Ainda não era pessoalmente conhecido das igrejas da Judéia que estão em Cristo."
+            },
+            {
+              "verse": "23",
+              "text": "Apenas tinham ouvido dizer que \"aquele que, antes, nos perseguia, está agora pregando a fé que, antes, procurava destruir\"."
+            },
+            {
+              "verse": "24",
+              "text": "E glorificavam a Deus por minha causa."
             }
           ]
         },
@@ -76,13 +96,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 110(111),1-2.7-8.9 e 10c (R. 5b)",
+      "reference": "Sl 138(139),1-3.13-14ab.14c-15 (R. 24b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor se lembra sempre da Aliança."
+              "text": "Conduzi-me no caminho para a vida, ó Senhor!"
             }
           ]
         },
@@ -90,7 +110,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor se lembra sempre da Aliança."
+              "text": "Conduzi-me no caminho para a vida, ó Senhor!"
             }
           ]
         },
@@ -98,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!"
+              "text": "Senhor, vós me sondais e conheceis, sabeis quando me sento ou me levanto; de longe penetrais meus pensamentos, percebeis quando me deito e quando eu ando, os meus caminhos vos são todos conhecidos."
             }
           ]
         },
@@ -106,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Suas obras são verdade e são justiça, seus preceitos, todos eles, são estáveis, confirmados para sempre e pelos séculos, realizados na verdade e retidão."
+              "text": "Fostes vós que me formastes as entranhas, e no seio de minha mãe vós me tecestes. Eu vos louvo e vos dou graças, ó Senhor, porque de modo admirável me formastes! Que prodígio e maravilha as vossas obras!"
             }
           ]
         },
@@ -114,7 +134,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Enviou libertação para o seu povo, confirmou sua Aliança para sempre. Seu nome é santo e é digno de respeito. Permaneça eternamente o seu louvor."
+              "text": "Até o mais íntimo, Senhor me conheceis; nenhuma sequer de minhas fibras ignoráveis; quando eu era modelado ocultamente, era formado nas entranhas subterrâneas."
             }
           ]
         }
@@ -123,7 +143,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 10,25-37",
+      "reference": "Lc 10,38-42",
       "lines": [
         {
           "role": "versicle",
@@ -137,7 +157,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu vos dou novo preceito: que uns aos outros vos ameis, como eu vos tenho amado."
+              "text": "Feliz quem ouve e observa a palavra de Deus!"
             }
           ]
         },
@@ -164,56 +184,24 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "25",
-              "text": "um mestre da Lei se levantou e, querendo pôr Jesus em dificuldade, perguntou: \"Mestre, que devo fazer para receber em herança a vida eterna?\""
+              "verse": "38",
+              "text": "Jesus entrou num povoado, e certa mulher, de nome Marta, recebeu-o em sua casa."
             },
             {
-              "verse": "26",
-              "text": "Jesus lhe disse: \"O que está escrito na Lei? Como lês?\""
+              "verse": "39",
+              "text": "Sua irmã, chamada Maria, sentou-se aos pés do Senhor, e escutava a sua palavra."
             },
             {
-              "verse": "27",
-              "text": "Ele então respondeu: \"Amarás o Senhor, teu Deus, de todo o teu coração e com toda a tua alma, com toda a tua força e com toda a tua inteligência; e ao teu próximo como a ti mesmo!\""
+              "verse": "40",
+              "text": "Marta, porém, estava ocupada com muitos afazeres. Ela aproximou-se e disse: \"Senhor, não te importas que minha irmã me deixe sozinha, com todo o serviço? Manda que ela me venha ajudar!\""
             },
             {
-              "verse": "28",
-              "text": "Jesus lhe disse: \"Tu respondeste corretamente. Faze isso e viverás\"."
+              "verse": "41",
+              "text": "O Senhor, porém, lhe respondeu: \"Marta, Marta! Tu te preocupas e andas agitada por muitas coisas."
             },
             {
-              "verse": "29",
-              "text": "Ele, porém, querendo justificar-se, disse a Jesus: \"E quem é o meu próximo?\""
-            },
-            {
-              "verse": "30",
-              "text": "Jesus respondeu: \"Certo homem descia de Jerusalém para Jericó e caiu nas mãos de assaltantes. Estes arrancaram-lhe tudo, espancaram-no, e foram-se embora deixando-o quase morto."
-            },
-            {
-              "verse": "31",
-              "text": "Por acaso, um sacerdote estava descendo por aquele caminho. Quando viu o homem, seguiu adiante, pelo outro lado."
-            },
-            {
-              "verse": "32",
-              "text": "O mesmo aconteceu com um levita: chegou ao lugar, viu o homem e seguiu adiante, pelo outro lado."
-            },
-            {
-              "verse": "33",
-              "text": "Mas um samaritano que estava viajando, chegou perto dele, viu e sentiu compaixão."
-            },
-            {
-              "verse": "34",
-              "text": "Aproximou-se dele e fez curativos, derramando óleo e vinho nas feridas. Depois colocou o homem em seu próprio animal e levou-o a uma pensão, onde cuidou dele."
-            },
-            {
-              "verse": "35",
-              "text": "No dia seguinte, pegou duas moedas de prata e entregou-as ao dono da pensão, recomendando: \"Toma conta dele! Quando eu voltar, vou pagar o que tiveres gasto a mais'. E Jesus perguntou:"
-            },
-            {
-              "verse": "36",
-              "text": "\"Na tua opinião, qual dos três foi o próximo do homem que caiu nas mãos dos assaltantes?\""
-            },
-            {
-              "verse": "37",
-              "text": "Ele respondeu: \"Aquele que usou de misericórdia para com ele\". Então Jesus lhe disse: \"Vai e faze a mesma coisa\"."
+              "verse": "42",
+              "text": "Porém, uma só coisa é necessária. Maria escolheu a melhor parte e esta não lhe será tirada\"."
             }
           ]
         },
