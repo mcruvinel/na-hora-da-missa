@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T03:26:21-03:00",
+  "generatedAt": "2026-10-08T03:28:19-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-07",
-  "celebration": "Bem-aventurada Virgem Maria do Rosário – Memória",
-  "color": "branco",
+  "date": "2026-10-08",
+  "celebration": "27ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "At 1,12-14",
+      "reference": "Gl 3,1-5",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura dos Atos dos Apóstolos."
+              "text": "Leitura da Carta de São Paulo aos Gálatas."
             }
           ]
         },
@@ -23,19 +23,24 @@
           "role": "text",
           "segments": [
             {
-              "text": "Depois que Jesus subiu ao céu,"
+              "verse": "1",
+              "text": "Ó gálatas insensatos, quem é que vos fascinou? Diante de vossos olhos, não foi acaso representado, como que ao vivo, Jesus Cristo crucificado?"
             },
             {
-              "verse": "12",
-              "text": "os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro."
+              "verse": "2",
+              "text": "Só isto quero saber de vós: Recebestes o Espírito pela prática da Lei ou pela fé através da pregação?"
             },
             {
-              "verse": "13",
-              "text": "Entraram na cidade e subiram para a sala de cima, onde costumavam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago."
+              "verse": "3",
+              "text": "Sois assim tão insensatos? A ponto de, depois de terdes começado pelo espírito, quererdes terminar pela carne?"
             },
             {
-              "verse": "14",
-              "text": "Todos eles perseveravam na oração em comum, junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus."
+              "verse": "4",
+              "text": "Foi acaso em vão que sofrestes tanto? Se é que foi mesmo em vão!"
+            },
+            {
+              "verse": "5",
+              "text": "Aquele que vos dá generosamente o Espírito e realiza milagres entre vós, faz isso porque praticais a Lei ou porque crestes, através da pregação?"
             }
           ]
         },
@@ -59,14 +64,14 @@
     },
     {
       "kind": "psalm",
-      "title": "Responsório Lc 1,46-47.48-49.50-51.52-53.54-55",
-      "reference": "Lc 1,46-47.48-49.50-51.52-53.54-55",
+      "title": "Responsório Lc 1,69-70.71-72.73 e 75",
+      "reference": "Lc 1,69-70.71-72.73 e 75 (R. cf. 68)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
+              "text": "Bendito seja o Senhor Deus de Israel, porque a seu povo visitou e libertou!"
             }
           ]
         },
@@ -74,7 +79,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
+              "text": "Bendito seja o Senhor Deus de Israel, porque a seu povo visitou e libertou!"
             }
           ]
         },
@@ -82,7 +87,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A minh'alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu Salvador,"
+              "text": "Fez surgir um poderoso Salvador na casa de Davi, seu servidor, como falara pela boca de seus santos, os profetas desde os tempos mais antigos."
             }
           ]
         },
@@ -90,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "pois, ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas e Santo é o seu nome!"
+              "text": "para salvar-nos do poder dos inimigos e da mão de todos quantos nos odeiam. Assim mostrou misericórdia a nossos pais, recordando a sua santa Aliança."
             }
           ]
         },
@@ -98,23 +103,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos para sempre."
+              "text": "e o juramento a Abraão, o nosso pai, de conceder-nos que, libertos do inimigo, a ele nós sirvamos sem temor em santidade e em justiça diante dele, enquanto perdurarem nossos dias."
             }
           ]
         }
@@ -123,7 +112,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 1,26-38",
+      "reference": "Lc 11,5-13",
       "lines": [
         {
           "role": "versicle",
@@ -137,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Maria, alegra-te, ó cheia de graça, o Senhor é contigo; és bendita entre todas as mulheres da terra!"
+              "text": "Abri-nos, ó Senhor, o coração para ouvirmos a palavra de Jesus!"
             }
           ]
         },
@@ -161,59 +150,43 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo,"
+              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
             },
             {
-              "verse": "26",
-              "text": "o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré,"
+              "verse": "5",
+              "text": "\"Se um de vós tiver um amigo e for procurá-lo à meia-noite e lhe disser: 'Amigo, empresta-me três pães,"
             },
             {
-              "verse": "27",
-              "text": "a uma virgem, prometida em casamento a um homem chamado José. Ele era descendente de Davi e o nome da virgem era Maria."
+              "verse": "6",
+              "text": "porque um amigo meu chegou de viagem e nada tenho para lhe oferecer',"
             },
             {
-              "verse": "28",
-              "text": "O anjo entrou onde ela estava e disse: \"Alegra-te, cheia de graça, o Senhor está contigo!\""
+              "verse": "7",
+              "text": "e se o outro responder lá de dentro: 'Não me incomodes! Já tranquei a porta, e meus filhos e eu já estamos deitados; não me posso levantar para te dar os pães';"
             },
             {
-              "verse": "29",
-              "text": "Maria ficou perturbada com estas palavras e começou a pensar qual seria o significado da saudação."
+              "verse": "8",
+              "text": "eu vos declaro: mesmo que o outro não se levante para dá-los porque é seu amigo, vai levantar-se ao menos por causa da impertinência dele e lhe dará quanto for necessário."
             },
             {
-              "verse": "30",
-              "text": "O anjo, então, disse-lhe: \"Não tenhas medo, Maria, porque encontraste graça diante de Deus."
+              "verse": "9",
+              "text": "Portanto, eu vos digo: pedi e recebereis; procurai e encontrareis; batei e vos será aberto."
             },
             {
-              "verse": "31",
-              "text": "Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus."
+              "verse": "10",
+              "text": "Pois quem pede, recebe; quem procura, encontra; e, para quem bate, se abrirá."
             },
             {
-              "verse": "32",
-              "text": "Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi."
+              "verse": "11",
+              "text": "Será que algum de vós que é pai, se o filho pedir um peixe, lhe dará uma cobra?"
             },
             {
-              "verse": "33",
-              "text": "Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim\"."
+              "verse": "12",
+              "text": "Ou ainda, se pedir um ovo, lhe dará um escorpião?"
             },
             {
-              "verse": "34",
-              "text": "Maria perguntou ao anjo: \"Como acontecerá isso, se eu não conheço homem algum?\""
-            },
-            {
-              "verse": "35",
-              "text": "O anjo respondeu: \"O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra. Por isso, o menino que vai nascer será chamado Santo, Filho de Deus."
-            },
-            {
-              "verse": "36",
-              "text": "Também Isabel, tua parenta, concebeu um filho na velhice. Este já é o sexto mês daquela que era considerada estéril,"
-            },
-            {
-              "verse": "37",
-              "text": "porque para Deus nada é impossível\"."
-            },
-            {
-              "verse": "38",
-              "text": "Maria, então, disse: \"Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!\" E o anjo retirou-se."
+              "verse": "13",
+              "text": "Ora, se vós que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o Pai do Céu dará o Espírito Santo aos que o pedirem!\""
             }
           ]
         },
