@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T03:28:19-03:00",
+  "generatedAt": "2026-10-09T03:27:12-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "celebration": "27ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Gl 3,1-5",
+      "reference": "Gl 3,7-14",
       "lines": [
         {
           "role": "rubric",
@@ -23,24 +23,39 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1",
-              "text": "Ó gálatas insensatos, quem é que vos fascinou? Diante de vossos olhos, não foi acaso representado, como que ao vivo, Jesus Cristo crucificado?"
+              "text": "Irmãos,"
             },
             {
-              "verse": "2",
-              "text": "Só isto quero saber de vós: Recebestes o Espírito pela prática da Lei ou pela fé através da pregação?"
+              "verse": "7",
+              "text": "ficai pois cientes que os que creem é que são verdadeiros filhos de Abraão."
             },
             {
-              "verse": "3",
-              "text": "Sois assim tão insensatos? A ponto de, depois de terdes começado pelo espírito, quererdes terminar pela carne?"
+              "verse": "8",
+              "text": "E a Escritura, prevendo que Deus justificaria as nações pagãs pela fé, anunciou, muito antes, a Abraão: \"Em ti serão abençoadas todas as nações\"."
             },
             {
-              "verse": "4",
-              "text": "Foi acaso em vão que sofrestes tanto? Se é que foi mesmo em vão!"
+              "verse": "9",
+              "text": "Portanto, os crentes são abençoados com o crente Abraão."
             },
             {
-              "verse": "5",
-              "text": "Aquele que vos dá generosamente o Espírito e realiza milagres entre vós, faz isso porque praticais a Lei ou porque crestes, através da pregação?"
+              "verse": "10",
+              "text": "Aliás, todos os que põem sua confiança na prática da Lei estão ameaçados pela maldição, porque está escrito: \"Maldito quem não cumprir perseverantemente tudo o que está escrito no livro da Lei\"."
+            },
+            {
+              "verse": "11",
+              "text": "Pela Lei ninguém se justifica perante Deus; isso é evidente porque o justo vive da fé."
+            },
+            {
+              "verse": "12",
+              "text": "E a Lei não se funda na fé mas no cumprimento: Aquele que cumpre a Lei, por ela viverá."
+            },
+            {
+              "verse": "13",
+              "text": "Cristo resgatou-nos da maldição da Lei, fazendo-se maldição por nós, pois está escrito: 'Maldito todo aquele que é suspenso no madeiro!'"
+            },
+            {
+              "verse": "14",
+              "text": "Assim a bênção de Abraão se estendeu aos pagãos em Cristo Jesus e pela fé recebemos a promessa do Espírito."
             }
           ]
         },
@@ -64,14 +79,14 @@
     },
     {
       "kind": "psalm",
-      "title": "Responsório Lc 1,69-70.71-72.73 e 75",
-      "reference": "Lc 1,69-70.71-72.73 e 75 (R. cf. 68)",
+      "title": "Responsório",
+      "reference": "Sl 110(111),1-2.3-4.5-6 (R. 5b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Bendito seja o Senhor Deus de Israel, porque a seu povo visitou e libertou!"
+              "text": "O Senhor se lembra sempre da Aliança!"
             }
           ]
         },
@@ -79,7 +94,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Bendito seja o Senhor Deus de Israel, porque a seu povo visitou e libertou!"
+              "text": "O Senhor se lembra sempre da Aliança!"
             }
           ]
         },
@@ -87,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Fez surgir um poderoso Salvador na casa de Davi, seu servidor, como falara pela boca de seus santos, os profetas desde os tempos mais antigos."
+              "text": "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!"
             }
           ]
         },
@@ -95,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "para salvar-nos do poder dos inimigos e da mão de todos quantos nos odeiam. Assim mostrou misericórdia a nossos pais, recordando a sua santa Aliança."
+              "text": "Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas."
             }
           ]
         },
@@ -103,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "e o juramento a Abraão, o nosso pai, de conceder-nos que, libertos do inimigo, a ele nós sirvamos sem temor em santidade e em justiça diante dele, enquanto perdurarem nossos dias."
+              "text": "Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. ao seu povo manifesta seu poder, dando a ele a herança das nações."
             }
           ]
         }
@@ -112,7 +127,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 11,5-13",
+      "reference": "Lc 11,15-26",
       "lines": [
         {
           "role": "versicle",
@@ -126,7 +141,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Abri-nos, ó Senhor, o coração para ouvirmos a palavra de Jesus!"
+              "text": "Agora o príncipe deste mundo há de ser lançado fora; quando eu for elevado da terra, atrairei para mim todo ser."
             }
           ]
         },
@@ -150,43 +165,55 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
+              "text": "Naquele tempo, Jesus estava expulsando um demônio."
             },
             {
-              "verse": "5",
-              "text": "\"Se um de vós tiver um amigo e for procurá-lo à meia-noite e lhe disser: 'Amigo, empresta-me três pães,"
+              "verse": "15",
+              "text": "Mas alguns disseram: \"É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios\"."
             },
             {
-              "verse": "6",
-              "text": "porque um amigo meu chegou de viagem e nada tenho para lhe oferecer',"
+              "verse": "16",
+              "text": "Outros, para tentar Jesus, pediam-lhe um sinal do céu."
             },
             {
-              "verse": "7",
-              "text": "e se o outro responder lá de dentro: 'Não me incomodes! Já tranquei a porta, e meus filhos e eu já estamos deitados; não me posso levantar para te dar os pães';"
+              "verse": "17",
+              "text": "Mas, conhecendo seus pensamentos, Jesus disse-lhes: \"Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra."
             },
             {
-              "verse": "8",
-              "text": "eu vos declaro: mesmo que o outro não se levante para dá-los porque é seu amigo, vai levantar-se ao menos por causa da impertinência dele e lhe dará quanto for necessário."
+              "verse": "18",
+              "text": "Ora, se até Satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios."
             },
             {
-              "verse": "9",
-              "text": "Portanto, eu vos digo: pedi e recebereis; procurai e encontrareis; batei e vos será aberto."
+              "verse": "19",
+              "text": "Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes."
             },
             {
-              "verse": "10",
-              "text": "Pois quem pede, recebe; quem procura, encontra; e, para quem bate, se abrirá."
+              "verse": "20",
+              "text": "Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus."
             },
             {
-              "verse": "11",
-              "text": "Será que algum de vós que é pai, se o filho pedir um peixe, lhe dará uma cobra?"
+              "verse": "21",
+              "text": "Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros."
             },
             {
-              "verse": "12",
-              "text": "Ou ainda, se pedir um ovo, lhe dará um escorpião?"
+              "verse": "22",
+              "text": "Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava, e reparte o que roubou."
             },
             {
-              "verse": "13",
-              "text": "Ora, se vós que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o Pai do Céu dará o Espírito Santo aos que o pedirem!\""
+              "verse": "23",
+              "text": "Quem não está comigo, está contra mim. E quem não recolhe comigo, dispersa."
+            },
+            {
+              "verse": "24",
+              "text": "Quando o espírito mau sai de um homem, fica vagando em lugares desertos, à procura de repouso; não o encontrando, ele diz: 'Vou voltar para minha casa de onde saí'."
+            },
+            {
+              "verse": "25",
+              "text": "Quando ele chega, encontra a casa varrida e arrumada."
+            },
+            {
+              "verse": "26",
+              "text": "Então ele vai, e traz consigo outros sete espíritos piores do que ele. E, entrando, instalam-se aí. No fim, esse homem fica em condição pior do que antes\"."
             }
           ]
         },
