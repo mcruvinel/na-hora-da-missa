@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T03:27:12-03:00",
+  "generatedAt": "2026-10-10T03:24:42-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "celebration": "27ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Gl 3,7-14",
+      "reference": "Gl 3,22-29",
       "lines": [
         {
           "role": "rubric",
@@ -26,36 +26,36 @@
               "text": "Irmãos,"
             },
             {
-              "verse": "7",
-              "text": "ficai pois cientes que os que creem é que são verdadeiros filhos de Abraão."
+              "verse": "22",
+              "text": "a Escritura pôs todos e tudo sob o jugo do pecado, a fim de que, pela fé em Jesus Cristo, se cumprisse a promessa em favor dos que creem."
             },
             {
-              "verse": "8",
-              "text": "E a Escritura, prevendo que Deus justificaria as nações pagãs pela fé, anunciou, muito antes, a Abraão: \"Em ti serão abençoadas todas as nações\"."
+              "verse": "23",
+              "text": "Antes que se inaugurasse o regime da fé, nós éramos guardados, como prisioneiros, sob o jugo da Lei. Éramos guardados para o regime da fé, que estava para ser revelado."
             },
             {
-              "verse": "9",
-              "text": "Portanto, os crentes são abençoados com o crente Abraão."
+              "verse": "24",
+              "text": "Assim, a Lei foi como um pedagogo que nos conduziu até Cristo, para que fôssemos justificados pela fé."
             },
             {
-              "verse": "10",
-              "text": "Aliás, todos os que põem sua confiança na prática da Lei estão ameaçados pela maldição, porque está escrito: \"Maldito quem não cumprir perseverantemente tudo o que está escrito no livro da Lei\"."
+              "verse": "25",
+              "text": "Mas, uma vez inaugurado o regime da fé, já não estamos na dependência desse pedagogo."
             },
             {
-              "verse": "11",
-              "text": "Pela Lei ninguém se justifica perante Deus; isso é evidente porque o justo vive da fé."
+              "verse": "26",
+              "text": "Com efeito, vós todos sois filhos de Deus pela fé em Jesus Cristo."
             },
             {
-              "verse": "12",
-              "text": "E a Lei não se funda na fé mas no cumprimento: Aquele que cumpre a Lei, por ela viverá."
+              "verse": "27",
+              "text": "Vós todos que fostes batizados em Cristo vos revestistes de Cristo."
             },
             {
-              "verse": "13",
-              "text": "Cristo resgatou-nos da maldição da Lei, fazendo-se maldição por nós, pois está escrito: 'Maldito todo aquele que é suspenso no madeiro!'"
+              "verse": "28",
+              "text": "O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo."
             },
             {
-              "verse": "14",
-              "text": "Assim a bênção de Abraão se estendeu aos pagãos em Cristo Jesus e pela fé recebemos a promessa do Espírito."
+              "verse": "29",
+              "text": "Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa."
             }
           ]
         },
@@ -80,7 +80,7 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 110(111),1-2.3-4.5-6 (R. 5b)",
+      "reference": "Sl 104(105),2-3.4-5.6-7 (R. 8a)",
       "lines": [
         {
           "role": "versicle",
@@ -102,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!"
+              "text": "Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus!"
             }
           ]
         },
@@ -110,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas."
+              "text": "Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!"
             }
           ]
         },
@@ -118,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. ao seu povo manifesta seu poder, dando a ele a herança das nações."
+              "text": "Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra."
             }
           ]
         }
@@ -127,7 +127,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 11,15-26",
+      "reference": "Lc 11,27-28",
       "lines": [
         {
           "role": "versicle",
@@ -141,7 +141,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Agora o príncipe deste mundo há de ser lançado fora; quando eu for elevado da terra, atrairei para mim todo ser."
+              "text": "Feliz quem ouve e observa a palavra de Deus!"
             }
           ]
         },
@@ -165,55 +165,15 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, Jesus estava expulsando um demônio."
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "15",
-              "text": "Mas alguns disseram: \"É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios\"."
+              "verse": "27",
+              "text": "enquanto Jesus falava, uma mulher levantou a voz no meio da multidão e lhe disse: \"Feliz o ventre que te trouxe e os seios que te amamentaram\"."
             },
             {
-              "verse": "16",
-              "text": "Outros, para tentar Jesus, pediam-lhe um sinal do céu."
-            },
-            {
-              "verse": "17",
-              "text": "Mas, conhecendo seus pensamentos, Jesus disse-lhes: \"Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra."
-            },
-            {
-              "verse": "18",
-              "text": "Ora, se até Satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios."
-            },
-            {
-              "verse": "19",
-              "text": "Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes."
-            },
-            {
-              "verse": "20",
-              "text": "Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus."
-            },
-            {
-              "verse": "21",
-              "text": "Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros."
-            },
-            {
-              "verse": "22",
-              "text": "Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava, e reparte o que roubou."
-            },
-            {
-              "verse": "23",
-              "text": "Quem não está comigo, está contra mim. E quem não recolhe comigo, dispersa."
-            },
-            {
-              "verse": "24",
-              "text": "Quando o espírito mau sai de um homem, fica vagando em lugares desertos, à procura de repouso; não o encontrando, ele diz: 'Vou voltar para minha casa de onde saí'."
-            },
-            {
-              "verse": "25",
-              "text": "Quando ele chega, encontra a casa varrida e arrumada."
-            },
-            {
-              "verse": "26",
-              "text": "Então ele vai, e traz consigo outros sete espíritos piores do que ele. E, entrando, instalam-se aí. No fim, esse homem fica em condição pior do que antes\"."
+              "verse": "28",
+              "text": "Jesus respondeu: \"Muito mais felizes são aqueles que ouvem a palavra de Deus e a põem em prática\"."
             }
           ]
         },
