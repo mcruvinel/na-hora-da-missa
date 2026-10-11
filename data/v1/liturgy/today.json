@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T03:24:42-03:00",
+  "generatedAt": "2026-10-11T03:25:13-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-10",
-  "celebration": "27ª Semana do Tempo Comum",
+  "date": "2026-10-11",
+  "celebration": "28º Domingo do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Gl 3,22-29",
+      "reference": "Is 25,6-10a",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Gálatas."
+              "text": "Leitura do Livro do Profeta Isaías."
             }
           ]
         },
@@ -23,39 +23,24 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "verse": "6",
+              "text": "O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos."
             },
             {
-              "verse": "22",
-              "text": "a Escritura pôs todos e tudo sob o jugo do pecado, a fim de que, pela fé em Jesus Cristo, se cumprisse a promessa em favor dos que creem."
+              "verse": "7",
+              "text": "Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações."
             },
             {
-              "verse": "23",
-              "text": "Antes que se inaugurasse o regime da fé, nós éramos guardados, como prisioneiros, sob o jugo da Lei. Éramos guardados para o regime da fé, que estava para ser revelado."
+              "verse": "8",
+              "text": "O Senhor Deus eliminará para sempre a morte e enxugará as lágrimas de todas as faces e acabará com a desonra do seu povo em toda a terra; o Senhor o disse."
             },
             {
-              "verse": "24",
-              "text": "Assim, a Lei foi como um pedagogo que nos conduziu até Cristo, para que fôssemos justificados pela fé."
+              "verse": "9",
+              "text": "Naquele dia, se dirá: \"Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo\"."
             },
             {
-              "verse": "25",
-              "text": "Mas, uma vez inaugurado o regime da fé, já não estamos na dependência desse pedagogo."
-            },
-            {
-              "verse": "26",
-              "text": "Com efeito, vós todos sois filhos de Deus pela fé em Jesus Cristo."
-            },
-            {
-              "verse": "27",
-              "text": "Vós todos que fostes batizados em Cristo vos revestistes de Cristo."
-            },
-            {
-              "verse": "28",
-              "text": "O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo."
-            },
-            {
-              "verse": "29",
-              "text": "Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa."
+              "verse": "10a",
+              "text": "E a mão do Senhor repousará sobre este monte."
             }
           ]
         },
@@ -80,13 +65,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 104(105),2-3.4-5.6-7 (R. 8a)",
+      "reference": "Sl 22(23),1-3a.3b-4.5-6 (R. 6cd)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor se lembra sempre da Aliança!"
+              "text": "Na casa do Senhor habitarei, eternamente."
             }
           ]
         },
@@ -94,7 +79,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor se lembra sempre da Aliança!"
+              "text": "Na casa do Senhor habitarei, eternamente."
             }
           ]
         },
@@ -102,7 +87,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus!"
+              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."
             }
           ]
         },
@@ -110,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!"
+              "text": "Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei; estais comigo com bastão e com cajado; eles me dão a segurança!"
             }
           ]
         },
@@ -118,7 +103,74 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra."
+              "text": "Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "Fl 4,12-14.19-20",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Carta de São Paulo aos Filipenses."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "text": "Irmãos:"
+            },
+            {
+              "verse": "12",
+              "text": "Sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade."
+            },
+            {
+              "verse": "13",
+              "text": "Tudo posso naquele que me dá força."
+            },
+            {
+              "verse": "14",
+              "text": "No entanto, fizestes bem em compartilhar as minhas dificuldades."
+            },
+            {
+              "verse": "19",
+              "text": "O meu Deus proverá esplendidamente com sua riqueza a todas as vossas necessidades, em Cristo Jesus."
+            },
+            {
+              "verse": "20",
+              "text": "Ao nosso Deus e Pai a glória pelos séculos dos séculos. Amém"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "role": "response",
+          "segments": [
+            {
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -127,7 +179,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 11,27-28",
+      "reference": "Mt 22,1-14",
       "lines": [
         {
           "role": "versicle",
@@ -141,7 +193,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz quem ouve e observa a palavra de Deus!"
+              "text": "Que o Pai do Senhor Jesus Cristo nos dê do saber o espírito; conheçamos, assim, a esperança à qual nos chamou, como herança!"
             }
           ]
         },
@@ -149,7 +201,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -168,12 +220,60 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "27",
-              "text": "enquanto Jesus falava, uma mulher levantou a voz no meio da multidão e lhe disse: \"Feliz o ventre que te trouxe e os seios que te amamentaram\"."
+              "verse": "1",
+              "text": "Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo:"
             },
             {
-              "verse": "28",
-              "text": "Jesus respondeu: \"Muito mais felizes são aqueles que ouvem a palavra de Deus e a põem em prática\"."
+              "verse": "2",
+              "text": "\"O Reino dos Céus é como a história do rei que preparou a festa de casamento do seu filho."
+            },
+            {
+              "verse": "3",
+              "text": "E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram vir."
+            },
+            {
+              "verse": "4",
+              "text": "O rei mandou outros empregados, dizendo: 'Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos e tudo está pronto. Vinde para a festa!'"
+            },
+            {
+              "verse": "5",
+              "text": "Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios,"
+            },
+            {
+              "verse": "6",
+              "text": "outros agarraram os empregados, bateram neles e os mataram."
+            },
+            {
+              "verse": "7",
+              "text": "O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles."
+            },
+            {
+              "verse": "8",
+              "text": "Em seguida, o rei disse aos empregados: 'A festa de casamento está pronta, mas os convidados não foram dignos dela."
+            },
+            {
+              "verse": "9",
+              "text": "Portanto, ide até às encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes'."
+            },
+            {
+              "verse": "10",
+              "text": "Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados."
+            },
+            {
+              "verse": "11",
+              "text": "Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa"
+            },
+            {
+              "verse": "12",
+              "text": "e perguntou-lhe: 'Amigo, como entraste aqui sem o traje de festa?' Mas o homem nada respondeu."
+            },
+            {
+              "verse": "13",
+              "text": "Então o rei disse aos que serviam: 'Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes'."
+            },
+            {
+              "verse": "14",
+              "text": "Por que muitos são chamados, e poucos são escolhidos\"."
             }
           ]
         },
