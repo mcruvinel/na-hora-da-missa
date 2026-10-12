@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T03:25:13-03:00",
+  "generatedAt": "2026-10-12T03:39:31-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-11",
-  "celebration": "28º Domingo do Tempo Comum",
-  "color": "verde",
+  "date": "2026-10-12",
+  "celebration": "Bem-aventurada Virgem Maria da Conceição Aparecida – Solenidade",
+  "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Is 25,6-10a",
+      "reference": "Est 5,1b-2;7,2b-3",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro do Profeta Isaías."
+              "text": "Leitura do Livro de Ester."
             }
           ]
         },
@@ -23,24 +23,16 @@
           "role": "text",
           "segments": [
             {
-              "verse": "6",
-              "text": "O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos."
+              "verse": "1b",
+              "text": "Ester revestiu-se com vestes de rainha e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei. O rei estava sentado no trono real, na sala do trono, frente à entrada."
             },
             {
-              "verse": "7",
-              "text": "Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações."
+              "verse": "2",
+              "text": "Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendeu-lhe o cetro de ouro que tinha na mão, e Ester aproximou-se para tocar a ponta do cetro. 7,2b Então, o rei lhe disse: \"O que me pedes, Ester; o que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida\"."
             },
             {
-              "verse": "8",
-              "text": "O Senhor Deus eliminará para sempre a morte e enxugará as lágrimas de todas as faces e acabará com a desonra do seu povo em toda a terra; o Senhor o disse."
-            },
-            {
-              "verse": "9",
-              "text": "Naquele dia, se dirá: \"Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo\"."
-            },
-            {
-              "verse": "10a",
-              "text": "E a mão do Senhor repousará sobre este monte."
+              "verse": "3",
+              "text": "Ester respondeu-lhe: \"Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida - eis o meu pedido! - e a vida do meu povo - eis o meu desejo!\""
             }
           ]
         },
@@ -65,13 +57,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 22(23),1-3a.3b-4.5-6 (R. 6cd)",
+      "reference": "Sl 44(45),11-12a.12b-13.14-15a.15b-16 (R. 11.12a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Na casa do Senhor habitarei, eternamente."
+              "text": "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
             }
           ]
         },
@@ -79,7 +71,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Na casa do Senhor habitarei, eternamente."
+              "text": "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
             }
           ]
         },
@@ -87,7 +79,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."
+              "text": "Escutai, minha filha, olhai, ouvi isto: \"Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!"
             }
           ]
         },
@@ -95,7 +87,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei; estais comigo com bastão e com cajado; eles me dão a segurança!"
+              "text": "O povo de Tiro vos traz seus presentes, os grandes do povo vos pedem favores Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro."
             }
           ]
         },
@@ -103,15 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+              "text": "Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo; entre cantos de Festa e com grande alegria, ingressam, então, no palácio real\"."
             }
           ]
         }
@@ -120,13 +104,13 @@
     {
       "kind": "second",
       "title": "Segunda Leitura",
-      "reference": "Fl 4,12-14.19-20",
+      "reference": "Ap 12,1.5.13a.15-16a",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Filipenses."
+              "text": "Leitura do Livro do Apocalipse de São João."
             }
           ]
         },
@@ -134,27 +118,23 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos:"
+              "text": "1 Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas."
             },
             {
-              "verse": "12",
-              "text": "Sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade."
+              "verse": "5",
+              "text": "E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono."
             },
             {
-              "verse": "13",
-              "text": "Tudo posso naquele que me dá força."
+              "verse": "13a",
+              "text": "Quando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino."
             },
             {
-              "verse": "14",
-              "text": "No entanto, fizestes bem em compartilhar as minhas dificuldades."
+              "verse": "15",
+              "text": "A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir."
             },
             {
-              "verse": "19",
-              "text": "O meu Deus proverá esplendidamente com sua riqueza a todas as vossas necessidades, em Cristo Jesus."
-            },
-            {
-              "verse": "20",
-              "text": "Ao nosso Deus e Pai a glória pelos séculos dos séculos. Amém"
+              "verse": "16a",
+              "text": "A terra, porém, veio em socorro da mulher."
             }
           ]
         },
@@ -179,7 +159,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 22,1-14",
+      "reference": "Jo 2,1-11 (Bodas de Caná)",
       "lines": [
         {
           "role": "versicle",
@@ -193,7 +173,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Que o Pai do Senhor Jesus Cristo nos dê do saber o espírito; conheçamos, assim, a esperança à qual nos chamou, como herança!"
+              "text": "Disse a mãe de Jesus aos serventes: “Fazei tudo o que Ele disser!”."
             }
           ]
         },
@@ -201,7 +181,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo João."
             }
           ]
         },
@@ -221,59 +201,47 @@
             },
             {
               "verse": "1",
-              "text": "Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo:"
+              "text": "houve um casamento em Caná da Galileia. A mãe de Jesus estava presente."
             },
             {
               "verse": "2",
-              "text": "\"O Reino dos Céus é como a história do rei que preparou a festa de casamento do seu filho."
+              "text": "Também Jesus e seus discípulos tinham sido convidados para o casamento."
             },
             {
               "verse": "3",
-              "text": "E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram vir."
+              "text": "Como o vinho veio a faltar, a mãe de Jesus lhe disse: \"Eles não têm mais vinho\"."
             },
             {
               "verse": "4",
-              "text": "O rei mandou outros empregados, dizendo: 'Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos e tudo está pronto. Vinde para a festa!'"
+              "text": "Jesus respondeu-lhe: \"Mulher, por que dizes isto a mim? Minha hora ainda não chegou.\""
             },
             {
               "verse": "5",
-              "text": "Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios,"
+              "text": "Sua mãe disse aos que estavam servindo: \"Fazei o que ele vos disser\"."
             },
             {
               "verse": "6",
-              "text": "outros agarraram os empregados, bateram neles e os mataram."
+              "text": "Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros."
             },
             {
               "verse": "7",
-              "text": "O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles."
+              "text": "Jesus disse aos que estavam servindo: \"Enchei as talhas de água\". Encheram-nas até a boca."
             },
             {
               "verse": "8",
-              "text": "Em seguida, o rei disse aos empregados: 'A festa de casamento está pronta, mas os convidados não foram dignos dela."
+              "text": "Jesus disse: \"Agora tirai e levai ao mestre-sala\". E eles levaram."
             },
             {
               "verse": "9",
-              "text": "Portanto, ide até às encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes'."
+              "text": "O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água."
             },
             {
               "verse": "10",
-              "text": "Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados."
+              "text": "O mestre-sala chamou então o noivo e lhe disse: \"Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!\""
             },
             {
               "verse": "11",
-              "text": "Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa"
-            },
-            {
-              "verse": "12",
-              "text": "e perguntou-lhe: 'Amigo, como entraste aqui sem o traje de festa?' Mas o homem nada respondeu."
-            },
-            {
-              "verse": "13",
-              "text": "Então o rei disse aos que serviam: 'Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes'."
-            },
-            {
-              "verse": "14",
-              "text": "Por que muitos são chamados, e poucos são escolhidos\"."
+              "text": "Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
             }
           ]
         },
