@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T03:39:31-03:00",
+  "generatedAt": "2026-10-13T03:29:43-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-12",
-  "celebration": "Bem-aventurada Virgem Maria da Conceição Aparecida – Solenidade",
-  "color": "branco",
+  "date": "2026-10-13",
+  "celebration": "28ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Est 5,1b-2;7,2b-3",
+      "reference": "Gl 5,1-6",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro de Ester."
+              "text": "Leitura da Carta de São Paulo aos Gálatas."
             }
           ]
         },
@@ -23,16 +23,31 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1b",
-              "text": "Ester revestiu-se com vestes de rainha e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei. O rei estava sentado no trono real, na sala do trono, frente à entrada."
+              "text": "Irmãos,"
+            },
+            {
+              "verse": "1",
+              "text": "É para a liberdade que Cristo nos libertou. Ficai pois firmes e não vos deixeis amarrar de novo ao jugo da escravidão."
             },
             {
               "verse": "2",
-              "text": "Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendeu-lhe o cetro de ouro que tinha na mão, e Ester aproximou-se para tocar a ponta do cetro. 7,2b Então, o rei lhe disse: \"O que me pedes, Ester; o que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida\"."
+              "text": "Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós, se vos deixardes circuncidar."
             },
             {
               "verse": "3",
-              "text": "Ester respondeu-lhe: \"Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida - eis o meu pedido! - e a vida do meu povo - eis o meu desejo!\""
+              "text": "Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei."
+            },
+            {
+              "verse": "4",
+              "text": "Vós que procurais a vossa justificação na Lei, rompestes com Cristo, decaístes da graça."
+            },
+            {
+              "verse": "5",
+              "text": "Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança."
+            },
+            {
+              "verse": "6",
+              "text": "Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
             }
           ]
         },
@@ -57,13 +72,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 44(45),11-12a.12b-13.14-15a.15b-16 (R. 11.12a)",
+      "reference": "Sl 118(119),41.43.44.45.47.48 (R. 41a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+              "text": "Senhor, que desça sobre mim a vossa graça!"
             }
           ]
         },
@@ -71,7 +86,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!"
+              "text": "Senhor, que desça sobre mim a vossa graça!"
             }
           ]
         },
@@ -79,7 +94,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Escutai, minha filha, olhai, ouvi isto: \"Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!"
+              "text": "Senhor, que desça sobre mim a vossa graça e a vossa salvação que prometestes!"
             }
           ]
         },
@@ -87,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O povo de Tiro vos traz seus presentes, os grandes do povo vos pedem favores Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro."
+              "text": "Não retireis vossa verdade de meus lábios, pois eu confio em vossos justos julgamentos!"
             }
           ]
         },
@@ -95,46 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo; entre cantos de Festa e com grande alegria, ingressam, então, no palácio real\"."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "second",
-      "title": "Segunda Leitura",
-      "reference": "Ap 12,1.5.13a.15-16a",
-      "lines": [
-        {
-          "role": "rubric",
-          "segments": [
-            {
-              "text": "Leitura do Livro do Apocalipse de São João."
-            }
-          ]
-        },
-        {
-          "role": "text",
-          "segments": [
-            {
-              "text": "1 Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas."
-            },
-            {
-              "verse": "5",
-              "text": "E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono."
-            },
-            {
-              "verse": "13a",
-              "text": "Quando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino."
-            },
-            {
-              "verse": "15",
-              "text": "A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir."
-            },
-            {
-              "verse": "16a",
-              "text": "A terra, porém, veio em socorro da mulher."
+              "text": "Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!"
             }
           ]
         },
@@ -142,15 +118,23 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Palavra do Senhor."
+              "text": "É amplo e agradável meu caminho, porque busco e pesquiso as vossas ordens."
             }
           ]
         },
         {
-          "role": "response",
+          "role": "versicle",
           "segments": [
             {
-              "text": "Graças a Deus."
+              "text": "Muito me alegro com os vossos mandamentos, que eu amo, amo tanto, mais que tudo!"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Elevarei as minhas mãos para louvar-vos e com prazer meditarei vossa vontade."
             }
           ]
         }
@@ -159,7 +143,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Jo 2,1-11 (Bodas de Caná)",
+      "reference": "Lc 11,37-41",
       "lines": [
         {
           "role": "versicle",
@@ -173,7 +157,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Disse a mãe de Jesus aos serventes: “Fazei tudo o que Ele disser!”."
+              "text": "A palavra do Senhor é viva e eficaz: ela julga os pensamentos e as intenções do coração."
             }
           ]
         },
@@ -181,7 +165,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo João."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
             }
           ]
         },
@@ -200,48 +184,24 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "1",
-              "text": "houve um casamento em Caná da Galileia. A mãe de Jesus estava presente."
+              "verse": "37",
+              "text": "enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa."
             },
             {
-              "verse": "2",
-              "text": "Também Jesus e seus discípulos tinham sido convidados para o casamento."
+              "verse": "38",
+              "text": "O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição."
             },
             {
-              "verse": "3",
-              "text": "Como o vinho veio a faltar, a mãe de Jesus lhe disse: \"Eles não têm mais vinho\"."
+              "verse": "39",
+              "text": "O Senhor disse ao fariseu: \"Vós fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades."
             },
             {
-              "verse": "4",
-              "text": "Jesus respondeu-lhe: \"Mulher, por que dizes isto a mim? Minha hora ainda não chegou.\""
+              "verse": "40",
+              "text": "Insensatos! Aquele que fez o exterior não fez também o interior?"
             },
             {
-              "verse": "5",
-              "text": "Sua mãe disse aos que estavam servindo: \"Fazei o que ele vos disser\"."
-            },
-            {
-              "verse": "6",
-              "text": "Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros."
-            },
-            {
-              "verse": "7",
-              "text": "Jesus disse aos que estavam servindo: \"Enchei as talhas de água\". Encheram-nas até a boca."
-            },
-            {
-              "verse": "8",
-              "text": "Jesus disse: \"Agora tirai e levai ao mestre-sala\". E eles levaram."
-            },
-            {
-              "verse": "9",
-              "text": "O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água."
-            },
-            {
-              "verse": "10",
-              "text": "O mestre-sala chamou então o noivo e lhe disse: \"Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!\""
-            },
-            {
-              "verse": "11",
-              "text": "Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
+              "verse": "41",
+              "text": "Antes, dai esmola do que vós possuís e tudo ficará puro para vós\"."
             }
           ]
         },
