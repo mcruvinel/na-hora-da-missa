@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T03:29:43-03:00",
+  "generatedAt": "2026-10-14T03:24:56-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "celebration": "28ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Gl 5,1-6",
+      "reference": "Gl 5,18-25",
       "lines": [
         {
           "role": "rubric",
@@ -26,28 +26,36 @@
               "text": "Irmãos,"
             },
             {
-              "verse": "1",
-              "text": "É para a liberdade que Cristo nos libertou. Ficai pois firmes e não vos deixeis amarrar de novo ao jugo da escravidão."
+              "verse": "18",
+              "text": "se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei."
             },
             {
-              "verse": "2",
-              "text": "Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós, se vos deixardes circuncidar."
+              "verse": "19",
+              "text": "São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão,"
             },
             {
-              "verse": "3",
-              "text": "Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei."
+              "verse": "20",
+              "text": "idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções,"
             },
             {
-              "verse": "4",
-              "text": "Vós que procurais a vossa justificação na Lei, rompestes com Cristo, decaístes da graça."
+              "verse": "21",
+              "text": "invejas, bebedeiras, orgias, e coisas semelhantes a estas. Eu vos previno, como aliás já o fiz: os que praticam essas coisas não herdarão o reino de Deus."
             },
             {
-              "verse": "5",
-              "text": "Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança."
+              "verse": "22",
+              "text": "Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade,"
             },
             {
-              "verse": "6",
-              "text": "Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
+              "verse": "23",
+              "text": "mansidão, continência. Contra estas coisas não existe lei."
+            },
+            {
+              "verse": "24",
+              "text": "Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos."
+            },
+            {
+              "verse": "25",
+              "text": "Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
             }
           ]
         },
@@ -72,13 +80,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 118(119),41.43.44.45.47.48 (R. 41a)",
+      "reference": "Sl 1,1-2.3.4 e 6 (R. cf. Jo 8,12)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Senhor, que desça sobre mim a vossa graça!"
+              "text": "Senhor, quem vos seguir, terá a luz da vida!"
             }
           ]
         },
@@ -86,7 +94,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Senhor, que desça sobre mim a vossa graça!"
+              "text": "Senhor, quem vos seguir, terá a luz da vida!"
             }
           ]
         },
@@ -94,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Senhor, que desça sobre mim a vossa graça e a vossa salvação que prometestes!"
+              "text": "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar."
             }
           ]
         },
@@ -102,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Não retireis vossa verdade de meus lábios, pois eu confio em vossos justos julgamentos!"
+              "text": "Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar,"
             }
           ]
         },
@@ -110,31 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "É amplo e agradável meu caminho, porque busco e pesquiso as vossas ordens."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Muito me alegro com os vossos mandamentos, que eu amo, amo tanto, mais que tudo!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Elevarei as minhas mãos para louvar-vos e com prazer meditarei vossa vontade."
+              "text": "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
             }
           ]
         }
@@ -143,7 +127,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 11,37-41",
+      "reference": "Lc 11,42-46",
       "lines": [
         {
           "role": "versicle",
@@ -157,7 +141,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A palavra do Senhor é viva e eficaz: ela julga os pensamentos e as intenções do coração."
+              "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
             }
           ]
         },
@@ -181,27 +165,27 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo,"
+              "text": "Naquele tempo, disse o Senhor:"
             },
             {
-              "verse": "37",
-              "text": "enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa."
+              "verse": "42",
+              "text": "\"Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso, sem deixar de lado aquilo."
             },
             {
-              "verse": "38",
-              "text": "O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição."
+              "verse": "43",
+              "text": "Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas, e de serdes cumprimentados nas praças públicas."
             },
             {
-              "verse": "39",
-              "text": "O Senhor disse ao fariseu: \"Vós fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades."
+              "verse": "44",
+              "text": "Aí de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber\"."
             },
             {
-              "verse": "40",
-              "text": "Insensatos! Aquele que fez o exterior não fez também o interior?"
+              "verse": "45",
+              "text": "Um mestre da Lei tomou a palavra e disse: \"Mestre, falando assim, insultas-nos também a nós!\""
             },
             {
-              "verse": "41",
-              "text": "Antes, dai esmola do que vós possuís e tudo ficará puro para vós\"."
+              "verse": "46",
+              "text": "Jesus respondeu: \"Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis, e vós mesmos não tocais nessas cargas, nem com um só dedo\"."
             }
           ]
         },
