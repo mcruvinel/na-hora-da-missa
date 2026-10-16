@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T03:25:09-03:00",
+  "generatedAt": "2026-10-16T03:24:28-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-15",
-  "celebration": "Santa Teresa de Jesus, virgem e doutora da Igreja",
-  "color": "branco",
+  "date": "2026-10-16",
+  "celebration": "28ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 1,1-10",
+      "reference": "Ef 1,11-14",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Início da Carta de São Paulo aos Efésios."
+              "text": "Leitura da Carta de São Paulo aos Efésios."
             }
           ]
         },
@@ -23,44 +23,23 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1",
-              "text": "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus:"
+              "text": "Irmãos,"
             },
             {
-              "verse": "2",
-              "text": "a vós, graça e paz, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo."
+              "verse": "11",
+              "text": "em Cristo nós recebemos a nossa parte. Segundo o projeto daquele que conduz tudo conforme a decisão de sua vontade, nós fomos predestinados"
             },
             {
-              "verse": "3",
-              "text": "Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu."
+              "verse": "12",
+              "text": "a sermos, para o louvor de sua glória, os que de antemão colocaram a sua esperança em Cristo."
             },
             {
-              "verse": "4",
-              "text": "Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveis sob o seu olhar, no amor."
+              "verse": "13",
+              "text": "Nele também vós ouvistes a palavra da verdade, o evangelho que vos salva. Nele, ainda, acreditastes e fostes marcados com o selo do Espírito prometido, o Espírito Santo,"
             },
             {
-              "verse": "5",
-              "text": "Ele nos predestinou para sermos seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade,"
-            },
-            {
-              "verse": "6",
-              "text": "para o louvor da sua glória e da graça com que ele nos cumulou no seu Bem-amado."
-            },
-            {
-              "verse": "7",
-              "text": "Pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça,"
-            },
-            {
-              "verse": "8",
-              "text": "que Deus derramou profusamente sobre nós, abrindo-nos a toda a sabedoria e prudência."
-            },
-            {
-              "verse": "9",
-              "text": "Ele nos fez conhecer o mistério da sua vontade, o desígnio benevolente que de antemão determinou em si mesmo,"
-            },
-            {
-              "verse": "10",
-              "text": "para levar à plenitude o tempo estabelecido e recapitular em Cristo, o universo inteiro: tudo o que está nos céus e tudo o que está sobre a terra."
+              "verse": "14",
+              "text": "o que é o penhor da nossa herança para a redenção do povo que ele adquiriu, para o louvor da sua glória."
             }
           ]
         },
@@ -85,13 +64,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 97(98),1.2-3ab.3cd-4.5-6 (R. 2a)",
+      "reference": "Sl 32(33),1-2.4-5.12-13 (R. 12b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor fez conhecer seu poder salvador perante as nações."
+              "text": "Feliz o povo que o Senhor escolheu por sua herança!"
             }
           ]
         },
@@ -99,7 +78,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor fez conhecer seu poder salvador perante as nações."
+              "text": "Feliz o povo que o Senhor escolheu por sua herança!"
             }
           ]
         },
@@ -107,7 +86,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória."
+              "text": "Ó justos, alegrai-vos no Senhor! aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!"
             }
           ]
         },
@@ -115,7 +94,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel."
+              "text": "Pois reta é a palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça."
             }
           ]
         },
@@ -123,15 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Cantai salmos ao Senhor ao som da harpa e da cítara suave! Aclamai, com os clarins e as trombetas, ao Senhor, o nosso Rei!"
+              "text": "Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança! Dos altos céus o Senhor olha e observa; ele se inclina para olhar todos os homens."
             }
           ]
         }
@@ -140,7 +111,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 11,47-54",
+      "reference": "Lc 12,1-7",
       "lines": [
         {
           "role": "versicle",
@@ -154,7 +125,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Sou o Caminho, a Verdade e a Vida, ninguém vem ao Pai, senão por mim."
+              "text": "Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!"
             }
           ]
         },
@@ -178,39 +149,35 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse o Senhor:"
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "47",
-              "text": "\"Ai de vós, porque construís os túmulos dos profetas; no entanto, foram vossos pais que os mataram."
+              "verse": "1",
+              "text": "milhares de pessoas se reuniram, a ponto de uns pisarem os outros. Jesus começou a falar, primeiro a seus discípulos: \"Tomai cuidado com o fermento dos fariseus, que é a hipocrisia."
             },
             {
-              "verse": "48",
-              "text": "Com isso, vós sois testemunhas e aprovais as obras de vossos pais, pois eles mataram os profetas e vós construís os túmulos."
+              "verse": "2",
+              "text": "Não há nada de escondido, que não venha a ser revelado, e não há nada de oculto que não venha a ser conhecido."
             },
             {
-              "verse": "49",
-              "text": "É por isso que a sabedoria de Deus afirmou: Eu lhes enviarei profetas e apóstolos, e eles matarão e perseguirão alguns deles,"
+              "verse": "3",
+              "text": "Portanto, tudo o que tiverdes dito na escuridão, será ouvido à luz do dia; e o que tiverdes pronunciado ao pé do ouvido, no quarto, será proclamado sobre os telhados."
             },
             {
-              "verse": "50",
-              "text": "a fim de que se peçam contas a esta geração do sangue de todos os profetas, derramado desde a criação do mundo,"
+              "verse": "4",
+              "text": "Pois bem, meus amigos, eu vos digo: não tenhais medo daqueles que matam o corpo, não podendo fazer mais do que isto."
             },
             {
-              "verse": "51",
-              "text": "desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário. Sim, eu vos digo: serão pedidas contas disso a esta geração."
+              "verse": "5",
+              "text": "Vou mostrar-vos a quem deveis temer: temei aquele que, depois de tirar a vida, tem o poder de lançar-vos no inferno. Sim, eu vos digo, a este temei."
             },
             {
-              "verse": "52",
-              "text": "Ai de vós, mestres da Lei, porque tomastes a chave da ciência. Vós mesmos não entrastes, e ainda impedistes os que queriam entrar\"."
+              "verse": "6",
+              "text": "Não se vendem cinco pardais por uma pequena quantia? No entanto, nenhum deles é esquecido por Deus."
             },
             {
-              "verse": "53",
-              "text": "Quando Jesus saiu daí, os mestres da Lei e os fariseus começaram a tratá-lo mal, e a provocá-lo sobre muitos pontos."
-            },
-            {
-              "verse": "54",
-              "text": "Armavam ciladas, para pegá-lo de surpresa, por qualquer palavra que saísse de sua boca."
+              "verse": "7",
+              "text": "Até mesmo os cabelos de vossa cabeça estão todos contados. Não tenhais medo! Vós valeis mais do que muitos pardais\"."
             }
           ]
         },
