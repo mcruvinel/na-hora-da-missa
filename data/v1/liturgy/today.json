@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T03:21:27-03:00",
+  "generatedAt": "2026-10-18T03:21:58-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-17",
-  "celebration": "Santo Inácio de Antioquia, bispo e mártir – Memória",
-  "color": "vermelho",
+  "date": "2026-10-18",
+  "celebration": "29º Domingo do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 1,15-23",
+      "reference": "Is 45,1.4-6",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Efésios."
+              "text": "Leitura do Livro do Profeta Isaías."
             }
           ]
         },
@@ -23,43 +23,20 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "verse": "1",
+              "text": "Isto diz o Senhor sobre Ciro, seu Ungido: \"Tomei-o pela mão para submeter os povos ao seu domínio, dobrar o orgulho dos reis, abrir todas as portas à sua marcha, e para não deixar trancar os portões."
             },
             {
-              "verse": "15",
-              "text": "desde que soube da vossa fé no Senhor Jesus e do vosso amor para com todos os santos,"
+              "verse": "4",
+              "text": "Por causa de meu servo Jacó, e de meu eleito Israel, chamei-te pelo nome; reservei-te, e não me reconheceste."
             },
             {
-              "verse": "16",
-              "text": "não cesso de dar graças a vosso respeito, quando me lembro de vós em minhas orações."
+              "verse": "5",
+              "text": "Eu sou o Senhor, não existe outro: fora de mim não há deus. Armei-te guerreiro, sem me reconheceres,"
             },
             {
-              "verse": "17",
-              "text": "Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer."
-            },
-            {
-              "verse": "18",
-              "text": "Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos,"
-            },
-            {
-              "verse": "19",
-              "text": "e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente."
-            },
-            {
-              "verse": "20",
-              "text": "Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus,"
-            },
-            {
-              "verse": "21",
-              "text": "bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa nomear não somente neste mundo, mas ainda no mundo futuro."
-            },
-            {
-              "verse": "22",
-              "text": "Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja,"
-            },
-            {
-              "verse": "23",
-              "text": "que é o seu corpo, a plenitude daquele que possui a plenitude universal."
+              "verse": "6",
+              "text": "para que todos saibam, do oriente ao ocidente, que fora de mim outro não existe. Eu sou o Senhor, não há outro\""
             }
           ]
         },
@@ -84,13 +61,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 8,2-3a.4-5.6-7 (R. cf. 7)",
+      "reference": "Sl 95(96),1.2a.3.4-5.7-8.9-10a.c (R. 7ab)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Vós destes o domínio ao vosso Filho sobre tudo o que criastes."
+              "text": "Ó família das nações, dai ao Senhor poder e glória!"
             }
           ]
         },
@@ -98,7 +75,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Vós destes o domínio ao vosso Filho sobre tudo o que criastes."
+              "text": "Ó família das nações, dai ao Senhor poder e glória!"
             }
           ]
         },
@@ -106,7 +83,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ó Senhor nosso Deus, como é grande vosso nome por todo o universo! Desdobrastes nos céus vossa glória com grandeza, esplendor, majestade. O perfeito louvor vos é dado pelos lábios dos mais pequeninos."
+              "text": "Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios!"
             }
           ]
         },
@@ -114,7 +91,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Contemplando estes céus que plasmastes e formastes com dedos de artista; vendo a lua e estrelas brilhantes, perguntamos: \"Senhor, que é o homem, para dele assim vos lembrardes e o tratardes com tanto carinho?\""
+              "text": "Pois Deus é grande e muito digno de louvor, é mais terrível e maior que os outros deuses, porque um nada são os deuses dos pagãos. Foi o Senhor e nosso Deus quem fez os céus."
             }
           ]
         },
@@ -122,7 +99,71 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Pouco abaixo de Deus o fizestes, coroando-o de glória e esplendor; vós lhe destes poder sobre tudo, vossas obras aos pés lhe pusestes."
+              "text": "Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome! Oferecei um sacrifício nos seus átrios."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Adorai-o no esplendor da santidade, terra inteira, estremecei diante dele! Publicai entre as nações: \"Reina o Senhor!\" pois os povos ele julga com justiça."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "1Ts 1,1-5b",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "verse": "1",
+              "text": "Paulo, Silvano e Timóteo, à Igreja dos tessalonicenses, reunida em Deus Pai e no Senhor Jesus Cristo: a vós, graça e paz!"
+            },
+            {
+              "verse": "2",
+              "text": "Damos graças a Deus por todos vós, lembrando-vos sempre em nossas orações."
+            },
+            {
+              "verse": "3",
+              "text": "Diante de Deus, nosso Pai, recordamos sem cessar a atuação da vossa fé, o esforço da vossa caridade e a firmeza da vossa esperança em nosso Senhor Jesus Cristo."
+            },
+            {
+              "verse": "4",
+              "text": "Sabemos, irmãos amados por Deus, que sois do número dos escolhidos."
+            },
+            {
+              "verse": "5b",
+              "text": "Porque o nosso evangelho não chegou até vós somente por meio de palavras, mas também mediante a força que é o Espírito Santo; e isso, com toda a abundância."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "role": "response",
+          "segments": [
+            {
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -131,7 +172,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 12,8-12",
+      "reference": "Mt 22,15-21",
       "lines": [
         {
           "role": "versicle",
@@ -145,7 +186,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Espírito Santo, a verdade, de mim irá testemunhar; e vós minhas testemunhas sereis em todo lugar."
+              "text": "Como astros no mundo, vós resplandeçais, mensagem de vida ao mundo anunciando, da vida a palavra, com fé, proclameis, quais astros luzentes no mundo brilheis."
             }
           ]
         },
@@ -153,7 +194,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -169,27 +210,35 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "8",
-              "text": "\"Todo aquele que der testemunho de mim diante dos homens, o Filho do Homem também dará testemunho dele diante dos anjos de Deus."
+              "verse": "15",
+              "text": "Os fariseus fizeram um plano para apanhar Jesus em alguma palavra."
             },
             {
-              "verse": "9",
-              "text": "Mas aquele que me renegar diante dos homens, será negado diante dos anjos de Deus."
+              "verse": "16",
+              "text": "Então mandaram os seus discípulos, junto com alguns do partido de Herodes, para dizerem a Jesus: \"Mestre, sabemos que és verdadeiro e que, de fato, ensinas o caminho de Deus. Não te deixas influenciar pela opinião dos outros, pois não julgas um homem pelas aparências."
             },
             {
-              "verse": "10",
-              "text": "Todo aquele que disser alguma coisa contra o Filho do Homem será perdoado. Mas quem blasfemar contra o Espírito Santo não será perdoado."
+              "verse": "17",
+              "text": "Dize-nos, pois, o que pensas: É lícito ou não pagar imposto a César?\""
             },
             {
-              "verse": "11",
-              "text": "Quando vos conduzirem diante das sinagogas, magistrados e autoridades, não fiqueis preocupados como ou com que vos defendereis, ou com o que direis."
+              "verse": "18",
+              "text": "Jesus percebeu a maldade deles e disse: \"Hipócritas! Por que me preparais uma armadilha?"
             },
             {
-              "verse": "12",
-              "text": "Pois nessa hora o Espírito Santo vos ensinará o que deveis dizer\"."
+              "verse": "19",
+              "text": "Mostrai-me a moeda do imposto!\" Levaram-lhe então a moeda."
+            },
+            {
+              "verse": "20",
+              "text": "E Jesus disse: \"De quem é a figura e a inscrição desta moeda?\""
+            },
+            {
+              "verse": "21",
+              "text": "Eles responderam: \"De César\". Jesus então lhes disse: \"Dai pois a César o que é de César, e a Deus o que é de Deus\"."
             }
           ]
         },
