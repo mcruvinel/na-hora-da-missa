@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T03:21:58-03:00",
+  "generatedAt": "2026-10-19T03:33:08-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-18",
-  "celebration": "29º Domingo do Tempo Comum",
+  "date": "2026-10-19",
+  "celebration": "29ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Is 45,1.4-6",
+      "reference": "Ef 2,1-10",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro do Profeta Isaías."
+              "text": "Leitura da Carta de São Paulo aos Efésios."
             }
           ]
         },
@@ -23,20 +23,47 @@
           "role": "text",
           "segments": [
             {
+              "text": "Irmãos,"
+            },
+            {
               "verse": "1",
-              "text": "Isto diz o Senhor sobre Ciro, seu Ungido: \"Tomei-o pela mão para submeter os povos ao seu domínio, dobrar o orgulho dos reis, abrir todas as portas à sua marcha, e para não deixar trancar os portões."
+              "text": "vós estáveis mortos por causa de vossas faltas e pecados,"
+            },
+            {
+              "verse": "2",
+              "text": "nos quais vivíeis outrora, quando seguíeis o deus deste mundo, o príncipe que reina entre o céu e a terra, o espírito que age agora entre os rebeldes."
+            },
+            {
+              "verse": "3",
+              "text": "Nós éramos deste número, todos nós. Outrora nos abandonávamos às paixões da carne; satisfazíamos os seus desejos, seguíamos os seus caprichos e éramos por natureza, como os demais, filhos da ira."
             },
             {
               "verse": "4",
-              "text": "Por causa de meu servo Jacó, e de meu eleito Israel, chamei-te pelo nome; reservei-te, e não me reconheceste."
+              "text": "Mas Deus é rico em misericórdia. Por causa do grande amor com que nos amou,"
             },
             {
               "verse": "5",
-              "text": "Eu sou o Senhor, não existe outro: fora de mim não há deus. Armei-te guerreiro, sem me reconheceres,"
+              "text": "quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo. É por graça que vós sois salvos!"
             },
             {
               "verse": "6",
-              "text": "para que todos saibam, do oriente ao ocidente, que fora de mim outro não existe. Eu sou o Senhor, não há outro\""
+              "text": "Deus nos ressuscitou com Cristo e nos fez sentar nos céus em virtude de nossa união com Jesus Cristo."
+            },
+            {
+              "verse": "7",
+              "text": "Assim, pela bondade, que nos demonstrou em Jesus Cristo, Deus quis mostrar, através dos séculos futuros, a incomparável riqueza da sua graça."
+            },
+            {
+              "verse": "8",
+              "text": "Com efeito, é pela graça que sois salvos, mediante a fé. E isso não vem de vós; é dom de Deus!"
+            },
+            {
+              "verse": "9",
+              "text": "Não vem das obras, para que ninguém se orgulhe."
+            },
+            {
+              "verse": "10",
+              "text": "Pois é ele quem nos fez; nós fomos criados em Jesus Cristo para as obras boas, que Deus preparou de antemão para que nós as praticássemos."
             }
           ]
         },
@@ -61,13 +88,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 95(96),1.2a.3.4-5.7-8.9-10a.c (R. 7ab)",
+      "reference": "Sl 99(100),2.3.4.5 (R. 3b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Ó família das nações, dai ao Senhor poder e glória!"
+              "text": "O Senhor mesmo nos fez, e somos seus."
             }
           ]
         },
@@ -75,7 +102,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Ó família das nações, dai ao Senhor poder e glória!"
+              "text": "O Senhor mesmo nos fez, e somos seus."
             }
           ]
         },
@@ -83,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios!"
+              "text": "Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria, ide a ele cantando jubilosos!"
             }
           ]
         },
@@ -91,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Pois Deus é grande e muito digno de louvor, é mais terrível e maior que os outros deuses, porque um nada são os deuses dos pagãos. Foi o Senhor e nosso Deus quem fez os céus."
+              "text": "Sabei que o Senhor, só ele, é Deus, Ele mesmo nos fez, e somos seus, nós somos seu povo e seu rebanho."
             }
           ]
         },
@@ -99,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome! Oferecei um sacrifício nos seus átrios."
+              "text": "Entrai por suas portas dando graças, e em seus átrios com hinos de louvor; dai-lhe graças, seu nome bendizei!"
             }
           ]
         },
@@ -107,63 +134,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Adorai-o no esplendor da santidade, terra inteira, estremecei diante dele! Publicai entre as nações: \"Reina o Senhor!\" pois os povos ele julga com justiça."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "second",
-      "title": "Segunda Leitura",
-      "reference": "1Ts 1,1-5b",
-      "lines": [
-        {
-          "role": "rubric",
-          "segments": [
-            {
-              "text": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses."
-            }
-          ]
-        },
-        {
-          "role": "text",
-          "segments": [
-            {
-              "verse": "1",
-              "text": "Paulo, Silvano e Timóteo, à Igreja dos tessalonicenses, reunida em Deus Pai e no Senhor Jesus Cristo: a vós, graça e paz!"
-            },
-            {
-              "verse": "2",
-              "text": "Damos graças a Deus por todos vós, lembrando-vos sempre em nossas orações."
-            },
-            {
-              "verse": "3",
-              "text": "Diante de Deus, nosso Pai, recordamos sem cessar a atuação da vossa fé, o esforço da vossa caridade e a firmeza da vossa esperança em nosso Senhor Jesus Cristo."
-            },
-            {
-              "verse": "4",
-              "text": "Sabemos, irmãos amados por Deus, que sois do número dos escolhidos."
-            },
-            {
-              "verse": "5b",
-              "text": "Porque o nosso evangelho não chegou até vós somente por meio de palavras, mas também mediante a força que é o Espírito Santo; e isso, com toda a abundância."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Palavra do Senhor."
-            }
-          ]
-        },
-        {
-          "role": "response",
-          "segments": [
-            {
-              "text": "Graças a Deus."
+              "text": "Sim, é bom o Senhor e nosso Deus, sua bondade perdura para sempre, seu amor é fiel eternamente!"
             }
           ]
         }
@@ -172,7 +143,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 22,15-21",
+      "reference": "Lc 12,13-21",
       "lines": [
         {
           "role": "versicle",
@@ -186,7 +157,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Como astros no mundo, vós resplandeçais, mensagem de vida ao mundo anunciando, da vida a palavra, com fé, proclameis, quais astros luzentes no mundo brilheis."
+              "text": "Felizes os humildes de espírito, porque deles é o Reino dos Céus."
             }
           ]
         },
@@ -194,7 +165,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
             }
           ]
         },
@@ -213,32 +184,36 @@
               "text": "Naquele tempo,"
             },
             {
+              "verse": "13",
+              "text": "alguém, do meio da multidão, disse a Jesus: \"Mestre, dize ao meu irmão que reparta a herança comigo\"."
+            },
+            {
+              "verse": "14",
+              "text": "Jesus respondeu: \"Homem, quem me encarregou de julgar ou de dividir vossos bens?\""
+            },
+            {
               "verse": "15",
-              "text": "Os fariseus fizeram um plano para apanhar Jesus em alguma palavra."
+              "text": "E disse-lhes: \"Atenção! Tomai cuidado contra todo tipo de ganância, porque, mesmo que alguém tenha muitas coisas, a vida de um homem não consiste na abundância de bens\"."
             },
             {
               "verse": "16",
-              "text": "Então mandaram os seus discípulos, junto com alguns do partido de Herodes, para dizerem a Jesus: \"Mestre, sabemos que és verdadeiro e que, de fato, ensinas o caminho de Deus. Não te deixas influenciar pela opinião dos outros, pois não julgas um homem pelas aparências."
+              "text": "E contou-lhes uma parábola: \"A terra de um homem rico deu uma grande colheita."
             },
             {
               "verse": "17",
-              "text": "Dize-nos, pois, o que pensas: É lícito ou não pagar imposto a César?\""
+              "text": "Ele pensava consigo mesmo: 'O que vou fazer? Não tenho onde guardar minha colheita'."
             },
             {
               "verse": "18",
-              "text": "Jesus percebeu a maldade deles e disse: \"Hipócritas! Por que me preparais uma armadilha?"
+              "text": "Então resolveu: 'Já sei o que fazer! Vou derrubar meus celeiros e construir maiores; neles vou guardar todo o meu trigo, junto com os meus bens."
             },
             {
               "verse": "19",
-              "text": "Mostrai-me a moeda do imposto!\" Levaram-lhe então a moeda."
+              "text": "Então poderei dizer a mim mesmo: Meu caro, tu tens uma boa reserva para muitos anos. Descansa, come, bebe, aproveita!'"
             },
             {
               "verse": "20",
-              "text": "E Jesus disse: \"De quem é a figura e a inscrição desta moeda?\""
-            },
-            {
-              "verse": "21",
-              "text": "Eles responderam: \"De César\". Jesus então lhes disse: \"Dai pois a César o que é de César, e a Deus o que é de Deus\"."
+              "text": "Mas Deus lhe disse: 'Louco! Ainda nesta noite, pedirão de volta a tua vida. E para quem ficará o que tu acumulaste?' bAssim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante de Deus\"."
             }
           ]
         },
