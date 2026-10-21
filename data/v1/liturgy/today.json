@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T03:23:58-03:00",
+  "generatedAt": "2026-10-21T03:25:03-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "celebration": "29ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 2,12-22",
+      "reference": "Ef 3,2-12",
       "lines": [
         {
           "role": "rubric",
@@ -26,48 +26,44 @@
               "text": "Irmãos,"
             },
             {
+              "verse": "2",
+              "text": "se ao menos soubésseis da graça que Deus me concedeu para realizar o seu plano a vosso respeito,"
+            },
+            {
+              "verse": "3",
+              "text": "como, por revelação, tive conhecimento do mistério, tal como o esbocei rapidamente. Ao ler-me, podeis conhecer a percepção que eu tenho do mistério de Cristo."
+            },
+            {
+              "verse": "5",
+              "text": "Este mistério, Deus não o fez conhecer aos homens das gerações passadas mas acaba de o revelar agora, pelo Espírito, aos seus santos apóstolos e profetas:"
+            },
+            {
+              "verse": "6",
+              "text": "os pagãos são admitidos à mesma herança, são membros do corpo, são associados à mesma promessa em Jesus Cristo, por meio do Evangelho."
+            },
+            {
+              "verse": "7",
+              "text": "Disto eu fui feito ministro pelo dom da graça que Deus me concedeu no exercício do seu poder."
+            },
+            {
+              "verse": "8",
+              "text": "Eu, que sou o último de todos os santos, recebi esta graça de anunciar aos pagãos a insondável riqueza de Cristo"
+            },
+            {
+              "verse": "9",
+              "text": "e de mostrar a todos como Deus realiza o mistério desde sempre escondido nele, o criador do universo."
+            },
+            {
+              "verse": "10",
+              "text": "Assim, doravante, as autoridades e poderes nos céus conhecem, graças à Igreja, a multiforme sabedoria de Deus,"
+            },
+            {
+              "verse": "11",
+              "text": "de acordo com o desígnio eterno que ele executou em Jesus Cristo, nosso Senhor."
+            },
+            {
               "verse": "12",
-              "text": "naquele tempo, éreis sem Messias, privados de cidadania em Israel, estranhos às alianças da promessa, sem esperança e sem Deus no mundo."
-            },
-            {
-              "verse": "13",
-              "text": "Mas agora, em Jesus Cristo, vós que outrora estáveis longe, vos tornastes próximos, pelo sangue de Cristo."
-            },
-            {
-              "verse": "14",
-              "text": "Ele, de fato, é a nossa paz: do que era dividido, ele fez uma unidade. Em sua carne ele destruiu o muro de separação: a inimizade."
-            },
-            {
-              "verse": "15",
-              "text": "Ele aboliu a Lei com seus mandamentos e decretos. Ele quis, assim, a partir do judeu e do pagão, criar em si um só homem novo, estabelecendo a paz."
-            },
-            {
-              "verse": "16",
-              "text": "Quis reconciliá-los com Deus, ambos em um só corpo, por meio da cruz; assim ele destruiu em si mesmo a inimizade."
-            },
-            {
-              "verse": "17",
-              "text": "Ele veio anunciar a paz a vós que estáveis longe, e a paz aos que estavam próximos."
-            },
-            {
-              "verse": "18",
-              "text": "É graças a ele que uns e outros, em um só Espírito, temos acesso junto ao Pai."
-            },
-            {
-              "verse": "19",
-              "text": "Assim, já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus."
-            },
-            {
-              "verse": "20",
-              "text": "Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal."
-            },
-            {
-              "verse": "21",
-              "text": "É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor."
-            },
-            {
-              "verse": "22",
-              "text": "E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito."
+              "text": "Em Cristo nós temos, pela fé nele, a liberdade de nos aproximarmos de Deus com toda a confiança."
             }
           ]
         },
@@ -91,14 +87,14 @@
     },
     {
       "kind": "psalm",
-      "title": "Responsório",
-      "reference": "Sl 84(85),9ab-10.11-12.13-14 (R. cf. 9)",
+      "title": "Responsório Is 12,2-3.4bcd.5-6",
+      "reference": "Is 12,2-3.4bcd.5-6 (R. cf. 3)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor anunciará a paz para o seu povo."
+              "text": "Com alegria bebereis do manancial da salvação."
             }
           ]
         },
@@ -106,7 +102,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor anunciará a paz para o seu povo."
+              "text": "Com alegria bebereis do manancial da salvação."
             }
           ]
         },
@@ -114,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Quero ouvir o que o Senhor irá falar: é a paz que ele vai anunciar; Está perto a salvação dos que o temem, e a glória habitará em nossa terra."
+              "text": "Eis o Deus, meu Salvador, eu confio e nada temo; o Senhor é minha força, meu louvor e salvação. Com alegria bebereis do manancial da salvação"
             }
           ]
         },
@@ -122,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus."
+              "text": "e direis naquele dia: \"Dai louvores ao Senhor, invocai seu santo nome, anunciai suas maravilhas, entre os povos proclamai que seu nome é o mais sublime"
             }
           ]
         },
@@ -130,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente e a salvação há de seguir os passos seus."
+              "text": "Louvai cantando ao nosso Deus, que fez prodígios e portentos, publicai em toda a terra suas grandes maravilhas! Exultai cantando alegres, habitantes de Sião, porque é grande em vosso meio o Deus Santo de Israel!\""
             }
           ]
         }
@@ -139,7 +135,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 12,35-38",
+      "reference": "Lc 12,39-48",
       "lines": [
         {
           "role": "versicle",
@@ -153,7 +149,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Vigiai e orai para ficardes de pé, ante o Filho do Homem!"
+              "text": "Vigiai, diz Jesus, vigiai, pois, no dia em que não esperais, o vosso Senhor há de vir."
             }
           ]
         },
@@ -180,20 +176,44 @@
               "text": "Naquele tempo, disse Jesus aos seus discípulos:"
             },
             {
-              "verse": "35",
-              "text": "\"Que vossos rins estejam cingidos e as lâmpadas acesas."
+              "verse": "39",
+              "text": "\"Ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa."
             },
             {
-              "verse": "36",
-              "text": "Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrirem, imediatamente, a porta, logo que ele chegar e bater."
+              "verse": "40",
+              "text": "Vós também ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes\"."
             },
             {
-              "verse": "37",
-              "text": "Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá."
+              "verse": "41",
+              "text": "Então Pedro disse: \"Senhor, tu contas esta parábola para nós ou para todos?\""
             },
             {
-              "verse": "38",
-              "text": "E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar!\""
+              "verse": "42",
+              "text": "E o Senhor respondeu: \"Quem é o administrador fiel e prudente que o senhor vai colocar à frente do pessoal de sua casa para dar comida a todos na hora certa?"
+            },
+            {
+              "verse": "43",
+              "text": "Feliz o empregado que o patrão, ao chegar, encontrar agindo assim!"
+            },
+            {
+              "verse": "44",
+              "text": "Em verdade eu vos digo: o senhor lhe confiará a administração de todos os seus bens."
+            },
+            {
+              "verse": "45",
+              "text": "Porém, se aquele empregado pensar: 'Meu patrão está demorando', e começar a espancar os criados e as criadas, e a comer, a beber e a embriagar-se,"
+            },
+            {
+              "verse": "46",
+              "text": "o senhor daquele empregado chegará num dia inesperado e numa hora imprevista, ele o partirá ao meio e o fará participar do destino dos infiéis."
+            },
+            {
+              "verse": "47",
+              "text": "Aquele empregado que, conhecendo a vontade do senhor, nada preparou, nem agiu conforme a sua vontade, será chicoteado muitas vezes"
+            },
+            {
+              "verse": "48",
+              "text": "Porém, o empregado que não conhecia essa vontade e fez coisas que merecem castigo, será chicoteado poucas vezes. A quem muito foi dado, muito será pedido; a quem muito foi confiado, muito mais será exigido!"
             }
           ]
         },
