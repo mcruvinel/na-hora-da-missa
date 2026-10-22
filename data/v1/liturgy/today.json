@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T03:25:03-03:00",
+  "generatedAt": "2026-10-22T03:24:24-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "celebration": "29ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 3,2-12",
+      "reference": "Ef 3,14-21",
       "lines": [
         {
           "role": "rubric",
@@ -26,44 +26,36 @@
               "text": "Irmãos,"
             },
             {
-              "verse": "2",
-              "text": "se ao menos soubésseis da graça que Deus me concedeu para realizar o seu plano a vosso respeito,"
+              "verse": "14",
+              "text": "eu dobro os joelhos diante do Pai,"
             },
             {
-              "verse": "3",
-              "text": "como, por revelação, tive conhecimento do mistério, tal como o esbocei rapidamente. Ao ler-me, podeis conhecer a percepção que eu tenho do mistério de Cristo."
+              "verse": "15",
+              "text": "de quem toda e qualquer família recebe seu nome, no céu e sobre a terra."
             },
             {
-              "verse": "5",
-              "text": "Este mistério, Deus não o fez conhecer aos homens das gerações passadas mas acaba de o revelar agora, pelo Espírito, aos seus santos apóstolos e profetas:"
+              "verse": "16",
+              "text": "Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior,"
             },
             {
-              "verse": "6",
-              "text": "os pagãos são admitidos à mesma herança, são membros do corpo, são associados à mesma promessa em Jesus Cristo, por meio do Evangelho."
+              "verse": "17",
+              "text": "que ele faça habitar, pela fé, Cristo em vossos corações, que estejais enraizados e fundados no amor."
             },
             {
-              "verse": "7",
-              "text": "Disto eu fui feito ministro pelo dom da graça que Deus me concedeu no exercício do seu poder."
+              "verse": "18",
+              "text": "Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade,"
             },
             {
-              "verse": "8",
-              "text": "Eu, que sou o último de todos os santos, recebi esta graça de anunciar aos pagãos a insondável riqueza de Cristo"
+              "verse": "19",
+              "text": "e de conhecer o amor de Cristo, que ultrapassa todo o conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus."
             },
             {
-              "verse": "9",
-              "text": "e de mostrar a todos como Deus realiza o mistério desde sempre escondido nele, o criador do universo."
+              "verse": "20",
+              "text": "Àquele que tudo pode realizar superabundantemente, e muito mais do que nós pedimos ou concebemos, e cujo poder atua em nós,"
             },
             {
-              "verse": "10",
-              "text": "Assim, doravante, as autoridades e poderes nos céus conhecem, graças à Igreja, a multiforme sabedoria de Deus,"
-            },
-            {
-              "verse": "11",
-              "text": "de acordo com o desígnio eterno que ele executou em Jesus Cristo, nosso Senhor."
-            },
-            {
-              "verse": "12",
-              "text": "Em Cristo nós temos, pela fé nele, a liberdade de nos aproximarmos de Deus com toda a confiança."
+              "verse": "21",
+              "text": "a ele a glória, na Igreja e em Jesus Cristo, por todas as gerações, para sempre. Amém."
             }
           ]
         },
@@ -87,14 +79,14 @@
     },
     {
       "kind": "psalm",
-      "title": "Responsório Is 12,2-3.4bcd.5-6",
-      "reference": "Is 12,2-3.4bcd.5-6 (R. cf. 3)",
+      "title": "Responsório",
+      "reference": "Sl 32(33),1-2.4-5.11-12.18-19 (R. 5b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Com alegria bebereis do manancial da salvação."
+              "text": "Transborda em toda a terra a bondade do Senhor!"
             }
           ]
         },
@@ -102,7 +94,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Com alegria bebereis do manancial da salvação."
+              "text": "Transborda em toda a terra a bondade do Senhor!"
             }
           ]
         },
@@ -110,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eis o Deus, meu Salvador, eu confio e nada temo; o Senhor é minha força, meu louvor e salvação. Com alegria bebereis do manancial da salvação"
+              "text": "Ó justos, alegrai-vos no Senhor! aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!"
             }
           ]
         },
@@ -118,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "e direis naquele dia: \"Dai louvores ao Senhor, invocai seu santo nome, anunciai suas maravilhas, entre os povos proclamai que seu nome é o mais sublime"
+              "text": "Pois reta é a palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça."
             }
           ]
         },
@@ -126,7 +118,15 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Louvai cantando ao nosso Deus, que fez prodígios e portentos, publicai em toda a terra suas grandes maravilhas! Exultai cantando alegres, habitantes de Sião, porque é grande em vosso meio o Deus Santo de Israel!\""
+              "text": "Mas os desígnios do Senhor são para sempre, e os pensamentos que ele traz no coração, de geração em geração, vão perdurar. Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança!"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Mas o Senhor pousa o olhar sobre os que o temem, e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria."
             }
           ]
         }
@@ -135,7 +135,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 12,39-48",
+      "reference": "Lc 12,49-53",
       "lines": [
         {
           "role": "versicle",
@@ -149,7 +149,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Vigiai, diz Jesus, vigiai, pois, no dia em que não esperais, o vosso Senhor há de vir."
+              "text": "Eu tudo considero como perda e como lixo, a fim de eu ganhar Cristo e ser achado nele!"
             }
           ]
         },
@@ -173,47 +173,27 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
+              "text": "Naquele tempo, disse Jesus a seus discípulos:"
             },
             {
-              "verse": "39",
-              "text": "\"Ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa."
+              "verse": "49",
+              "text": "\"Eu vim para lançar fogo sobre a terra, e como gostaria que já estivesse aceso!"
             },
             {
-              "verse": "40",
-              "text": "Vós também ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes\"."
+              "verse": "50",
+              "text": "Devo receber um batismo, e como estou ansioso até que isto se cumpra!"
             },
             {
-              "verse": "41",
-              "text": "Então Pedro disse: \"Senhor, tu contas esta parábola para nós ou para todos?\""
+              "verse": "51",
+              "text": "Vós pensais que eu vim trazer a paz sobre a terra? Pelo contrário, eu vos digo, vim trazer divisão."
             },
             {
-              "verse": "42",
-              "text": "E o Senhor respondeu: \"Quem é o administrador fiel e prudente que o senhor vai colocar à frente do pessoal de sua casa para dar comida a todos na hora certa?"
+              "verse": "52",
+              "text": "Pois, daqui em diante, numa família de cinco pessoas, três ficarão divididas contra duas e duas contra três;"
             },
             {
-              "verse": "43",
-              "text": "Feliz o empregado que o patrão, ao chegar, encontrar agindo assim!"
-            },
-            {
-              "verse": "44",
-              "text": "Em verdade eu vos digo: o senhor lhe confiará a administração de todos os seus bens."
-            },
-            {
-              "verse": "45",
-              "text": "Porém, se aquele empregado pensar: 'Meu patrão está demorando', e começar a espancar os criados e as criadas, e a comer, a beber e a embriagar-se,"
-            },
-            {
-              "verse": "46",
-              "text": "o senhor daquele empregado chegará num dia inesperado e numa hora imprevista, ele o partirá ao meio e o fará participar do destino dos infiéis."
-            },
-            {
-              "verse": "47",
-              "text": "Aquele empregado que, conhecendo a vontade do senhor, nada preparou, nem agiu conforme a sua vontade, será chicoteado muitas vezes"
-            },
-            {
-              "verse": "48",
-              "text": "Porém, o empregado que não conhecia essa vontade e fez coisas que merecem castigo, será chicoteado poucas vezes. A quem muito foi dado, muito será pedido; a quem muito foi confiado, muito mais será exigido!"
+              "verse": "53",
+              "text": "ficarão divididos: o pai contra o filho e o filho contra o pai; a mãe contra a filha e a filha contra a mãe; a sogra contra a nora e a nora contra a sogra\"."
             }
           ]
         },
