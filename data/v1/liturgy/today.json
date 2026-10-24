@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T03:24:57-03:00",
+  "generatedAt": "2026-10-24T03:22:38-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "celebration": "29ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 4,1-6",
+      "reference": "Ef 4,7-16",
       "lines": [
         {
           "role": "rubric",
@@ -26,28 +26,44 @@
               "text": "Irmãos,"
             },
             {
-              "verse": "1",
-              "text": "eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes:"
+              "verse": "7",
+              "text": "cada um de nós recebeu a graça na medida em que Cristo lha deu."
             },
             {
-              "verse": "2",
-              "text": "Com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor."
+              "verse": "8",
+              "text": "Daí esta palavra: \"Tendo subido às alturas, ele capturou prisioneiros, e distribuiu dons aos homens\"."
             },
             {
-              "verse": "3",
-              "text": "Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz."
+              "verse": "9",
+              "text": "\"Ele subiu\"! Que significa isso, senão que ele desceu também às profundezas da terra?"
             },
             {
-              "verse": "4",
-              "text": "Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados."
+              "verse": "10",
+              "text": "Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo."
             },
             {
-              "verse": "5",
-              "text": "Há um só Senhor, uma só fé, um só batismo,"
+              "verse": "11",
+              "text": "E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres."
             },
             {
-              "verse": "6",
-              "text": "um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos."
+              "verse": "12",
+              "text": "Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo,"
+            },
+            {
+              "verse": "13",
+              "text": "até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude."
+            },
+            {
+              "verse": "14",
+              "text": "Assim, não seremos mais crianças ao sabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens e induzidos por sua astúcia ao erro."
+            },
+            {
+              "verse": "15",
+              "text": "Motivados pelo amor queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a Cabeça, Cristo."
+            },
+            {
+              "verse": "16",
+              "text": "Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor."
             }
           ]
         },
@@ -72,13 +88,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 23(24),1-2.3-4ab.5-6 (R. cf. 6)",
+      "reference": "Sl 121(122),1-2.3-4a.4b-5 (R. cf. 1)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel."
+              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa Senhor!\""
             }
           ]
         },
@@ -86,7 +102,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel."
+              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa Senhor!\""
             }
           ]
         },
@@ -94,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável."
+              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa do Senhor!\" E agora nossos pés já se detêm, Jerusalém, em tuas portas."
             }
           ]
         },
@@ -102,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "\"Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?\" \"Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime."
+              "text": "Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor."
             }
           ]
         },
@@ -110,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador\". \"É assim a geração dos que o procuram, e do Deus de Israel buscam a face\"."
+              "text": "Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
             }
           ]
         }
@@ -119,7 +135,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 12,54-59",
+      "reference": "Lc 13,1-9",
       "lines": [
         {
           "role": "versicle",
@@ -133,7 +149,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu reino aos pequeninos, escondendo-os aos doutores!"
+              "text": "Não quero a morte do pecador, diz o Senhor, mas que ele volte, se converta e tenha vida."
             }
           ]
         },
@@ -157,31 +173,40 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo,"
+              "verse": "1",
+              "text": "Naquele tempo, vieram algumas pessoas trazendo notícias a Jesus a respeito dos galileus que Pilatos tinha matado, misturando seu sangue com o dos sacrifícios que ofereciam."
             },
             {
-              "verse": "54",
-              "text": "Jesus dizia às multidões: \"Quando vedes uma nuvem vinda do ocidente, logo dizeis que vem chuva. E assim acontece."
+              "verse": "2",
+              "text": "Jesus lhes respondeu: \"Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus, por terem sofrido tal coisa?"
             },
             {
-              "verse": "55",
-              "text": "Quando sentis soprar o vento do sul, logo dizeis que vai fazer calor. E assim acontece."
+              "verse": "3",
+              "text": "Eu vos digo que não. Mas se vós não vos converterdes, ireis morrer todos do mesmo modo."
             },
             {
-              "verse": "56",
-              "text": "Hipócritas! Vós sabeis interpretar o aspecto da terra e do céu. Como é que não sabeis interpretar o tempo presente?"
+              "verse": "4",
+              "text": "E aqueles dezoito que morreram, quando a torre de Siloé caiu sobre eles? Pensais que eram mais culpados do que todos os outros moradores de Jerusalém?"
             },
             {
-              "verse": "57",
-              "text": "Por que não julgais por vós mesmos o que é justo?"
+              "verse": "5",
+              "text": "Eu vos digo que não. Mas, se não vos converterdes, ireis morrer todos do mesmo modo\"."
             },
             {
-              "verse": "58",
-              "text": "Quando, pois, tu vais com o teu adversário apresentar-te diante do magistrado, procura resolver o caso com ele enquanto estais a caminho. Senão ele te levará ao juiz, o juiz te entregará ao guarda, e o guarda te jogará na cadeia."
+              "verse": "6",
+              "text": "E Jesus contou esta parábola: \"Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou."
             },
             {
-              "verse": "59",
-              "text": "Eu te digo: daí tu não sairás, enquanto não pagares o último centavo\"."
+              "verse": "7",
+              "text": "Então disse ao vinhateiro: 'Já faz três anos que venho procurando figos nesta figueira e nada encontro. Corta-a! Por que está ela inutilizando a terra?'"
+            },
+            {
+              "verse": "8",
+              "text": "Ele, porém, respondeu: 'Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo."
+            },
+            {
+              "verse": "9",
+              "text": "Pode ser que venha a dar fruto. Se não der, então tu a cortarás' \"."
             }
           ]
         },
