@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T03:22:38-03:00",
+  "generatedAt": "2026-10-25T03:22:24-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-24",
-  "celebration": "29ª Semana do Tempo Comum",
+  "date": "2026-10-25",
+  "celebration": "30º Domingo do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 4,7-16",
+      "reference": "Ex 22,20-26",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Efésios."
+              "text": "Leitura do Livro do Êxodo."
             }
           ]
         },
@@ -23,47 +23,35 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "text": "Assim diz o Senhor:"
             },
             {
-              "verse": "7",
-              "text": "cada um de nós recebeu a graça na medida em que Cristo lha deu."
+              "verse": "20",
+              "text": "Não oprimas nem maltrates o estrangeiro, pois vós fostes estrangeiros na terra do Egito."
             },
             {
-              "verse": "8",
-              "text": "Daí esta palavra: \"Tendo subido às alturas, ele capturou prisioneiros, e distribuiu dons aos homens\"."
+              "verse": "21",
+              "text": "Não façais mal algum à viúva nem ao órfão."
             },
             {
-              "verse": "9",
-              "text": "\"Ele subiu\"! Que significa isso, senão que ele desceu também às profundezas da terra?"
+              "verse": "22",
+              "text": "Se os maltratardes, gritarão por mim, e eu ouvirei o seu clamor."
             },
             {
-              "verse": "10",
-              "text": "Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo."
+              "verse": "23",
+              "text": "Minha cólera, então, se inflamará e eu vos matarei à espada; vossas mulheres ficarão viúvas e órfãos os vossos filhos."
             },
             {
-              "verse": "11",
-              "text": "E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres."
+              "verse": "24",
+              "text": "Se emprestares dinheiro a alguém do meu povo, a um pobre que vive ao teu lado, não sejas um usurário, dele cobrando juros."
             },
             {
-              "verse": "12",
-              "text": "Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo,"
+              "verse": "25",
+              "text": "Se tomares como penhor o manto do teu próximo, deverás devolvê-lo antes do pôr do sol."
             },
             {
-              "verse": "13",
-              "text": "até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude."
-            },
-            {
-              "verse": "14",
-              "text": "Assim, não seremos mais crianças ao sabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens e induzidos por sua astúcia ao erro."
-            },
-            {
-              "verse": "15",
-              "text": "Motivados pelo amor queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a Cabeça, Cristo."
-            },
-            {
-              "verse": "16",
-              "text": "Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor."
+              "verse": "26",
+              "text": "Pois é a única veste que tem para o seu corpo, e coberta que ele tem para dormir. Se clamar por mim, eu o ouvirei, porque sou misericordioso."
             }
           ]
         },
@@ -88,13 +76,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 121(122),1-2.3-4a.4b-5 (R. cf. 1)",
+      "reference": "Sl 17(18),2-3a.3bc-4.47.51ab (R. 2)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa Senhor!\""
+              "text": "Eu vos amo, ó Senhor, sois minha força e salvação."
             }
           ]
         },
@@ -102,7 +90,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa Senhor!\""
+              "text": "Eu vos amo, ó Senhor, sois minha força e salvação."
             }
           ]
         },
@@ -110,7 +98,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa do Senhor!\" E agora nossos pés já se detêm, Jerusalém, em tuas portas."
+              "text": "Eu vos amo, ó Senhor! Sois minha força, minha rocha, meu refúgio e Salvador! Ó meu Deus, sois o rochedo que me abriga, minha força e poderosa salvação."
             }
           ]
         },
@@ -118,7 +106,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor."
+              "text": "Ó meu Deus, sois o rochedo que me abriga sois meu escudo e proteção: em vós espero! Invocarei o meu Senhor: a ele a glória! e dos meus perseguidores serei salvo!"
             }
           ]
         },
@@ -126,7 +114,70 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
+              "text": "Viva o Senhor! Bendito seja o meu Rochedo! E louvado seja Deus, meu Salvador! Concedeis ao vosso rei grandes vitórias e mostrais misericórdia ao vosso Ungido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "1Ts 1,5c-10",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "text": "Irmãos:"
+            },
+            {
+              "verse": "5c",
+              "text": "Sabeis de que maneira procedemos entre vós, para o vosso bem."
+            },
+            {
+              "verse": "6",
+              "text": "E vós vos tornastes imitadores nossos e do Senhor, acolhendo a Palavra com a alegria do Espírito Santo, apesar de tantas tribulações."
+            },
+            {
+              "verse": "7",
+              "text": "Assim vos tornastes modelo para todos os fiéis da Macedônia e da Acaia."
+            },
+            {
+              "verse": "8",
+              "text": "Com efeito, a partir de vós, a Palavra do Senhor não se divulgou apenas na Macedônia e na Acaia, mas a vossa fé em Deus propagou-se por toda parte. Assim, nós já nem precisamos de falar,"
+            },
+            {
+              "verse": "9",
+              "text": "pois as pessoas mesmas contam como vós nos acolhestes e como vos convertestes, abandonando os falsos deuses, para servir ao Deus vivo e verdadeiro,"
+            },
+            {
+              "verse": "10",
+              "text": "esperando dos céus o seu Filho, a quem ele ressuscitou dentre os mortos: Jesus, que nos livra do castigo que está por vir."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "role": "response",
+          "segments": [
+            {
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -135,7 +186,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 13,1-9",
+      "reference": "Mt 22,34-40",
       "lines": [
         {
           "role": "versicle",
@@ -149,7 +200,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Não quero a morte do pecador, diz o Senhor, mas que ele volte, se converta e tenha vida."
+              "text": "Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e a ele nós viremos."
             }
           ]
         },
@@ -157,7 +208,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -173,40 +224,35 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1",
-              "text": "Naquele tempo, vieram algumas pessoas trazendo notícias a Jesus a respeito dos galileus que Pilatos tinha matado, misturando seu sangue com o dos sacrifícios que ofereciam."
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "2",
-              "text": "Jesus lhes respondeu: \"Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus, por terem sofrido tal coisa?"
+              "verse": "34",
+              "text": "Os fariseus ouviram dizer que Jesus tinha feito calar os saduceus. Então eles se reuniram em grupo,"
             },
             {
-              "verse": "3",
-              "text": "Eu vos digo que não. Mas se vós não vos converterdes, ireis morrer todos do mesmo modo."
+              "verse": "35",
+              "text": "e um deles perguntou a Jesus, para experimentá-lo:"
             },
             {
-              "verse": "4",
-              "text": "E aqueles dezoito que morreram, quando a torre de Siloé caiu sobre eles? Pensais que eram mais culpados do que todos os outros moradores de Jerusalém?"
+              "verse": "36",
+              "text": "\"Mestre, qual é o maior mandamento da Lei?\""
             },
             {
-              "verse": "5",
-              "text": "Eu vos digo que não. Mas, se não vos converterdes, ireis morrer todos do mesmo modo\"."
+              "verse": "37",
+              "text": "Jesus respondeu: \"'Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento!'"
             },
             {
-              "verse": "6",
-              "text": "E Jesus contou esta parábola: \"Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou."
+              "verse": "38",
+              "text": "Esse é o maior e o primeiro mandamento."
             },
             {
-              "verse": "7",
-              "text": "Então disse ao vinhateiro: 'Já faz três anos que venho procurando figos nesta figueira e nada encontro. Corta-a! Por que está ela inutilizando a terra?'"
+              "verse": "39",
+              "text": "O segundo é semelhante a esse: 'Amarás ao teu próximo como a ti mesmo'."
             },
             {
-              "verse": "8",
-              "text": "Ele, porém, respondeu: 'Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo."
-            },
-            {
-              "verse": "9",
-              "text": "Pode ser que venha a dar fruto. Se não der, então tu a cortarás' \"."
+              "verse": "40",
+              "text": "Toda a Lei e os profetas dependem desses dois mandamentos\"."
             }
           ]
         },
