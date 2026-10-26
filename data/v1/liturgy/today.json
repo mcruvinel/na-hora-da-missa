@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T03:22:24-03:00",
+  "generatedAt": "2026-10-26T03:32:58-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-25",
-  "celebration": "30º Domingo do Tempo Comum",
+  "date": "2026-10-26",
+  "celebration": "30ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ex 22,20-26",
+      "reference": "Ef 4,32-5,8",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro do Êxodo."
+              "text": "Leitura da Carta de São Paulo aos Efésios."
             }
           ]
         },
@@ -23,35 +23,31 @@
           "role": "text",
           "segments": [
             {
-              "text": "Assim diz o Senhor:"
+              "text": "Irmãos,"
             },
             {
-              "verse": "20",
-              "text": "Não oprimas nem maltrates o estrangeiro, pois vós fostes estrangeiros na terra do Egito."
+              "verse": "32",
+              "text": "sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. 5,1 Sede imitadores de Deus, como filhos que ele ama."
             },
             {
-              "verse": "21",
-              "text": "Não façais mal algum à viúva nem ao órfão."
+              "verse": "2",
+              "text": "Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor."
             },
             {
-              "verse": "22",
-              "text": "Se os maltratardes, gritarão por mim, e eu ouvirei o seu clamor."
+              "verse": "3",
+              "text": "A devassidão, ou qualquer espécie de impureza ou cobiça sequer sejam mencionadas entre vós, como convém a santos."
             },
             {
-              "verse": "23",
-              "text": "Minha cólera, então, se inflamará e eu vos matarei à espada; vossas mulheres ficarão viúvas e órfãos os vossos filhos."
+              "verse": "4",
+              "text": "Nada de palavras grosseiras, insensatas ou obscenas, que são inconvenientes; dedicai-vos antes à ação de graças."
             },
             {
-              "verse": "24",
-              "text": "Se emprestares dinheiro a alguém do meu povo, a um pobre que vive ao teu lado, não sejas um usurário, dele cobrando juros."
+              "verse": "5",
+              "text": "Pois, sabei-o bem, o devasso, o impuro, o avarento - que é um idólatra - são excluídos da herança no reino de Cristo e de Deus. 6 Que ninguém vos engane com palavras vazias. Tudo isso atrai a cólera de Deus sobre os que lhe desobedecem."
             },
             {
-              "verse": "25",
-              "text": "Se tomares como penhor o manto do teu próximo, deverás devolvê-lo antes do pôr do sol."
-            },
-            {
-              "verse": "26",
-              "text": "Pois é a única veste que tem para o seu corpo, e coberta que ele tem para dormir. Se clamar por mim, eu o ouvirei, porque sou misericordioso."
+              "verse": "7",
+              "text": "Não sejais seus cúmplices. 8 Outrora éreis trevas, mas agora sois luz no Senhor. Vivei como filhos da luz."
             }
           ]
         },
@@ -76,13 +72,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 17(18),2-3a.3bc-4.47.51ab (R. 2)",
+      "reference": "Sl 1,1-2.3.4 e 6 (R: cf. Ef 5,1)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu vos amo, ó Senhor, sois minha força e salvação."
+              "text": "Sejamos, pois, imitadores do Senhor, como convém aos amados filhos seus."
             }
           ]
         },
@@ -90,7 +86,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Eu vos amo, ó Senhor, sois minha força e salvação."
+              "text": "Sejamos, pois, imitadores do Senhor, como convém aos amados filhos seus."
             }
           ]
         },
@@ -98,7 +94,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu vos amo, ó Senhor! Sois minha força, minha rocha, meu refúgio e Salvador! Ó meu Deus, sois o rochedo que me abriga, minha força e poderosa salvação."
+              "text": "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar."
             }
           ]
         },
@@ -106,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ó meu Deus, sois o rochedo que me abriga sois meu escudo e proteção: em vós espero! Invocarei o meu Senhor: a ele a glória! e dos meus perseguidores serei salvo!"
+              "text": "Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar,"
             }
           ]
         },
@@ -114,70 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Viva o Senhor! Bendito seja o meu Rochedo! E louvado seja Deus, meu Salvador! Concedeis ao vosso rei grandes vitórias e mostrais misericórdia ao vosso Ungido."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "second",
-      "title": "Segunda Leitura",
-      "reference": "1Ts 1,5c-10",
-      "lines": [
-        {
-          "role": "rubric",
-          "segments": [
-            {
-              "text": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses."
-            }
-          ]
-        },
-        {
-          "role": "text",
-          "segments": [
-            {
-              "text": "Irmãos:"
-            },
-            {
-              "verse": "5c",
-              "text": "Sabeis de que maneira procedemos entre vós, para o vosso bem."
-            },
-            {
-              "verse": "6",
-              "text": "E vós vos tornastes imitadores nossos e do Senhor, acolhendo a Palavra com a alegria do Espírito Santo, apesar de tantas tribulações."
-            },
-            {
-              "verse": "7",
-              "text": "Assim vos tornastes modelo para todos os fiéis da Macedônia e da Acaia."
-            },
-            {
-              "verse": "8",
-              "text": "Com efeito, a partir de vós, a Palavra do Senhor não se divulgou apenas na Macedônia e na Acaia, mas a vossa fé em Deus propagou-se por toda parte. Assim, nós já nem precisamos de falar,"
-            },
-            {
-              "verse": "9",
-              "text": "pois as pessoas mesmas contam como vós nos acolhestes e como vos convertestes, abandonando os falsos deuses, para servir ao Deus vivo e verdadeiro,"
-            },
-            {
-              "verse": "10",
-              "text": "esperando dos céus o seu Filho, a quem ele ressuscitou dentre os mortos: Jesus, que nos livra do castigo que está por vir."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Palavra do Senhor."
-            }
-          ]
-        },
-        {
-          "role": "response",
-          "segments": [
-            {
-              "text": "Graças a Deus."
+              "text": "mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
             }
           ]
         }
@@ -186,7 +119,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 22,34-40",
+      "reference": "Lc 13,10-17",
       "lines": [
         {
           "role": "versicle",
@@ -200,7 +133,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e a ele nós viremos."
+              "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
             }
           ]
         },
@@ -208,7 +141,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
             }
           ]
         },
@@ -227,32 +160,36 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "34",
-              "text": "Os fariseus ouviram dizer que Jesus tinha feito calar os saduceus. Então eles se reuniram em grupo,"
+              "verse": "10",
+              "text": "Jesus estava ensinando numa sinagoga, em dia de sábado."
             },
             {
-              "verse": "35",
-              "text": "e um deles perguntou a Jesus, para experimentá-lo:"
+              "verse": "11",
+              "text": "Havia aí uma mulher que, fazia dezoito anos, estava com um espírito que a tornava doente. Era encurvada e incapaz de se endireitar."
             },
             {
-              "verse": "36",
-              "text": "\"Mestre, qual é o maior mandamento da Lei?\""
+              "verse": "12",
+              "text": "Vendo-a, Jesus chamou-a e lhe disse: \"Mulher, estás livre da tua doença\"."
             },
             {
-              "verse": "37",
-              "text": "Jesus respondeu: \"'Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento!'"
+              "verse": "13",
+              "text": "Jesus colocou as mãos sobre ela, e imediatamente a mulher se endireitou, e começou a louvar a Deus."
             },
             {
-              "verse": "38",
-              "text": "Esse é o maior e o primeiro mandamento."
+              "verse": "14",
+              "text": "O chefe da sinagoga ficou furioso, porque Jesus tinha feito uma cura em dia de sábado. E, tomando a palavra, começou a dizer à multidão: \"Existem seis dias para trabalhar. Vinde, então, nesses dias para serdes curados, mas não em dia de sábado\"."
             },
             {
-              "verse": "39",
-              "text": "O segundo é semelhante a esse: 'Amarás ao teu próximo como a ti mesmo'."
+              "verse": "15",
+              "text": "O Senhor lhe respondeu: \"Hipócritas! Cada um de vós não solta do curral o boi ou o jumento, para dar-lhe de beber, mesmo que seja dia de sábado?"
             },
             {
-              "verse": "40",
-              "text": "Toda a Lei e os profetas dependem desses dois mandamentos\"."
+              "verse": "16",
+              "text": "Esta filha de Abraão, que Satanás amarrou durante dezoito anos, não deveria ser libertada dessa prisão, em dia de sábado?\""
+            },
+            {
+              "verse": "17",
+              "text": "Esta resposta envergonhou todos os inimigos de Jesus. E a multidão inteira se alegrava com as maravilhas que ele fazia."
             }
           ]
         },
