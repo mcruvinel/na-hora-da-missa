@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T03:18:37-03:00",
+  "generatedAt": "2026-10-29T03:18:34-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-28",
-  "celebration": "Santos Simão e Judas, Apóstolos – Festa",
-  "color": "vermelho",
+  "date": "2026-10-29",
+  "celebration": "30ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 2,19-22",
+      "reference": "Ef 6,10-20",
       "lines": [
         {
           "role": "rubric",
@@ -23,23 +23,48 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "verse": "10",
+              "text": "Para terminar, irmãos, confortai-vos no Senhor, e no domínio de sua força,"
+            },
+            {
+              "verse": "11",
+              "text": "revesti-vos da armadura de Deus, para estardes em condições de enfrentar as manobras do diabo."
+            },
+            {
+              "verse": "12",
+              "text": "Pois não é a homens que enfrentamos, mas as autoridades, os poderes, as dominações deste mundo de trevas, os espíritos do mal que estão nos céus."
+            },
+            {
+              "verse": "13",
+              "text": "Revesti, portanto, a armadura de Deus, a fim de que no dia mau possais resistir e permanecer firmes em tudo."
+            },
+            {
+              "verse": "14",
+              "text": "De pé, portanto! Cingi os vossos rins com a verdade, revesti-vos com a couraça da justiça"
+            },
+            {
+              "verse": "15",
+              "text": "e calçai os vossos pés com a prontidão em anunciar o Evangelho da paz."
+            },
+            {
+              "verse": "16",
+              "text": "Tomai o escudo da fé, o qual vos permitirá apagar todas as flechas ardentes do Maligno."
+            },
+            {
+              "verse": "17",
+              "text": "Tomai, enfim, o capacete da salvação e o gládio do espírito, isto é, a Palavra de Deus."
+            },
+            {
+              "verse": "18",
+              "text": "Com preces e súplicas de vária ordem, orai em todas as circunstâncias, no Espírito, e vigiai com toda a perseverança, intercedendo por todos os santos."
             },
             {
               "verse": "19",
-              "text": "já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus."
+              "text": "Orai também por mim, para que a palavra seja colocada em minha boca para anunciar corajosamente o mistério do Evangelho,"
             },
             {
               "verse": "20",
-              "text": "Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal."
-            },
-            {
-              "verse": "21",
-              "text": "É nele que toda a construção se ajusta e se eleva para formar um templo Santo no Senhor."
-            },
-            {
-              "verse": "22",
-              "text": "E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito."
+              "text": "do qual sou embaixador acorrentado. Possa eu, como é minha obrigação, proclamá-lo com toda a ousadia."
             }
           ]
         },
@@ -64,13 +89,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 18(19A),2-3.4-5 (R. 5a)",
+      "reference": "Sl 143(144),1.2.9-10 (R. 1a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Seu som ressoa e se espalha em toda terra."
+              "text": "Bendito seja o Senhor, meu rochedo!"
             }
           ]
         },
@@ -78,7 +103,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Seu som ressoa e se espalha em toda terra."
+              "text": "Bendito seja o Senhor, meu rochedo!"
             }
           ]
         },
@@ -86,7 +111,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite esta mensagem, a noite à noite publica esta notícia."
+              "text": "Bendito seja o Senhor, meu rochedo, que adestrou minhas mãos para a luta, e os meus dedos treinou para a guerra!"
             }
           ]
         },
@@ -94,7 +119,15 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz."
+              "text": "Ele é meu amor, meu refúgio, libertador, fortaleza e abrigo; É meu escudo: é nele que espero, ele submete as nações a meus pés."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Um canto novo, meu Deus, vou cantar-vos, nas dez cordas da harpa louvar-vos, a vós que dais a vitória aos reis e salvais vosso servo Davi."
             }
           ]
         }
@@ -103,7 +136,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 6,12-19",
+      "reference": "Lc 13,31-35",
       "lines": [
         {
           "role": "versicle",
@@ -117,7 +150,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A vós, ó Deus, louvamos, a vós, Senhor, cantamos; vos louva, ó Senhor, o coro dos Apóstolos!"
+              "text": "Bendito é o rei que vem em nome do Senhor! Glória a Deus nos altos céus e na terra paz aos homens!"
             }
           ]
         },
@@ -141,36 +174,24 @@
           "role": "text",
           "segments": [
             {
-              "verse": "12",
-              "text": "Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus."
+              "verse": "31",
+              "text": "Naquela hora, alguns fariseus aproximaram-se e disseram a Jesus: \"Tu deves ir embora daqui, porque Herodes quer te matar\"."
             },
             {
-              "verse": "13",
-              "text": "Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos:"
+              "verse": "32",
+              "text": "Jesus disse: \"Ide dizer a essa raposa: eu expulso demônios e faço curas hoje e amanhã; e no terceiro dia terminarei o meu trabalho."
             },
             {
-              "verse": "14",
-              "text": "Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu;"
+              "verse": "33",
+              "text": "Entretanto, preciso caminhar hoje, amanhã e depois de amanhã, porque não convém que um profeta morra fora de Jerusalém."
             },
             {
-              "verse": "15",
-              "text": "Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota;"
+              "verse": "34",
+              "text": "Jerusalém, Jerusalém! Tu que matas os profetas e apedrejas os que te foram enviados! Quantas vezes eu quis reunir teus filhos, como a galinha reúne os pintainhos debaixo das asas, mas tu não quiseste!"
             },
             {
-              "verse": "16",
-              "text": "Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor."
-            },
-            {
-              "verse": "17",
-              "text": "Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judéia e de Jerusalém, do litoral de Tiro e Sidônia."
-            },
-            {
-              "verse": "18",
-              "text": "Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados."
-            },
-            {
-              "verse": "19",
-              "text": "A multidão toda procurava tocar em Jesus, porque uma força saía dele, e curava a todos."
+              "verse": "35",
+              "text": "Eis que vossa casa ficará abandonada. Eu vos digo: não me vereis mais, até que chegue o tempo em que vós mesmos direis: 'Bendito aquele que vem em nome do Senhor' \"."
             }
           ]
         },
