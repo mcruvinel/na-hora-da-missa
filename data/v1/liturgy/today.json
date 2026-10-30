@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T03:18:34-03:00",
+  "generatedAt": "2026-10-30T03:18:32-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "celebration": "30ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ef 6,10-20",
+      "reference": "Fl 1,1-11",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Efésios."
+              "text": "Início da Carta de São Paulo aos Filipenses."
             }
           ]
         },
@@ -23,48 +23,48 @@
           "role": "text",
           "segments": [
             {
+              "verse": "1",
+              "text": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus bispos e diáconos:"
+            },
+            {
+              "verse": "2",
+              "text": "graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+            },
+            {
+              "verse": "3",
+              "text": "Dou graças ao meu Deus, todas as vezes que me lembro de vós."
+            },
+            {
+              "verse": "4",
+              "text": "Sempre em todas as minhas orações rezo por vós, com alegria,"
+            },
+            {
+              "verse": "5",
+              "text": "por causa da vossa comunhão conosco na divulgação do evangelho, desde o primeiro dia até agora."
+            },
+            {
+              "verse": "6",
+              "text": "Tenho a certeza de que aquele que começou em vós uma boa obra, há de levá-la à perfeição até ao dia de Cristo Jesus."
+            },
+            {
+              "verse": "7",
+              "text": "É justo que eu pense assim a respeito de vós todos, pois a todos trago no coração, porque, tanto na minha prisão como na defesa e confirmação do Evangelho, participais na graça que me foi dada."
+            },
+            {
+              "verse": "8",
+              "text": "Deus é testemunha de que tenho saudade de todos vós, com a ternura de Cristo Jesus."
+            },
+            {
+              "verse": "9",
+              "text": "E isto eu peço a Deus: que o vosso amor cresça sempre mais, em todo o conhecimento e experiência,"
+            },
+            {
               "verse": "10",
-              "text": "Para terminar, irmãos, confortai-vos no Senhor, e no domínio de sua força,"
+              "text": "para discernirdes o que é o melhor. E assim ficareis puros e sem defeito para o dia de Cristo,"
             },
             {
               "verse": "11",
-              "text": "revesti-vos da armadura de Deus, para estardes em condições de enfrentar as manobras do diabo."
-            },
-            {
-              "verse": "12",
-              "text": "Pois não é a homens que enfrentamos, mas as autoridades, os poderes, as dominações deste mundo de trevas, os espíritos do mal que estão nos céus."
-            },
-            {
-              "verse": "13",
-              "text": "Revesti, portanto, a armadura de Deus, a fim de que no dia mau possais resistir e permanecer firmes em tudo."
-            },
-            {
-              "verse": "14",
-              "text": "De pé, portanto! Cingi os vossos rins com a verdade, revesti-vos com a couraça da justiça"
-            },
-            {
-              "verse": "15",
-              "text": "e calçai os vossos pés com a prontidão em anunciar o Evangelho da paz."
-            },
-            {
-              "verse": "16",
-              "text": "Tomai o escudo da fé, o qual vos permitirá apagar todas as flechas ardentes do Maligno."
-            },
-            {
-              "verse": "17",
-              "text": "Tomai, enfim, o capacete da salvação e o gládio do espírito, isto é, a Palavra de Deus."
-            },
-            {
-              "verse": "18",
-              "text": "Com preces e súplicas de vária ordem, orai em todas as circunstâncias, no Espírito, e vigiai com toda a perseverança, intercedendo por todos os santos."
-            },
-            {
-              "verse": "19",
-              "text": "Orai também por mim, para que a palavra seja colocada em minha boca para anunciar corajosamente o mistério do Evangelho,"
-            },
-            {
-              "verse": "20",
-              "text": "do qual sou embaixador acorrentado. Possa eu, como é minha obrigação, proclamá-lo com toda a ousadia."
+              "text": "cheios do fruto da justiça que nos vem por Jesus Cristo, para a glória e o louvor de Deus."
             }
           ]
         },
@@ -89,13 +89,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 143(144),1.2.9-10 (R. 1a)",
+      "reference": "Sl 110(111),1-2.3-4.5-6 (R. 2a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Bendito seja o Senhor, meu rochedo!"
+              "text": "Grandiosas são as obras do Senhor!"
             }
           ]
         },
@@ -103,7 +103,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Bendito seja o Senhor, meu rochedo!"
+              "text": "Grandiosas são as obras do Senhor!"
             }
           ]
         },
@@ -111,7 +111,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Bendito seja o Senhor, meu rochedo, que adestrou minhas mãos para a luta, e os meus dedos treinou para a guerra!"
+              "text": "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!"
             }
           ]
         },
@@ -119,7 +119,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ele é meu amor, meu refúgio, libertador, fortaleza e abrigo; É meu escudo: é nele que espero, ele submete as nações a meus pés."
+              "text": "Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas."
             }
           ]
         },
@@ -127,7 +127,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Um canto novo, meu Deus, vou cantar-vos, nas dez cordas da harpa louvar-vos, a vós que dais a vitória aos reis e salvais vosso servo Davi."
+              "text": "Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações."
             }
           ]
         }
@@ -136,7 +136,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 13,31-35",
+      "reference": "Lc 14,1-6",
       "lines": [
         {
           "role": "versicle",
@@ -150,7 +150,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Bendito é o rei que vem em nome do Senhor! Glória a Deus nos altos céus e na terra paz aos homens!"
+              "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
             }
           ]
         },
@@ -174,24 +174,28 @@
           "role": "text",
           "segments": [
             {
-              "verse": "31",
-              "text": "Naquela hora, alguns fariseus aproximaram-se e disseram a Jesus: \"Tu deves ir embora daqui, porque Herodes quer te matar\"."
+              "verse": "1",
+              "text": "Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam."
             },
             {
-              "verse": "32",
-              "text": "Jesus disse: \"Ide dizer a essa raposa: eu expulso demônios e faço curas hoje e amanhã; e no terceiro dia terminarei o meu trabalho."
+              "verse": "2",
+              "text": "Diante de Jesus, havia um hidrópico."
             },
             {
-              "verse": "33",
-              "text": "Entretanto, preciso caminhar hoje, amanhã e depois de amanhã, porque não convém que um profeta morra fora de Jerusalém."
+              "verse": "3",
+              "text": "Tomando a palavra, Jesus falou aos mestres da Lei e aos fariseus: \"A Lei permite curar em dia de sábado, ou não?\""
             },
             {
-              "verse": "34",
-              "text": "Jerusalém, Jerusalém! Tu que matas os profetas e apedrejas os que te foram enviados! Quantas vezes eu quis reunir teus filhos, como a galinha reúne os pintainhos debaixo das asas, mas tu não quiseste!"
+              "verse": "4",
+              "text": "Mas eles ficaram em silêncio. Então Jesus tomou o homem pela mão, curou-o e despediu-o."
             },
             {
-              "verse": "35",
-              "text": "Eis que vossa casa ficará abandonada. Eu vos digo: não me vereis mais, até que chegue o tempo em que vós mesmos direis: 'Bendito aquele que vem em nome do Senhor' \"."
+              "verse": "5",
+              "text": "Depois lhes disse: \"Se algum de vós tem um filho ou um boi que caiu num poço, não o tira logo, mesmo em dia de sábado?\""
+            },
+            {
+              "verse": "6",
+              "text": "E eles não foram capazes de responder a isso."
             }
           ]
         },
