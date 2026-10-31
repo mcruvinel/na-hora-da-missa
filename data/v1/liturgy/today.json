@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T03:18:32-03:00",
+  "generatedAt": "2026-10-31T03:13:24-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "celebration": "30ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Fl 1,1-11",
+      "reference": "Fl 1,18b-26",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Início da Carta de São Paulo aos Filipenses."
+              "text": "Leitura da Carta de São Paulo aos Filipenses."
             }
           ]
         },
@@ -23,48 +23,43 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1",
-              "text": "Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus que estão em Filipos, com os seus bispos e diáconos:"
+              "text": "Irmãos,"
             },
             {
-              "verse": "2",
-              "text": "graça e paz a vós da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+              "verse": "18b",
+              "text": "de qualquer maneira, com segundas intenções ou com sinceridade, Cristo é anunciado. E eu me alegro com isso, e sempre me alegrarei."
             },
             {
-              "verse": "3",
-              "text": "Dou graças ao meu Deus, todas as vezes que me lembro de vós."
+              "verse": "19",
+              "text": "Pois eu sei que isso resultará na minha salvação graças à vossa oração e à assistência do Espírito de Jesus Cristo."
             },
             {
-              "verse": "4",
-              "text": "Sempre em todas as minhas orações rezo por vós, com alegria,"
+              "verse": "20",
+              "text": "Segundo a minha viva expectativa e a minha esperança, não terei de corar de vergonha. Se a minha firmeza continuar total, como sempre, então Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte."
             },
             {
-              "verse": "5",
-              "text": "por causa da vossa comunhão conosco na divulgação do evangelho, desde o primeiro dia até agora."
+              "verse": "21",
+              "text": "Pois para mim, o viver é Cristo e o morrer é lucro."
             },
             {
-              "verse": "6",
-              "text": "Tenho a certeza de que aquele que começou em vós uma boa obra, há de levá-la à perfeição até ao dia de Cristo Jesus."
+              "verse": "22",
+              "text": "Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso, não sei o que escolher."
             },
             {
-              "verse": "7",
-              "text": "É justo que eu pense assim a respeito de vós todos, pois a todos trago no coração, porque, tanto na minha prisão como na defesa e confirmação do Evangelho, participais na graça que me foi dada."
+              "verse": "23",
+              "text": "Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo - o que para mim seria de longe o melhor -"
             },
             {
-              "verse": "8",
-              "text": "Deus é testemunha de que tenho saudade de todos vós, com a ternura de Cristo Jesus."
+              "verse": "24",
+              "text": "mas para vós é mais necessário que eu continue minha vida neste mundo."
             },
             {
-              "verse": "9",
-              "text": "E isto eu peço a Deus: que o vosso amor cresça sempre mais, em todo o conhecimento e experiência,"
+              "verse": "25",
+              "text": "Por isso, sei com certeza que vou ficar e continuar com vós todos, para que possais progredir e alegrar-vos na fé."
             },
             {
-              "verse": "10",
-              "text": "para discernirdes o que é o melhor. E assim ficareis puros e sem defeito para o dia de Cristo,"
-            },
-            {
-              "verse": "11",
-              "text": "cheios do fruto da justiça que nos vem por Jesus Cristo, para a glória e o louvor de Deus."
+              "verse": "26",
+              "text": "Assim, com a minha volta para junto de vós, vai aumentar ainda a razão de vos gloriardes em Cristo Jesus."
             }
           ]
         },
@@ -89,13 +84,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 110(111),1-2.3-4.5-6 (R. 2a)",
+      "reference": "Sl 41(42),2.3.5bcd (R. 3a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Grandiosas são as obras do Senhor!"
+              "text": "Minha alma tem sede de Deus, do Deus vivo!"
             }
           ]
         },
@@ -103,7 +98,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Grandiosas são as obras do Senhor!"
+              "text": "Minha alma tem sede de Deus, do Deus vivo!"
             }
           ]
         },
@@ -111,7 +106,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!"
+              "text": "Assim como a corça suspira pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus!"
             }
           ]
         },
@@ -119,7 +114,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas."
+              "text": "Minha alma tem sede de Deus, e deseja o Deus vivo. Quando terei a alegria de ver a face de Deus?"
             }
           ]
         },
@@ -127,7 +122,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações."
+              "text": "Peregrino e feliz caminhando para a casa de Deus, entre gritos, louvor e alegria da multidão jubilosa."
             }
           ]
         }
@@ -136,7 +131,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 14,1-6",
+      "reference": "Lc 14,1.7-11",
       "lines": [
         {
           "role": "versicle",
@@ -150,7 +145,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+              "text": "Tomai meu jugo sobre vós e aprendei de mim, que sou de coração humilde e manso!"
             }
           ]
         },
@@ -178,24 +173,24 @@
               "text": "Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam."
             },
             {
-              "verse": "2",
-              "text": "Diante de Jesus, havia um hidrópico."
+              "verse": "7",
+              "text": "Jesus notou como os convidados escolhiam os primeiros lugares. Então contou-lhes uma parábola:"
             },
             {
-              "verse": "3",
-              "text": "Tomando a palavra, Jesus falou aos mestres da Lei e aos fariseus: \"A Lei permite curar em dia de sábado, ou não?\""
+              "verse": "8",
+              "text": "\"Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu,"
             },
             {
-              "verse": "4",
-              "text": "Mas eles ficaram em silêncio. Então Jesus tomou o homem pela mão, curou-o e despediu-o."
+              "verse": "9",
+              "text": "e o dono da casa, que convidou os dois, venha te dizer: 'Dá o lugar a ele'. Então tu ficarás envergonhado e irás ocupar o último lugar."
             },
             {
-              "verse": "5",
-              "text": "Depois lhes disse: \"Se algum de vós tem um filho ou um boi que caiu num poço, não o tira logo, mesmo em dia de sábado?\""
+              "verse": "10",
+              "text": "Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: 'Amigo, vem mais para cima'. E isto vai ser uma honra para ti diante de todos os convidados."
             },
             {
-              "verse": "6",
-              "text": "E eles não foram capazes de responder a isso."
+              "verse": "11",
+              "text": "Porque quem se eleva, será humilhado e quem se humilha, será elevado\"."
             }
           ]
         },
