@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T03:13:24-03:00",
+  "generatedAt": "2026-11-01T03:14:29-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-10-31",
-  "celebration": "30ª Semana do Tempo Comum",
-  "color": "verde",
+  "date": "2026-11-01",
+  "celebration": "Todos os Santos, Solenidade",
+  "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Fl 1,18b-26",
+      "reference": "Ap 7,2-4.9-14",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Filipenses."
+              "text": "Leitura do Livro do Apocalipse de São João."
             }
           ]
         },
@@ -23,43 +23,43 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "text": "Eu, João,"
             },
             {
-              "verse": "18b",
-              "text": "de qualquer maneira, com segundas intenções ou com sinceridade, Cristo é anunciado. E eu me alegro com isso, e sempre me alegrarei."
+              "verse": "2",
+              "text": "vi um outro anjo, que subia do lado onde nasce o sol. Ele trazia a marca do Deus vivo e gritava, em alta voz, aos quatro anjos que tinham recebido o poder de danificar a terra e o mar, dizendo-lhes:"
             },
             {
-              "verse": "19",
-              "text": "Pois eu sei que isso resultará na minha salvação graças à vossa oração e à assistência do Espírito de Jesus Cristo."
+              "verse": "3",
+              "text": "\"Não façais mal à terra, nem ao mar nem às arvores, até que tenhamos marcado na fronte os servos do nosso Deus\"."
             },
             {
-              "verse": "20",
-              "text": "Segundo a minha viva expectativa e a minha esperança, não terei de corar de vergonha. Se a minha firmeza continuar total, como sempre, então Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte."
+              "verse": "4",
+              "text": "Ouvi então o número dos que tinham sido marcados: eram cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel."
             },
             {
-              "verse": "21",
-              "text": "Pois para mim, o viver é Cristo e o morrer é lucro."
+              "verse": "9",
+              "text": "Depois disso, vi uma multidão imensa de gente de todas as nações, tribos, povos e línguas, e que ninguém podia contar. Estavam de pé diante do trono e do Cordeiro; trajavam vestes brancas e traziam palmas na mão."
             },
             {
-              "verse": "22",
-              "text": "Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso, não sei o que escolher."
+              "verse": "10",
+              "text": "Todos proclamavam com voz forte: \"A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro\"."
             },
             {
-              "verse": "23",
-              "text": "Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo - o que para mim seria de longe o melhor -"
+              "verse": "11",
+              "text": "Todos os anjos estavam de pé, em volta do trono e dos Anciãos e dos quatro Seres vivos e prostravam-se, com o rosto por terra, diante do trono. E adoravam a Deus, dizendo:"
             },
             {
-              "verse": "24",
-              "text": "mas para vós é mais necessário que eu continue minha vida neste mundo."
+              "verse": "12",
+              "text": "\"Amém. O louvor, a glória e a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus para sempre. Amém\""
             },
             {
-              "verse": "25",
-              "text": "Por isso, sei com certeza que vou ficar e continuar com vós todos, para que possais progredir e alegrar-vos na fé."
+              "verse": "13",
+              "text": "E um dos Anciãos falou comigo e perguntou: \"Quem são esses vestidos com roupas brancas? De onde vieram?\""
             },
             {
-              "verse": "26",
-              "text": "Assim, com a minha volta para junto de vós, vai aumentar ainda a razão de vos gloriardes em Cristo Jesus."
+              "verse": "14",
+              "text": "Eu respondi: \"Tu é que sabes, meu senhor\". E então ele me disse: \"Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro\"."
             }
           ]
         },
@@ -84,13 +84,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 41(42),2.3.5bcd (R. 3a)",
+      "reference": "Sl 23(24),1-2.3-4ab.5-6 (R. cf. 6)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Minha alma tem sede de Deus, do Deus vivo!"
+              "text": "É assim a geração dos que procuram o Senhor!"
             }
           ]
         },
@@ -98,7 +98,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Minha alma tem sede de Deus, do Deus vivo!"
+              "text": "É assim a geração dos que procuram o Senhor!"
             }
           ]
         },
@@ -106,7 +106,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Assim como a corça suspira pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus!"
+              "text": "Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável."
             }
           ]
         },
@@ -114,7 +114,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Minha alma tem sede de Deus, e deseja o Deus vivo. Quando terei a alegria de ver a face de Deus?"
+              "text": "\"Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?\" \"Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime."
             }
           ]
         },
@@ -122,7 +122,58 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Peregrino e feliz caminhando para a casa de Deus, entre gritos, louvor e alegria da multidão jubilosa."
+              "text": "Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador\". \"É assim a geração dos que o procuram, e do Deus de Israel buscam a face\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "1Jo 3,1-3",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Primeira Carta de São João."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "text": "Caríssimos,"
+            },
+            {
+              "verse": "1",
+              "text": "vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus! E nós o somos! Se o mundo não nos conhece, é porque não conheceu o Pai."
+            },
+            {
+              "verse": "2",
+              "text": "Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é."
+            },
+            {
+              "verse": "3",
+              "text": "Todo o que espera nele, purifica-se a si mesmo, como também ele é puro."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "role": "response",
+          "segments": [
+            {
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -131,7 +182,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 14,1.7-11",
+      "reference": "Mt 5,1-12a",
       "lines": [
         {
           "role": "versicle",
@@ -145,7 +196,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Tomai meu jugo sobre vós e aprendei de mim, que sou de coração humilde e manso!"
+              "text": "Vinde a mim, todos vós que estais cansados e penais a carregar pesado fardo, e descanso eu vos darei, diz o Senhor."
             }
           ]
         },
@@ -153,7 +204,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -169,28 +220,55 @@
           "role": "text",
           "segments": [
             {
+              "text": "Naquele tempo,"
+            },
+            {
               "verse": "1",
-              "text": "Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam."
+              "text": "vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se,"
+            },
+            {
+              "verse": "2",
+              "text": "e Jesus começou a ensiná-los:"
+            },
+            {
+              "verse": "3",
+              "text": "\"Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus."
+            },
+            {
+              "verse": "4",
+              "text": "Bem-aventurados os aflitos, porque serão consolados."
+            },
+            {
+              "verse": "5",
+              "text": "Bem-aventurados os mansos, porque possuirão a terra."
+            },
+            {
+              "verse": "6",
+              "text": "Bem-aventurados os que têm fome e sede de justiça, porque serão saciados."
             },
             {
               "verse": "7",
-              "text": "Jesus notou como os convidados escolhiam os primeiros lugares. Então contou-lhes uma parábola:"
+              "text": "Bem-aventurados os misericordiosos, porque alcançarão misericórdia."
             },
             {
               "verse": "8",
-              "text": "\"Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu,"
+              "text": "Bem-aventurados os puros de coração, porque verão a Deus."
             },
             {
               "verse": "9",
-              "text": "e o dono da casa, que convidou os dois, venha te dizer: 'Dá o lugar a ele'. Então tu ficarás envergonhado e irás ocupar o último lugar."
+              "text": "Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus."
             },
             {
               "verse": "10",
-              "text": "Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: 'Amigo, vem mais para cima'. E isto vai ser uma honra para ti diante de todos os convidados."
+              "text": "Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus."
             },
             {
               "verse": "11",
-              "text": "Porque quem se eleva, será humilhado e quem se humilha, será elevado\"."
+              "text": "Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e mentindo, disserem todo tipo de mal contra vós, por causa de mim."
+            },
+            {
+              "verse": "12",
+              "text": "Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus\"."
             }
           ]
         },
