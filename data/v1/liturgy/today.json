@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T12:03:33-03:00",
+  "generatedAt": "2026-11-03T10:49:26-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-02",
-  "celebration": "Comemoração de Todos os Fiéis Defuntos",
-  "color": "roxo",
+  "date": "2026-11-03",
+  "celebration": "31ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Jó 19,1.23-27a",
+      "reference": "Fl 2,5-11",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro de Jó."
+              "text": "Leitura da Carta de São Paulo aos Filipenses."
             }
           ]
         },
@@ -23,28 +23,35 @@
           "role": "text",
           "segments": [
             {
-              "verse": "1",
-              "text": "Jó tomou a palavra e disse:"
+              "text": "Irmãos,"
             },
             {
-              "verse": "23",
-              "text": "\"Gostaria que minhas palavras fossem escritas e gravadas numa inscrição"
+              "verse": "5",
+              "text": "tende entre vós o mesmo sentimento que existe em Cristo Jesus."
             },
             {
-              "verse": "24",
-              "text": "com ponteiro de ferro e com chumbo, cravadas na rocha para sempre!"
+              "verse": "6",
+              "text": "Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação,"
             },
             {
-              "verse": "25",
-              "text": "Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó;"
+              "verse": "7",
+              "text": "mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano,"
             },
             {
-              "verse": "26",
-              "text": "e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus."
+              "verse": "8",
+              "text": "humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz."
             },
             {
-              "verse": "27a",
-              "text": "Eu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros\"."
+              "verse": "9",
+              "text": "Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome."
+            },
+            {
+              "verse": "10",
+              "text": "Assim, ao nome de Jesus, todo o joelho se dobre no céu, na terra e abaixo da terra,"
+            },
+            {
+              "verse": "11",
+              "text": "e toda língua proclame : \"Jesus Cristo é o Senhor\" - para a glória de Deus Pai."
             }
           ]
         },
@@ -69,13 +76,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 23(24),1-2.3-4ab.5-6 (R. cf. 6)",
+      "reference": "Sl 21(22),26b-27.28-30a.31-32 (R. 26a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+              "text": "Ó Senhor, sois meu louvor em meio à grande assembleia!"
             }
           ]
         },
@@ -83,7 +90,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+              "text": "Ó Senhor, sois meu louvor em meio à grande assembleia!"
             }
           ]
         },
@@ -91,7 +98,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar."
+              "text": "Cumpro meus votos ante aqueles que vos temem! Vossos pobres vão comer e saciar-se, e os que procuram o Senhor o louvarão: \"Seus corações tenham a vida para sempre!\""
             }
           ]
         },
@@ -99,7 +106,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Para as águas repousantes me encaminha, e restaura as minhas forças. Ele me guia no caminho mais seguro, pela honra do seu nome."
+              "text": "Lembrem-se disso os confins de toda a terra, para que voltem ao Senhor e se convertam, e se prostrem, adorando, diante dele todos os povos e as famílias das nações. Pois ao Senhor é que pertence a realeza; ele domina sobre todas as nações. Somente a ele adorarão os poderosos."
             }
           ]
         },
@@ -107,98 +114,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Felicidade e todo bem hão de seguir-me, por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "second",
-      "title": "Segunda Leitura",
-      "reference": "1Cor 15,20-24a.25-28",
-      "lines": [
-        {
-          "role": "rubric",
-          "segments": [
-            {
-              "text": "Leitura da Primeira Carta de São Paulo aos Coríntios."
-            }
-          ]
-        },
-        {
-          "role": "text",
-          "segments": [
-            {
-              "text": "Irmãos:"
-            },
-            {
-              "verse": "20",
-              "text": "Cristo ressuscitou dos mortos como primícias dos que morreram."
-            },
-            {
-              "verse": "21",
-              "text": "Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos."
-            },
-            {
-              "verse": "22",
-              "text": "Como em Adão todos morrem, assim também em Cristo todos reviverão."
-            },
-            {
-              "verse": "23",
-              "text": "Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda."
-            },
-            {
-              "verse": "24a",
-              "text": "A seguir, será o fim, quando ele entregar a realeza a Deus-Pai."
-            },
-            {
-              "verse": "25",
-              "text": "Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés."
-            },
-            {
-              "verse": "26",
-              "text": "O último inimigo a ser destruído é a morte."
-            },
-            {
-              "verse": "27",
-              "text": "Com efeito, \"Deus pôs tudo debaixo de seus pés\". Mas, quando ele disser: \"Tudo está submetido\", é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo."
-            },
-            {
-              "verse": "28",
-              "text": "E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Palavra do Senhor."
-            }
-          ]
-        },
-        {
-          "role": "response",
-          "segments": [
-            {
-              "text": "Graças a Deus."
+              "text": "Toda a minha descendência há de servi-lo; às futuras gerações anunciará, o poder e a justiça do Senhor; ao povo novo que há de vir, ela dirá: \"Eis a obra que o Senhor realizou!\""
             }
           ]
         }
@@ -207,7 +123,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 12,35-40",
+      "reference": "Lc 14,15-24",
       "lines": [
         {
           "role": "versicle",
@@ -221,7 +137,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "É esta a vontade de quem me enviou: que eu não perca nenhum dos que ele me deu, mas que eu os ressuscite no último dia."
+              "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o senhor."
             }
           ]
         },
@@ -245,27 +161,47 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus a seus discípulos:"
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "35",
-              "text": "Que vossos rins estejam cingidos e as lâmpadas acesas."
+              "verse": "15",
+              "text": "um homem que estava à mesa, disse a Jesus: \"Feliz aquele que come o pão no Reino de Deus!\""
             },
             {
-              "verse": "36",
-              "text": "Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrir, imediatamente, a porta, logo que ele chegar e bater."
+              "verse": "16",
+              "text": "Jesus respondeu: \"Um homem deu um grande banquete e convidou muitas pessoas."
             },
             {
-              "verse": "37",
-              "text": "Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá."
+              "verse": "17",
+              "text": "Na hora do banquete, mandou seu empregado dizer aos convidados: 'Vinde, pois tudo está pronto'."
             },
             {
-              "verse": "38",
-              "text": "E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar!"
+              "verse": "18",
+              "text": "Mas todos, um a um, começaram a dar desculpas. O primeiro disse: 'Comprei um campo, e preciso ir vê-lo. Peço-te que aceites minhas desculpas'."
             },
             {
-              "verse": "39",
-              "text": "Mas ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa. bVós também, ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes\"."
+              "verse": "19",
+              "text": "Um outro disse: 'Comprei cinco juntas de bois, e vou experimentá-las. Peço-te que aceites minhas desculpas'."
+            },
+            {
+              "verse": "20",
+              "text": "Um terceiro disse: 'Acabo de me casar e, por isso, não posso ir'."
+            },
+            {
+              "verse": "21",
+              "text": "O empregado voltou e contou tudo ao patrão. Então o dono da casa ficou muito zangado e disse ao empregado: 'Sai depressa pelas praças e ruas da cidade. Traze para cá os pobres, os aleijados, os cegos e os coxos'."
+            },
+            {
+              "verse": "22",
+              "text": "O empregado disse: 'Senhor, o que tu mandaste fazer foi feito, e ainda há lugar'."
+            },
+            {
+              "verse": "23",
+              "text": "O patrão disse ao empregado: 'Sai pelas estradas e atalhos, e obriga as pessoas a virem aqui, para que minha casa fique cheia'."
+            },
+            {
+              "verse": "24",
+              "text": "Pois eu vos digo: nenhum daqueles que foram convidados provará do meu banquete'\"."
             }
           ]
         },
