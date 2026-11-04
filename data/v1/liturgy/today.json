@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T10:49:26-03:00",
+  "generatedAt": "2026-11-04T10:57:09-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-03",
-  "celebration": "31ª Semana do Tempo Comum",
-  "color": "verde",
+  "date": "2026-11-04",
+  "celebration": "São Carlos Borromeu, bispo – Memória",
+  "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Fl 2,5-11",
+      "reference": "Fl 2,12-18",
       "lines": [
         {
           "role": "rubric",
@@ -23,35 +23,32 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "verse": "12",
+              "text": "Meus queridos, como sempre fostes obedientes, não só em minha presença, mas ainda mais agora na minha ausência, trabalhai para a vossa salvação, com temor e tremor."
             },
             {
-              "verse": "5",
-              "text": "tende entre vós o mesmo sentimento que existe em Cristo Jesus."
+              "verse": "13",
+              "text": "Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente."
             },
             {
-              "verse": "6",
-              "text": "Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação,"
+              "verse": "14",
+              "text": "Fazei tudo sem reclamar ou murmurar,"
             },
             {
-              "verse": "7",
-              "text": "mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano,"
+              "verse": "15",
+              "text": "para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo."
             },
             {
-              "verse": "8",
-              "text": "humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz."
+              "verse": "16",
+              "text": "Conservai com firmeza a palavra da vida. Assim, no dia de Cristo, terei a glória de não ter corrido em vão, nem trabalhado inutilmente."
             },
             {
-              "verse": "9",
-              "text": "Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome."
+              "verse": "17",
+              "text": "E ainda que eu seja oferecido em libação, no sacrifício que é o sagrado serviço de vossa fé, fico feliz e alegro-me com todos vós."
             },
             {
-              "verse": "10",
-              "text": "Assim, ao nome de Jesus, todo o joelho se dobre no céu, na terra e abaixo da terra,"
-            },
-            {
-              "verse": "11",
-              "text": "e toda língua proclame : \"Jesus Cristo é o Senhor\" - para a glória de Deus Pai."
+              "verse": "18",
+              "text": "Vós também, alegrai-vos pelo mesmo motivo e congratulai-vos comigo."
             }
           ]
         },
@@ -76,13 +73,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 21(22),26b-27.28-30a.31-32 (R. 26a)",
+      "reference": "Sl 26(27),1.4.13-14 (R. 1a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Ó Senhor, sois meu louvor em meio à grande assembleia!"
+              "text": "O Senhor é minha luz e salvação!"
             }
           ]
         },
@@ -90,7 +87,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Ó Senhor, sois meu louvor em meio à grande assembleia!"
+              "text": "O Senhor é minha luz e salvação!"
             }
           ]
         },
@@ -98,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cumpro meus votos ante aqueles que vos temem! Vossos pobres vão comer e saciar-se, e os que procuram o Senhor o louvarão: \"Seus corações tenham a vida para sempre!\""
+              "text": "O Senhor é minha luz e salvação; de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?"
             }
           ]
         },
@@ -106,7 +103,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Lembrem-se disso os confins de toda a terra, para que voltem ao Senhor e se convertam, e se prostrem, adorando, diante dele todos os povos e as famílias das nações. Pois ao Senhor é que pertence a realeza; ele domina sobre todas as nações. Somente a ele adorarão os poderosos."
+              "text": "Ao Senhor eu peço apenas uma coisa, e é só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida; saborear a suavidade do Senhor e contemplá-lo no seu templo."
             }
           ]
         },
@@ -114,7 +111,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Toda a minha descendência há de servi-lo; às futuras gerações anunciará, o poder e a justiça do Senhor; ao povo novo que há de vir, ela dirá: \"Eis a obra que o Senhor realizou!\""
+              "text": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes. Espera no Senhor e tem coragem, espera no Senhor!"
             }
           ]
         }
@@ -123,7 +120,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 14,15-24",
+      "reference": "Lc 14,25-33",
       "lines": [
         {
           "role": "versicle",
@@ -137,7 +134,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o senhor."
+              "text": "Felizes sereis vós, se fordes ultrajados por causa de Jesus, pois repousa sobre vós o Espírito de Deus."
             }
           ]
         },
@@ -164,44 +161,36 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "15",
-              "text": "um homem que estava à mesa, disse a Jesus: \"Feliz aquele que come o pão no Reino de Deus!\""
+              "verse": "25",
+              "text": "grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse:"
             },
             {
-              "verse": "16",
-              "text": "Jesus respondeu: \"Um homem deu um grande banquete e convidou muitas pessoas."
+              "verse": "26",
+              "text": "\"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo."
             },
             {
-              "verse": "17",
-              "text": "Na hora do banquete, mandou seu empregado dizer aos convidados: 'Vinde, pois tudo está pronto'."
+              "verse": "27",
+              "text": "Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo."
             },
             {
-              "verse": "18",
-              "text": "Mas todos, um a um, começaram a dar desculpas. O primeiro disse: 'Comprei um campo, e preciso ir vê-lo. Peço-te que aceites minhas desculpas'."
+              "verse": "28",
+              "text": "Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário,"
             },
             {
-              "verse": "19",
-              "text": "Um outro disse: 'Comprei cinco juntas de bois, e vou experimentá-las. Peço-te que aceites minhas desculpas'."
+              "verse": "29",
+              "text": "ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo:"
             },
             {
-              "verse": "20",
-              "text": "Um terceiro disse: 'Acabo de me casar e, por isso, não posso ir'."
+              "verse": "30",
+              "text": "'Este homem começou a construir e não foi capaz de acabar!'"
             },
             {
-              "verse": "21",
-              "text": "O empregado voltou e contou tudo ao patrão. Então o dono da casa ficou muito zangado e disse ao empregado: 'Sai depressa pelas praças e ruas da cidade. Traze para cá os pobres, os aleijados, os cegos e os coxos'."
+              "verse": "31",
+              "text": "Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? 32 Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz."
             },
             {
-              "verse": "22",
-              "text": "O empregado disse: 'Senhor, o que tu mandaste fazer foi feito, e ainda há lugar'."
-            },
-            {
-              "verse": "23",
-              "text": "O patrão disse ao empregado: 'Sai pelas estradas e atalhos, e obriga as pessoas a virem aqui, para que minha casa fique cheia'."
-            },
-            {
-              "verse": "24",
-              "text": "Pois eu vos digo: nenhum daqueles que foram convidados provará do meu banquete'\"."
+              "verse": "33",
+              "text": "Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
             }
           ]
         },
