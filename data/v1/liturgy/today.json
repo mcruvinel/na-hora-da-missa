@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T10:57:09-03:00",
+  "generatedAt": "2026-11-05T11:16:26-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-04",
-  "celebration": "São Carlos Borromeu, bispo – Memória",
-  "color": "branco",
+  "date": "2026-11-05",
+  "celebration": "31ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Fl 2,12-18",
+      "reference": "Fl 3,3-8a",
       "lines": [
         {
           "role": "rubric",
@@ -23,32 +23,31 @@
           "role": "text",
           "segments": [
             {
-              "verse": "12",
-              "text": "Meus queridos, como sempre fostes obedientes, não só em minha presença, mas ainda mais agora na minha ausência, trabalhai para a vossa salvação, com temor e tremor."
+              "text": "Irmãos,"
             },
             {
-              "verse": "13",
-              "text": "Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente."
+              "verse": "3",
+              "text": "os verdadeiros circuncidados somos nós, que prestamos culto pelo Espírito de Deus, colocamos a nossa glória em Cristo Jesus e não pomos confiança na carne."
             },
             {
-              "verse": "14",
-              "text": "Fazei tudo sem reclamar ou murmurar,"
+              "verse": "4",
+              "text": "Aliás, também eu poderia pôr minha confiança na carne. Pois, se algum outro pensa que pode confiar na carne, eu mais ainda."
             },
             {
-              "verse": "15",
-              "text": "para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo."
+              "verse": "5",
+              "text": "Fui circuncidado no oitavo dia, sou da raça de Israel, da tribo de Benjamim, hebreu filho de hebreus. Em relação à Lei, fariseu,"
             },
             {
-              "verse": "16",
-              "text": "Conservai com firmeza a palavra da vida. Assim, no dia de Cristo, terei a glória de não ter corrido em vão, nem trabalhado inutilmente."
+              "verse": "6",
+              "text": "pelo zelo, perseguidor da Igreja de Deus; quanto à justiça que vem da Lei, sempre irrepreensível."
             },
             {
-              "verse": "17",
-              "text": "E ainda que eu seja oferecido em libação, no sacrifício que é o sagrado serviço de vossa fé, fico feliz e alegro-me com todos vós."
+              "verse": "7",
+              "text": "Mas essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo."
             },
             {
-              "verse": "18",
-              "text": "Vós também, alegrai-vos pelo mesmo motivo e congratulai-vos comigo."
+              "verse": "8a",
+              "text": "Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor."
             }
           ]
         },
@@ -73,13 +72,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 26(27),1.4.13-14 (R. 1a)",
+      "reference": "Sl 104(105),2-3.4-5.6-7 (R. 3b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é minha luz e salvação!"
+              "text": "Exulte o coração dos que buscam o Senhor!"
             }
           ]
         },
@@ -87,7 +86,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor é minha luz e salvação!"
+              "text": "Exulte o coração dos que buscam o Senhor!"
             }
           ]
         },
@@ -95,7 +94,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é minha luz e salvação; de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?"
+              "text": "Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus!"
             }
           ]
         },
@@ -103,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ao Senhor eu peço apenas uma coisa, e é só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida; saborear a suavidade do Senhor e contemplá-lo no seu templo."
+              "text": "Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!"
             }
           ]
         },
@@ -111,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes. Espera no Senhor e tem coragem, espera no Senhor!"
+              "text": "Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra."
             }
           ]
         }
@@ -120,7 +119,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 14,25-33",
+      "reference": "Lc 15,1-10",
       "lines": [
         {
           "role": "versicle",
@@ -134,7 +133,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Felizes sereis vós, se fordes ultrajados por causa de Jesus, pois repousa sobre vós o Espírito de Deus."
+              "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
             }
           ]
         },
@@ -161,36 +160,44 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "25",
-              "text": "grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse:"
+              "verse": "1",
+              "text": "os publicanos e pecadores aproximavam-se de Jesus para o escutar."
             },
             {
-              "verse": "26",
-              "text": "\"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo."
+              "verse": "2",
+              "text": "Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\"."
             },
             {
-              "verse": "27",
-              "text": "Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo."
+              "verse": "3",
+              "text": "Então Jesus contou-lhes esta parábola:"
             },
             {
-              "verse": "28",
-              "text": "Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário,"
+              "verse": "4",
+              "text": "\"Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la?"
             },
             {
-              "verse": "29",
-              "text": "ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo:"
+              "verse": "5",
+              "text": "Quando a encontra, coloca-a nos ombros com alegria,"
             },
             {
-              "verse": "30",
-              "text": "'Este homem começou a construir e não foi capaz de acabar!'"
+              "verse": "6",
+              "text": "e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!'"
             },
             {
-              "verse": "31",
-              "text": "Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? 32 Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz."
+              "verse": "7",
+              "text": "Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão."
             },
             {
-              "verse": "33",
-              "text": "Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+              "verse": "8",
+              "text": "E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la?"
+            },
+            {
+              "verse": "9",
+              "text": "Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!'"
+            },
+            {
+              "verse": "10",
+              "text": "Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte\"."
             }
           ]
         },
