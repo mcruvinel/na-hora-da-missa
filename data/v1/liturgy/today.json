@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T11:16:26-03:00",
+  "generatedAt": "2026-11-06T03:16:49-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "celebration": "31ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Fl 3,3-8a",
+      "reference": "Fl 3,17-4,1",
       "lines": [
         {
           "role": "rubric",
@@ -23,31 +23,24 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
+              "verse": "17",
+              "text": "Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos."
             },
             {
-              "verse": "3",
-              "text": "os verdadeiros circuncidados somos nós, que prestamos culto pelo Espírito de Deus, colocamos a nossa glória em Cristo Jesus e não pomos confiança na carne."
+              "verse": "18",
+              "text": "Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo."
             },
             {
-              "verse": "4",
-              "text": "Aliás, também eu poderia pôr minha confiança na carne. Pois, se algum outro pensa que pode confiar na carne, eu mais ainda."
+              "verse": "19",
+              "text": "O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas."
             },
             {
-              "verse": "5",
-              "text": "Fui circuncidado no oitavo dia, sou da raça de Israel, da tribo de Benjamim, hebreu filho de hebreus. Em relação à Lei, fariseu,"
+              "verse": "20",
+              "text": "Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo."
             },
             {
-              "verse": "6",
-              "text": "pelo zelo, perseguidor da Igreja de Deus; quanto à justiça que vem da Lei, sempre irrepreensível."
-            },
-            {
-              "verse": "7",
-              "text": "Mas essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo."
-            },
-            {
-              "verse": "8a",
-              "text": "Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor."
+              "verse": "21",
+              "text": "Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1 Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
             }
           ]
         },
@@ -72,13 +65,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 104(105),2-3.4-5.6-7 (R. 3b)",
+      "reference": "Sl 121(122),1-2.3-4a.4b-5 (R. 1)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Exulte o coração dos que buscam o Senhor!"
+              "text": "Que alegria, quando me disseram: Vamos à casa Senhor!"
             }
           ]
         },
@@ -86,7 +79,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Exulte o coração dos que buscam o Senhor!"
+              "text": "Que alegria, quando me disseram: Vamos à casa Senhor!"
             }
           ]
         },
@@ -94,7 +87,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus!"
+              "text": "Que alegria, quando ouvi que me disseram: \"Vamos à casa do Senhor!\" E agora nossos pés já se detêm, Jerusalém, em tuas portas."
             }
           ]
         },
@@ -102,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!"
+              "text": "Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor."
             }
           ]
         },
@@ -110,7 +103,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra."
+              "text": "Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
             }
           ]
         }
@@ -119,7 +112,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 15,1-10",
+      "reference": "Lc 16,1-8",
       "lines": [
         {
           "role": "versicle",
@@ -133,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+              "text": "O amor de Deus se realiza em todo aquele, que guarda sua palavra fielmente."
             }
           ]
         },
@@ -161,43 +154,31 @@
             },
             {
               "verse": "1",
-              "text": "os publicanos e pecadores aproximavam-se de Jesus para o escutar."
+              "text": "Jesus disse aos discípulos: \"Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens."
             },
             {
               "verse": "2",
-              "text": "Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\"."
+              "text": "Ele o chamou e lhe disse: 'Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens'."
             },
             {
               "verse": "3",
-              "text": "Então Jesus contou-lhes esta parábola:"
+              "text": "O administrador então começou a refletir: 'O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha."
             },
             {
               "verse": "4",
-              "text": "\"Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la?"
+              "text": "Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração'."
             },
             {
               "verse": "5",
-              "text": "Quando a encontra, coloca-a nos ombros com alegria,"
-            },
-            {
-              "verse": "6",
-              "text": "e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!'"
+              "text": "Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: 'Quanto deves ao meu patrão?' 6 Ele respondeu: 'Cem barris de óleo!' O administrador disse: 'Pega a tua conta, senta-te, depressa, e escreve cinquenta!'"
             },
             {
               "verse": "7",
-              "text": "Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão."
+              "text": "Depois ele perguntou a outro: 'E tu, quanto deves?' Ele respondeu: 'Cem medidas de trigo'. O administrador disse: 'Pega tua conta e escreve oitenta'."
             },
             {
               "verse": "8",
-              "text": "E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la?"
-            },
-            {
-              "verse": "9",
-              "text": "Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!'"
-            },
-            {
-              "verse": "10",
-              "text": "Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte\"."
+              "text": "E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz\"."
             }
           ]
         },
