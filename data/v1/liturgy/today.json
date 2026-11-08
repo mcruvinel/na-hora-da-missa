@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T03:13:30-03:00",
+  "generatedAt": "2026-11-08T03:13:55-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-07",
-  "celebration": "31ª Semana do Tempo Comum",
+  "date": "2026-11-08",
+  "celebration": "32º Domingo do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Fl 4,10-19",
+      "reference": "Sb 6,12-16",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo aos Filipenses."
+              "text": "Leitura do Livro da Sabedoria."
             }
           ]
         },
@@ -23,47 +23,24 @@
           "role": "text",
           "segments": [
             {
-              "text": "Irmãos,"
-            },
-            {
-              "verse": "10",
-              "text": "Grande foi minha alegria no Senhor, porque afinal vi florescer vosso afeto por mim. Na verdade estava sempre vivo mas faltava-lhe oportunidade de manifestar-se."
-            },
-            {
-              "verse": "11",
-              "text": "Não é por necessidade minha que vos digo, pois aprendi muito bem a contentar-me em qualquer situação."
-            },
-            {
               "verse": "12",
-              "text": "Sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade."
+              "text": "A Sabedoria é resplandecente e sempre viçosa. Ela é facilmente contemplada por aqueles que a amam, e é encontrada por aqueles que a procuram."
             },
             {
               "verse": "13",
-              "text": "Tudo posso naquele que me dá força."
+              "text": "Ela até se antecipa, dando-se a conhecer aos que a desejam."
             },
             {
               "verse": "14",
-              "text": "No entanto, fizestes bem em compartilhar as minhas dificuldades."
+              "text": "Quem por ela madruga não se cansará, pois a encontrará sentada à sua porta."
             },
             {
               "verse": "15",
-              "text": "Filipenses, bem sabeis que, no início da pregação do evangelho, quando parti da Macedônia, nenhuma igreja, a não ser a vossa, se juntou a mim numa relação de crédito."
+              "text": "Meditar sobre ela é a perfeição da prudência; e quem ficar acordado por causa dela em breve há de viver despreocupado."
             },
             {
               "verse": "16",
-              "text": "Já em Tessalônica, mais de uma vez, me enviastes o que eu precisava."
-            },
-            {
-              "verse": "17",
-              "text": "Não que eu procure presentes, porém, o que eu busco é o fruto que cresça no vosso crédito."
-            },
-            {
-              "verse": "18",
-              "text": "Agora, tenho tudo em abundância. Tenho até de sobra, desde que recebi de Epafrodito o vosso donativo, qual perfume suave, sacrifício aceito e agradável a Deus."
-            },
-            {
-              "verse": "19",
-              "text": "O meu Deus proverá esplendidamente com sua riqueza a todas as vossas necessidades, em Cristo Jesus."
+              "text": "Pois ela mesma sai à procura dos que a merecem, cheia de bondade, aparece-lhes nas estradas e vai ao seu encontro em todos os seus projetos."
             }
           ]
         },
@@ -88,13 +65,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 111(112),1-2.5-6.8a e 9 (R. 1a)",
+      "reference": "Sl 62(63),2.3-4.5-6.7-8 (R. 2b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz aquele que respeita o Senhor!"
+              "text": "A minh'alma tem sede de vós, e vos deseja, ó Senhor."
             }
           ]
         },
@@ -102,7 +79,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Feliz aquele que respeita o Senhor!"
+              "text": "A minh'alma tem sede de vós, e vos deseja, ó Senhor."
             }
           ]
         },
@@ -110,7 +87,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!"
+              "text": "Sois vós, ó Senhor, o meu Deus! Desde a aurora ansioso vos busco! A minh'alma tem sede de vós, minha carne também vos deseja, como terra sedenta e sem água!"
             }
           ]
         },
@@ -118,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz o homem caridoso e prestativo, que resolve seus negócios com justiça. Porque jamais vacilará o homem reto, sua lembrança permanece eternamente!"
+              "text": "Venho, assim, contemplar-vos no templo, para ver vossa glória e poder. Vosso amor vale mais do que a vida: e por isso meus lábios vos louvam."
             }
           ]
         },
@@ -126,7 +103,75 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Seu coração está tranquilo e nada teme, e confusos há de ver seus inimigos. Ele reparte com os pobres os seus bens, permanece para sempre o bem que fez, e crescerão a sua glória e seu poder."
+              "text": "Quero, pois, vos louvar pela vida, e elevar para vós minhas mãos! A minh'alma será saciada, como em grande banquete de festa; cantará a alegria em meus lábios."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Penso em vós no meu leito, de noite, nas vigílias suspiro por vós! Para mim fostes sempre um socorro; de vossas asas à sombra eu exulto!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "1Ts 4,13-18",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "verse": "13",
+              "text": "Irmãos: não queremos deixar-vos na incerteza a respeito dos mortos, para que não fiqueis tristes como os outros, que não têm esperança."
+            },
+            {
+              "verse": "14",
+              "text": "Se Jesus morreu e ressuscitou – e esta é nossa fé – de modo semelhante Deus trará de volta, com Cristo, os que através dele entraram no sono da morte."
+            },
+            {
+              "verse": "15",
+              "text": "Isto vos declaramos, segundo a palavra do Senhor: nós que formos deixados com vida para a vinda do Senhor não levaremos vantagem em relação aos que morreram."
+            },
+            {
+              "verse": "16",
+              "text": "Pois o Senhor mesmo, quando for dada a ordem, à voz do arcanjo e ao som da trombeta, descerá do céu, e os que morreram em Cristo ressuscitarão primeiro."
+            },
+            {
+              "verse": "17",
+              "text": "Em seguida, nós que formos deixados com vida seremos arrebatados com eles nas nuvens, para o encontro com o Senhor, nos ares. E assim estaremos sempre com o Senhor."
+            },
+            {
+              "verse": "18",
+              "text": "Exortai-vos, pois, uns aos outros, com essas palavras."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Palavra do Senhor."
+            }
+          ]
+        },
+        {
+          "role": "response",
+          "segments": [
+            {
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -135,7 +180,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 16,9-15",
+      "reference": "Mt 25,1-13",
       "lines": [
         {
           "role": "versicle",
@@ -149,7 +194,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Jesus Cristo, Senhor nosso, embora sendo rico, para nós se tornou pobre, a fim de enriquecer-nos mediante sua pobreza."
+              "text": "É preciso vigiar e ficar de prontidão; em que dia o Senhor há de vir, não sabeis não!"
             }
           ]
         },
@@ -157,7 +202,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -173,35 +218,59 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
+              "text": "Naquele tempo, disse Jesus a seus discípulos esta parábola:"
+            },
+            {
+              "verse": "1",
+              "text": "\"O Reino dos Céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo."
+            },
+            {
+              "verse": "2",
+              "text": "Cinco delas eram imprevidentes, e as outras cinco eram previdentes."
+            },
+            {
+              "verse": "3",
+              "text": "As imprevidentes pegaram as suas lâmpadas, mas não levaram óleo consigo."
+            },
+            {
+              "verse": "4",
+              "text": "As previdentes, porém, levaram vasilhas com óleo junto com as lâmpadas."
+            },
+            {
+              "verse": "5",
+              "text": "O noivo estava demorando, e todas elas acabaram cochilando e dormindo."
+            },
+            {
+              "verse": "6",
+              "text": "No meio da noite, ouviu-se um grito: 'O noivo está chegando. Ide ao seu encontro!'"
+            },
+            {
+              "verse": "7",
+              "text": "Então as dez jovens se levantaram e prepararam as lâmpadas."
+            },
+            {
+              "verse": "8",
+              "text": "As imprevidentes disseram às previdentes: 'Dai-nos um pouco de óleo, porque nossas lâmpadas estão se apagando'."
             },
             {
               "verse": "9",
-              "text": "\"Usai o dinheiro injusto para fazer amigos, pois, quando acabar, eles vos receberão nas moradas eternas."
+              "text": "As previdentes responderam: 'De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós. É melhor irdes comprar dos vendedores'."
             },
             {
               "verse": "10",
-              "text": "Quem é fiel nas pequenas coisas também é fiel nas grandes, e quem é injusto nas pequenas também é injusto nas grandes."
+              "text": "Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento. E a porta se fechou."
             },
             {
               "verse": "11",
-              "text": "Por isso, se vós não sois fiéis no uso do dinheiro injusto, quem vos confiará o verdadeiro bem?"
+              "text": "Por fim, chegaram também as outras jovens e disseram: 'Senhor! Senhor! Abre-nos a porta!'"
             },
             {
               "verse": "12",
-              "text": "E se não sois fiéis no que é dos outros, quem vos dará aquilo que é vosso?"
+              "text": "Ele, porém, respondeu: 'Em verdade eu vos digo: Não vos conheço!'"
             },
             {
               "verse": "13",
-              "text": "Ninguém pode servir a dois senhores. porque ou odiará um e amará o outro, ou se apegará a um e desprezará o outro. Vós não podeis servir a Deus e ao dinheiro\"."
-            },
-            {
-              "verse": "14",
-              "text": "Os fariseus, que eram amigos do dinheiro, ouviam tudo isso e riam de Jesus."
-            },
-            {
-              "verse": "15",
-              "text": "Então, Jesus lhes disse: \"Vós gostais de parecer justos diante dos homens, mas Deus conhece vossos corações. Com efeito, o que é importante para os homens, é detestável para Deus\"."
+              "text": "Portanto, ficai vigiando, pois não sabeis qual será o dia, nem a hora\"."
             }
           ]
         },
