@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T03:15:31-03:00",
+  "generatedAt": "2026-11-11T03:15:53-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-10",
-  "celebration": "São Leão Magno, papa e doutor da Igreja – Memória",
+  "date": "2026-11-11",
+  "celebration": "São Martinho de Tours, bispo – Memória",
   "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Tt 2,1-8.11-14",
+      "reference": "Tt 3,1-7",
       "lines": [
         {
           "role": "rubric",
@@ -27,51 +27,31 @@
             },
             {
               "verse": "1",
-              "text": "o teu ensino seja conforme à sã doutrina."
+              "text": "admoesta a todos que vivam submissos aos príncipes e às autoridades, que lhes obedeçam e estejam prontos para qualquer boa obra."
             },
             {
               "verse": "2",
-              "text": "Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência."
+              "text": "Não injuriem a ninguém, sejam pacíficos, afáveis e deem provas de mansidão para com todos os homens."
             },
             {
               "verse": "3",
-              "text": "Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem."
+              "text": "Porque nós outrora éramos insensatos, rebeldes, extraviados, escravos de toda sorte de paixões e prazeres, vivendo na maldade e na inveja, dignos de ódio e odiando uns aos outros."
             },
             {
               "verse": "4",
-              "text": "Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos,"
+              "text": "Mas um dia manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens:"
             },
             {
               "verse": "5",
-              "text": "a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada."
+              "text": "Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia; quando renascemos e fomos renovados no batismo pelo Espírito Santo,"
             },
             {
               "verse": "6",
-              "text": "Exorta igualmente os jovens a serem moderados"
+              "text": "que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo."
             },
             {
               "verse": "7",
-              "text": "e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação,"
-            },
-            {
-              "verse": "8",
-              "text": "de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós."
-            },
-            {
-              "verse": "11",
-              "text": "Pois a graça de Deus se manifestou trazendo salvação para todos os homens."
-            },
-            {
-              "verse": "12",
-              "text": "Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade,"
-            },
-            {
-              "verse": "13",
-              "text": "aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo."
-            },
-            {
-              "verse": "14",
-              "text": "Ele se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem."
+              "text": "Justificados, assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna."
             }
           ]
         },
@@ -96,13 +76,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 36(37),3-4.18-23.27 e 29 (R. 39a)",
+      "reference": "Sl 22(23),1-3a.3b-4.5.6 (R. 1)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "A salvação de quem é justo, vem de Deus!"
+              "text": "O Senhor é o pastor que me conduz, não me falta coisa alguma."
             }
           ]
         },
@@ -110,7 +90,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "A salvação de quem é justo, vem de Deus!"
+              "text": "O Senhor é o pastor que me conduz, não me falta coisa alguma."
             }
           ]
         },
@@ -118,7 +98,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração."
+              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."
             }
           ]
         },
@@ -126,7 +106,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor cuida da vida dos honestos, e sua herança permanece eternamente. É o Senhor quem firma os passos dos mortais e dirige o caminhar dos que lhe agradam."
+              "text": "Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!"
             }
           ]
         },
@@ -134,7 +114,15 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Afasta-te do mal e faze o bem, e terás tua morada para sempre. mas os justos herdarão a nova terra e nela habitarão eternamente."
+              "text": "Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Felicidade e todo bem hão de seguir-me, por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos."
             }
           ]
         }
@@ -143,7 +131,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 17,7-10",
+      "reference": "Lc 17,11-19",
       "lines": [
         {
           "role": "versicle",
@@ -157,7 +145,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Quem me ama, realmente, guardará minha palavra, e meu Pai o amará e a ele nós viremos."
+              "text": "Em tudo dai graças, pois esta é a vontade de Deus para convosco, em Cristo, o Senhor."
             }
           ]
         },
@@ -181,23 +169,40 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus:"
+              "verse": "11",
+              "text": "Aconteceu que, caminhando para Jerusalém, Jesus passava entre a Samaria e a Galileia."
             },
             {
-              "verse": "7",
-              "text": "\"Se algum de vós tem um empregado que trabalha a terra ou cuida dos animais, por acaso vai dizer-lhe, quando ele volta do campo: 'Vem depressa para a mesa?'"
+              "verse": "12",
+              "text": "Quando estava para entrar num povoado, dez leprosos vieram ao seu encontro. Pararam à distância,"
             },
             {
-              "verse": "8",
-              "text": "Pelo contrário, não vai dizer ao empregado: 'Prepara-me o jantar, cinge-te e serve-me, enquanto eu como e bebo; depois disso tu poderás comer e beber?'"
+              "verse": "13",
+              "text": "e gritaram: \"Jesus, Mestre, tem compaixão de nós!\""
             },
             {
-              "verse": "9",
-              "text": "Será que vai agradecer ao empregado, porque fez o que lhe havia mandado?"
+              "verse": "14",
+              "text": "Ao vê-los, Jesus disse: \"Ide apresentar-vos aos sacerdotes\". Enquanto caminhavam, aconteceu que ficaram curados."
             },
             {
-              "verse": "10",
-              "text": "Assim também vós: quando tiverdes feito tudo o que vos mandaram, dizei: 'Somos servos inúteis; fizemos o que devíamos fazer' \"."
+              "verse": "15",
+              "text": "Um deles, ao perceber que estava curado, voltou glorificando a Deus em alta voz;"
+            },
+            {
+              "verse": "16",
+              "text": "atirou-se aos pés de Jesus, com o rosto por terra, e lhe agradeceu. E este era um samaritano."
+            },
+            {
+              "verse": "17",
+              "text": "Então Jesus lhe perguntou: \"Não foram dez os curados? E os outro nove, onde estão?"
+            },
+            {
+              "verse": "18",
+              "text": "Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?\""
+            },
+            {
+              "verse": "19",
+              "text": "E disse-lhe: \"Levanta-te e vai! Tua fé te salvou\"."
             }
           ]
         },
