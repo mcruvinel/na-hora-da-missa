@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T03:15:53-03:00",
+  "generatedAt": "2026-11-12T03:16:12-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-11",
-  "celebration": "São Martinho de Tours, bispo – Memória",
-  "color": "branco",
+  "date": "2026-11-12",
+  "celebration": "São Josafá, bispo e mártir – Memória",
+  "color": "vermelho",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Tt 3,1-7",
+      "reference": "Fm 1,7-20",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Carta de São Paulo a Tito."
+              "text": "Leitura da Carta de São Paulo a Filêmon."
             }
           ]
         },
@@ -26,32 +26,60 @@
               "text": "Caríssimo,"
             },
             {
-              "verse": "1",
-              "text": "admoesta a todos que vivam submissos aos príncipes e às autoridades, que lhes obedeçam e estejam prontos para qualquer boa obra."
-            },
-            {
-              "verse": "2",
-              "text": "Não injuriem a ninguém, sejam pacíficos, afáveis e deem provas de mansidão para com todos os homens."
-            },
-            {
-              "verse": "3",
-              "text": "Porque nós outrora éramos insensatos, rebeldes, extraviados, escravos de toda sorte de paixões e prazeres, vivendo na maldade e na inveja, dignos de ódio e odiando uns aos outros."
-            },
-            {
-              "verse": "4",
-              "text": "Mas um dia manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens:"
-            },
-            {
-              "verse": "5",
-              "text": "Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia; quando renascemos e fomos renovados no batismo pelo Espírito Santo,"
-            },
-            {
-              "verse": "6",
-              "text": "que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo."
-            },
-            {
               "verse": "7",
-              "text": "Justificados, assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna."
+              "text": "grande alegria e consolo tive por causa de tua caridade. Os corações dos santos foram reanimados por ti, irmão."
+            },
+            {
+              "verse": "8",
+              "text": "Por este motivo, se bem que tenha plena autoridade em Cristo para prescrever-te tua obrigação,"
+            },
+            {
+              "verse": "9",
+              "text": "prefiro fazer apenas um apelo à tua caridade. Eu, Paulo, velho como estou e agora também prisioneiro de Cristo Jesus,"
+            },
+            {
+              "verse": "10",
+              "text": "faço-te um pedido em favor do meu filho que fiz nascer para Cristo na prisão, Onésimo."
+            },
+            {
+              "verse": "11",
+              "text": "Antes, ele era inútil para ti; agora, ele é valioso para ti e para mim."
+            },
+            {
+              "verse": "12",
+              "text": "Eu o estou mandando de volta para ti. Ele é como se fosse o meu próprio coração."
+            },
+            {
+              "verse": "13",
+              "text": "Gostaria de tê-lo comigo, a fim de que fosse teu representante para cuidar de mim nesta prisão, que eu devo ao evangelho."
+            },
+            {
+              "verse": "14",
+              "text": "Mas, eu não quis fazer nada sem o teu parecer, para que a tua bondade não seja forçada, mas espontânea."
+            },
+            {
+              "verse": "15",
+              "text": "Se ele te foi retirado por algum tempo, talvez seja para que o tenhas de volta para sempre,"
+            },
+            {
+              "verse": "16",
+              "text": "já não como escravo, mas, muito mais do que isso, como um irmão querido, muitíssimo querido para mim quanto mais ele o for para ti, tanto como pessoa humana quanto como irmão no Senhor."
+            },
+            {
+              "verse": "17",
+              "text": "Assim, se estás em comunhão de fé comigo, recebe-o como se fosse a mim mesmo."
+            },
+            {
+              "verse": "18",
+              "text": "Se em alguma coisa te prejudicou ou se alguma coisa te deve, põe em minha conta."
+            },
+            {
+              "verse": "19",
+              "text": "Eu, Paulo, de meu punho o escrevo; eu o pagarei, para não dizer que tu mesmo me deves a própria vida."
+            },
+            {
+              "verse": "20",
+              "text": "Sim, irmão, deixa que eu te explore no Senhor. Conforta em Cristo meu coração."
             }
           ]
         },
@@ -76,13 +104,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 22(23),1-3a.3b-4.5.6 (R. 1)",
+      "reference": "Sl 145(146),7.8-9a.9bc-10 (R. 5a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+              "text": "Feliz quem se apoia no Deus de Jacó!"
             }
           ]
         },
@@ -90,7 +118,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz, não me falta coisa alguma."
+              "text": "Feliz quem se apoia no Deus de Jacó!"
             }
           ]
         },
@@ -98,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."
+              "text": "O Senhor faz justiça aos que são oprimidos; ele dá alimento aos famintos, é o Senhor quem liberta os cativos."
             }
           ]
         },
@@ -106,7 +134,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!"
+              "text": "O Senhor abre os olhos aos cegos, o Senhor faz erguer-se o caído, o Senhor ama aquele que é justo. É o Senhor quem protege o estrangeiro;"
             }
           ]
         },
@@ -114,15 +142,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Felicidade e todo bem hão de seguir-me, por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos."
+              "text": "É ele quem ampara a viúva e o órfão, mas confunde os caminhos dos maus. O Senhor reinará para sempre! Ó Sião, o teu Deus reinará para sempre e por todos os séculos!"
             }
           ]
         }
@@ -131,7 +151,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 17,11-19",
+      "reference": "Lc 17,20-25",
       "lines": [
         {
           "role": "versicle",
@@ -145,7 +165,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Em tudo dai graças, pois esta é a vontade de Deus para convosco, em Cristo, o Senhor."
+              "text": "Eu sou a videira e vós sois os ramos; um fruto abundante vós haveis de dar."
             }
           ]
         },
@@ -169,40 +189,31 @@
           "role": "text",
           "segments": [
             {
-              "verse": "11",
-              "text": "Aconteceu que, caminhando para Jerusalém, Jesus passava entre a Samaria e a Galileia."
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "12",
-              "text": "Quando estava para entrar num povoado, dez leprosos vieram ao seu encontro. Pararam à distância,"
+              "verse": "20",
+              "text": "os fariseus perguntaram a Jesus sobre o momento em que chegaria o Reino de Deus. Jesus respondeu: \"O Reino de Deus não vem ostensivamente."
             },
             {
-              "verse": "13",
-              "text": "e gritaram: \"Jesus, Mestre, tem compaixão de nós!\""
+              "verse": "21",
+              "text": "Nem se poderá dizer: 'Está aqui' ou 'Está ali', porque o Reino de Deus está entre vós\"."
             },
             {
-              "verse": "14",
-              "text": "Ao vê-los, Jesus disse: \"Ide apresentar-vos aos sacerdotes\". Enquanto caminhavam, aconteceu que ficaram curados."
+              "verse": "22",
+              "text": "E Jesus disse aos discípulos: \"Dias virão em que desejareis ver um só dia do Filho do Homem e não podereis ver."
             },
             {
-              "verse": "15",
-              "text": "Um deles, ao perceber que estava curado, voltou glorificando a Deus em alta voz;"
+              "verse": "23",
+              "text": "As pessoas vos dirão: 'Ele está ali' ou 'Ele está aqui'. Não deveis ir, nem correr atrás."
             },
             {
-              "verse": "16",
-              "text": "atirou-se aos pés de Jesus, com o rosto por terra, e lhe agradeceu. E este era um samaritano."
+              "verse": "24",
+              "text": "Pois, como o relâmpago brilha de um lado até ao outro do céu, assim também será o Filho do Homem, no seu dia."
             },
             {
-              "verse": "17",
-              "text": "Então Jesus lhe perguntou: \"Não foram dez os curados? E os outro nove, onde estão?"
-            },
-            {
-              "verse": "18",
-              "text": "Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?\""
-            },
-            {
-              "verse": "19",
-              "text": "E disse-lhe: \"Levanta-te e vai! Tua fé te salvou\"."
+              "verse": "25",
+              "text": "Antes, porém, ele deverá sofrer muito e ser rejeitado por esta geração\"."
             }
           ]
         },
