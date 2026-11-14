@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T03:15:40-03:00",
+  "generatedAt": "2026-11-14T03:13:45-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "celebration": "32ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "2Jo 1,4-9",
+      "reference": "3Jo 1,5-8",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Segunda Carta de São João."
+              "text": "Leitura da Terceira Carta de São João."
             }
           ]
         },
@@ -23,28 +23,20 @@
           "role": "text",
           "segments": [
             {
-              "verse": "4",
-              "text": "Muito me alegrei, Senhora, por ter encontrado alguns dos teus filhos que caminham conforme a verdade, segundo o mandamento que recebemos do Pai."
-            },
-            {
               "verse": "5",
-              "text": "E agora, Senhora, eu te peço - não que te esteja escrevendo a respeito de um novo mandamento, pois trata-se daquele que temos desde o princípio - : amemo-nos uns aos outros."
+              "text": "Caríssimo Gaio, é muito leal o teu proceder, agindo assim com teus irmãos, ainda que estrangeiros."
             },
             {
               "verse": "6",
-              "text": "E amar consiste no seguinte: em viver conforme os seus mandamentos. Este é o mandamento que ouvistes desde o início para guiar o vosso proceder."
+              "text": "Eles deram testemunho da tua caridade diante da Igreja. Farás bem em provê-los para a viagem de um modo digno de Deus."
             },
             {
               "verse": "7",
-              "text": "Acontece que se espalharam pelo mundo muitos sedutores, que não confessam a Jesus Cristo encarnado. Está aí o Sedutor, o Anticristo."
+              "text": "Pois, por amor do Nome, eles empreenderam a viagem, sem aceitar nada da parte dos pagãos."
             },
             {
               "verse": "8",
-              "text": "Tomai cuidado, se não quereis perder o fruto do vosso trabalho, mas sim, receber a plena recompensa."
-            },
-            {
-              "verse": "9",
-              "text": "Todo o que não permanece na doutrina de Cristo, mas passa além, não possui a Deus. Aquele que permanece na doutrina é o que possui o Pai e o Filho."
+              "text": "A nós, portanto, cabe acolhê-los, para sermos cooperadores da Verdade."
             }
           ]
         },
@@ -69,13 +61,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 118(119),1.2.10.11.17.18 (R. 1b)",
+      "reference": "Sl 111(112),1-2.3-4.5-6 (R. 1)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz é quem na lei do Senhor Deus vai progredindo!"
+              "text": "Feliz aquele que respeita o Senhor!"
             }
           ]
         },
@@ -83,7 +75,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Feliz é quem na lei do Senhor Deus vai progredindo!"
+              "text": "Feliz aquele que respeita o Senhor!"
             }
           ]
         },
@@ -91,7 +83,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo!"
+              "text": "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!"
             }
           ]
         },
@@ -99,7 +91,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz o homem que observa seus preceitos, e de todo o coração procura a Deus!"
+              "text": "Haverá glória e riqueza em sua casa, e permanece para sempre o bem que fez. Ele é correto, generoso e compassivo, como luz brilha nas trevas para os justos."
             }
           ]
         },
@@ -107,31 +99,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "De todo o coração eu vos procuro, não deixeis que eu abandone a vossa lei!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Conservei no coração vossas palavras, a fim de que eu não peque contra vós."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Sede bom com vosso servo, e viverei, e guardarei vossa palavra, ó Senhor."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Abri meus olhos, e então contemplarei as maravilhas que encerra a vossa lei!"
+              "text": "Feliz o homem caridoso e prestativo, que resolve seus negócios com justiça. Porque jamais vacilará o homem reto, sua lembrança permanece eternamente!"
             }
           ]
         }
@@ -140,7 +108,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 17,26-37",
+      "reference": "Lc 18,1-8",
       "lines": [
         {
           "role": "versicle",
@@ -154,7 +122,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Levantai vossa cabeça e olhai, pois a vossa redenção se aproxima!"
+              "text": "Pelo evangelho o Pai nos chamou, a fim de alcançarmos a glória de nosso Senhor Jesus Cristo."
             }
           ]
         },
@@ -178,55 +146,39 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "26",
-              "text": "\"Como aconteceu nos dias de Noé, assim também acontecerá nos dias do Filho do Homem."
+              "verse": "1",
+              "text": "Jesus contou aos discípulos uma parábola, para mostrar-lhes a necessidade de rezar sempre, e nunca desistir, dizendo:"
             },
             {
-              "verse": "27",
-              "text": "Eles comiam, bebiam, casavam-se e se davam em casamento, até ao dia em que Noé entrou na arca. Então chegou o dilúvio e fez morrer todos eles."
+              "verse": "2",
+              "text": "\"Numa cidade havia um juiz que não temia a Deus, e não respeitava homem algum."
             },
             {
-              "verse": "28",
-              "text": "Acontecerá como nos dias de Ló: comiam e bebiam, compravam e vendiam, plantavam e construíam."
+              "verse": "3",
+              "text": "Na mesma cidade havia uma viúva, que vinha à procura do juiz, pedindo: 'Faze-me justiça contra o meu adversário!'"
             },
             {
-              "verse": "29",
-              "text": "Mas no dia em que Ló saiu de Sodoma, Deus fez chover fogo e enxofre do céu e fez morrer todos."
+              "verse": "4",
+              "text": "Durante muito tempo, o juiz se recusou. Por fim, ele pensou: 'Eu não temo a Deus, e não respeito homem algum."
             },
             {
-              "verse": "30",
-              "text": "O mesmo acontecerá no dia em que o Filho do Homem for revelado."
+              "verse": "5",
+              "text": "Mas esta viúva já me está aborrecendo. Vou fazer-lhe justiça, para que ela não venha a agredir-me!' ''"
             },
             {
-              "verse": "31",
-              "text": "Nesse dia, quem estiver no terraço, não desça para apanhar os bens que estão em sua casa. E quem estiver nos campos não volte para trás."
+              "verse": "6",
+              "text": "E o Senhor acrescentou: \"Escutai o que diz este juiz injusto."
             },
             {
-              "verse": "32",
-              "text": "Lembrai-vos da mulher de Ló."
+              "verse": "7",
+              "text": "E Deus, não fará justiça aos seus escolhidos, que dia e noite gritam por ele? Será que vai fazê-los esperar?"
             },
             {
-              "verse": "33",
-              "text": "Quem procura ganhar a sua vida, vai perdê-la; e quem a perde, vai conservá-la."
-            },
-            {
-              "verse": "34",
-              "text": "Eu vos digo: nessa noite, dois estarão numa cama; um será tomado e o outro será deixado."
-            },
-            {
-              "verse": "35",
-              "text": "Duas mulheres estarão moendo juntas; uma será tomada e a outra será deixada."
-            },
-            {
-              "verse": "36",
-              "text": "Dois homens estarão no campo; um será levado e o outro será deixado\"."
-            },
-            {
-              "verse": "37",
-              "text": "Os discípulos perguntaram: \"Senhor, onde acontecerá isso?\" Jesus respondeu: \"Onde estiver o cadáver, aí se reunirão os abutres\"."
+              "verse": "8",
+              "text": "Eu vos digo que Deus lhes fará justiça bem depressa. Mas o Filho do homem, quando vier, será que ainda vai encontrar fé sobre a terra?\""
             }
           ]
         },
