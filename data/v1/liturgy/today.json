@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T03:14:21-03:00",
+  "generatedAt": "2026-11-16T03:24:46-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-15",
-  "celebration": "33º Domingo do Tempo Comum",
+  "date": "2026-11-16",
+  "celebration": "33ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Pr 31,10-13.19-20.30-31",
+      "reference": "Ap 1,1-4.2,1-5a",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro dos Provérbios."
+              "text": "Início do Livro do Apocalipse de São João."
             }
           ]
         },
@@ -23,36 +23,36 @@
           "role": "text",
           "segments": [
             {
-              "verse": "10",
-              "text": "Uma mulher forte, quem a encontrará? Ela vale muito mais do que as joias."
+              "verse": "1",
+              "text": "Revelação que Deus confiou a Jesus Cristo, para que mostre aos seus servos as coisas que devem acontecer em breve. Jesus as deu a conhecer, através do seu anjo, ao seu servo João."
             },
             {
-              "verse": "11",
-              "text": "Seu marido confia nela plenamente, e não terá falta de recursos."
+              "verse": "2",
+              "text": "Este dá testemunho que tudo quanto viu é palavra de Deus e testemunho de Jesus Cristo."
             },
             {
-              "verse": "12",
-              "text": "Ela lhe dá só alegria e nenhum desgosto, todos os dias de sua vida."
+              "verse": "3",
+              "text": "Feliz aquele que lê e aqueles que escutam as palavras desta profecia e também praticam o que nela está escrito. Pois o momento está chegando."
             },
             {
-              "verse": "13",
-              "text": "Procura lã e linho, e com habilidade trabalham as suas mãos."
+              "verse": "4",
+              "text": "João às sete Igrejas que estão na região da Ásia: A vós, graça e paz, da parte daquele que é, que era e que vem; da parte dos sete espíritos que estão diante do trono de Deus. 2,1 Ouvi o Senhor que me dizia: Escreve ao anjo da Igreja que está em Éfeso: Assim fala aquele que tem na mão direita as sete estrelas, aquele que está andando no meio dos sete candelabros de ouro:"
             },
             {
-              "verse": "19",
-              "text": "Estende a mão para a roca, e seus dedos seguram o fuso."
+              "verse": "2",
+              "text": "Conheço a tua conduta, o teu esforço e a tua perseverança. Sei que não suportas os maus. Colocaste à prova alguns que se diziam apóstolos e descobriste que não eram apóstolos, mas mentirosos."
             },
             {
-              "verse": "20",
-              "text": "Abre suas mãos ao necessitado e estende suas mãos ao pobre."
+              "verse": "3",
+              "text": "És perseverante. Sofreste por causa do meu nome e não desanimaste."
             },
             {
-              "verse": "30",
-              "text": "O encanto é enganador e a beleza é passageira; a mulher que teme ao Senhor, essa sim, merece louvor."
+              "verse": "4",
+              "text": "Todavia, há uma coisa que eu reprovo: abandonaste o teu primeiro amor."
             },
             {
-              "verse": "31",
-              "text": "Proclamem o êxito de suas mãos, e na praça louvem-na as suas obras!"
+              "verse": "5a",
+              "text": "Lembra-te de onde caíste! Converte-te e volta à tua prática inicial. Se, pelo contrário, não te converteres, virei depressa e arrancarei o teu candelabro do seu lugar"
             }
           ]
         },
@@ -77,13 +77,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 127(128),1-2.3.4-5ab (R. cf. 1a)",
+      "reference": "Sl 1,1-2.3.4 e 6 (R. Ap 2,7b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Felizes os que temem o Senhor e trilham seus caminhos!"
+              "text": "Ao vencedor concederei, comer da Árvore da Vida!"
             }
           ]
         },
@@ -91,7 +91,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Felizes os que temem o Senhor e trilham seus caminhos!"
+              "text": "Ao vencedor concederei, comer da Árvore da Vida!"
             }
           ]
         },
@@ -99,7 +99,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz és tu, se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!"
+              "text": "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar."
             }
           ]
         },
@@ -107,7 +107,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa."
+              "text": "Eis que ele é semelhante a uma árvore, que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar."
             }
           ]
         },
@@ -115,67 +115,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "kind": "second",
-      "title": "Segunda Leitura",
-      "reference": "1Ts 5,1-6",
-      "lines": [
-        {
-          "role": "rubric",
-          "segments": [
-            {
-              "text": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses."
-            }
-          ]
-        },
-        {
-          "role": "text",
-          "segments": [
-            {
-              "verse": "1",
-              "text": "Quanto ao tempo e à hora, meus irmãos, não há por que vos escrever."
-            },
-            {
-              "verse": "2",
-              "text": "Vós mesmos sabeis perfeitamente que o dia do Senhor virá como ladrão, de noite."
-            },
-            {
-              "verse": "3",
-              "text": "Quando as pessoas disserem: \"Paz e segurança!\", então de repente sobrevirá a destruição, como as dores de parto sobre a mulher grávida. E não poderão escapar."
-            },
-            {
-              "verse": "4",
-              "text": "Mas vós, meus irmãos, não estais nas trevas, de modo que esse dia vos surpreenda como um ladrão."
-            },
-            {
-              "verse": "5",
-              "text": "Todos vós sois filhos da luz e filhos do dia. Não somos da noite, nem das trevas."
-            },
-            {
-              "verse": "6",
-              "text": "Portanto, não durmamos, como os outros, mas sejamos vigilantes e sóbrios."
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Palavra do Senhor."
-            }
-          ]
-        },
-        {
-          "role": "response",
-          "segments": [
-            {
-              "text": "Graças a Deus."
+              "text": "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
             }
           ]
         }
@@ -184,7 +124,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 25,14-30",
+      "reference": "Lc 18,35-43",
       "lines": [
         {
           "role": "versicle",
@@ -198,7 +138,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ficai em mim, e eu em vós hei de ficar, diz o Senhor; quem em mim permanece, esse dá muito fruto."
+              "text": "Eu sou a luz do mundo; aquele que me segue não caminha entre as trevas, mas terá a luz da vida."
             }
           ]
         },
@@ -206,7 +146,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
             }
           ]
         },
@@ -222,75 +162,40 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo, Jesus contou esta parábola a seus discípulos:"
+              "verse": "35",
+              "text": "Quando Jesus se aproximava de Jericó, um cego estava sentado à beira do caminho, pedindo esmolas."
             },
             {
-              "verse": "14",
-              "text": "\"Um homem ia viajar para o estrangeiro. Chamou seus empregados e lhes entregou seus bens."
+              "verse": "36",
+              "text": "Ouvindo a multidão passar, ele perguntou o que estava acontecendo."
             },
             {
-              "verse": "15",
-              "text": "A um deu cinco talentos, a outro deu dois e ao terceiro, um; a cada qual de acordo com a sua capacidade. Em seguida viajou."
+              "verse": "37",
+              "text": "Disseram-lhe que Jesus Nazareno estava passando por ali."
             },
             {
-              "verse": "16",
-              "text": "O empregado que havia recebido cinco talentos saiu logo, trabalhou com eles, e lucrou outros cinco."
+              "verse": "38",
+              "text": "Então o cego gritou: \"Jesus, filho de Davi, tem piedade de mim!\""
             },
             {
-              "verse": "17",
-              "text": "Do mesmo modo, o que havia recebido dois lucrou outros dois."
+              "verse": "39",
+              "text": "As pessoas que iam na frente mandavam que ele ficasse calado. Mas ele gritava mais ainda: \"Filho de Davi, tem piedade de mim!\""
             },
             {
-              "verse": "18",
-              "text": "Mas aquele que havia recebido um só, saiu, cavou um buraco na terra, e escondeu o dinheiro do seu patrão."
+              "verse": "40",
+              "text": "Jesus parou e mandou que levassem o cego até ele. Quando o cego chegou perto, Jesus perguntou:"
             },
             {
-              "verse": "19",
-              "text": "Depois de muito tempo, o patrão voltou e foi acertar contas com os empregados."
+              "verse": "41",
+              "text": "\"O que queres que eu faça por ti?\" O cego respondeu: \"Senhor, eu quero enxergar de novo\"."
             },
             {
-              "verse": "20",
-              "text": "O empregado que havia recebido cinco talentos entregou-lhe mais cinco, dizendo: 'Senhor, tu me entregaste cinco talentos. Aqui estão mais cinco que lucrei'."
+              "verse": "42",
+              "text": "Jesus disse: \"Enxerga, pois, de novo. A tua fé te salvou.\""
             },
             {
-              "verse": "21",
-              "text": "O patrão lhe disse: 'Muito bem, servo bom e fiel! como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da minha alegria!'"
-            },
-            {
-              "verse": "22",
-              "text": "Chegou também o que havia recebido dois talentos, e disse: 'Senhor, tu me entregaste dois talentos. Aqui estão mais dois que lucrei'."
-            },
-            {
-              "verse": "23",
-              "text": "O patrão lhe disse: 'Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da minha alegria!'"
-            },
-            {
-              "verse": "24",
-              "text": "Por fim, chegou aquele que havia recebido um talento, e disse: 'Senhor, sei que és um homem severo, pois colhes onde não plantaste e ceifas onde não semeaste."
-            },
-            {
-              "verse": "25",
-              "text": "Por isso, fiquei com medo e escondi o teu talento no chão. Aqui tens o que te pertence'."
-            },
-            {
-              "verse": "26",
-              "text": "O patrão lhe respondeu: 'Servo mau e preguiçoso! Tu sabias que eu colho onde não plantei e que ceifo onde não semeei?"
-            },
-            {
-              "verse": "27",
-              "text": "Então, devias ter depositado meu dinheiro no banco, para que, ao voltar, eu recebesse com juros o que me pertence'."
-            },
-            {
-              "verse": "28",
-              "text": "Em seguida, o patrão ordenou: 'Tirai dele o talento e dai-o àquele que tem dez!"
-            },
-            {
-              "verse": "29",
-              "text": "Porque a todo aquele que tem será dado mais, e terá em abundância, mas daquele que não tem, até o que tem lhe será tirado."
-            },
-            {
-              "verse": "30",
-              "text": "Quanto a este servo inútil, jogai-o lá fora, na escuridão. Aí haverá choro e ranger de dentes!'\"."
+              "verse": "43",
+              "text": "No mesmo instante, o cego começou a ver de novo e seguia Jesus, glorificando a Deus. Vendo isso, todo o povo deu louvores a Deus."
             }
           ]
         },
