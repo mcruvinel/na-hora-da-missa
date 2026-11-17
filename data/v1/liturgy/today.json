@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T03:24:46-03:00",
+  "generatedAt": "2026-11-17T03:15:56-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-16",
-  "celebration": "33ª Semana do Tempo Comum",
-  "color": "verde",
+  "date": "2026-11-17",
+  "celebration": "Santa Isabel da Hungria, religiosa – Memória",
+  "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ap 1,1-4.2,1-5a",
+      "reference": "Ap 3,1-6.14-22",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Início do Livro do Apocalipse de São João."
+              "text": "Leitura do Livro do Apocalipse de São João."
             }
           ]
         },
@@ -23,36 +23,67 @@
           "role": "text",
           "segments": [
             {
+              "text": "Eu, João, ouvi o Senhor que me dizia:"
+            },
+            {
               "verse": "1",
-              "text": "Revelação que Deus confiou a Jesus Cristo, para que mostre aos seus servos as coisas que devem acontecer em breve. Jesus as deu a conhecer, através do seu anjo, ao seu servo João."
+              "text": "\"Escreve ao anjo da Igreja que está em Sardes: Assim fala aquele que tem os sete espíritos de Deus e as sete estrelas: - Conheço a tua conduta. Tens fama de estar vivo, mas estás morto."
             },
             {
               "verse": "2",
-              "text": "Este dá testemunho que tudo quanto viu é palavra de Deus e testemunho de Jesus Cristo."
+              "text": "Acorda! Reaviva o que te resta, e que estava para se apagar! Pois não acho suficiente aos olhos do meu Deus aquilo que estás fazendo."
             },
             {
               "verse": "3",
-              "text": "Feliz aquele que lê e aqueles que escutam as palavras desta profecia e também praticam o que nela está escrito. Pois o momento está chegando."
+              "text": "Lembra-te daquilo que tens aprendido e ouvido. Observa-o! Converte-te! Se não estiveres vigilante, eu virei como um ladrão, sem que tu saibas em que hora te vou surpreender!"
             },
             {
               "verse": "4",
-              "text": "João às sete Igrejas que estão na região da Ásia: A vós, graça e paz, da parte daquele que é, que era e que vem; da parte dos sete espíritos que estão diante do trono de Deus. 2,1 Ouvi o Senhor que me dizia: Escreve ao anjo da Igreja que está em Éfeso: Assim fala aquele que tem na mão direita as sete estrelas, aquele que está andando no meio dos sete candelabros de ouro:"
+              "text": "Todavia, aí em Sardes existem algumas pessoas que não sujaram a roupa. Estas vão andar comigo, vestidas de branco, pois merecem isso."
             },
             {
-              "verse": "2",
-              "text": "Conheço a tua conduta, o teu esforço e a tua perseverança. Sei que não suportas os maus. Colocaste à prova alguns que se diziam apóstolos e descobriste que não eram apóstolos, mas mentirosos."
+              "verse": "5",
+              "text": "O vencedor vestirá a roupa branca, e não apagarei o seu nome do livro da vida, mas o apresentarei diante de meu Pai e de seus anjos."
             },
             {
-              "verse": "3",
-              "text": "És perseverante. Sofreste por causa do meu nome e não desanimaste."
+              "verse": "6",
+              "text": "Quem tem ouvidos, ouça o que o Espírito diz às Igrejas."
             },
             {
-              "verse": "4",
-              "text": "Todavia, há uma coisa que eu reprovo: abandonaste o teu primeiro amor."
+              "verse": "14",
+              "text": "Escreve ao anjo da Igreja que está em Laodicéia: Assim fala o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:"
             },
             {
-              "verse": "5a",
-              "text": "Lembra-te de onde caíste! Converte-te e volta à tua prática inicial. Se, pelo contrário, não te converteres, virei depressa e arrancarei o teu candelabro do seu lugar"
+              "verse": "15",
+              "text": "Conheço a tua conduta. nem és frio, nem quente. Oxalá fosses frio ou quente!"
+            },
+            {
+              "verse": "16",
+              "text": "Mas, porque és morno, nem frio nem quente, estou para vomitar-te de minha boca."
+            },
+            {
+              "verse": "17",
+              "text": "Tu dizes: 'Sou rico e abastado e não careço de nada', em vez de reconhecer que tu és infeliz, miserável, pobre, cego e nu!"
+            },
+            {
+              "verse": "18",
+              "text": "Dou-te um conselho: compra de mim ouro purificado no fogo, para ficares rico, e vestes brancas, para vestires e não aparecer a tua nudez vergonhosa; e compra também um colírio para curar os teus olhos, para que enxergues."
+            },
+            {
+              "verse": "19",
+              "text": "Eu repreendo e educo os que eu amo. Esforça-te, pois, e converte-te."
+            },
+            {
+              "verse": "20",
+              "text": "Eis que estou à porta, e bato; se alguém ouvir minha voz e abrir a porta, eu entrarei na sua casa e tomaremos a refeição, eu com ele e ele comigo."
+            },
+            {
+              "verse": "21",
+              "text": "Ao vencedor farei sentar-se comigo no meu trono, como também eu venci e estou sentado com meu Pai no seu trono."
+            },
+            {
+              "verse": "22",
+              "text": "Quem tem ouvidos, ouça o que o Espírito diz às Igrejas\"."
             }
           ]
         },
@@ -77,13 +108,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 1,1-2.3.4 e 6 (R. Ap 2,7b)",
+      "reference": "Sl 14(15),1a e 2-3ab.3cd-4ab.5 (R. Ap 3,21)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Ao vencedor concederei, comer da Árvore da Vida!"
+              "text": "Ao vencedor, dar-lhe-ei o direito de sentar-se comigo no meu trono."
             }
           ]
         },
@@ -91,7 +122,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Ao vencedor concederei, comer da Árvore da Vida!"
+              "text": "Ao vencedor, dar-lhe-ei o direito de sentar-se comigo no meu trono."
             }
           ]
         },
@@ -99,7 +130,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar."
+              "text": "\"Senhor, quem morará em vossa casa?\" É aquele que caminha sem pecado e pratica a justiça fielmente; que pensa a verdade no seu íntimo e não solta em calúnias sua língua."
             }
           ]
         },
@@ -107,7 +138,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eis que ele é semelhante a uma árvore, que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar."
+              "text": "Que em nada prejudica o seu irmão, nem cobre de insultos seu vizinho; que não dá valor algum ao homem ímpio, mas honra os que respeitam o Senhor;"
             }
           ]
         },
@@ -115,7 +146,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+              "text": "não empresta o seu dinheiro com usura, nem se deixa subornar contra o inocente. Jamais vacilará quem vive assim!"
             }
           ]
         }
@@ -124,7 +155,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 18,35-43",
+      "reference": "Lc 19,1-10",
       "lines": [
         {
           "role": "versicle",
@@ -138,7 +169,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Eu sou a luz do mundo; aquele que me segue não caminha entre as trevas, mas terá a luz da vida."
+              "text": "Por amor, Deus enviou-nos o seu filho, como vítima por nossas transgressões."
             }
           ]
         },
@@ -162,40 +193,47 @@
           "role": "text",
           "segments": [
             {
-              "verse": "35",
-              "text": "Quando Jesus se aproximava de Jericó, um cego estava sentado à beira do caminho, pedindo esmolas."
+              "text": "Naquele tempo,"
             },
             {
-              "verse": "36",
-              "text": "Ouvindo a multidão passar, ele perguntou o que estava acontecendo."
+              "verse": "1",
+              "text": "Jesus tinha entrado em Jericó e estava atravessando a cidade."
             },
             {
-              "verse": "37",
-              "text": "Disseram-lhe que Jesus Nazareno estava passando por ali."
+              "verse": "2",
+              "text": "Havia ali um homem chamado Zaqueu, que era chefe dos cobradores de impostos e muito rico."
             },
             {
-              "verse": "38",
-              "text": "Então o cego gritou: \"Jesus, filho de Davi, tem piedade de mim!\""
+              "verse": "3",
+              "text": "Zaqueu procurava ver quem era Jesus, mas não conseguia, por causa da multidão, pois era muito baixo."
             },
             {
-              "verse": "39",
-              "text": "As pessoas que iam na frente mandavam que ele ficasse calado. Mas ele gritava mais ainda: \"Filho de Davi, tem piedade de mim!\""
+              "verse": "4",
+              "text": "Então ele correu à frente e subiu numa figueira para ver Jesus, que devia passar por ali."
             },
             {
-              "verse": "40",
-              "text": "Jesus parou e mandou que levassem o cego até ele. Quando o cego chegou perto, Jesus perguntou:"
+              "verse": "5",
+              "text": "Quando Jesus chegou ao lugar, olhou para cima e disse: \"Zaqueu, desce depressa! Hoje eu devo ficar na tua casa\"."
             },
             {
-              "verse": "41",
-              "text": "\"O que queres que eu faça por ti?\" O cego respondeu: \"Senhor, eu quero enxergar de novo\"."
+              "verse": "6",
+              "text": "Ele desceu depressa, e recebeu Jesus com alegria."
             },
             {
-              "verse": "42",
-              "text": "Jesus disse: \"Enxerga, pois, de novo. A tua fé te salvou.\""
+              "verse": "7",
+              "text": "Ao ver isso, todos começaram a murmurar, dizendo: \"Ele foi hospedar-se na casa de um pecador!\""
             },
             {
-              "verse": "43",
-              "text": "No mesmo instante, o cego começou a ver de novo e seguia Jesus, glorificando a Deus. Vendo isso, todo o povo deu louvores a Deus."
+              "verse": "8",
+              "text": "Zaqueu ficou de pé, e disse ao Senhor: \"Senhor, eu dou a metade dos meus bens aos pobres, e se defraudei alguém, vou devolver quatro vezes mais\"."
+            },
+            {
+              "verse": "9",
+              "text": "Jesus lhe disse: \"Hoje a salvação entrou nesta casa, porque também este homem é um filho de Abraão."
+            },
+            {
+              "verse": "10",
+              "text": "Com efeito, o Filho do Homem veio procurar e salvar o que estava perdido\"."
             }
           ]
         },
