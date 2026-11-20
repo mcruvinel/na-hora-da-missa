@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T03:16:10-03:00",
+  "generatedAt": "2026-11-20T03:15:42-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-19",
-  "celebration": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires – Memória",
-  "color": "vermelho",
+  "date": "2026-11-20",
+  "celebration": "33ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ap 5,1-10",
+      "reference": "Ap 10,8-11",
       "lines": [
         {
           "role": "rubric",
@@ -23,47 +23,20 @@
           "role": "text",
           "segments": [
             {
-              "text": "Eu, João,"
-            },
-            {
-              "verse": "1",
-              "text": "vi um livro na mão direita daquele que estava sentado no trono. Era um rolo escrito por dentro e por fora, e estava lacrado com sete selos."
-            },
-            {
-              "verse": "2",
-              "text": "Vi então um anjo forte, que proclamava em voz alta: \"Quem é digno de romper os selos e abrir o livro?\""
-            },
-            {
-              "verse": "3",
-              "text": "Ninguém no céu, nem na terra, nem debaixo da terra era digno de abrir o livro ou de ler o que nele estava escrito."
-            },
-            {
-              "verse": "4",
-              "text": "Eu chorava muito, porque ninguém foi considerado digno de abrir ou de ler o livro."
-            },
-            {
-              "verse": "5",
-              "text": "Um dos anciãos me consolou: \"Não chores! Eis que o Leão da tribo de Judá, o Rebento de Davi, saiu vencedor. Ele pode romper os selos e abrir o livro\"."
-            },
-            {
-              "verse": "6",
-              "text": "De fato, vi um Cordeiro. Estava no centro do trono e dos quatro Seres vivos, no meio dos Anciãos. Estava de pé como que imolado. O Cordeiro tinha sete chifres e sete olhos, que são os sete Espíritos de Deus, enviados por toda a terra."
-            },
-            {
-              "verse": "7",
-              "text": "Então, o Cordeiro veio receber o livro da mão direita daquele que está sentado no trono."
-            },
-            {
               "verse": "8",
-              "text": "Quando ele recebeu o livro, os quatro Seres vivos e os vinte e quatro Anciãos prostraram-se diante do Cordeiro. Todos tinham harpas e taças de ouro cheias de incenso, que são as orações dos santos."
+              "text": "Aquela mesma voz do céu, que eu, João, já tinha ouvido, tornou a falar comigo: \"Vai. Pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra\"."
             },
             {
               "verse": "9",
-              "text": "E entoaram um cântico novo: \"Tu és digno de receber o livro e abrir seus selos, porque foste imolado, e com teu sangue adquiriste para Deus homens de toda a tribo, língua, povo e nação."
+              "text": "Eu fui até ao anjo e pedi que me entregasse o livrinho. Ele me falou: \"Pega e come. Será amargo no estômago, mas na tua boca, será doce como mel\"."
             },
             {
               "verse": "10",
-              "text": "Deles fizeste para o nosso Deus um reino de sacerdotes. E eles reinarão sobre a terra.\""
+              "text": "Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas quando o engoli, meu estômago tornou-se amargo."
+            },
+            {
+              "verse": "11",
+              "text": "Então ele me disse: \"Deves profetizar ainda contra outros povos e nações, línguas e reis\"."
             }
           ]
         },
@@ -88,13 +61,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 149,1-2.3-4.5-6a e 9b (R. Ap 5,10)",
+      "reference": "Sl 118(119),14.24.72.103.111.131 (R. 103a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Fizestes de nós, para Deus, sacerdotes e povo de reis."
+              "text": "Como é doce ao paladar vossa palavra, ó Senhor!"
             }
           ]
         },
@@ -102,7 +75,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Fizestes de nós, para Deus, sacerdotes e povo de reis."
+              "text": "Como é doce ao paladar vossa palavra, ó Senhor!"
             }
           ]
         },
@@ -110,7 +83,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cantai ao Senhor Deus um canto novo, e o seu louvor na assembleia dos fiéis! Alegre-se Israel em Quem o fez, e Sião se rejubile no seu Rei!"
+              "text": "Seguindo vossa lei me rejubilo muito mais do que em todas as riquezas."
             }
           ]
         },
@@ -118,7 +91,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Com danças glorifiquem o seu nome, toquem harpa e tambor em sua honra! Porque, de fato, o Senhor ama seu povo e coroa com vitória os seus humildes."
+              "text": "Minha alegria é a vossa Aliança, meus conselheiros são os vossos mandamentos."
             }
           ]
         },
@@ -126,7 +99,31 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Exultem os fiéis por sua glória, e cantando se levantem de seus leitos, com louvores do Senhor em sua boca Eis a glória para todos os seus santos."
+              "text": "A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Como é doce ao paladar vossa palavra, muito mais doce do que o mel na minha boca!"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Vossa palavra é minha herança para sempre, porque ela é que me alegra o coração!"
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos."
             }
           ]
         }
@@ -135,7 +132,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 19,41-44",
+      "reference": "Lc 19,45-48",
       "lines": [
         {
           "role": "versicle",
@@ -149,7 +146,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Oxalá ouvísseis hoje a sua voz: Não fecheis os corações como em Meriba!"
+              "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
             }
           ]
         },
@@ -176,20 +173,20 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "41",
-              "text": "quando Jesus se aproximou de Jerusalém e viu a cidade, começou a chorar. E disse:"
+              "verse": "45",
+              "text": "Jesus entrou no Templo e começou a expulsar os vendedores."
             },
             {
-              "verse": "42",
-              "text": "\"Se tu também compreendesses hoje o que te pode trazer a paz! Agora, porém, isso está escondido aos teus olhos!"
+              "verse": "46",
+              "text": "E disse: \"Está escrito: 'Minha casa será casa de oração'. No entanto, vós fizestes dela um antro de ladrões\"."
             },
             {
-              "verse": "43",
-              "text": "Dias virão em que os inimigos farão trincheiras contra ti e te cercarão de todos os lados."
+              "verse": "47",
+              "text": "Jesus ensinava todos os dias no Templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo."
             },
             {
-              "verse": "44",
-              "text": "Eles esmagarão a ti e a teus filhos. E não deixarão em ti pedra sobre pedra. Porque tu não reconheceste o tempo em que foste visitada\"."
+              "verse": "48",
+              "text": "Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
             }
           ]
         },
