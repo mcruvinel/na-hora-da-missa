@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T03:15:42-03:00",
+  "generatedAt": "2026-11-21T03:13:55-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-20",
-  "celebration": "33ª Semana do Tempo Comum",
-  "color": "verde",
+  "date": "2026-11-21",
+  "celebration": "Apresentação da Bem-aventurada Virgem Maria – Memória",
+  "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ap 10,8-11",
+      "reference": "Zc 2,14-17",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura do Livro do Apocalipse de São João."
+              "text": "Leitura da Profecia de Zacarias."
             }
           ]
         },
@@ -23,20 +23,20 @@
           "role": "text",
           "segments": [
             {
-              "verse": "8",
-              "text": "Aquela mesma voz do céu, que eu, João, já tinha ouvido, tornou a falar comigo: \"Vai. Pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra\"."
+              "verse": "14",
+              "text": "\"Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor."
             },
             {
-              "verse": "9",
-              "text": "Eu fui até ao anjo e pedi que me entregasse o livrinho. Ele me falou: \"Pega e come. Será amargo no estômago, mas na tua boca, será doce como mel\"."
+              "verse": "15",
+              "text": "Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti."
             },
             {
-              "verse": "10",
-              "text": "Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas quando o engoli, meu estômago tornou-se amargo."
+              "verse": "16",
+              "text": "O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém."
             },
             {
-              "verse": "11",
-              "text": "Então ele me disse: \"Deves profetizar ainda contra outros povos e nações, línguas e reis\"."
+              "verse": "17",
+              "text": "Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação\"."
             }
           ]
         },
@@ -60,14 +60,14 @@
     },
     {
       "kind": "psalm",
-      "title": "Responsório",
-      "reference": "Sl 118(119),14.24.72.103.111.131 (R. 103a)",
+      "title": "Responsório Lc 1,46-47.48-49.50-51.52-53.54-55",
+      "reference": "Lc 1,46-47.48-49.50-51.52-53.54-55 (R. cf. 54b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Como é doce ao paladar vossa palavra, ó Senhor!"
+              "text": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
             }
           ]
         },
@@ -75,7 +75,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Como é doce ao paladar vossa palavra, ó Senhor!"
+              "text": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
             }
           ]
         },
@@ -83,7 +83,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Seguindo vossa lei me rejubilo muito mais do que em todas as riquezas."
+              "text": "A minh'alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu Salvador,"
             }
           ]
         },
@@ -91,7 +91,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Minha alegria é a vossa Aliança, meus conselheiros são os vossos mandamentos."
+              "text": "pois, ele viu a pequenez de sua serva, eis que agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas e Santo é o seu nome!"
             }
           ]
         },
@@ -99,7 +99,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata."
+              "text": "Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos."
             }
           ]
         },
@@ -107,7 +107,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Como é doce ao paladar vossa palavra, muito mais doce do que o mel na minha boca!"
+              "text": "Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos."
             }
           ]
         },
@@ -115,15 +115,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Vossa palavra é minha herança para sempre, porque ela é que me alegra o coração!"
-            }
-          ]
-        },
-        {
-          "role": "versicle",
-          "segments": [
-            {
-              "text": "Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos."
+              "text": "Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre."
             }
           ]
         }
@@ -132,7 +124,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 19,45-48",
+      "reference": "Mt 12,46-50",
       "lines": [
         {
           "role": "versicle",
@@ -146,7 +138,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+              "text": "Feliz quem ouve e observa a palavra de Deus!"
             }
           ]
         },
@@ -154,7 +146,7 @@
           "role": "rubric",
           "segments": [
             {
-              "text": "Proclamação do Evangelho de Jesus Cristo segundo Lucas."
+              "text": "Proclamação do Evangelho de Jesus Cristo segundo Mateus."
             }
           ]
         },
@@ -173,20 +165,24 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "45",
-              "text": "Jesus entrou no Templo e começou a expulsar os vendedores."
-            },
-            {
               "verse": "46",
-              "text": "E disse: \"Está escrito: 'Minha casa será casa de oração'. No entanto, vós fizestes dela um antro de ladrões\"."
+              "text": "enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele."
             },
             {
               "verse": "47",
-              "text": "Jesus ensinava todos os dias no Templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo."
+              "text": "Alguém disse a Jesus: \"Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo\"."
             },
             {
               "verse": "48",
-              "text": "Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
+              "text": "Jesus perguntou àquele que tinha falado: \"Quem é minha mãe, e quem são meus irmãos?\""
+            },
+            {
+              "verse": "49",
+              "text": "E, estendendo a mão para os discípulos, Jesus disse: \"Eis minha mãe e meus irmãos."
+            },
+            {
+              "verse": "50",
+              "text": "Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe\"."
             }
           ]
         },
