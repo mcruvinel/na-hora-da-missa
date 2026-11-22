@@ -1,21 +1,21 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T03:13:55-03:00",
+  "generatedAt": "2026-11-22T03:14:54-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-21",
-  "celebration": "Apresentação da Bem-aventurada Virgem Maria – Memória",
+  "date": "2026-11-22",
+  "celebration": "Nosso Senhor Jesus Cristo, Rei do Universo, Solenidade",
   "color": "branco",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Zc 2,14-17",
+      "reference": "Ez 34,11-12.15-17",
       "lines": [
         {
           "role": "rubric",
           "segments": [
             {
-              "text": "Leitura da Profecia de Zacarias."
+              "text": "Leitura da Profecia de Ezequiel."
             }
           ]
         },
@@ -23,20 +23,24 @@
           "role": "text",
           "segments": [
             {
-              "verse": "14",
-              "text": "\"Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor."
+              "verse": "11",
+              "text": "Assim diz o Senhor Deus: \"Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas."
+            },
+            {
+              "verse": "12",
+              "text": "Como o pastor toma conta do rebanho, de dia, quando se encontra no meio das ovelhas dispersas, assim vou cuidar de minhas ovelhas e vou resgatá-las de todos os lugares em que foram dispersadas num dia de nuvens e escuridão."
             },
             {
               "verse": "15",
-              "text": "Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti."
+              "text": "Eu mesmo vou apascentar as minhas ovelhas e fazê-las repousar – oráculo do Senhor Deus –."
             },
             {
               "verse": "16",
-              "text": "O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém."
+              "text": "Vou procurar a ovelha perdida, reconduzir a extraviada, enfaixar a da perna quebrada, fortalecer a doente, e vigiar a ovelha gorda e forte. Vou apascentá-las conforme o direito."
             },
             {
               "verse": "17",
-              "text": "Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação\"."
+              "text": "Quanto a vós, minhas ovelhas, – assim diz o Senhor Deus – eu farei justiça entre uma ovelha e outra, entre carneiros e bodes\"."
             }
           ]
         },
@@ -60,14 +64,14 @@
     },
     {
       "kind": "psalm",
-      "title": "Responsório Lc 1,46-47.48-49.50-51.52-53.54-55",
-      "reference": "Lc 1,46-47.48-49.50-51.52-53.54-55 (R. cf. 54b)",
+      "title": "Responsório",
+      "reference": "Sl 22(23),1-2a.2b-3.5-6 (R. 1)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
+              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma."
             }
           ]
         },
@@ -75,7 +79,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Poderoso fez por mim maravilhas, e Santo é o seu nome."
+              "text": "O Senhor é o pastor que me conduz; não me falta coisa alguma."
             }
           ]
         },
@@ -83,7 +87,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "A minh'alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu Salvador,"
+              "text": "Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças."
             }
           ]
         },
@@ -91,7 +95,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "pois, ele viu a pequenez de sua serva, eis que agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas e Santo é o seu nome!"
+              "text": "Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda."
             }
           ]
         },
@@ -99,7 +103,62 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos."
+              "text": "Felicidade e todo bem hão de seguir-me por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "second",
+      "title": "Segunda Leitura",
+      "reference": "1Cor 15,20-26.28",
+      "lines": [
+        {
+          "role": "rubric",
+          "segments": [
+            {
+              "text": "Leitura da Primeira Carta de São Paulo aos Coríntios."
+            }
+          ]
+        },
+        {
+          "role": "text",
+          "segments": [
+            {
+              "text": "Irmãos:"
+            },
+            {
+              "verse": "20",
+              "text": "Na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram."
+            },
+            {
+              "verse": "21",
+              "text": "Com efeito, por um homem veio a morte, e é também por um homem que vem a ressurreição dos mortos."
+            },
+            {
+              "verse": "22",
+              "text": "Como em Adão todos morrem, assim também em Cristo todos reviverão."
+            },
+            {
+              "verse": "23",
+              "text": "Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda."
+            },
+            {
+              "verse": "24",
+              "text": "A seguir, será o fim, quando ele entregar a realeza a Deus-Pai, depois de destruir todo principado e todo poder e força."
+            },
+            {
+              "verse": "25",
+              "text": "Pois é preciso que ele reine, até que todos os seus inimigos estejam debaixo de seus pés."
+            },
+            {
+              "verse": "26",
+              "text": "O último inimigo a ser destruído é a morte."
+            },
+            {
+              "verse": "28",
+              "text": "E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos."
             }
           ]
         },
@@ -107,15 +166,15 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos."
+              "text": "Palavra do Senhor."
             }
           ]
         },
         {
-          "role": "versicle",
+          "role": "response",
           "segments": [
             {
-              "text": "Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre."
+              "text": "Graças a Deus."
             }
           ]
         }
@@ -124,7 +183,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Mt 12,46-50",
+      "reference": "Mt 25,31-46",
       "lines": [
         {
           "role": "versicle",
@@ -138,7 +197,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Feliz quem ouve e observa a palavra de Deus!"
+              "text": "É bendito aquele que vem vindo, que vem vindo em nome do Senhor; e o Reino que vem, seja bendito; ao que vem e a seu Reino, o louvor!"
             }
           ]
         },
@@ -162,27 +221,71 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo,"
+              "text": "Naquele tempo, disse Jesus a seus discípulos:"
+            },
+            {
+              "verse": "31",
+              "text": "\"Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso."
+            },
+            {
+              "verse": "32",
+              "text": "Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos."
+            },
+            {
+              "verse": "33",
+              "text": "E colocará as ovelhas à sua direita e os cabritos à sua esquerda."
+            },
+            {
+              "verse": "34",
+              "text": "Então o Rei dirá aos que estiverem à sua direita: 'Vinde, benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo!"
+            },
+            {
+              "verse": "35",
+              "text": "Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa;"
+            },
+            {
+              "verse": "36",
+              "text": "eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar'."
+            },
+            {
+              "verse": "37",
+              "text": "Então os justos lhe perguntarão: 'Senhor, quando foi que te vimos com fome e te demos de comer? com sede e te demos de beber?"
+            },
+            {
+              "verse": "38",
+              "text": "Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos?"
+            },
+            {
+              "verse": "39",
+              "text": "Quando foi que te vimos doente ou preso, e fomos te visitar?'"
+            },
+            {
+              "verse": "40",
+              "text": "Então o Rei lhes responderá: 'Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!'"
+            },
+            {
+              "verse": "41",
+              "text": "Depois o Rei dirá aos que estiverem à sua esquerda: 'Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos."
+            },
+            {
+              "verse": "42",
+              "text": "Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber;"
+            },
+            {
+              "verse": "43",
+              "text": "eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar'."
+            },
+            {
+              "verse": "44",
+              "text": "E responderão também eles: 'Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?'"
+            },
+            {
+              "verse": "45",
+              "text": "Então o Rei lhes responderá: 'Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!'"
             },
             {
               "verse": "46",
-              "text": "enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele."
-            },
-            {
-              "verse": "47",
-              "text": "Alguém disse a Jesus: \"Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo\"."
-            },
-            {
-              "verse": "48",
-              "text": "Jesus perguntou àquele que tinha falado: \"Quem é minha mãe, e quem são meus irmãos?\""
-            },
-            {
-              "verse": "49",
-              "text": "E, estendendo a mão para os discípulos, Jesus disse: \"Eis minha mãe e meus irmãos."
-            },
-            {
-              "verse": "50",
-              "text": "Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe\"."
+              "text": "Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna\"."
             }
           ]
         },
