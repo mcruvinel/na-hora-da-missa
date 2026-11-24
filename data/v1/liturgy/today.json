@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T03:22:29-03:00",
+  "generatedAt": "2026-11-24T03:15:58-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-23",
-  "celebration": "34ª Semana do Tempo Comum",
-  "color": "verde",
+  "date": "2026-11-24",
+  "celebration": "Santo André Dung-Lac, presbítero, e companheiros mártires – Memória",
+  "color": "vermelho",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ap 14,1-3.4b-5",
+      "reference": "Ap 14,14-19",
       "lines": [
         {
           "role": "rubric",
@@ -26,24 +26,28 @@
               "text": "Eu, João,"
             },
             {
-              "verse": "1",
-              "text": "tive esta visão: o Cordeiro estava de pé sobre o monte Sião. Com ele, os cento e quarenta e quatro mil que tinham a fronte marcada com o nome dele e o nome do seu Pai."
+              "verse": "14",
+              "text": "na minha visão, vi uma nuvem branca e sentado na nuvem alguém que parecia um \"filho de homem\". Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada."
             },
             {
-              "verse": "2",
-              "text": "Ouvi uma voz que vinha do céu; parecia o barulho de águas torrenciais e o estrondo de um forte trovão. O ruído que ouvi era como o som de músicos tocando harpa."
+              "verse": "15",
+              "text": "Saiu do Templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: \"Lança tua foice, e ceifa. Chegou a hora da colheita. A seara da terra está madura!\""
             },
             {
-              "verse": "3",
-              "text": "Estavam diante do trono, diante dos quatro Seres vivos e dos Anciãos, e cantavam um cântico novo. Era um cântico que ninguém podia aprender; só os cento e quarenta e quatro mil marcados, que foram resgatados da terra."
+              "verse": "16",
+              "text": "E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada."
             },
             {
-              "verse": "4b",
-              "text": "Eles seguem o Cordeiro aonde quer que vá. Foram resgatados do meio dos homens, como primeira oferta a Deus a ao Cordeiro."
+              "verse": "17",
+              "text": "Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada."
             },
             {
-              "verse": "5",
-              "text": "Na sua boca nunca foi encontrada mentira. São íntegros!"
+              "verse": "18",
+              "text": "E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: \"Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras\"."
+            },
+            {
+              "verse": "19",
+              "text": "E o anjo lançou a foice afiada na terra, e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus."
             }
           ]
         },
@@ -68,13 +72,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 23(24),1-2.3-4ab.5-6 (R. cf. 6)",
+      "reference": "Sl 95(96),10.11-12.13 (R. 13b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel."
+              "text": "O Senhor vem julgar nossa terra."
             }
           ]
         },
@@ -82,7 +86,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel."
+              "text": "O Senhor vem julgar nossa terra."
             }
           ]
         },
@@ -90,7 +94,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável."
+              "text": "Publicai entre as nações: \"Reina o Senhor!\" Ele firmou o universo inabalável, e os povos ele julga com justiça."
             }
           ]
         },
@@ -98,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "\"Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?\" \"Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime."
+              "text": "O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem e exultem as florestas e as matas."
             }
           ]
         },
@@ -106,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador\". \"É assim a geração dos que o procuram, e do Deus de Israel buscam a face\"."
+              "text": "na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça, e os povos julgará com lealdade."
             }
           ]
         }
@@ -115,7 +119,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 21,1-4",
+      "reference": "Lc 21,5-11",
       "lines": [
         {
           "role": "versicle",
@@ -129,7 +133,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Vigiai, diz Jesus, vigiai, pois, no dia em que não esperais, o vosso Senhor há de vir."
+              "text": "Permanece fiel até a morte, e a coroa da vida eu te darei!"
             }
           ]
         },
@@ -156,20 +160,32 @@
               "text": "Naquele tempo,"
             },
             {
-              "verse": "1",
-              "text": "Jesus ergueu os olhos e viu pessoas ricas depositando ofertas no tesouro do Templo."
+              "verse": "5",
+              "text": "algumas pessoas comentavam a respeito do Templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse:"
             },
             {
-              "verse": "2",
-              "text": "Viu também uma pobre viúva que depositou duas pequenas moedas."
+              "verse": "6",
+              "text": "\"Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído\"."
             },
             {
-              "verse": "3",
-              "text": "Diante disto, ele disse: \"Em verdade vos digo que essa pobre viúva ofertou mais do que todos."
+              "verse": "7",
+              "text": "Mas eles perguntaram: \"Mestre, quando acontecerá isto? E qual vai ser o sinal de que estas coisas estão para acontecer?\""
             },
             {
-              "verse": "4",
-              "text": "Pois todos eles depositaram, como oferta feita a Deus, aquilo que lhes sobrava. Mas a viúva, na sua pobreza, ofertou tudo quanto tinha para viver\"."
+              "verse": "8",
+              "text": "Jesus respondeu: \"Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: 'Sou eu!' E ainda: 'O tempo está próximo'. Não sigais essa gente!"
+            },
+            {
+              "verse": "9",
+              "text": "Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que estas coisas aconteçam primeiro, mas não será logo o fim\"."
+            },
+            {
+              "verse": "10",
+              "text": "E Jesus continuou: \"Um povo se levantará contra outro povo, um país atacará outro país."
+            },
+            {
+              "verse": "11",
+              "text": "Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu\"."
             }
           ]
         },
