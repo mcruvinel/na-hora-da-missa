@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T03:15:58-03:00",
+  "generatedAt": "2026-11-25T03:16:22-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-24",
-  "celebration": "Santo André Dung-Lac, presbítero, e companheiros mártires – Memória",
-  "color": "vermelho",
+  "date": "2026-11-25",
+  "celebration": "34ª Semana do Tempo Comum",
+  "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ap 14,14-19",
+      "reference": "Ap 15,1-4",
       "lines": [
         {
           "role": "rubric",
@@ -26,28 +26,20 @@
               "text": "Eu, João,"
             },
             {
-              "verse": "14",
-              "text": "na minha visão, vi uma nuvem branca e sentado na nuvem alguém que parecia um \"filho de homem\". Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada."
+              "verse": "1",
+              "text": "vi no céu outro sinal, grande e admirável: sete anjos, com as sete últimas pragas. Com elas o furor de Deus ia-se consumar."
             },
             {
-              "verse": "15",
-              "text": "Saiu do Templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: \"Lança tua foice, e ceifa. Chegou a hora da colheita. A seara da terra está madura!\""
+              "verse": "2",
+              "text": "Vi também como que um mar de vidro misturado com fogo. Sobre este mar estavam, de pé, todos aqueles que saíram vitoriosos do confronto com a besta, com a imagem dela e com o número do nome da besta. Seguravam as harpas de Deus."
             },
             {
-              "verse": "16",
-              "text": "E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada."
+              "verse": "3",
+              "text": "Entoavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, dizendo: \"Grandes e admiráveis são as tuas obras, Senhor Deus, Todo-poderoso! Justos e verdadeiros são os teus caminhos, ó Rei das nações!"
             },
             {
-              "verse": "17",
-              "text": "Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada."
-            },
-            {
-              "verse": "18",
-              "text": "E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: \"Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras\"."
-            },
-            {
-              "verse": "19",
-              "text": "E o anjo lançou a foice afiada na terra, e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus."
+              "verse": "4",
+              "text": "Quem não temeria, Senhor, e não glorificaria o teu nome? Só tu és santo! Todas as nações virão prostrar-se diante de Ti, porque tuas justas decisões se tornaram manifestas\"."
             }
           ]
         },
@@ -72,13 +64,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 95(96),10.11-12.13 (R. 13b)",
+      "reference": "Sl 97(98),1.2-3ab.7-8.9 (R. Ap 15,3b)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor vem julgar nossa terra."
+              "text": "Como são grandes e admiráveis vossas obras, ó Senhor e nosso Deus onipotente!"
             }
           ]
         },
@@ -86,7 +78,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "O Senhor vem julgar nossa terra."
+              "text": "Como são grandes e admiráveis vossas obras, ó Senhor e nosso Deus onipotente!"
             }
           ]
         },
@@ -94,7 +86,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Publicai entre as nações: \"Reina o Senhor!\" Ele firmou o universo inabalável, e os povos ele julga com justiça."
+              "text": "Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória."
             }
           ]
         },
@@ -102,7 +94,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem e exultem as florestas e as matas."
+              "text": "O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel"
             }
           ]
         },
@@ -110,7 +102,15 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça, e os povos julgará com lealdade."
+              "text": "Aplauda o mar com todo ser que nele vive, o mundo inteiro e toda gente! As montanhas e os rios batam palmas e exultem de alegria."
+            }
+          ]
+        },
+        {
+          "role": "versicle",
+          "segments": [
+            {
+              "text": "na presença do Senhor, pois ele vem, vem julgar a terra inteira. Julgará o universo com justiça e as nações com equidade."
             }
           ]
         }
@@ -119,7 +119,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 21,5-11",
+      "reference": "Lc 21,12-19",
       "lines": [
         {
           "role": "versicle",
@@ -133,7 +133,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Permanece fiel até a morte, e a coroa da vida eu te darei!"
+              "text": "Permanece fiel até a morte e a coroa da vida eu te darei!"
             }
           ]
         },
@@ -157,35 +157,39 @@
           "role": "text",
           "segments": [
             {
-              "text": "Naquele tempo,"
+              "text": "Naquele tempo, disse Jesus aos seus discípulos:"
             },
             {
-              "verse": "5",
-              "text": "algumas pessoas comentavam a respeito do Templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse:"
+              "verse": "12",
+              "text": "\"Antes que estas coisas aconteçam, sereis presos e perseguidos; sereis entregues às sinagogas e postos na prisão; sereis levados diante de reis e governadores por causa do meu nome."
             },
             {
-              "verse": "6",
-              "text": "\"Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído\"."
+              "verse": "13",
+              "text": "Esta será a ocasião em que testemunhareis a vossa fé."
             },
             {
-              "verse": "7",
-              "text": "Mas eles perguntaram: \"Mestre, quando acontecerá isto? E qual vai ser o sinal de que estas coisas estão para acontecer?\""
+              "verse": "14",
+              "text": "Fazei o firme propósito de não planejar com antecedência a própria defesa;"
             },
             {
-              "verse": "8",
-              "text": "Jesus respondeu: \"Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: 'Sou eu!' E ainda: 'O tempo está próximo'. Não sigais essa gente!"
+              "verse": "15",
+              "text": "porque eu vos darei palavras tão acertadas, que nenhum dos inimigos vos poderá resistir ou rebater."
             },
             {
-              "verse": "9",
-              "text": "Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que estas coisas aconteçam primeiro, mas não será logo o fim\"."
+              "verse": "16",
+              "text": "Sereis entregues até mesmo pelos próprios pais, irmãos, parentes e amigos. E eles matarão alguns de vós."
             },
             {
-              "verse": "10",
-              "text": "E Jesus continuou: \"Um povo se levantará contra outro povo, um país atacará outro país."
+              "verse": "17",
+              "text": "Todos vos odiarão por causa do meu nome."
             },
             {
-              "verse": "11",
-              "text": "Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu\"."
+              "verse": "18",
+              "text": "Mas vós não perdereis um só fio de cabelo da vossa cabeça."
+            },
+            {
+              "verse": "19",
+              "text": "É permanecendo firmes que ireis ganhar a vida!\""
             }
           ]
         },
