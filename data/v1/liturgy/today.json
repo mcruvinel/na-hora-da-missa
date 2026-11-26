@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T03:16:22-03:00",
+  "generatedAt": "2026-11-26T03:16:15-03:00",
   "source": "https://liturgia.cancaonova.com/pb/",
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "celebration": "34ª Semana do Tempo Comum",
   "color": "verde",
   "readings": [
     {
       "kind": "first",
       "title": "Primeira Leitura",
-      "reference": "Ap 15,1-4",
+      "reference": "Ap 18,1-2.21-23.19,1-3.9a",
       "lines": [
         {
           "role": "rubric",
@@ -27,19 +27,35 @@
             },
             {
               "verse": "1",
-              "text": "vi no céu outro sinal, grande e admirável: sete anjos, com as sete últimas pragas. Com elas o furor de Deus ia-se consumar."
+              "text": "vi outro anjo descendo do céu. Tinha grande poder, e a terra ficou toda iluminada com a sua glória."
             },
             {
               "verse": "2",
-              "text": "Vi também como que um mar de vidro misturado com fogo. Sobre este mar estavam, de pé, todos aqueles que saíram vitoriosos do confronto com a besta, com a imagem dela e com o número do nome da besta. Seguravam as harpas de Deus."
+              "text": "Ele gritou com voz poderosa: \"Caiu! Caiu Babilônia, a grande! Tornou-se morada de demônios, abrigo de todos os espíritos maus, abrigo de aves impuras e nojentas."
+            },
+            {
+              "verse": "21",
+              "text": "Nessa hora, um anjo poderoso levantou uma pedra do tamanho de uma grande pedra de moinho e atirou-a ao mar, dizendo: \"Com esta força será lançada Babilônia, a Grande Cidade, e nunca mais será encontrada."
+            },
+            {
+              "verse": "22",
+              "text": "E o canto de harpistas e músicos, de flautistas e tocadores de trombeta, em ti nunca mais se ouvirá; e nenhum artista de arte alguma em ti jamais se encontrará; e o canto do moinho em ti nunca mais se ouvirá;"
+            },
+            {
+              "verse": "23",
+              "text": "e a luz da lâmpada em ti nunca mais brilhará; e a voz do esposo e da esposa em ti nunca mais se ouvirá, porque os teus comerciantes eram os grandes da terra, e com magia tu enfeitiçaste todas as nações\". 19,1 Depois disso, ouvi um forte rumor, de uma grande multidão no céu, que clamava: \"Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus,"
+            },
+            {
+              "verse": "2",
+              "text": "porque seus julgamentos são verdadeiros e justos. Sim, Deus julgou a grande prostituta que corrompeu a terra com sua prostituição, e vingou nela o sangue dos seus servos\"."
             },
             {
               "verse": "3",
-              "text": "Entoavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, dizendo: \"Grandes e admiráveis são as tuas obras, Senhor Deus, Todo-poderoso! Justos e verdadeiros são os teus caminhos, ó Rei das nações!"
+              "text": "E repetiram: \"Aleluia! A fumaça dela fica subindo para toda a eternidade!\""
             },
             {
-              "verse": "4",
-              "text": "Quem não temeria, Senhor, e não glorificaria o teu nome? Só tu és santo! Todas as nações virão prostrar-se diante de Ti, porque tuas justas decisões se tornaram manifestas\"."
+              "verse": "9a",
+              "text": "E um anjo me disse: \"Escreve: Felizes são os convidados para o banquete das núpcias do Cordeiro\"."
             }
           ]
         },
@@ -64,13 +80,13 @@
     {
       "kind": "psalm",
       "title": "Responsório",
-      "reference": "Sl 97(98),1.2-3ab.7-8.9 (R. Ap 15,3b)",
+      "reference": "Sl 99(100),2.3.4.5 (R. Ap 19,9a)",
       "lines": [
         {
           "role": "versicle",
           "segments": [
             {
-              "text": "Como são grandes e admiráveis vossas obras, ó Senhor e nosso Deus onipotente!"
+              "text": "São bem-aventurados os que foram convidados para a Ceia Nupcial das bodas do Cordeiro!"
             }
           ]
         },
@@ -78,7 +94,7 @@
           "role": "response",
           "segments": [
             {
-              "text": "Como são grandes e admiráveis vossas obras, ó Senhor e nosso Deus onipotente!"
+              "text": "São bem-aventurados os que foram convidados para a Ceia Nupcial das bodas do Cordeiro!"
             }
           ]
         },
@@ -86,7 +102,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória."
+              "text": "Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria, ide a ele cantando jubilosos!"
             }
           ]
         },
@@ -94,7 +110,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel"
+              "text": "Sabei que o Senhor, só ele, é Deus, Ele mesmo nos fez, e somos seus, nós somos seu povo e seu rebanho."
             }
           ]
         },
@@ -102,7 +118,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Aplauda o mar com todo ser que nele vive, o mundo inteiro e toda gente! As montanhas e os rios batam palmas e exultem de alegria."
+              "text": "Entrai por suas portas dando graças, e em seus átrios com hinos de louvor; dai-lhe graças, seu nome bendizei!"
             }
           ]
         },
@@ -110,7 +126,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "na presença do Senhor, pois ele vem, vem julgar a terra inteira. Julgará o universo com justiça e as nações com equidade."
+              "text": "Sim, é bom o Senhor e nosso Deus, sua bondade perdura para sempre, seu amor é fiel eternamente!"
             }
           ]
         }
@@ -119,7 +135,7 @@
     {
       "kind": "gospel",
       "title": "Evangelho",
-      "reference": "Lc 21,12-19",
+      "reference": "Lc 21,20-28",
       "lines": [
         {
           "role": "versicle",
@@ -133,7 +149,7 @@
           "role": "versicle",
           "segments": [
             {
-              "text": "Permanece fiel até a morte e a coroa da vida eu te darei!"
+              "text": "Levantai vossa cabeça e olhai, pois a vossa redenção se aproxima!"
             }
           ]
         },
@@ -160,36 +176,40 @@
               "text": "Naquele tempo, disse Jesus aos seus discípulos:"
             },
             {
-              "verse": "12",
-              "text": "\"Antes que estas coisas aconteçam, sereis presos e perseguidos; sereis entregues às sinagogas e postos na prisão; sereis levados diante de reis e governadores por causa do meu nome."
+              "verse": "20",
+              "text": "\"Quando virdes Jerusalém cercada de exércitos, ficai sabendo que a sua destruição está próxima."
             },
             {
-              "verse": "13",
-              "text": "Esta será a ocasião em que testemunhareis a vossa fé."
+              "verse": "21",
+              "text": "Então, os que estiverem na Judeia, devem fugir para as montanhas; os que estiverem no meio da cidade, devem afastar-se; os que estiverem no campo, não entrem na cidade."
             },
             {
-              "verse": "14",
-              "text": "Fazei o firme propósito de não planejar com antecedência a própria defesa;"
+              "verse": "22",
+              "text": "Pois esses dias são de vingança, para que se cumpra tudo o que dizem as Escrituras."
             },
             {
-              "verse": "15",
-              "text": "porque eu vos darei palavras tão acertadas, que nenhum dos inimigos vos poderá resistir ou rebater."
+              "verse": "23",
+              "text": "Infelizes das mulheres grávidas e daquelas que estiverem amamentando naqueles dias, pois haverá uma grande calamidade na terra e ira contra este povo."
             },
             {
-              "verse": "16",
-              "text": "Sereis entregues até mesmo pelos próprios pais, irmãos, parentes e amigos. E eles matarão alguns de vós."
+              "verse": "24",
+              "text": "Serão mortos pela espada e levados presos para todas as nações. e Jerusalém será pisada pelos infiéis, até que o tempo dos pagãos se complete."
             },
             {
-              "verse": "17",
-              "text": "Todos vos odiarão por causa do meu nome."
+              "verse": "25",
+              "text": "Haverá sinais no sol, na lua e nas estrelas. Na terra, as nações ficarão angustiadas, com pavor do barulho do mar e das ondas."
             },
             {
-              "verse": "18",
-              "text": "Mas vós não perdereis um só fio de cabelo da vossa cabeça."
+              "verse": "26",
+              "text": "Os homens vão desmaiar de medo, só em pensar no que vai acontecer ao mundo, porque as forças do céu serão abaladas."
             },
             {
-              "verse": "19",
-              "text": "É permanecendo firmes que ireis ganhar a vida!\""
+              "verse": "27",
+              "text": "Então eles verão o Filho do Homem, vindo numa nuvem com grande poder e glória."
+            },
+            {
+              "verse": "28",
+              "text": "Quando estas coisas começarem a acontecer, levantai-vos e erguei a cabeça, porque a vossa libertação está próxima\"."
             }
           ]
         },
